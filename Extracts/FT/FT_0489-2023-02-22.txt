@@ -1,0 +1,120 @@
+FT PROFESSIONAL
+
+Opinion Unhedged
+
+The other source of US strength
+And the Fed’s inflation target
+
+ETHAN WU
+
+© Financial Times
+
+Ethan Wu
+Published FEB 22 2023
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+This article is an on-site version of our Unhedged newsletter. Sign up here to get the newsletter
+sent straight to your inbox every weekday
+
+Good morning. Ethan here; Rob’s away this week.
+
+By 2022 standards, yesterday would’ve been just another day of bear-market selling. But after a
+euphoric January, a 2 per cent down day for the S&P 500 feels sombre. The clearest cause is the
+return of interest rate volatility, as markets start to believe the Federal Reserve really will raise
+rates to high heaven. The S&P peaked on February 2, a day after the Move index, a measure of rate
+volatility, bottomed. The Fed is still the biggest story in markets, and it isn’t close. Email me:
+ethan.wu@ft.com.
+
+Corporate America is still investing
+Answer this with one word: why has the US economy stayed strong? Our pick would be
+“consumers”. Buoyed by a structurally tight labour market and a still-intact pandemic savings
+cushion, consumers, who make up some 70 per cent of nominal gross domestic product, are
+powering through rate rises.
+But a good runner-up might be “corporations”. Business investment (something like a fifth of GDP)
+has likewise withstood higher interest rates. In the fourth quarter, S&P 500 companies grew capital
+expenditure 10 per cent year-on-year after adjusting for inflation, estimates Spencer Hill at
+Goldman Sachs. The nominal figure is a rollicking 17 per cent. There is talk of a “capex supercycle”.
+The backstory is that companies used the Covid stimulus to tidy up their finances, leaving behind a
+nice cash pile. Pantheon Macroeconomics puts the leftover cash buffer at about $400bn, compared
+to the pre-Covid trend. Meanwhile, balance sheets have gotten cleaned up and debt maturities
+pushed out well into the future. Many think this is blunting the immediate impact of rate increases
+on businesses.
+Higher rates still do bite, however. As we’ve written before, revenue growth is slowing and margins
+are compressing. But looking across the universe of US companies, Goldman’s Hill sees most cost
+cuts coming from a less-discussed source:
+
+So far, companies appear to be responding to lower margins and higher
+financing costs by cutting share buybacks — which fell 12 per cent in the
+[fourth] quarter — as opposed to reducing investment or employment.
+After months of news about job cuts and cost reductions, this explanation feels unintuitive, but it
+may better match the macro picture of steady capex growth and rock-bottom unemployment.
+Yet unless margin pressure abates, it’s hard to see investment being insulated for ever. If it gets cut,
+is the economy in trouble?
+The 2015-17 default cycle offers a useful comparison. Driven by a commodity downturn, it’s not a
+precise analogy (it rarely is). But it is a good example of a non-recessionary contraction in capex.
+Here’s what business fixed investment did during that period:
+
+A sector-specific bust created four quarters of contracting investment. But since (real)
+consumption spending kept chugging along at a 2.8 per cent rate, a recession was avoided.
+
+Maybe the fact that investment can shrink without causing a recession makes you more willing to
+believe in a soft landing. Or maybe it makes you think inflation is pretty darn entrenched (we’re
+sympathetic). The point is that despite real signs of slowdown building on the margins, the Fed
+faces an economy that isn’t just being pulled along by consumers. At its core, strength abounds.
+
+Will the Fed stick to 2 per cent?
+A few readers have recently written in to voice their suspicion about the Fed’s commitment to a 2
+per cent inflation target — which Unhedged has often taken as a given. They think the US central
+bank is going to abandon the target the moment it is expedient to do so.
+Markets don’t discount the possibility. The five-year break-even, a proxy for market inflation
+expectations, sits at 2.6 per cent, compared with a 2003-19 average of 1.8 per cent. Survey
+measures aren’t much different; the New York Fed’s five-year expected inflation rate is 2.5 per
+cent.
+This looks consistent with the Fed reaching 3ish per cent inflation and deciding, well, close enough.
+It’s not hard to see why. As we’ve written before, the first leg of disinflation is probably going to be
+easier than what comes after. Consider that core inflation has taken a big step down — from a 0.6
+per cent monthly pace in mid-2022 to 0.4 per cent in January — with no increase in
+unemployment. But it may get uglier. In a recent note, Don Rissmiller and Brandon Fontaine at
+Strategas write:
+
+Elevated job openings & consumer cash holdings are providing cushions
+now. But the last -1 per cent reduction in inflation (from 3 per cent [headline
+consumer price index] to 2 per cent) could be very expensive in terms of job
+loss. Perhaps a 6-7 per cent unemployment rate is needed (more consistent
+with historical US recessions).
+As job losses, and political pressure, mount for the Fed, Rissmiller and Fontaine think it will
+consider lowering the bar:
+
+Pushing all the way down to a 2 per cent number, which is chosen arbitrarily
+anyway, may not be credible. Declaring mission accomplished in the
+neighbourhood of 2 per cent provides the best hope of a “soft-ish” landing
+for the economy that we see going forward. The Fed declaring victory at 3 per
+cent, as long as 3 per cent looks anchored, would mean short rates could
+have a 3-handle in 2024 (as policy moves back towards neutral).
+This account seems plausible enough, especially since prominent voices are already calling for the
+2 per cent target to go.
+But it also assumes the Fed knows at what level interest rates become restrictive, and thus has
+precise control over inflation and unemployment. It seems more likely to us that the Fed is feeling
+around in the dark. Yes, the central bank can always cut if it goes too far, but easy monetary policy
+exhibits long and variable lags, too. We would humbly offer up another scenario: by the time the
+central bank realises it has overtightened, it’s already too late.
+
+One good read
+Scott Alexander revisits his predictions about 2023, made in 2018.
+
+Recommended newsletters for you
+Cryptofinance — Scott Chipolina filters out the noise of the global cryptocurrency industry.
+Sign up here
+Swamp Notes — Expert insight on the intersection of money and power in US politics. Sign up
+here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Ethan Wu
+Unhedged
+Global Economy
+US economy
+US interest rates
+
+

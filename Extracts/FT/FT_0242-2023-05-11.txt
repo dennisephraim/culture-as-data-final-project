@@ -1,0 +1,132 @@
+FT PROFESSIONAL
+
+Opinion Unhedged
+
+Inflation inflection
+A noisy report with an encouraging signal
+
+ROBERT ARMSTRONG
+
+© FT montage/Dreamstime
+
+Robert Armstrong and Ethan Wu
+Published MAY 11 2023
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+This article is an on-site version of our Unhedged newsletter. Sign up here to get the newsletter
+sent straight to your inbox every weekday
+
+Good morning. The founder of DeepMind says that AI will put a lot of people out of work in the
+next decade. We assume he means people like us (though our efforts to get ChatGPT to write this
+newsletter have not produced good results thus far). What can we say, except to note, in the words
+of Judge Smails, that “the world needs ditch diggers, too.” Send us your thoughts, or those of your
+digital assistant: robert.armstrong@ft.com and ethan.wu@ft.com.
+
+Five questions about the inflation report
+Yesterday’s April consumer price index data was really quite confusing. Below, five clarifying
+questions, and our best stab at the answers.
+Why has the reaction from pundits and the market been so mixed? Probably the noisy
+data. Andrew Hunter, Capital Economics, found it uncomfortably hot:
+
+The 0.4 per cent m/m gains in headline and core consumer prices in April
+leaves core inflation at 5.5 per cent, broadly unchanged from its level at the
+start of this year, further illustrating that the previous downward trend has
+stalled. We don’t think that will in itself be enough to convince the Fed to
+hike again at the June FOMC meeting but it does suggest a risk that rates will
+need to remain high for a little longer than we have assumed.
+Ian Shepherdson of Pantheon Macroeconomics, on the other hand, thinks the temperature is
+falling nicely:
+
+The increase in the core-core CPI [core inflation excluding the noisiest
+components] was the smallest since July last year, and it marked the second
+straight improvement after the grim January and February numbers . . . the
+case for expecting future data to look more like April’s than the earlier spikes
+is quite strong, and is centred on the labour market . . . The core inflation
+outlook, in short, is improving.
+The market was similarly equivocal. The rate-sensitive two-year Treasury yield fell 11 basis points,
+suggesting a dovish report; the futures-implied expectation for the year-end fed funds rate slid, too.
+But stocks didn’t get the message, and hardly budged.
+The reason for the confusion, as far as we can tell, is that the report was stuffed with weird little
+outliers. But the totality of the data looked encouraging.
+All of April core goods inflation was driven by a huge 4.4 per cent monthly jump in used car prices
+(more on this later). Shelter services, inflation’s beating heart, looked calm for the second month
+running (more on this later, too). Non-housing core services, the Fed’s main focus, collapsed to 0.1
+per cent (under 2 per cent annualised). This is improbably low, and reflects volatility in hotel prices
+and airfares. But it suggests, at the very least, that services prices aren’t spiralling out of control.
+Why isn’t core inflation falling faster? Shelter, mostly. The Bureau of Labor Statistics’ own
+chart, it must be said, does not paint an encouraging picture of core inflation:
+
+Year-over-year core inflation has been parked at 5 and a half per cent since January. What gives?
+The answer is familiar, but worth repeating and updating: The issue is that CPI shelter inflation is a
+lagging indicator. Because it covers existing as well as new leases, its constituent prices only update
+every year, or even less often. There are various more timely private sector measures, though,
+which include only new leases. The Zillow Observed Rent Index, for example, looks at listed prices
+for vacant rental units. This makes it much more volatile, as well as more timely. Below is CPI
+shelter inflation lagged by 12 months, against the Zillow measure.
+
+The turn that we saw in new rental listings a year or so ago appears at last to be taking hold in CPI
+shelter, suggesting that measure will fall steadily in the months to come. The pig is working its way
+through the python. The welcome change in the trajectory of CPI shelter is even more visible if you
+look at it on a month-over-month basis. We’ve now had two months of solid progress:
+
+The rent subcomponent of shelter inflation did tick up on a month-over-month basis, from 0.5 per
+cent to 0.6 per cent. But this probably obscures the underlying trend. The rent component is split
+into small and large cities, and the small cities series is very volatile. The steadier large city series
+has been trending down steadily, especially in the past two months:
+
+Aichi Amemiya, Nomura’s inflation specialist, offered us this read: “The long-awaited rent
+moderation trend started in March. We saw some reversal in April in month-over-month inflation
+[but] the partial reversal came from small cities. Rent inflation in major cities remained pretty low,
+after declining in March. I mainly monitor rent inflation in major cities, because they’re less
+volatile and represent the underlying trend in rent inflation.”
+In short, a stable trend in core inflation now plus the lagged effect of shelter certain to kick in later
+equals good news. But there was another thing that contributed to the flat core inflation trend in
+April: used cars.
+What the heck, used cars? Don’t take them too seriously. CPI idiosyncrasies often come as
+surprises, but not this one. Many Wall Street economists had higher used car prices pencilled into
+their forecasts, for the simple reason that the wholesale used auto indices, which lead CPI, saw a
+price pop in January and February. The Manheim used car index shot up 9 per cent between
+December and March, but it hasn’t lasted. Chart from Pantheon Macroeconomics:
+
+Omair Sharif of Inflation Insights adds: “We’re going to see some more used car price increases in
+next month’s report. But after that, I think we’re very likely to see this come off the boil [by June
+and July’s CPI]. Mostly, what we saw was a quick burst of demand, mostly in January, that is
+starting to fade out. [It was so fast that] we went from oversupplied in December to undersupplied
+in January. It was a very quick turn in the market, which started a frenzy of getting stuff to
+auction.”
+With wholesale prices already starting to fall and the post-Silicon Valley Bank credit crunch further
+throttling auto loan financing, used car inflation doesn’t look too scary.
+How does this fit in with the larger macro picture? Neatly. Most data is telling the same
+believable tale: an overheated economy is cooling from a high level. The still-tight labour market is
+decelerating gradually; growth is getting dragged along by consumers; and the industrial economy
+is in something like a recession. In that context, it makes sense inflation would inch lower, and so it
+is. If the trends in shelter and goods inflation keep up, core inflation should grind lower.
+How’s the Fed going to take this? With cautious optimism. The April data helps along the
+Fed’s three-pronged goal: subdued goods inflation, falling shelter inflation and decisively lower
+non-housing core services inflation. One recent mystery has been why goods inflation hasn’t always
+fallen in sympathy with flat goods spending and contracting manufacturing. April’s CPI eased the
+tension: core goods inflation other than used cars was about nil. Shelter is coming down, too. Nonhousing core services showed tantalising progress, though it’s too early to tell if it can last.
+
+All told, we reckon a Fed pause in June is likelier now than yesterday morning. But rate cuts by
+year-end seem no closer, no matter what the futures market is telling you. (Wu & Armstrong)
+
+One good read
+The return of the dart-throwing monkey (and by monkey, we mean our former colleague Spencer
+Jakab).
+
+Recommended newsletters for you
+Due Diligence — Top stories from the world of corporate finance. Sign up here
+The Lex Newsletter — Lex is the FT’s incisive daily column on investment. Sign up for our
+newsletter on local and global trends from expert writers in four great financial centres. Sign up
+here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Robert Armstrong
+Unhedged
+US economy
+US inflation
+Markets
+
+

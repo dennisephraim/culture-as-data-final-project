@@ -1,0 +1,105 @@
+FT PROFESSIONAL
+
+Alphaville US interest rates
+
+US rates still looking recession-ish
+Luckily they’re pricing a couple of other possibilities too
+
+Bonds vs equities
+
+Alexandra Scaggs
+Published JAN 17 2024
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+Sorry to all the stonkheads: Bonds are still boss. From Morgan Stanley’s equity team on Tuesday:
+
+Bond Market Still in Charge . . . Over the past 6 months, interest rates
+have been the most important determinant of equity index performance, in
+our view. We see this continuing in the near term, and believe interest rate
+volatility is an important consideration for equity investors, particularly as
+economic forecasts have centered around a narrow range of outcomes. We
+also think it’s worth exploring the differences between how the bond market
+and the equity market price the future path of the fed funds rate.
+This is, uh, not surprising, given all the inflation and the fast rate hikes and now the impending
+cuts and whatnot.
+But this makes it important to dig into what exactly it means that fed funds futures are pricing in
+150 basis points of cuts this year, and why fund managers surveyed by BofA are more convinced
+about imminent easing than they were in, uh, March 2020 and November 2008 . . .
+
+For example, when Goldman Sachs said late last year that the amount of rate cuts priced into the
+fed funds futures market were unlikely to show up outside of a recession, does that mean the
+average bond fund manager or rates trader believes that a recession is coming in 2024?
+
+No, the consensus really does seem to be that the US economy will have a “soft landing” with
+slowing growth and no economic downturn. Here’s a slide from a poll Goldman did of clients in
+London earlier this month, versus what they said last year.
+
+But remember, if you’re managing exposure to global interest rates — whether as a giant
+corporation or a fund/wealth manager — you probably aren’t just picking your favoured scenario
+and putting a bunch of directional bets on it. (And hey, even if you’re a macro-hedge-fund punter,
+maybe you don’t feel alive unless you’re betting against the consensus.)
+Morgan Stanley explains:
+
+With the tight relationship between yields and valuations having been
+established over the past few years and having strengthened more recently,
+we think it’s worth considering the breadth of assumptions the bond market
+is making in terms of its forward pricing of rate cuts. While this aggregate
+pricing is easily observable, it tells us little about the probabilistic
+assumptions that underpin it.
+In talking with bond investors about what’s priced, there appears
+to be a wide range of potential outcomes for this year rather than
+a narrow consensus view (as one might assume by looking at the
+Fed Funds futures curve). In other words, the forward curve
+reflects a more nuanced view of the future rather than a singular
+defined outcome.
+It’s more a function of a probabilistic distribution of outcomes that have
+different implications for stocks. In contrast to bond market pricing, many
+forecasters appear to have centered around a more narrow outlook on GDP
+growth, inflation and unemployment for this year (see last week’s note for
+more). That forecast is also largely in line with what the Fed is expecting
+according to its economic projections.
+Consensus has generally settled on the “soft landing” scenario: The labour market will cool down
+enough to slow inflation, but not enough to tip the US economy into recession, and as a result the
+Fed will only cautiously trim rates.
+After all, the central bank focuses on real, inflation-adjusted rates and how restrictive they are.
+With inflation having cooled significantly over the past year, monetary policy has in practice
+tightened even with the Fed sitting on its hands. So they could cut rates just to “rightsize” the
+degree of tightness.
+
+But there are also two other scenarios. If there’s a proper scary recession, the Fed will probably cut
+rates quickly, and by more than 150bp. And if inflation picks up significantly, investors might start
+to worry the Fed will keep tightening policy, or just keep it too tight for too long.
+Markets aren’t pricing in any chance of higher rates, of course. This is because:
+1) it seems unlikely that inflation will heat up enough to spur more hikes. Interest rates are now
+restrictive in real terms, and even a renewed uptick won’t change that.
+2) if more hikes do start to look possible, investors are probably going to freak out and tighten
+financial conditions on the Fed’s behalf, the way they did during the sell-off in long-dated
+Treasuries last year, and
+3) if companies and investors don’t tighten financial conditions for the Fed, the Fed has made it
+pretty clear it’ll raise rates until inflation is completely under control.
+The latter two options, of course, lead to recession. And then steep rate cuts.
+There’s no clear problem with the bond market pricing reflecting all of these potential outcomes.
+In fact, options pricing indicates that bond investors are still prepared for volatility. While the goto index measuring US interest-rate volatility (the MOVE Index) isn’t all that high compared to
+2022 and 2023, it has settled at a higher baseline than we saw for most of the ZIRP era. So rates
+traders seem decently prepared for a bumpy ride:
+
+For stocks, however, there could be a problem if investors are betting on a soft landing and 150bp
+of rate cuts this year. From Morgan Stanley again:
+
+We wonder whether equities may be attributing too much weight to the
+aggregate pricing that the Fed Funds futures curve presents as opposed to
+thinking about the underlying set of probabilistic outcomes.
+In other words, if there’s a full 150bp of cuts, there are probably going to be more than 150bp of
+cuts. And that’ll in be a recession, when investors in equities will have bigger problems than their
+faulty assumptions about rates.
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+US Treasury bonds
+US inflation
+US interest rates
+US equities
+Federal Reserve
+
+

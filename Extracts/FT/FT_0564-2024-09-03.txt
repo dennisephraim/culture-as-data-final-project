@@ -1,0 +1,144 @@
+FT PROFESSIONAL
+
+Opinion Unhedged
+
+Is Jay Powell lucky or good?
+Policy, happenstance and the soft landing
+
+ROBERT ARMSTRONG
+
+© Reuters
+
+Robert Armstrong and Aiden Reiter
+Published SEP 3 2024
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+This article is an on-site version of our Unhedged newsletter. Premium subscribers can sign up
+here to get the newsletter delivered every weekday. Standard subscribers can upgrade to
+Premium here, or explore all FT newsletters
+
+US inflation is close to target, the unemployment rate is 4.3 per cent, and the economy is growing
+above its trend rate. Bad news can always appear — the August employment report is on Friday —
+but it looks like Jay Powell’s Federal Reserve has managed the economy about as well as one can
+imagine.
+After 20 years of thinking about markets, however, I see the influence of luck everywhere. It is fair
+to wonder if Powell, rather than being a historically brilliant Fed chair, has just had the good
+fortune to be in charge when good things happened. Last week, my colleague Martin Sandbu
+articulated this possibility very neatly.
+In his Jackson Hole speech, Powell attributed the post-pandemic inflation to distortions of both
+supply and demand, and put the subsequent disinflation down to the dissipation of those shocks,
+monetary policy moderating demand, and well-anchored inflation expectations. Anchored
+expectations were particularly important, he said, and the Fed’s vigilance in both current and past
+cycles has contributed to that.
+Sandbu’s point is that if Powell dropped monetary policy from his disinflation explanation, the
+explanation would still work. Did monetary policy cool the labour market by reducing aggregate
+demand? Well, demand hasn’t weakened much, and the cooler labour market could be explained
+by the end of pandemic disruptions alone. Did the sharp increase in interest rates keep inflation
+expectations anchored, by moderating the behaviour of people who negotiate for wages and set
+prices? Well, market measures of expectations stabilised in the spring of 2021, before rate policy
+tightened.
+I put this basic challenge — was Powell lucky, or good? — to four economists, and received an
+interesting range of responses. Paul Ashworth of Capital Economics thinks policy did cool demand
+but circumstances, particularly immigration, were more important:
+
+I think the dropback in inflation was more due to easing supply shortages,
+particularly the immigration-led rebound in labour supply, rather than a
+weakening in demand that would be attributable to tighter monetary policy.
+But that doesn’t necessarily make Powell ‘lucky’ . . . weaker demand did play
+some role that the Fed can take the credit for.
+Powell also pushes the line in his Jackson Hole speech that ‘prompt’ Fed
+hikes were, additionally, important because they kept inflation expectations
+well anchored. I’m less convinced by that supposed channel.
+Jason Furman of Harvard is less sceptical about the anchoring effect, and notes that demand did
+cool in key sectors:
+
+The soft landing would never have happened without the extraordinary
+tightening of monetary policy. Most importantly the Fed kept inflation
+expectations anchored by showing it was willing to act as aggressively as
+needed. In addition, the Fed reduced demand in certain sectors, especially
+construction, which ensured that as the fiscal stimulus and supply shocks
+faded there would not be another round of inflationary pressures.
+Don Rissmiller of Strategas also emphasises the possibility of resurgent inflation:
+
+We’re not quite at 2 per cent inflation. Maybe we’re close enough (I would
+argue we are) but there has been a lot of research on how the first part of the
+adjustment is easy and the ‘last mile’ is hard. So one reason [the economy]
+looks good is we haven’t actually finished the race . . .
+
+In the 1970s [inflation ebbed as shocks subsided] as well. Inflation came
+down three times . . . the problem is it just went right back up three times
+(and accelerated).
+Rissmiller thinks some credit for the lack of a resurgence goes to the Fed, for keeping expectations
+anchored with aggressive rate increases. But he thinks that there was also some luck involved in
+the soft landing. Immigration helped cool the labour market, for one thing. For another, the Fed
+was able to slow and then pause raising rates in part because there was a mini-financial crisis that
+was bad enough to scare everybody, but not bad enough to trigger a recession: the Silicon Valley
+Bank failure. “That looks more like luck than a plan,” Rissmiller says.
+Adam Posen, president of the Peterson Institute, thinks that if the Fed had not increased rates,
+expectations would likely have become unanchored and inflation would have taken longer to come
+down. The long period of low inflation preceding the pandemic helped anchor expectations, too, as
+did parallel action by central banks globally. The surprising piece of good fortune was how little
+damage those rate increases did to the economy:
+
+This occurred partly because the financial system and household and
+business balance sheets were so solid in 2019, and for the most part
+improved during Covid, which nobody foresaw.
+This occurred partly because the neutral real interest rate went up for a
+variety of reasons during Covid, which I expect to persist. Therefore, the
+given policy was not as tight as the Fed and others thought it was, as seen in
+the loose credit conditions.
+So, the Fed definitely did not cause the soft landing. Remember, chair
+Powell’s 2022 Jackson Hole speech was about readiness to inflict pain, and
+everyone pretty much expected that pain to come (myself included).
+
+Posen, like the others, thinks the added labour supply from immigration helped, but he adds
+another positive shock to supply, from higher productivity:
+
+What caused the soft landing was two unforeseen positive supply shocks
+since the start of 2022: a large surge in immigration, expanding the labour
+force and reducing labour costs; a rise in productivity growth above the preCovid trend.
+No one saw either of these coming, and the Fed had absolutely zero influence
+on either of them. I would argue that the productivity growth increase was
+due to the reallocation of US workers to better/larger/more productive
+employers following the mass unemployment due to the Covid epidemic in
+the first half of 2020.
+On balance, the soft landing would not have been possible without a lot of luck. Pandemic
+disruptions faded. A surge in immigration helped loosen the labour market. An unexpected
+productivity increase helped too. The SVB mini-crisis prompted a slowing of rate increases at what
+turned out the be just the right time. And a higher neutral interest rate meant that rates were never
+as tight as they appeared — meaning less economic damage for the same signalling of serious
+intent from the Fed. And in the background, a long period of disinflation and central bank vigilance
+before Covid made it more likely that inflation expectations would not run wild.
+That said, Sandbu’s point that expectations were stable even before policy began to tighten is well
+taken, but not dispositive. By the time the Fed started to increase rates, many observers were
+howling that the central bank was “behind the curve”. Aggressive action thereafter calmed fears; so
+credit goes to the Fed there. Sandbu is right that we can’t be sure about this, but the basic picture
+makes sense.
+
+One good read
+More aid, please.
+
+Email us: robert.armstrong@ft.com and aiden.reiter@ft.com.
+
+FT Unhedged podcast
+Can’t get enough of Unhedged? Listen to our
+new podcast, for a 15-minute dive into the
+latest markets news and financial headlines,
+twice a week. Catch up on past editions of
+the newsletter here.
+
+Recommended newsletters for you
+Due Diligence — Top stories from the world of corporate finance. Sign up here
+Chris Giles on Central Banks — Vital news and views on what central banks are thinking,
+inflation, interest rates and money. Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Robert Armstrong
+Unhedged
+US economy
+US inflation
+US interest rates
+
+

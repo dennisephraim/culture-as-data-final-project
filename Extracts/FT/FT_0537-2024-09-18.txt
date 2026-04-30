@@ -1,0 +1,135 @@
+FT PROFESSIONAL
+
+Opinion Unhedged
+
+The market looks ahead to the Fed’s rate cut
+Investors are betting on 50 basis points and expect a soft landing for the economy
+
+ROBERT ARMSTRONG
+
+As of yesterday, 66% of investors surveyed by Bloomberg expected 50 basis points cut by the Federal Reserve © AP
+
+Robert Armstrong and Aiden Reiter
+Published SEP 18 2024 | Updated SEP 18 2024, 09:40
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+This article is an on-site version of our Unhedged newsletter. Premium subscribers can sign up
+here to get the newsletter delivered every weekday. Standard subscribers can upgrade to
+Premium here, or explore all FT newsletters
+
+Two and a half years after it started raising rates, the Federal Reserve is set to cut them on
+Wednesday. Here’s a quick summary of how we see the market going into this announcement:
+Investors are betting on 50 basis points. Markets have expected a quarter point cut for a
+while, but reports late last week that the Fed is mulling a half point changed the outlook. As of
+yesterday, 66 per cent of investors surveyed by Bloomberg expected 50 basis points. The futures
+market implies roughly the same odds.
+The market seems to be responding not to economic news (there hasn’t been much in the past few
+days, other than a strongish retail sales report), but rather what they perceive to be messaging from
+the Fed. We will find out today whether investors have been over-reading the tea leaves.
+Investors expect a soft landing. According to Bank of America’s Global Fund Manager Survey
+which came out yesterday, 79 per cent of fund managers are expecting a soft landing — the highest
+reading since May of 2023:
+
+It makes sense that bets on “no landing”, or inflation staying higher while the economy steams
+ahead, have decreased, as inflation has come down towards target. It is interesting, though, that
+the proportion of investors who see a “hard landing” recession has not moved much — it is the
+same today as it was in March, May, and July.
+
+The market has been strong recently — and tech has not been in the driver’s seat. The
+S&P 500 has had a decent run since the market rout in late July, despite a flinch at the beginning of
+this month. Yesterday it briefly hit a record intraday high. For much of August, that run was being
+driven by defences such as consumer staples and healthcare, and rate plays like real estate and
+financials. Tech stocks, which had powered the S&P for much of the past two years, seemed to be
+falling off. At the time, we said it might be a sign of regime change.
+That’s still a possibility. While in the past week the market has been powered by tech stocks again,
+the general direction of travel since July has been away from tech/growth and towards
+defensives/rate plays/value. Here is the ratio of consumer staples returns to tech returns, and the
+ratio of the Russell value index to the Russell growth index:
+
+Tech resurgence?
+Ratio of value to growth (left axis)
+
+Market
+rout
+
+Ratio of staples to tech (right axis)
+
+0.24
+
+0.5
+0.22
+
+0.45
+
+0.2
+
+0.18
+0.4
+01/03/2024 01/04/2024 01/05/2024 01/06/2024 01/07/2024 01/08/2024 01/09/2024 01/10/2024
+Source: Bloomber
+
+The market can be seen as a “frightened” bull. We’re still in a bull market, and sentiment
+remains strong — but caution is creeping in. The American Association of Individual Investors
+sentiment survey peaked back in January, and while it has remained at a high level, it is working its
+way lower:
+
+Citibank’s Levkovich index, a sentiment gauge which draws on the AAII data but also a variety of
+other indicators from short interest to gasoline prices, also remains very positive. But it has backed
+away from extreme “euphoria” recently:
+
+Investors have not been piling leverage on to their trades, as one would expect if sentiment was at a
+fever pitch. Here is margin debt in US trading accounts (note this series only runs to July):
+
+Part of the hesitation may be down to the fact that expectations for global growth — and in
+particular Chinese growth — are pretty low, even while the US charges along. This pessimism,
+combined with confidence that inflation is behind us, explains the deep unpopularity of
+commodities:
+
+One can also see some nerves in the VVIX index, which gives an indication of expected volatility in
+the market. It has mostly been above its panic threshold of about 90 since the market tumble in
+late July, suggesting the market is expecting some major price swings:
+
+Options investors are on the fence. The put/call ratio on the S&P 500, which can indicate
+how bearish or bullish investors are, has been within its typical range for the past few weeks:
+
+On its face, that is a bit surprising given the importance of today’s meeting. “Between now and
+year-end ahead, the only event with a higher implied [market] move is the [US] elections,” said
+Vishal Vivek of Citi. “We think the probability of S&P options breaking even [today] is high” — or
+that increases in puts and calls on the S&P 500 today may cancel each other out, as there is not a
+clear consensus on which way the market will move.
+Russell Rhoads of Indiana University at Bloomington added: “Investors are just not paying up for
+options to a point where it looks like there is an overwhelming move one way or another
+tomorrow.”
+In sum: The bull market continues, with sentiment and prices near highs. Investors clearly have
+doubts about global growth, and are alert to the possibility that the US jobs market is declining
+outright, rather than normalising. Hence the popularity of defensive stocks. But these worries are
+at the periphery. There is more scope for disappointment than for positive surprises, and the Fed
+will have to remain on alert.
+(Reiter and Armstrong)
+
+One Good Read
+Homo declinis.
+robert.armstrong@ft.com and aiden.reiter@ft.com.
+
+FT Unhedged podcast
+Can’t get enough of Unhedged? Listen to our
+new podcast, for a 15-minute dive into the
+latest markets news and financial headlines,
+twice a week. Catch up on past editions of
+the newsletter here.
+
+Recommended newsletters for you
+Due Diligence — Top stories from the world of corporate finance. Sign up here
+Chris Giles on Central Banks — Vital news and views on what central banks are thinking,
+inflation, interest rates and money. Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Robert Armstrong
+Unhedged
+Equities
+Markets
+Federal Reserve
+
+

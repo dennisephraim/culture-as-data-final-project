@@ -1,0 +1,166 @@
+FT PROFESSIONAL
+
+Opinion Unhedged
+
+Stephen Miran on interest rates
+Are big cuts needed?
+
+ROBERT ARMSTRONG
+
+Stephen Miran © Getty Images
+
+Robert Armstrong
+Published SEP 25 2025
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+This article is an on-site version of our Unhedged newsletter. Premium subscribers can sign up
+here to get the newsletter delivered every weekday. Standard subscribers can upgrade to
+Premium here, or explore all FT newsletters
+
+Good morning. US new home sales rose 20 per cent between July and August. This came as a
+surprise to the market and to Unhedged — our view of the new home market is pretty bleak, as
+regular readers will know. It could be a blip. Some observers put it down to homebuilders cutting
+prices and offering incentives. But it was interesting that homebuilder stocks rallied only modestly
+on the news. Send us your thoughts: unhedged@ft.com.
+
+Stephen Miran on r*
+Stephen Miran, until recently an economic adviser to the president and now a Federal Reserve
+governor, thinks the federal funds rate should be much lower than it is, and much lower than all
+the other members of the central bank’s rate-setting committee think it should be. The cavernous
+difference in views was reflected in last week’s objectively funny “dot plot” of committee members’
+views of the appropriate policy rate at the end of 2025:
+
+Having an out-of-consensus view on the committee is a good thing: intellectual diversity sharpens
+minds and improves decision-making. But it places a burden on the outlier to explain themselves.
+Miran did this in a speech on Monday.
+The speech starts with a clever framing of the discussion:
+
+Changes in inflation and employment . . . receive due attention from Fed
+officials. However, changes in the neutral rate, or the policy rate that would
+be neither expansionary nor contractionary when the economy is at full
+employment, are often under-appreciated . . .
+Because many r* (neutral rate) estimates are based on empirical models
+requiring a great deal of time-series data, they can be backward-looking and
+slow to adjust. Moving too slowly to update a rapidly changing neutral rate
+raises the risk of policy mistakes.
+As a rule, when one talks about where the fed funds rate should be, one starts by talking about
+what is happening with inflation and employment. Miran declines to do so with good reason. Core
+inflation is running about a percentage point above the Fed’s 2 per cent target, and the
+unemployment rate is 4.3 per cent, more than a percentage point below the 30-year average. That’s
+an awkward starting point for someone arguing that the fed funds rate is vastly too high.
+So Miran focuses instead on the neutral rate of interest, or “r*” — the rate of interest that balances
+the desire to borrow (and invest the borrowings) and the desire to lend (and collect interest) such
+that the economy is neither under- nor overstimulated by too little lending or too much.
+But Miran won’t be talking about economists’ estimates of r*, either. Awkwardly, again, those
+models say the neutral rate is much higher than Miran thinks it is. The two models the New York
+Fed publishes, for example, put real r* at 1.37 and 0.84 per cent; assuming two points of inflation
+gives you an estimate of roughly 3 per cent — which makes the current fed funds rate “modestly
+restrictive”, just as Fed chair Jay Powell likes to say. Miran thinks real r* is about zero.
+But those models are “backward-looking”, Miran says, and he wants to talk about what r* is now
+and will be in the future (just how far into the future turns out to be a key element of how to read
+the speech; more on that shortly). And his argument is that President Donald Trump’s
+immigration, tariff and tax policies will bring the neutral rate down a lot.
+
+On immigration he starts with a straightforward point. If you throw a few million people out of the
+country and bar the door, demand for housing will go down and rents will soften:
+
+Forecasters have under-appreciated the significant impact of immigration
+policy on rent inflation . . . Albert Saiz finds an elasticity of rents with respect
+to immigrant occupants of about 1. Net immigration averaged roughly 1mn
+per year in the decade leading up to the pandemic. Given that roughly
+100mn Americans rent, net zero immigration going forward would imply 1
+point lower rent inflation per year
+I’m no economist, but I agree that supply and demand matter to prices. Fewer people + same
+number of housing units = cheaper rent, all else equal. So Miran has a point. But it’s not just rent:
+
+It is plausible to me that 2mn illegal immigrants will have exited the country
+by year end, thereby reducing annual population growth from 1 per cent to
+0.4 per cent. Based on estimates from both [Sebastian] Weiske and [Paul]
+Ho, a 1 percentage point drop in annual population growth can reduce r* by
+0.6 percentage point. So, the expected decline in US population growth
+equates to a nearly 0.4 percentage point drop in the neutral fed funds rate.
+Here Miran loses me. Keeping it simple, if the population gets smaller, I would expect both supply
+and demand to fall, and the net effect on inflation should be zero. To be more precise than that, you
+would have to have a messy argument about the differing supply and demand contributions of
+immigrants versus the native-born. But instead of a messy answer, we get a very precise predicted
+decline in the neutral rate. Maybe I am missing something, but that strikes me as bonkers. Also,
+might not a country with near zero population growth have low demand for savings because its
+economy is a bit stagnant? Is that the kind of lower r* that Miran is keen on?
+On to tariffs:
+
+The Congressional Budget Office estimates tariff revenue could reduce the
+federal budget deficit by over $380bn per year over the coming decade. This
+is a significant swing in the supply-demand balance for loanable funds, as
+national borrowing declines by a comparable amount . . . This 1.3 per cent of
+GDP change in national saving reduces the neutral rate by half a percentage
+point.
+To simplify (if I understand correctly): the government is borrowing a lot to fund itself; the
+collection of tariff revenue means it will borrow less, and so total demand for borrowing will fall;
+but supply of lendable funds stays the same; so the price of borrowing, aka r*, will fall.
+Once again, I’m not going to sit here and argue that supply and demand do not determine prices.
+The idea that you can talk about this stuff in isolation and come up with an estimate down to the
+decimal point seems pretty odd, though. And what Miran says about Trump’s tax-cutting budget
+complicates the issue further:
+
+The large tax law passed this year also has a strong effect on national
+saving . . . The [Council of Economic Advisers] calculates an increase in
+national saving of $3.83tn over the next 10 years (relative to the previous
+policy baseline), resulting from economic growth induced by tax policy. This
+represents roughly 1.3 per cent of GDP, implying a half of a percentage point
+reduction in r* and the appropriate policy rate
+Miran has argued that higher revenue from tariffs — import taxes — reduces government
+borrowing and therefore r*. But here (unless I am misreading) he argues that lower revenue from
+taxes stimulates the economy, increasing the supply of available capital and lowering r*. Which is
+it? Clever readers will know how Miran squares this circle. The difference is that Americans don’t
+pay the tariffs, as they do other taxes:
+
+With respect to tariffs, relatively small changes in some goods prices have led
+to what I view as unreasonable levels of concern. While my read of the
+elasticities and incidence theory is that exporting nations will have to lower
+their selling prices
+I don’t know who will end up paying the tariffs when the global trade system reaches a new
+equilibrium following the Trump shock. It seems reasonably clear, however, that exporting nations
+are not paying the tariffs right now; US importers and US consumers are mostly splitting them
+(hence Miran’s use of the future tense in the quote above). Maybe Miran will be right in the end,
+though.
+Miran has another point to make on trade policy. He thinks a huge inflow of foreign capital is set to
+pour into the US as a result of Trump’s trade negotiations:
+
+Loans and loan guarantees pledged by east Asian countries in exchange for
+relatively low tariff ceilings have reached $900 billion. These guarantees
+entail an exogenous increase in credit supply, which research suggests would
+be around 7 per cent. Using [CEA’s] estimates of the interest elasticity of
+investment and Michael Boskin’s interest elasticity of saving, this would
+further reduce neutral policy rates by around two-tenths of a percentage
+point.
+Again: supply of funds goes up, demand for funds stabilise, r* goes down. My question is whether
+these funds will actually show up (“pledged” is not delivered), and if so, when. Miran thinks the fed
+funds rate needs to drop very far right now. But a lot of the things he talks about (barring the
+decline in immigration) will take a long time. So even where I am sympathetic to his arguments,
+they don’t get me to a sub-3 per cent fed funds rate by the end of the year.
+
+One good read
+A wise man.
+
+FT Unhedged podcast
+Can’t get enough of Unhedged? Listen to our
+new podcast, for a 15-minute dive into the
+latest markets news and financial headlines,
+twice a week. Catch up on past editions of
+the newsletter here.
+
+Recommended newsletters for you
+Due Diligence — Top stories from the world of corporate finance. Sign up here
+The Lex Newsletter — Lex, our investment column, breaks down the week’s key themes, with
+analysis by award-winning writers. Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Robert Armstrong
+Unhedged
+US economy
+US interest rates
+Markets
+
+

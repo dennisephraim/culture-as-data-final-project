@@ -1,0 +1,259 @@
+FT PROFESSIONAL
+
+Opinion Free Lunch
+
+Are US and euro inflation pressures parting ways?
+US prices are from Mars and the Eurozone’s are from Venus — or maybe not
+
+MARTIN SANDBU
+
+There is a seeming divergence between the latest inflation data in the US and Eurozone and also differing accounts of what has
+driven price rises © Angel Garcia/Bloomberg
+
+Martin Sandbu
+Published MAY 9 2024
+
+This article is an on-site version of Martin Sandbu’s Free Lunch newsletter. Premium subscribers
+can sign up here to get the newsletter delivered every Thursday. Standard subscribers can
+upgrade to Premium here, or explore all FT newsletters
+
+Americans are from Mars and Europeans from Venus, was the quip supposed to capture the two
+power centres’ approach to geopolitics. It could now be repurposed for another analytical
+shorthand. It looks likely that the Federal Reserve will keep interest rates higher for longer than
+everyone expected until recently, while European central banks will get on with loosening
+monetary policy. The reason is a seeming divergence between the latest inflation data but also
+differing accounts of what has driven price rises. So is US inflation from Mars and euro inflation
+from Venus? Like with the original geopolitical version, the shorthand is more cute than correct.
+The reality is complicated.
+There is a widespread view that the US and Europe (by which I refer here to the countries using the
+euro) have had inflation experiences that diverge in ways requiring different policy responses. In
+particular, there is a tendency to blame US inflation on domestic fiscal policy excesses, while
+putting the Eurozone in the “unlucky negative energy shock” box. The implication is, to simplify
+only a little, that the US is doomed to live with higher-for-longer rates and some difficult fiscal
+choices, while the Eurozone is just damned whatever it does.
+You need go no further than the IMF for support of the “different inflation drivers” story. As my
+colleague Martin Wolf set out in his column a few weeks ago, the fund’s World Economic Outlook
+attributed much of the US inflation rise to overheating labour markets, but none in the Eurozone.
+Below I, er, steal Martin’s chart, which itself reproduces the WEO’s:
+
+The decomposition of the surge in inflation looks very different in the US
+and the Eurozone
+Decomposition of inflation drivers (% point deviation from Dec 2019 in annualised three-month
+average inflation)
+Headline inflation (line)
+Headline inflation shocks
+Longer-term expectations
+Labour market tightness
+US
+8
+
+6
+
+4
+
+2
+
+0
+
+-2
+
+-4
+
+-6
+
+-8
+Eurozone
+12
+
+10
+
+8
+
+Pass-through effects
+Residual
+
+6
+
+4
+
+2
+
+0
+
+-2
+
+-4
+
+Apr 2020 Sep 2020 Feb 2021 Jul 2021 Dec 2021 May 2022 Oct 2022 Mar 2023 Aug 2023 Jan 2024
+Source: IM
+
+According to the IMF, virtually all the US upward price pressures since inflation peaked come from
+a labour market that is “too” strong (the pink bars). In the Eurozone, it’s entirely a story of outside
+shocks and their propagation (shades of blue).
+A simpler and more recent contrast that is often noted is between the behaviours of the standard
+gauges of inflation on the two sides of the Atlantic so far this year. On a month-to-month basis,
+inflation dynamics have moved the wrong way in the US recently, with prices now rising faster this
+year than over the past six or 12 months taken as a whole. It is this pick-up in US inflation
+measures that has pushed out previously expected Federal Reserve rate cuts beyond the immediate
+horizon. The European Central Bank, meanwhile, is sticking to plans for a June cut, with the
+justification that its targeted inflation rate remains quiescent — see the chart below. (Elsewhere in
+Europe, a loosening cycle is already under way. The Riksbank gave Swedish borrowers their first
+rate reduction this week.)
+
+So far, so conventional. But as inflation nerds know, different countries use different inflation
+measures. If we want to compare like with like we need to use identical indicators. So take a look
+below, where I have charted the harmonised index of consumer prices, not seasonally adjusted, for
+both the US and the Eurozone. It’s the one normally reported for all Eurozone countries, and it
+happens to be available for the US as well. Moreover, it excludes a measure of housing costs that
+has recently been confounding observations of US price dynamics. (Here is the US Bureau of Labor
+Statistics’ page about how it produces the US HICP for international comparison purposes and how
+it differs from its homegrown indicators.)
+
+If you see the same as I do, this like-for-like measure of inflation has behaved remarkably similarly
+in the latest episode, with just a slightly later onset of the rise in Europe compared with the US.
+Most importantly, the most recent inflation experience shows a clear pick-up in both economies.
+This similarity could mean one of two things. Either US inflation dynamics are more benign than
+the other measures would seem to suggest and the Fed should be as willing to cut as the ECB. Or
+Eurozone ones should worry the ECB more than they do. I tend towards the first answer, since
+once you use the seasonally adjusted Eurozone numbers, disinflation seems to be going just fine.
+(In other words, the pick-up after January in the non-adjusted measure is just a recurring annual
+pattern.) I would feel even firmer in that belief if a seasonally adjusted version of US HICP showed
+the same as the Eurozone numbers. But I haven’t been able to find such version (Free Lunch
+readers, let me know if you have). Eyeballing the unadjusted US and Eurozone HICP over time,
+though, does seem to show similar annual fluctuations. So it’s a good guess seasonal adjustment
+would remove the recent US uptick.
+
+But that doesn’t need to unsettle the bigger story of differential drivers of post-Covid inflation. Or
+does it? When I first saw the chart I reproduced at the start of this piece, what struck me was how a
+very similar chart had told a very different story. In February, Chris Giles devoted his excellent
+central banking newsletter to another project of decomposing the contributions to inflation since
+Covid-19. That included this wonderful chart:
+
+The drivers of post-Covid inflation
+Annualised quarterly CPI inflation (%)
+Actual
+Initial conditions
+Productivity
+US
+
+High vacancies
+
+Eurozone
+
+Shortages
+
+Energy prices
+
+UK
+
+Food prices
+
+Japan
+
+15
+
+1
+
+10
+
+1
+
+5
+
+5
+
+Inflation target
+
+Inflation target
+
+Inflation target
+
+Inflation target
+
+0
+
+-5
+2019
+
+0
+
+2021
+
+2023 2019
+
+2021
+
+2023 2019
+
+2021
+
+2023 2019
+
+2021
+
+2023
+
+-
+
+Source: CEPR • For simplicity, some components of inflation have been excluded so the bars will no
+always sum to the actual value
+
+What I would like you to focus on are the dark blue bars, which denote the contribution to price
+pressures from overheating labour markets. Compare the US and the Eurozone in this chart, then
+look back at the chart at the top of this piece. You got it: they tell completely different stories about
+the causes of inflation in the US in terms of how much labour markets drove up wages and prices.
+
+The chart from Chris reproduces the findings of a project (see chapter 16 in the linked book) to
+extend to many countries the Bernanke-Blanchard analysis of US inflation that we covered in Free
+Lunch last year. Across the board, they found that: “The decompositions yield one main and
+common conclusion: most of the quarter-to-quarter movements in inflation have been due to price
+shocks, not to pressure from the labour market.” Mars and Venus turn out to be very similar
+planets.
+What are we to conclude from this? Obviously, that there is less consensus than it might seem on
+the nature of the great global inflation and disinflation of the past three years. That in itself is
+worrying and should make policymakers even more aware of the uncertainty clouding their
+decisions.
+Beyond that, can we establish who is more likely to be right, the “divergers” or the “convergers”? I
+certainly cannot as it would take a lot more fine-grained economic analysis than I can do here. And
+it could be that it’s impossible if (as Chris suggested in his piece) what the models produce is so
+sensitive to what assumptions you put in that even understanding why they differ leaves us none
+the wiser. I will, however, share one reason why I would put my money on the “converger” result of
+the Bernanke-Blanchard method for now. The IMF methodology (details here) seems to have used
+a different measure of labour market tightness for the Eurozone (where it used unemployment
+compared with trend) and the US (where it used vacancy rates). Bernanke-Blanchard used a
+consistent measure everywhere (vacancy rates). That alone makes me trust the latter more. But it
+also adds to the confusion, as you would have expected the US findings to be more similar between
+the two studies and not the Eurozone ones as is the case.
+Finally, how would it matter if the “convergers” are right and the “divergers” wrong? Well, it would
+mean that diverging central bank policy means someone is making a mistake, which will cause
+trouble even if we don’t know who is making it. But I think it would mean something else, too. For
+the “convergers” converge on a result that labour market overheating played a negligible role
+everywhere. In which case, inflation was everywhere largely the result of an unavoidable global
+commodity price shock, with only minor local variations. And that makes me, at least, lean further
+towards the view I offered a while back, that there was never very much central banks could do
+about this inflationary episode — and that we err in blaming them for failing.
+
+Other readables
+The performance of the US economy has been a triumph, writes Martin Wolf, so why is President
+Joe Biden not benefiting from it politically?
+Chris Giles interviews Arthur Laffer of the Laffer curve. Come for the central bank bashing, stay for
+what he said to Donald Trump.
+Surveillance capitalism, the pregnancy edition.
+Emma Jacobs investigates the closure of one of Brick Lane’s oldest beigel (yes, beigel) shops.
+
+Recommended newsletters for you
+Chris Giles on Central Banks — Your essential guide to money, interest rates, inflation and what
+central banks are thinking. Sign up here
+Trade Secrets — A must-read on the changing face of international trade and globalisation.
+Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Martin Sandbu
+Free Lunch
+Eurozone inflation
+Global inflation
+US inflation
+
+

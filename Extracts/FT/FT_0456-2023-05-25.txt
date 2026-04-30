@@ -1,0 +1,118 @@
+FT PROFESSIONAL
+
+Opinion Unhedged
+
+The Fed isn’t done breaking things
+Or so its own research suggests
+
+ETHAN WU
+
+© Financial Times
+
+Ethan Wu
+Published MAY 25 2023
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+This article is an on-site version of our Unhedged newsletter. Sign up here to get the newsletter
+sent straight to your inbox every weekday
+
+Good morning. Ethan here; Rob is away. Thanks to everyone who wrote in about Tuesday’s letter
+on US equity valuations. One reader, Paul OBrien, made an important point that I missed: what if
+stocks are fairly priced for a lower-returns world? Could well be, though it would mean the popular
+Shiller p/e ratio, which is very high now, has misfired. BCA Research’s Irene Tunkel notes that Prof
+Shiller’s measure did accurately call the 2000 and 2008 bear markets. Any further thoughts are
+welcome at the email below.
+In other news, Fitch has put the US on “negative watch”, its equivalent of a stern talking-to. I’ve
+somehow managed to line up my long-planned summer holiday with the drop-dead date. You’ll be
+in Jennifer Hughes’ capable hands tomorrow, and Rob’s next week. But you can still email me:
+ethan.wu@ft.com.
+
+More things are bound to break
+One question hangs over this remarkably stable cycle: can the US return to some kind of lowinflation normal without breaking the economy in the process? Three recent pieces of Federal
+Reserve research offer hints and, I think, some reasons for worry.
+The first, published by the New York Fed, focuses on the natural rate of interest, or R-star. This is
+the theoretical interest rate that balances the economy, neither stoking inflation nor stifling
+growth. Monetary policy is only “tight” if the policy rate is well above the natural rate. If R-star
+were 4.5 per cent, as it was in the 1960s, today’s 5 per cent fed funds rate scarcely looks tight at all.
+Annoyingly, though, it is unobservable. The late economist John Henry Williams, as quoted last
+week by New York Fed president John Williams, wrote in 1931 that R-star is “an abstraction; like
+faith, it is seen by its works”.
+The New York Fed has just restarted publishing estimates of R-star, which were suspended after
+the pandemic made a hash of its models. Not a whole lot has changed; the economy’s equilibrium
+interest rate has stayed low:
+
+Many economists, including Jay Powell, have noted how imprecise measuring R-star is, so
+scepticism is due. But as Williams put it last week, the bottom line is: “There is no evidence that the
+era of very low natural rates of interest has ended.” Policy right now is very tight.*
+The second bit of research also comes from the New York Fed, and concerns a newer idea called the
+financial stability interest rate, or R-double-star. This is the theoretical rate that tips the financial
+system into crisis. In his excellent write-up over at FT Alphaville, Robin Wigglesworth explains:
+
+The idea is that there is also a neutral level of interest rates for financial
+stability, and, crucially, it is not the same as R*. Basically, R** is a measure
+of an economy’s financial sturdiness. When it’s low, a country is vulnerable
+to financial shocks from rate increases, and when it is high it can more easily
+shrug them off without major mishaps.
+
+Crucially, if R** drifts lower than R* — for example, if prolonged low interest
+rates encourage leverage, risk-taking and general stupidity — a central
+bank’s rate increases can cause financial calamities long before it gets to the
+point where rates really start to contain inflation.
+That the Fed’s rate increases precipitated a banking crisis before they got
+inflation down to even vaguely near their target looks like a good
+example . . .
+In a pair of blog posts this week, New York Fed researchers lay out how lower-for-longer rates can
+make the economy fragile. It’s a familiar story, but one worth rehearsing. In the short run, low
+interest rates are good for financial stability. Asset prices rise, leverage (ie, assets over equity) falls
+and everyone is happy. But over time as financial institutions, with their now-healthier balance
+sheets, search for new investments, low interest rates push them towards ever riskier stuff — a
+classic reach-for-yield dynamic. They get overextended, leaving the real economy “at greater mercy
+of luck”. It only takes one wrong move to get a crisis, including a rates shock meant to curb
+inflation.
+The final piece of research, released by the Kansas Fed yesterday, makes a simple point: financial
+crises are not very deflationary. Since financial stresses hurt both demand (through tighter credit
+conditions) and supply (through lower capital investment), the hit to growth is big but the drag on
+inflation is small to non-existent. The Kansas Fed’s chart below shows the average effect on
+inflation, unemployment and investment in the months following past systemic financial crises.
+Surprisingly, inflation (blue line) tends to tick up as unemployment surges (green):
+
+Taking stock, we have:
+
+1 The natural interest rate still looks low, suggesting the past year of rate
+increases has delivered a big negative shock.
+
+2 An economy that has been through a decade of low rates is probably one
+bad shock away from a financial crisis.
+
+3 Financial crises are poor anti-inflation measures.
+You can imagine how this ends badly. Inflation stays stubborn but the financial system is so fragile
+that rates must be cut. Inflation then becomes baked into expectations and the Fed has to raise
+rates yet again. A deep recession ensues. Powell gets awarded the Arthur Burns Memorial Dunce
+Cap for Easing Too Early.
+
+There are still reasons to feel sanguine. The economy has so far withstood the banking mini-crisis.
+The Fed’s lending facilities are doing their job. Shelter inflation, the hottest bit, is coming down.
+Leverage in the system is low. But remember that cycles don’t often end smoothly. More things are
+bound to break, and the economy’s remarkable stability probably cannot last.
+
+One good read
+The lame walk. A welcome break from all the recent AI techno-doom.
+*This article has been amended to remove an inaccurate comparison of R-star and the Fed’s
+policy rate
+
+Recommended newsletters for you
+Due Diligence — Top stories from the world of corporate finance. Sign up here
+The Lex Newsletter — Lex is the FT’s incisive daily column on investment. Sign up for our
+newsletter on local and global trends from expert writers in four great financial centres. Sign up
+here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Ethan Wu
+Unhedged
+Global Economy
+US economy
+US interest rates
+
+

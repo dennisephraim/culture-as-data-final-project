@@ -1,0 +1,126 @@
+FT PROFESSIONAL
+
+Opinion Unhedged
+
+Will recession kill inflation?
+And more on crypto bailouts
+
+ETHAN WU
+
+© Financial Times
+
+Ethan Wu
+Published JUL 13 2022
+
+This article is an on-site version of our Unhedged newsletter. Sign up here to get the newsletter
+sent straight to your inbox every weekday
+
+Good morning. Ethan here; Rob was out yesterday but will be back in time to enjoy CPI day with
+the rest of us. Forecasters are expecting an 8.8 per cent headline reading today, but what’s in the
+inflation report’s guts will be most interesting. Or maybe it will look a lot like last month’s report,
+and everyone will quickly lose interest. Email us: robert.armstrong@ft.com and ethan.wu@ft.com.
+
+Recession vs inflation
+Will recession kill inflation? Our knee jerk answer: sure it will. Generically, a recession happens
+when everyone stops spending at once. Inflation is coming from lots of spending crashing into
+restricted supply. So if the Fed lowers that spending by raising interest rates, we might get a
+recession but the inflation problem will go away. Add to that evidence of overstocked inventories,
+which should bring down goods prices as retailers roll out discounts, and it’s hard to see how
+inflation would roar through a recession.
+Markets also seem to expect an inflation-killing slowdown, if not a recession. We’ve been over the
+indicators before, but to repeat: the 10-year yield is below its peak and trending sideways, two-year
+inflation break-evens have fallen from nearly 5 per cent in March to 3.2 per cent now, futures
+markets are expecting rate cuts in 2023, and so on. We’ve heard some version of this assessment
+from practitioners too. Evan Brown at UBS Asset Management told us last month he is “very
+confident” recession would significantly curb inflation.
+For a different view, consider the yield curve. Rather than a disinflationary recession, Jim Caron of
+Morgan Stanley argues the curve is poised for something rather more stagflationary. He contrasts
+the 10-year/2-year spread, which he sees as tracking output expectations, with the 30-year/5-year
+spread, which he sees as an indicator of the inflation risk premium (the 30-year’s longer life means
+its value can be slowly sapped by secular increases in inflation). The 10/2 is inverted while the 30/5
+has been steepening:
+
+An inverted 10s/2s is pointing to a near-term recession (though the 10-year/3-month, a more
+reliable indicator, disagrees), as the Fed raises rates over the next two years but must eventually
+slash them to revive growth. Yet the steeper 30s/5s reflects a growing chance that inflation won’t
+remain sustainably low, and so long rates must rise as compensation, Caron argues.
+These are not massive moves and, in any case, the curve changes its shape quickly these days. Still,
+Caron’s argument got us thinking about what economic outcomes might get us stuck with proper
+stagflation in 18 months’ time.
+In a recent note, Ethan Harris at Bank of America chides markets for getting too sanguine on
+inflation — a “sticky, slow moving variable” that “tends to move in a gradual lagged fashion”.
+Harris offers this table of how much trimmed personal consumption expenditure inflation, a
+measure of underlying price pressures that excludes the most and least inflationary items, has
+fallen in past recessions. For each downturn, the table looks at how far trimmed inflation falls two
+years after peaking. The final row compares current inflation to what markets expect in July 2024:
+
+Outside of a 1980s strangle-inflation-to-sleep approach, recessions have tended to apply a bit, not
+a lot, of downward pressure on price increases. Yet markets are expecting inflation to decline
+steeply, as in 1980, rather than gradually, as in 1990. Harris puts up five explanations for why
+markets could be feeling like this time is different (he leans towards 1 and 5):
+
+1 There is something technical going on in the bond markets that overstates
+the expected drop in inflation, and participants don’t really expect a sharp
+drop in inflation.
+
+2 The markets think virtually all the inflation is noncyclical and related to the
+supply side and will go away rapidly once supply chains unclog.
+
+3 The markets expect a massive recession.
+4 The markets think the Phillips curve has gone from remarkably flat to
+remarkably steep, such that a modest increase in the unemployment rate
+causes a sharp drop in inflation.
+
+5 The markets are simply ignoring economic history.
+
+We prefer explanation 2. As we noted yesterday, markets are still pricing in a fair chance of a soft
+landing. The hope is that falling demand, with an assist from supply, brings inflation down fast
+enough that the Fed can increase rates only moderately.
+But the fact that inflation has tended to fall slowly in recessions points to how much the Fed’s
+reaction function could start to matter. As inflation has spun upward alongside a strong economy,
+it has been clear what the Fed needs to do. Hawks and doves are in agreement on raising rates.
+Once inflation begins to ease down, the right policy is less obvious, and the trade-offs are uglier.
+Stop tightening too early and risk a resurgence in prices; stop too late and risk getting millions
+fired for no reason. The Fed’s job may get harder yet.
+
+Where’s the crypto bailout money coming from?
+We wrote last week about Sam Bankman-Fried, the chief executive of crypto exchange FTX who
+has taken the wreckage in crypto as an opportunity to go shopping.
+He isn’t the only one. Any crypto company with cash to spare is thinking about buying peers who
+have fallen on hard times. That’s true, notably, of Changpeng Zhao, chief executive of crypto
+exchange Binance, FTX’s main rival. He told an interviewer last week, “I think you will see that we
+will be investing, bailing out, saving multiple projects.”
+These buyouts are chiefly about buying at attractive valuations, rather than stopping contagion.
+The last big crypto crash in 2018 saw a similar spike in opportunistic M&A. But one FT commenter
+on Friday’s letter asked an important question: where are acquirers getting the money?
+
+Why doesn’t SBF/FTX have the same liquidity issues as others in the crypto
+industry though? They seem to have a huge amount of capital available.
+
+The easiest answer is that crypto trading volume hasn’t fallen as much as you might think. Fake
+volume makes it hard to get a reliable measure, but The Block’s index of daily volume on exchanges
+with “trustworthy reporting” is around $17bn, far from peak bull market volume of $89bn, but still
+well above pre-coronavirus pandemic levels ($2bn in February 2020). Healthy volume translates
+into fee revenue for crypto exchanges, which means real cash for real bailouts.
+There are still lots of people interested in trading crypto. And that means there are funds available,
+and deals to be had.
+
+One good read
+Trump and BoJo are gone, but their successors will be savvier. A typically sharp column from
+Janan Ganesh.
+
+Recommended newsletters for you
+Due Diligence — Top stories from the world of corporate finance. Sign up here
+Swamp Notes — Expert insight on the intersection of money and power in US politics. Sign up
+here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Ethan Wu
+Unhedged
+Global inflation
+US economy
+Federal Reserve
+
+

@@ -1,0 +1,138 @@
+FT PROFESSIONAL
+
+Opinion Unhedged
+
+US economic data quality is declining
+The problem is solvable, but not by scapegoating
+
+AIDEN REITER
+
+The mother of all data centres: the Bureau of Labor Statistics © Getty Images
+
+Aiden Reiter
+Published AUG 8 2025
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+This article is an on-site version of our Unhedged newsletter. Premium subscribers can sign up
+here to get the newsletter delivered every weekday. Standard subscribers can upgrade to
+Premium here, or explore all FT newsletters
+
+Good morning. The race for the next chair of the Federal Reserve is heating up. According to
+President Donald Trump, the “Kevins” — Kevin Hassett, director of the National Economic
+Council, and Kevin Warsh, a former Fed governor — are the frontrunners. But Chris Waller, a
+current governor of the central bank, leads the pack on the betting markets Polymarket and Kalshi.
+Send us your pick: unhedged@ft.com.
+
+US economic data
+Without reliable economic data, policymakers and investors resort to guesswork and gossip when
+making decisions. The US has historically been the gold standard for economic data. But Trump’s
+firing of Erika McEntarfer, head of the Bureau of Labor Statistics, has called the reliability of US
+figures into question. As is often the case, Trump is right that there is a problem, and wildly wrong
+about the specifics. Yes, there are some reasons to worry about declining US economic data quality.
+No, the problem is not that the numbers are “rigged”.
+Most economic data releases, whether for jobs, inflation, or economic growth, consist of estimates.
+The “hardest” data sources — census numbers, state unemployment claims, and so on — come out
+later, and the early estimates are adjusted as they roll out. Recent payroll estimate revisions,
+particularly last week’s blockbuster negative 258,000 revision, have looked big, and have been
+mostly to the downside. Each figure in the chart below represents the net total revisions to all
+previous jobs estimates made in a given month:
+
+But this is not a new issue. US economic data is still very reliable. Yet, ever since the pandemic,
+revisions to the jobs numbers have tended to be bigger. The mean and median absolute net
+revision — that is, the net size of the revision announced each month, whatever the direction —
+have been much higher over the past five years than before the pandemic:
+
+Does the change reflect partisan bias against the president? Well, the median and mean net
+revisions in the Trump administration have been lower than the five-year mean and median, and
+lower than the mean and median during Joe Biden’s term.
+
+The changes under Trump have been more negative, however: more than 70 per cent have been
+downward revisions, while the Biden years had a roughly 50/50 split.
+Readers can decide whether they believe this imbalance is the result of a conspiracy at a
+government agency, in which a large number of people work independently to collect data using a
+well-understood process, and where the figures are continually checked for consistency with other
+data sources. Or, they might conclude the variation is normal statistical noise of the sort we see
+everywhere.
+But the changes since the pandemic are genuinely concerning. The increase in the size of revisions
+since the pandemic has several probable causes. Tom Porcelli, chief US economist at PGIM, notes
+the response rate to BLS surveys has been declining for years and began to decline faster after
+2020. The monthly job numbers are based on the current population survey (the unemployment
+rate) and the current employment survey (payrolls). Here are the response rates:
+
+There have also been big changes in the US economy — broadly over the past 20 years, and acutely
+in the past five. Jed Kolko of the Peterson Institute, formerly under secretary for economic affairs
+at the commerce department, says:
+
+. . . historically, you could report on very narrowly defined industries, and
+estimate productivity more easily than you can in an economy that is
+overwhelmingly services, where inputs and outputs are mostly intangible . . .
+The modern economy is harder to measure. A more recent reason for this is
+population growth. The growth rate has been more volatile than it has been
+for decades: the pandemic and immigration surge resulted in big increases
+and decreases to population growth…
+
+The pandemic made measurement and modelling more difficult. For
+example, unemployment rose dramatically during the worst of the pandemic.
+But unemployment meant something different at that moment . . . To the
+extent that economic statistics include some estimation or imputation,
+[estimates] typically extrapolate from the recent past. When the economy is
+rapidly changing, the numbers that need to be estimated or modelled won’t
+be as accurate.
+With lower responses and new modelling challenges, agencies that collect data need more
+resources: more people to chase down survey responses and build better models. But BLS’s budget
+declined 18 per cent in real terms since 2009, according to a report from the American Statistical
+Association. Things have worsened this year. The federal hiring freeze and the so-called
+Department of Government Efficiency’s reduction to federal payrolls have left data agencies
+without key experts and unable to replace employees who have left.
+Consumer price index calculations, also done by the BLS, show the trend. This year, the bureau has
+stopped collecting pricing information in three metro areas. And the quality of the data in the
+remaining metros is declining. If a specific baseline price cannot be found at a specific store in a
+specific area — for example, milk in New York City — BLS statisticians will substitute that price
+with one for the same product in a different store in the same area — a “home cell” imputation. If
+there is no reliable price in the same metro area, statisticians use data from a different metro area
+— the price of milk from Boston, for example, or a “different cell” imputation. This can introduce
+inaccuracies. And the percentage of “different cell” imputations has been rising:
+
+The overall quantity of imputation appears to be rising, too. In July, the agency said 15 per cent of
+the figures each month are no longer being collected, implying they are being imputed. According
+to Omair Sharif of Inflation Insights, that figure doesn’t include the loss of the data from three
+metro areas; add that in, and 19 per cent of the data is probably imputed. “Before the pandemic,
+only around 2.5 per cent of prices were being imputed. This is a big change . . . it’s hard to tell the
+magnitude, but the margin of error [in CPI reports] is certainly greater,” he said.
+This situation is not hopeless. The quality of the data is still robust; more resources would go a long
+way; and the digital economy is yielding more private and alternative data sets, which some
+agencies are working to incorporate. “The more technology enables government agencies and
+private firms to track their own activity, the more data is theoretically available outside of survey
+methods,” says Kolko. And Thomas Ryan at Capital Economics notes that “the breadth of US
+economic data makes it difficult to fudge the overall picture . . . discrepancies would quickly emerge
+[across metrics].” If Trump continues to politicise the agencies, the damage may be limited.
+
+The quality of US data is still high, but it is trending down. If the Trump administration wants to
+improve that, the solution is more resources, not scapegoating.
+
+One good read
+Foam freedom.
+
+FT Unhedged podcast
+Can’t get enough of Unhedged? Listen to our
+new podcast, for a 15-minute dive into the
+latest markets news and financial headlines,
+twice a week. Catch up on past editions of
+the newsletter here.
+
+Recommended newsletters for you
+Due Diligence — Top stories from the world of corporate finance. Sign up here
+The Lex Newsletter — Lex, our investment column, breaks down the week’s key themes, with
+analysis by award-winning writers. Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Aiden Reiter
+Unhedged
+Digital economy
+US economy
+
+Markets
+
+

@@ -1,0 +1,129 @@
+FT PROFESSIONAL
+
+Opinion Unhedged
+
+Inflation is still dead
+Plus Apple’s buybacks
+
+ROBERT ARMSTRONG
+
+© FT montage/Dreamstime
+
+Robert Armstrong and Aiden Reiter
+Published SEP 12 2024
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+This article is an on-site version of our Unhedged newsletter. Premium subscribers can sign up
+here to get the newsletter delivered every weekday. Standard subscribers can upgrade to
+Premium here, or explore all FT newsletters
+
+Good morning. Trump Media & Technology Group, owner of Truth Social, fell more than 10 per
+cent yesterday. A judgment on the debate outcome? We doubt it. Meme stocks do not predict
+elections. Email us: robert.armstrong@ft.com and aiden.reiter@ft.com.
+
+CPI and the Fed
+The August CPI inflation report was very good news, just like the three reports that preceded it.
+Inflation is at the Fed’s target or very close to it, and there is no particular reason to worry about it
+picking up again.
+Awkwardly for Unhedged, this fact is not at all obvious when you look at the numbers the way we
+usually do. We like to look at the month-to-month change in core inflation and annualise it — the
+dark blue line in the chart below. That figure has now risen smartly for two months in a row.
+
+The culprit — and this is a story of wearying familiarity — is almost entirely housing inflation. Here
+is CPI shelter inflation, on the same basis:
+
+I’m not sure why the official measure of shelter costs is jumping. It has leapt historically, and then
+returned to trend — see the increases in January of this year and September of last year. What we
+do know is that the private measures of rent inflation show no signs of a resurgence whatsoever.
+Here are the national rent indices from the real estate sites Apartment List and Zillow:
+
+Note that rent inflation is lower than it was pre-pandemic in both indices. In the case of Apartment
+List, rent inflation has been negative for many months. Without rehearsing the tiresome niceties of
+the methodology that contribute to the lag in timing, CPI shelter just has to fall eventually.
+As an aside, it is notable that Apartment List’s index is usually lower than Zillow’s, and that the
+difference has grown wider in the past couple of years. Chris Salviati of Apartment List told me the
+difference is not methodology. Instead, it’s likely differences in the samples. Apartment List overindexes to large apartment complexes — and particularly those in the sunbelt. Those complexes are
+facing competition from a surge in new multifamily construction. The institutional owners of the
+complexes also respond to market shifts more quickly than non-institutional landlords; they have
+access to more data and are “likely to place different weights on rent maximisation versus vacancy
+risk compared to mom-and-pop landlords”.
+
+In any case, inflation is beaten. And it does not look set to stage a comeback. The US economy is
+cooling gently. Many global economies, notably China’s, are cooling non-gently. Commodity prices
+are falling. Corporations have largely stopped taking price increases, and in some areas are offering
+rebates. Wage growth is decelerating (and wages are historically closely linked to rents).
+Which leads us to the Fed’s Open Market Committee and its decision, in a week’s time, of whether
+to reduce its policy rate by 25 or 50 basis points. The futures market cut the odds of a 50-point cut
+from 34 per cent to 15 per cent after Wednesday morning’s CPI report, according to the CME. As
+we have just argued, there was nothing in the report to justify this. In fact, the report was another
+confirmation that a big rate cut would create little risk of resurgent prices.
+The economy, as we have argued at length in this space, looks fine despite a cooling labour market.
+But with inflation risks off the table, why mess around? Rates are quite restrictive and don’t need
+to be. A big cut would, if nothing else, improve home affordability, which is awful. In isolation, a
+50- point cut makes sense.
+The Fed does not work in isolation, though. Its reputation for steadiness and for caution in the face
+of inflation is its critical asset, not just in this cycle but cycles to come. That, rather than the state of
+the economy, is why the cut will be 25 basis points.
+
+Apple revisited
+A few days ago we pointed out — and not for the first time — that Apple has outperformed its Big
+Tech peers (except Nvidia) in recent years, despite growing more slowly than they do. This is sort
+of surprising. The best explanation we have been able to come up with (and it’s not very good) is
+that Apple’s business is perceived as super stable. The market has concluded that once a customer
+enters Apple world, they never leave, and spend ever-growing amounts within it.
+Several readers wrote that we missed the obvious factor: Apple’s gigantic stock buyback
+programme. The company has bought back $417bn in shares in the past five fiscal years. Alphabet,
+the next biggest repurchaser in tech, has bought back $220bn; Microsoft and Meta have both
+bought back about $120bn. Consequently, Apple’s share count has declined the most:
+
+Of course, buybacks do support share prices, all else equal, to the degree they increase per share
+financial performance. But the reduction in Apple’s share count has not been great enough to move
+it up the Big Tech growth rankings. In terms of growth in earnings per share and free cash flow per
+share, Apple significantly trails Alphabet, Meta and Microsoft.
+So the idea has to be that Apple’s buyback programme keeps its share price high over and above
+the impact it has on financial fundamentals. That is: Apple spends the cash it generates attempting
+to manipulate (in a totally legal and transparent way) its own share price. And it works.
+This might be true, but I can think of two somewhat vague reasons to doubt it. One of them is
+Berkshire Hathaway, which on FT estimates sold $50bn in Apple shares in the second quarter of
+this year. Apple spent $29bn on buybacks in the same quarter. The theory before us is that Apple is
+such a huge consistent buyer of its own shares that it causes the price of its shares to be higher than
+it would otherwise be. But in the second quarter there was a much bigger single seller. And what
+happened during the quarter? Apple’s shares went up 24 per cent. Yes, lots of other stuff could
+have been going on. But still.
+
+The second point is vaguer still. Apple’s shares trade a lot. Over the past six months, average daily
+trading volume, according to Bloomberg, is about 79mn shares a day. For Meta, the figure is a bit
+more than 18mn shares a day. But Apple’s market capitalisation is not four times Meta’s; only
+about 2.5 times. So shouldn’t Meta, trying to (legally and transparently) manipulate a less liquid
+stock, get more bang for its buyback buck? On a very (very) rough calculation, Meta’s buyback
+amounts to about 1.5 per cent of daily trading volume, and Apple’s is about 2.5 per cent. That’s
+using long-term averages and I’m sure buyback programmes are executed unevenly, but the
+argument remains. Adjusting for liquidity, Apple’s buyback is not all that much bigger than its
+peers. Can it really explain Apple’s significant outperformance? I know there are traders out there
+who will have a view on this. If you are one of them, and you are not an algorithm, please email me.
+
+One good read
+On corporate life cycles.
+
+FT Unhedged podcast
+Can’t get enough of Unhedged? Listen to our
+new podcast, for a 15-minute dive into the
+latest markets news and financial headlines,
+twice a week. Catch up on past editions of
+the newsletter here.
+
+Recommended newsletters for you
+Due Diligence — Top stories from the world of corporate finance. Sign up here
+Chris Giles on Central Banks — Vital news and views on what central banks are thinking,
+inflation, interest rates and money. Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Robert Armstrong
+Unhedged
+US inflation
+US equities
+Markets
+
+

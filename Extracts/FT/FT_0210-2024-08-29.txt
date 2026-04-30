@@ -1,0 +1,159 @@
+FT PROFESSIONAL
+
+Free Lunch Global inflation
+
+A self-congratulatory inflation narrative at Jackson Hole
+‘Humility and a questioning spirit’, as called for by Fed chair, would be a very good idea
+
+From left: US Fed chair Jay Powell, Bank of Canada governor Tiff Macklem and Andrew Bailey, governor of the Bank of England, at
+Jackson Hole last week © AP
+
+Martin Sandbu
+Published AUG 29 2024
+
+This article is an on-site version of Martin Sandbu’s Free Lunch newsletter. Premium subscribers
+can sign up here to get the newsletter delivered every Thursday. Standard subscribers can
+upgrade to Premium here, or explore all FT newsletters
+
+Last week was the annual central bankers’ gathering at Jackson Hole in the American Rockies, an
+unmissable event for the great and the good of economic policymaking, and an occasion to
+exchange ideas and experiences relatively privately (access is strictly limited, and even the
+academic presentations are not streamed).
+
+The topic was “Reassessing the effectiveness and transmission of monetary policy”. Reassessing
+effectiveness is a laudable goal, you might think. It naturally raises the question: what did the
+Jackson Hole attendees believe after the weekend was over that they hadn’t believed before they
+arrived? I would be delighted to be corrected, but my best guess is that the answer is “not much”.
+Federal Reserve chair Jay Powell gave a good speech — the news highlight was a clear statement
+that “the time has come for policy to adjust”, ie start cutting interest rates — but one which was
+more an assertion of monetary policy effectiveness than a reassessment of it.
+Powell offered a “narrative” of inflation’s rise and fall, combined with little rise in unemployment,
+that
+
+attributes much of the increase in inflation to an extraordinary collision
+between overheated and temporarily distorted demand and constrained
+supply. While researchers differ in their approaches and, to some extent, in
+their conclusions, a consensus seems to be emerging, which I see as
+attributing most of the rise in inflation to this collision. All told, the healing
+from pandemic distortions, our efforts to moderate aggregate demand, and
+the anchoring of expectations have worked together to put inflation on what
+increasingly appears to be a sustainable path to our 2 percent objective.
+Disinflation while preserving labor market strength is only possible with
+anchored inflation expectations, which reflect the public’s confidence that
+the central bank will bring about 2 percent inflation over time. That
+confidence has been built over decades and reinforced by our actions.
+Regular Free Lunch readers know that I care a lot about “observational equivalence”, that is to say,
+the fact that the observed data can fit several different explanations, which in turn have different
+implications for the right course of policy action.
+
+Take the Powell narrative above, and consider whether you would lose any explanatory power by
+removing the references to “overheated” and “moderating” aggregate demand. You would be left
+with temporarily distorted demand composition (from services to goods), temporary supply
+constraints and anchored inflation expectations. Those, it seems to me, are sufficient to explain the
+recent inflation experience. But if so, what effective role was played by monetary policy?
+There are two possible answers. One is that monetary tightening weakened the labour market, so
+that wage demands came down. The problem with this is that surely higher interest rates affect
+hiring and firing only indirectly through their effect on aggregate demand (that is to say, they
+weaken labour markets only if employers and workers see slowing demand for goods and services).
+But aggregate demand growth was gradually catching up with the pre-pandemic trend throughout
+the episode and continues to be robust. While the labour market has weakened, it could just as well
+be because post-pandemic job churn (remember the so-called “great resignation”?) has fully played
+itself out.
+The other — which we hear consistently not just from Powell but all central bankers — is that
+monetary tightening prevented inflation expectations from going up, and that returned pricesetting behaviour to the previous norm once temporary shocks had worked their way through the
+system. (Note that this weakens the case for a direct effect of central bank action on wage inflation:
+wage growth may moderate because price expectations do, regardless of whether monetary
+tightening had any direct effect.)
+Here is what Powell had to say about “the critical importance of inflation expectations”:
+
+Standard economic models have long reflected the view that inflation will
+return to its objective when product and labor markets are balanced —
+without the need for economic slack — so long as inflation expectations are
+anchored at our objective. That’s what the models said, but the stability of
+longer-run inflation expectations since the 2000s had not been tested by a
+persistent burst of high inflation. It was far from assured that the inflation
+anchor would hold. Concerns over de-anchoring contributed to the view that
+disinflation would require slack in the economy and specifically in the labor
+market. An important takeaway from recent experience is that anchored
+inflation expectations, reinforced by vigorous central bank actions, can
+facilitate disinflation without the need for slack.
+The inflation anchor held, no doubt. But what in the recent experience demonstrates that “vigorous
+central bank actions” were instrumental in it holding? In other words, how can we know whether
+inflation expectations behaved well because people saw supply and pandemic shocks waning and
+inflation beginning to relent by itself, rather than because of anything central bankers did?
+I think the best measures we have of inflation expectations are ones derived from the behaviour of
+those with money directly at stake — that is to say, professional investors who trade both nominal
+and inflation-compensated Treasury bills known as Tips. The chart below shows three measures of
+US break-even inflation (implied by the different prices at which investors are willing to hold the
+two types of bond) at various stretches of time beginning at different points in the future:
+
+Well-anchored market expectations of US inflation
+Expected future (annual %) inflation as implied by inflation-protected Treasury bills, monthly average
+forward rates
+2-year forward rate 2 years hence
+5-year forward rate 5 years hence
+
+10-year forward rate 10 years hence
+
+4
+
+3
+
+2
+
+1
+
+0
+
+The most sensible measure is the 5-year-5-year-forward (implied expectations of average annual
+inflation between five and 10 years from now). I included two others for completeness, but I feel
+the “2y2y” is a bit too close to current inflation and the “10y10y” stretches too far into the future to
+tell us all that much. In any case, they tell a story not too different from the 5y5y.
+Which is, first, that inflation expectations have remained within the level of the first 15 years of this
+century (and that higher level was clearly compatible with low and stable inflation). Second, that
+the post-pandemic recovery brought expected inflation up from the doldrums, where expectations
+had lingered since the oil price falls in the early-middle of the past decade and years of slow
+growth. Third, that expectations stabilised around May 2021 (!), well before monetary policy
+changed.
+
+Can central bankers take credit for this stabilisation? It’s always possible to say, of course, that if
+inflation expectations are stable, it reflects confidence that the central bank will do whatever is
+necessary to stabilise inflation and that central bankers showed by their actions that they merited
+that confidence. It’s always possible to say that because it is hard to think of facts that could
+disprove it. (In fact, one of the papers presented at Jackson Hole found that forecasters’
+expectations of how strongly the Fed would react to inflation changed after the first rate increase in
+March 2022 and were “highly uncertain” before that. But of course that could have been because of
+views that supply-driven inflationary pressures would go away without central bank action.)
+So this does take us into the domain of “Jedi central banking”, the notion that inflation is
+determined by how central bankers can directly work on people’s minds. But if this belief is the
+basis on which monetary policy can be judged successful, the assessment risks being more selfcongratulatory than self-questioning.
+Powell finished his speech by stating: “The limits of our knowledge — so clearly evident during the
+pandemic — demand humility and a questioning spirit focused on learning lessons from the past
+and applying them flexibly to our current challenges.” That is a very wise admonishment.
+
+Other readables
+As the EU is about to start a new five-year political cycle, my latest FT
+column argues that it’s a good time to cast your mind forward and
+contemplate what would make the period look like a success in retrospect.
+IMF researchers examine the trade effects of China’s subsidies.
+To follow up last week’s Free Lunch on Kamala Harris’s economics, I found
+a piece by John Cassidy in the New Yorker and one by Jen Harris in the
+New York Times interesting.
+Ukraine has agreed a debt restructuring with its private sector bondholders.
+
+Recommended newsletters for you
+Chris Giles on Central Banks — Your essential guide to money, interest rates, inflation and what
+central banks are thinking. Sign up here
+Unhedged — Robert Armstrong dissects the most important market trends and discusses how
+Wall Street’s best minds respond to them. Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Macroeconomics
+Global inflation
+US inflation
+Central banks
+Monetary policy
+
+

@@ -1,0 +1,130 @@
+FT PROFESSIONAL
+
+Opinion Free Lunch
+
+It’s still wrong to panic on US inflation
+Latest US data releases continue to show pandemic disruption, not excessive
+demand
+
+MARTIN SANDBU
+
+US consumer price growth rose at the fastest pace in four decades in December © AFP via Getty Images
+
+Martin Sandbu
+Published JAN 20 2022
+
+This article is an on-site version of Martin Sandbu’s Free Lunch newsletter. Sign up here to get
+the newsletter sent straight to your inbox every Thursday
+
+Last week, US inflation numbers for December were released. They showed year-on-year inflation
+at 7 per cent, the highest rate in four decades. This caused much alarm. Much of it is based on an
+ill-conceived reading of the data, for three reasons.
+
+First, please ignore year-on-year measures. Whatever is driving price dynamics, these forces are
+liable to change fast and unpredictably.
+We know this because they have been changing fast and unpredictably already. Take this example:
+last February, consumer prices were a subdued 1.7 per cent higher than a year earlier. That was no
+good guide to the big jumps in prices in the months that immediately followed, which drove the
+year-on-year rate above 5 per cent (and will keep it there for some time even if monthly inflation
+comes right back down this month).
+It would have been wiser to look at the monthly rate of change (mea culpa: I did not). It was the
+fourth consecutive monthly price acceleration, showing a rapid change in inflation pressures, and it
+hit a rate of change that, if sustained, would on its own eventually push yearly inflation above 4 per
+cent.
+
+Because of this, the head-turning inflation data should not have been December’s, but that of
+September and October, when monthly inflation soared back up, high above sustainable levels,
+after decelerating from the early summer peak (see chart below). After that, high year-on-year
+numbers were arithmetically baked into the December release, and anyone professing to be
+shocked by the December numbers without pointing this out is not enlightening you (nor perhaps
+themselves).
+
+Second, what do we learn from the December release that is new?
+Most importantly, that overall inflation has been moderating fast. The (seasonally adjusted)
+monthly rate has fallen by half in the past two months. The same pattern holds for all the main
+subcategories — including food prices, and energy inflation has even turned negative — but one.
+The exception is commodities excluding energy and food, for which prices are growing at a stable
+but high rate.
+
+In particular, there is no pick-up in broad services inflation, which has also halved in the past two
+months. Non-energy services price inflation is stable; energy services price inflation is negative.
+Those who, like me, expect inflation to fall by itself do so because we do not think it is caused by
+excessive aggregate spending, but by the enormous and unprecedented shift of spending away from
+services towards goods. Nothing in the December numbers gives a reason to give up that belief.
+Those who fret about inflation are on the lookout for price pressures spreading from goods to
+services. There is not much to support that fear either.
+If we think that people will eventually allocate their spending between goods and services more or
+less like they did before the pandemic (or that global capitalism will soon enough adjust to any
+modest, permanent shift in their shares), then we should expect goods price inflation — which is all
+there is at the moment — to go away too.
+The important data release to wait for, then, is not for inflation but for gross domestic product: on
+January 27 we will get a sense of whether growth in the fourth quarter continued the tentative
+trend away from spending on goods and back towards services, which could be gleaned in the third
+quarter. As I have said before, reasonable disagreement on inflation must logically come down to
+different views on whether this will happen.
+A colleague has pointed out that 0.3 per cent month-on-month services inflation could still make
+for 3.7 per cent price growth over a year if sustained. That is true — but it is right on par for
+services inflation. For decades, overall inflation near 2 per cent has meant services prices rising at 3
+per cent or more, and goods prices falling enough to bring the average down.
+
+My colleague Rana Foroohar made an important point in her column this week: if durable goods
+prices stop falling like they used to, this averaging will no longer work. But why should they? The
+factors Rana mentions — reshoring, 3D-printed manufacturing and decarbonisation — could shift
+up the cost of goods. But apart from a one-off shift, why should these reduce productivity growth
+in how we make goods? 3D printing, in particular, should boost productivity. In any case, once
+consumption patterns settle, so should normal sectoral inflation rates.
+Third, the fear of rising inflation is usually expressed as a fear of a wage-price spiral. So another
+string of US data releases — of wage data, showing average hourly earnings rising about 6 per cent
+year on year — have got people worried. Here too, things look different with the monthly changes
+— overall wage growth has come down sharply. But it is true that wages for ordinary workers
+(“production and nonsupervisory employees”) keep rising strongly.
+
+The fear is that as businesses face rising costs, they jack up prices. But wage pressure is not the
+same as cost pressure. The best measure of how much labour compensation is costing businesses is
+instead the Employment Cost Index, which includes non-wage compensation costs (such as
+benefits and health insurance). That did rise strongly in the third quarter, the latest available (look
+out for Q4 on January 28) — by 1.3 per cent in three months. Year on year the figure was 3.7 per
+cent.
+But we should note that this comes after a dip in compensation growth early in the pandemic: on
+average, employees only cost employers 6.2 per cent more than two years earlier. It also comes
+after decades of employee compensation failing to match productivity growth. To judge whether
+growth in employment costs constitute “pressures”, we should compare it with labour productivity.
+And if we merely match the (weak) growth in real output per hour worked of the past decade,
+which averaged 1.1 per cent a year, employers can, with no real cost pressure, absorb yearly labour
+compensation growth of 3.1 in a world of 2 per cent inflation. That is a conservative estimate; it
+ignores both that compensation has lagged behind productivity growth — so there is room to catch
+up — and that a high-pressure economy can help lift productivity growth.
+All this reasoning is based on the state of the US economy. Other economies have seen rising
+inflation but for different causes. In particular, Europe has not experienced the same extraordinary
+swing from services to goods spending, as OECD chief economist Laurence Boone has just
+highlighted in a recent blog post (see her chart below).
+
+There are other sources of inflation — Europe’s energy squeeze, above all — but there are clear
+signs that policymakers all over the world are now grappling with a goods price inflation very much
+made in America.
+
+Other readables
+A pan-European public sphere is coming into being — or is it only a pan-EU
+one?
+Can the invisible hand still work — and what happens to its intellectual
+predecessor, Bernard Mandeville’s Fable of the Bees, if everyone is on
+Facebook?
+
+Numbers news
+My FT colleagues have put together a marvellous postcode tool where you
+can see how your very own high street fared in the UK’s pandemic.
+UK inflation, too, is at a record high.
+
+Recommended newsletters for you
+Unhedged — Robert Armstrong dissects the most important market trends and discusses how
+Wall Street’s best minds respond to them. Sign up here
+City Bulletin — Our pre-market update and commentary. Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Martin Sandbu
+Free Lunch
+US inflation
+
+

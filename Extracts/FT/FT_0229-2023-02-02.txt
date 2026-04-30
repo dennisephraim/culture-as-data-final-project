@@ -1,0 +1,153 @@
+FT PROFESSIONAL
+
+Opinion Unhedged
+
+Is the Fed ignoring market risk?
+And Meta stock doubles
+
+ROBERT ARMSTRONG
+
+© Financial Times
+
+Robert Armstrong and Ethan Wu
+Published FEB 2 2023
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+This article is an on-site version of our Unhedged newsletter. Sign up here to get the newsletter
+sent straight to your inbox every weekday
+
+Good morning. It looks like the US is in a manufacturing recession. Yesterday’s ISM manufacturing
+report showed the sector shrinking for the third straight month, and the ISM index has dipped
+below where it bottomed in recent non-recessionary downturns, such as 2015-16. The contrast with
+the consumer side of the economy is striking. Email us your thoughts: robert.armstrong@ft.com
+and ethan.wu@ft.com.
+Shameless plug: Armstrong is the guest on this week’s Behind the Money podcast. Listen in and
+subscribe!
+
+The Fed vs markets
+Neither Federal Reserve chair Jay Powell’s press conference yesterday, nor the official statement
+that preceded it, held many surprises. Both acknowledged that disinflation has begun in earnest,
+that growth is slowing, but that “ongoing increases” in interest rates are nonetheless likely. In the
+presser, Powell sounded measured. He cheered on disinflation while cautioning that the process
+was at an early stage. The Fed, he added, is still holding out for “substantially more evidence” that
+inflation is coming down for good. Asked if it was time to halt rate increases, Powell pushed back:
+
+Why do we think [a couple more rate hikes are] probably necessary? Because
+inflation is still running very hot . . .
+We don’t see [higher rates] affecting the services sector ex-housing yet. Our
+assessment is that we’re not very far from that [appropriately restrictive]
+level. We don’t know that, though . . .
+I think policy is restrictive. We’re trying to make a fine judgment about how
+much is restrictive enough.
+Markets looked indecisive after the statement came out, but took the press conference as dovish.
+The policy-sensitive two-year yield dropped some 13 basis points in the half-hour Powell was
+speaking. The Nasdaq closed up 2 per cent.
+
+What struck us most was Powell’s calm, almost blasé attitude towards the wide gap between
+markets’ rate expectations and Fed’s policy guidance. Futures markets are pricing in roughly 50
+bps of rate cuts by the end of 2023, leaving the policy rate at 4.4 per cent, an outlook which did not
+budge after the meeting. The Fed, in December, said it expected rates to end the year at 5.1 per
+cent. Questioned about the mismatch, Powell said:
+
+I’m not particularly concerned about the divergence, no, because it is largely
+due to the market’s expectation that inflation will move down more quickly.
+Our forecasts, generally, are for continued subdued growth, some softening
+in the labour market, but not a recession. We have inflation moving down to
+somewhere in the mid-3s . . .
+Markets are past that. They show inflation coming down much quicker than
+that. So we’ll just have to see. We have a different view, a different forecast,
+really. And given our outlook, I don’t see us cutting rates this year, if our
+outlook turns true. If we do see inflation coming down much more quickly,
+that’ll play into our policy-setting, of course.
+In other words, Powell sees inflation moderating without plummeting, meaning rates will stay
+high. Markets see inflation dropping like a rock, pushing the Fed to cut.
+Is Powell right to be unbothered? His remarks yesterday emphasised how much tighter financial
+conditions are today than, say, a year ago, while playing down the importance of “short-term
+moves” in the markets. The chart below, of the Chicago Fed’s financial conditions indicator, shows
+both the marked tightening since mid-2021 and the extent of recent loosening:
+
+The most persuasive argument for Powell’s nonchalance is that, by all indications, monetary policy
+is working as intended, if slowly. Demand, wage growth and inflation are all cooling off. Mortgage
+rates have fallen 100bp from their peak, but that still leaves them 350bp higher than in 2021. This
+is having the hoped-for effect on the real economy; existing-home sales fell 38 per cent in 2022, for
+example. That broad story — off a peak but plausibly restrictive — holds for bond yields and credit
+spreads, too. The recent loosening isn’t ideal but if policy is working, why worry about what the
+market expects?
+The case against Powell’s nonchalance about the gap hinges on credibility. This is a vague concept,
+but Unhedged defines it simply: it is the ability of a central bank to jawbone the market. It is
+important that the central bank can change financial conditions just by talking about policy, as
+opposed by actually enacting policy, especially for keeping inflation expectations anchored.
+
+The idea that Powell is putting his credibility at risk by looking past the Fed-market gap comes
+down to the idea that market conditions are undercutting central bank policy. High stock prices
+and tight bond spreads are inflationary; they make more capital available to companies, make
+households feel richer, and so on. Powell, therefore, should further tighten policy, bringing markets
+to heel (Richard Bernstein recently made this sort of argument in the FT; Mohamed El-Erian
+presented a different version on Bloomberg.)
+Credibility, though, cannot be established by posturing or signalling. It is the product of
+consistently having the correct policy. It would be absurd to suggest that the Fed should build its
+credibility by pursuing a policy that is wrong for employment or price stability. So Powell has to
+choose a rate level that he thinks will get financial conditions to the right place at the right pace. An
+optimistic market is a consideration determining the right policy rate, because it loosens financial
+conditions. But the market’s failure to mirror the Fed’s inflation outlook is not a reason, over and
+above financial conditions, to tighten policy in the name of credibility.
+That said, we are worried about the Fed-market gap, not because of credibility but because of
+market risk. Suppose the Fed is right and the market is wrong, and the path to lower inflation does
+not run smooth. Say in a few months we get some bad news on inflation, forcing the market to
+move its estimate for the peak policy rate up and extend its expectations for how long high rates
+will last. That could lead to a very large, very fast repricing in markets.
+Remember that the S&P 500 is 15 per cent off its lows of October, while junk bond spreads have
+tightened by a full percentage point. If that were to reverse all at once, as the economy was already
+shrinking, that could easily turn what might otherwise have been a mild recession into a severe
+one. This does not strike us as a particularly unlikely scenario, simply because inflation tends to be
+volatile and markets are very jumpy about rates right now.
+Is it Powell’s job to control market risk? Should he target lower stock and bond prices directly?
+We’re not sure, and are very interested to hear readers’ thoughts. (Armstrong & Wu)
+
+Mark Zuckerberg gets the message
+Meta reported earnings after the close yesterday. Revenue was a little better than expected, but the
+big news was meaty cuts to the outlook for operating expenses in 2023 (from $97bn at the
+midpoint to $92bn) and capital expenditure (from $35.5 to $31.5bn).
+In the conference call, Zuckerberg said 2023 would be “the year of efficiency” at Meta and said his
+goal was to make the company not just stronger but more profitable.
+The stock, already up 3 per cent on the day, rose another 19 per cent in after-hours trading, The
+shares have now doubled (doubled!) from its November lows, when it looked like expenses were
+rising fast while revenue set to fall. Back then I wrote:
+
+If Zuck can cool it [on expenses] my guess is that Meta shares have a lot of
+upside — so long as the company’s digital ad sales slowdown doesn’t get
+much worse. I have no idea about this. Of course this is all very crude (“Just
+spend less money and talk like a grown-up and the stock will go up!”) but
+some problems have crude solutions.
+Have my dreams come true? Maybe. The cost cuts are good news, but put them in perspective.
+Operating expenses in 2023 are still set to be 30 per cent higher than they were two years before;
+capital expenditure, 30 per cent higher. No one is going to start calling him ‘Mark the knife’.
+On the earnings call yesterday, one analyst asked exactly the right question: in years to come, is the
+plan for expenses to rise in line with revenues, or is the company still in margin-compression
+mode? Slightly alarmingly, the CFO gave a vague answer, pointing to expectations of
+“compounding earnings growth” over time.
+Meta, at its lows, traded at 11 times forward earnings estimates, a huge discount to the market.
+Now, at 22, it is at a small premium, despite cloudy prospects for earnings growth. Readers can
+come to their own conclusions.
+
+One good read
+I missed it when it came out last spring, but this detailed account of how social media feeds
+political polarisation, from the social psychologist Jonathan Haidt, is a must-read for Facebook
+investors (and probably the rest of us too).
+
+Recommended newsletters for you
+Cryptofinance — Scott Chipolina filters out the noise of the global cryptocurrency industry.
+Sign up here
+Swamp Notes — Expert insight on the intersection of money and power in US politics. Sign up
+here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Robert Armstrong
+Unhedged
+US economy
+US inflation
+Equities
+
+

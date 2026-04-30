@@ -1,0 +1,168 @@
+FT PROFESSIONAL
+
+Opinion Unhedged
+
+Inflation-linked gilts come unlinked
+And the put panic that wasn’t
+
+ROBERT ARMSTRONG
+
+© Financial Times
+
+Robert Armstrong and Ethan Wu
+Published OCT 11 2022
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+This article is an on-site version of our Unhedged newsletter. Sign up here to get the newsletter
+sent straight to your inbox every weekday
+
+Good morning. The UK sovereign bond market is now so volatile that comments on it are hostage
+to fortune. By the time our US readers open this email, things may have changed completely. But
+Unhedged likes living on the edge. Email us: robert.armstrong@ft.com and ethan.wu@ft.com.
+
+Gilts
+Here’s a chart:
+
+UK 10-year inflation-linked gilt yields rose 64 basis points yesterday, hitting 1.24 per cent. This is
+an absolutely bonkers move. In price terms, the 10-year linker fell 5.5 per cent; developed world
+sovereign bonds are not supposed to move like that (the 30-year linker was down 16 per cent on
+the day).
+
+At the same time, very strangely, nominal 10-year gilt yields rose by much less — 23bp. In a brief
+story, our friends at Bloomberg noted that the move in linkers was the largest since at least 1992,
+and said the move was driven by “concerns over market frailties ahead of the Bank of England
+ending its bond-buying operations”. That sweepy phrase seems to mean “we don’t really know
+what is going on here”. Unhedged sympathises; we don’t really know what is going on here, either.
+All we can offer are the following thoughts:
+
+Economic fundamentals cannot explain this move. In a liquid and efficient
+market, index-linked bonds would be a proxy for the real rate of interest.
+The real rate of interest in the UK did not double yesterday. Also, in a liquid
+and efficient market, nominal bond yields minus inflation-linked bond
+yields is proxy for inflation expectations. Ten-year inflation expectations
+did not fall by 40bp yesterday.
+This move is partly to do with liability driven investment strategies at
+pension funds. The very rapid rise in yields which followed the Liz
+Truss/Kwasi Kwarteng “mini” Budget announcement left LDI investors
+with big losses on their rate hedges, forcing them to sell gilts to raise cash.
+LDI investors own a lot of inflation-linked gilts, as well, and have been
+forced into selling them. But there is a crucial difference: the Bank of
+England is not buying inflation-linked gilts as part of its temporary market
+stabilisation programme. Given that the inflation-linked market is
+relatively thin to begin with, the presence of forced sellers in the absence of
+a buyer of last resort adds up to an ugly day.
+While not as wild as the move in linkers, the move in vanilla gilts is a big
+deal, too. As the FT reported:
+
+Monday’s fall in gilts came despite the BoE announcement earlier in the day
+of a new short-term funding facility to avoid a “cliff edge” when the central
+bank’s £65bn emergency bond-buying programme ends this week.
+On a day when the UK government also sought to reassure markets by
+bringing forward the date of a debt-cutting plan, the 30-year gilt yield
+jumped 0.29 percentage points to 4.68 per cent. The gilt market has been
+unsettled since the government announced unfunded tax cuts last month.
+The BoE announced yesterday that it was raising the upper limit of its daily
+purchases of long-dated bonds from £5bn to £10bn. It also announced a
+temporary repo facility “to enable banks to help ease liquidity pressures
+facing their client LDI funds”. The facility allows banks to borrow using a
+range of securities, including index-linked gilts, as collateral. The idea is
+that the banks will be able to act as intermediaries for LDI investors who
+need to raise cash. Neither move worked. As of Monday, the long end of the
+curve was clearly out of the BoE’s control.
+We don’t yet know why the bank’s interventions have not worked (we’re
+trying to talk to more of the people involved). But there is something odd
+about the fact that, before yesterday, the bank had a cumulative purchase
+ceiling of £40bn, and had purchased only £5bn in bonds. Yesterday, it set a
+daily limit of £10bn and bought just £853mn — while bond prices were
+crashing. We don’t know the details yet, but from the outside, this sure
+looks like a halfhearted intervention, not so much yield curve control as
+politely asking the yield curve, if it wouldn’t mind terribly, to behave itself,
+just for a few days? Please?
+
+Unhedged is still a little puzzled about how all of this got started and why it
+is all so bad. There was a simple narrative when the “mini” Budget was
+announced and the market recoiled. Fiscal deficits were going to rise. That
+meant the supply of gilts would increase, pushing their prices down. What’s
+more, the budget implied an odd combination of tight monetary and loose
+fiscal policy. This, along with some general clowning around with the
+budget process, meant that the extreme market moves could be explained
+by the loss of credibility, or, if you prefer, a widening risk premium on UK
+gilts. But the fact that much of the fiscal programme has now been rowed
+back, and the market is still not pacified, suggests there is more to this
+story. Part of this is the LDI funds puking bonds into the market. Part of it
+is the simple fact that the global policy tightening cycle impairs liquidity
+and risk appetites. But Unhedged suspects there is something more going
+on.
+That something more may be international. Bund yields moved 15bp
+yesterday, too.
+This story ain’t nearly over.
+
+Put options panic
+Record put option volumes have been getting a lot of play in the financial press, including here at
+Unhedged. We quoted this FT story two weeks back:
+
+Investors are buying record amounts of insurance contracts to protect
+themselves from a sell-off that has already wiped trillions of dollars off the
+value of US stocks.
+
+Purchases of put option contracts on stocks and exchange traded funds have
+surged, with big money managers spending $34.3bn on the options in the
+four weeks to September 23 . . . The total was the largest on record in data
+going back to 2009, and four times the average since the start of 2020.
+Institutional investors have spent $9.6bn in the past week alone.
+A Bloomberg story, citing the same research, emphasised surging premium costs — seen as a
+measure of demand for downside protection:
+
+Seasoned investors, staring at a world clouded by war, inflation and
+economic uncertainty, are buying catastrophe insurance at a record clip.
+Institutional traders paid $8.1bn to initiate purchases of equity puts last
+week, the highest total premium in at least 22 years, Options Clearing
+Corporation data compiled by Sundial Capital Research show. Adjusted for
+market capitalisation, demand for hedges matches levels from the 2008
+financial crisis.
+The spree is the latest evidence of sky-high anxiety on Wall Street . . .
+You can understand why this gets attention. It fits with a general vibe of fear and anxiety. Charts
+like this don’t exactly inspire confidence:
+
+But one reader, who works in the derivatives business, warned against taking this data at face
+value. Higher put option volume doesn’t necessarily mean rising fear, he argued. There is no
+distinction in the data between those who buy put options as a bearish bet against stocks and those
+who are hedging a separate position. Plus, there’s an entire industry of options market-makers with
+a different set of incentives — trying to harvest the bid-ask spread while managing risk. In a higherrate world, our reader argued, market makers could even be trading options to earn a bit of carry.
+Higher put volume is not proof of panic.
+Put premiums also need to be understood in context. Nitin Saksena and Gonzalo Asis, derivatives
+analysts at Bank of America, compare the total premium that put buyers pay to hedge with the total
+premium received by put sellers (the two can be different because buyers and sellers often transact
+with market makers, rather than directly with each other). The difference in the two premiums is a
+proxy for supply-demand balance in puts. Hedging demand for puts is elevated, though not to any
+level suggesting panic, Saksena and Asis say.
+
+Moreover, the “put skew” tells a different story. This is a measure of what investors will pay for
+protection against large equity drops relative to protection against smaller dips. The additional cost
+of insuring against big drops has been falling all year:
+
+Saksena and Asis make the point that what really moves options markets is a rush-for-the-doors
+selling spree in equities. However, what we’ve seen this year has been more incremental, a long
+string of 2-3 per cent sell-offs, giving investors time to adjust. That may be the silver lining of a
+Federal Reserve tightening cycle that you could see from a mile away. (Ethan Wu)
+
+One good read
+Is Vladimir Putin’s gas weapon failing?
+
+Recommended newsletters for you
+Cryptofinance — Scott Chipolina filters out the noise of the global cryptocurrency industry.
+Sign up here
+
+Swamp Notes — Expert insight on the intersection of money and power in US politics. Sign up
+here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Robert Armstrong
+Unhedged
+Gilts
+Sovereign bonds
+Markets
+
+

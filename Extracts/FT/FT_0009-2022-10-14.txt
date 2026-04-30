@@ -1,0 +1,123 @@
+FT PROFESSIONAL
+
+Unhedged Gilts
+
+Inflation, a shelter story
+Plus, gilts are chill now
+
+© Financial Times
+
+Robert Armstrong and Ethan Wu
+Published OCT 14 2022
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+This article is an on-site version of our Unhedged newsletter. Sign up here to get the newsletter
+sent straight to your inbox every weekday
+
+Good morning. An absolutely epic swing in stocks yesterday — from a miserable opening after the
+hot consumer price index report to an exuberant close — left Unhedged as puzzled as everyone
+else. Short covering? Derivative hedges unwinding? Technical voodoo? We don’t know, but a big
+equity rally on a day when the futures market priced in another 25 basis points of Fed rate
+increases was not on our bingo card. If you have a theory, we’re all ears: robert.armstrong@ft.com
+and ethan.wu@ft.com.
+
+Inflation is still hot
+Sure, they’re hot, but didn’t we know that already? That’s what Unhedged wondered as we read the
+latest CPI numbers, which showed falling headline numbers but a searing 0.6 per cent core
+inflation (ie, ex-food and energy) figure for September. It was a chunky miss for inflation analysts,
+who collectively had estimated 0.4 per cent core inflation.
+Some highlights:
+Inflation remains a services story. Core services prices rose 0.8 per cent in the last month, above
+the 0.6 per cent August reading.
+Services inflation is still mainly about shelter, the reliably hot (0.7 per cent in both August and
+September) category that makes up more than half of core services.
+Goods disinflation is finally showing up. Falling shipping costs, commodity prices and swelling
+inventories offered hints this would happen, but any impact on CPI has been subtle. No longer:
+Medical care (12 per cent of core services) rose unexpectedly, driven by the surging cost of eye
+appointments. Chances are this will fade. As we’ve written, next month’s inflation report will
+update the annual insurance data used to price medical services, flipping it to an inflation drag.
+Transportation services (10 per cent of core services) shot up 1.9 per cent, well above August’s 0.5
+per cent. It is hard to know how much this means. The category has been far more volatile, in both
+directions, since 2020:
+
+Little in the report suggests inflation is about to spiral higher. To the contrary, goods deflation
+tacked on another drag. What’s happening in services is more debatable, but our view is that as
+services components such as medical care and transportation moderate, inflation will go from a
+story about services to one about shelter.
+That raises the question, hotly debated on Thursday, of where shelter inflation is heading.
+Remember that CPI shelter is calculated from rental data. Doves argue that private rent indices
+have already turned over, but that CPI lags the rental market by nine months or so. That lag stems
+from CPI incorporating the full universe of new and existing leases, while private indices look only
+at new leases. If history repeats, CPI shelter (red line below) should soon start following market
+rents (grey and blue lines) down. From Nomura:
+
+But there’s another way to look at it, as Adam Ozimek of the Economic Innovation Group pointed
+out to us. The chart above is of rent growth, but rent levels matter too. Ozimek shared this chart on
+Twitter showing the widening gulf between private market rents and CPI rents since the
+coronavirus pandemic:
+
+In the long run, Ozimek has found, CPI rent levels catch up with private market rent levels, but
+shocks to market rents — like, say, a pandemic — are only reflected in CPI after a delay. He takes
+that to mean there is momentum now built into shelter CPI, even with rent growth slowing.
+Methodological issues make estimating how much momentum tricky.
+Ozimek discourages panic, and Unhedged is not panicked. But we do fear inflation’s descent will be
+a long slog, and a story chiefly about shelter prices won’t change that. Thursday, in other words,
+gave the Fed few new reasons to slow down. (Ethan Wu)
+
+Gilt market: problem solved?
+The “mini” Budget mini-crisis may end with a whimper, not a bang, judging by Thursday’s
+markets. The pound is now stronger than the day before the budget announcement:
+
+Thirty-year gilt yields are still much higher than they were before the announcement, but they fell
+Thursday:
+
+And index-linked gilts — a particularly important asset in the current crisis, as pension funds
+dominate the market for them — only rose a little:
+
+Bank of England governor Andrew Bailey can nod at these charts with satisfaction. His ultimatum
+to markets seems to have pushed pension-fund gilt sellers into the BoE’s bond-buying program
+and calmed the markets. The bank bought another £4.7bn in gilts yesterday, most of them linkers,
+and it has one more day of buying left (it says). But of course the relative calm on Thursday was not
+just the result of Bailey’s toughness. This helped, too:
+
+Liz Truss was on Thursday locked in discussions on a major U-turn on the
+government’s “mini” Budget, prompting a market rally amid expectations
+that a £43bn package of unfunded tax cuts is unravelling.
+
+Government insiders confirmed talks were taking place on whether to
+unwind parts of chancellor Kwasi Kwarteng’s fiscal statement, with
+speculation it could involve scrapping a planned £18bn corporation tax
+cut . . .[a] person close to the government discussions on the “mini” Budget
+said: “No decisions have been taken.”
+An LDI pension manager told Unhedged that the mood was “quieter” but that he expected the
+market to follow the politics. He noted another factor, too. Speculators have taken advantage of the
+crisis to short long gilts and may want to cover soon, giving the market support over the next few
+days.
+The biggest question is whether the pension funds as a group are now out of the woods: if they have
+sold enough liquid assets to meet margin calls, and have made a start towards resetting their
+portfolios for higher rates and rate volatility. I don’t know how to estimate how close the funds are,
+but if the liquidity crisis passes without permanently damaging balance sheets, the pensions could
+emerge in better shape than before, as Toby Nangle (the guy who saw this mess coming) has just
+written in Alphaville.
+The real test for the gilt market will be on Monday, when the BoE is out of the market; markets on
+Fridays tend to act like Monday will never come. Fingers crossed.
+
+One good read
+Gideon Rachman talks to Alexander Gabuev about Vladimir Putin and nuclear weapons.
+
+Recommended newsletters for you
+Cryptofinance — Scott Chipolina filters out the noise of the global cryptocurrency industry. Sign
+up here
+Swamp Notes — Expert insight on the intersection of money and power in US politics. Sign up
+here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Gilts
+UK Budget
+US inflation
+Markets
+Unhedged
+
+

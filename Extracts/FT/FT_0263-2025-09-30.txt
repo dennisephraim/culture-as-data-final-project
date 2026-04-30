@@ -1,0 +1,254 @@
+FT PROFESSIONAL
+
+Chris Giles on Central Banks Central banks
+
+New thinking frameworks at the Federal Reserve
+Fed governor Stephen Miran, new research and updated models are challenging US monetary stances
+
+New Federal Reserve governor Stephen Miran explains why interest rates should be lower © Bloomberg
+
+Chris Giles
+Published SEP 30 2025
+
+This article is an on-site version of our Chris Giles on Central Banks newsletter. Premium
+subscribers can sign up here to get the newsletter delivered every Tuesday. Standard
+subscribers can upgrade to Premium here, or explore all FT newsletters
+
+New Federal Reserve governor Stephen Miran laid out radical new thinking on US monetary policy
+last week, justifying rapid and deep interest rate cuts. To the relief of almost everyone, the recent
+Donald Trump appointee, who is on leave from chairing the White House’s Council of Economic
+Advisers, did not simply say he wanted lower interest rates because the US president told him so.
+He made an economic argument.
+His view is a rejection of Jay Powell’s empirical approach to policymaking. The Fed chair always
+makes clear that interest rates are set “based on the incoming data, the evolving outlook and the
+balance of risks”. Miran prefers a more theoretical conviction-based approach. The transparency is
+admirable, but his strategy appears to be mostly just picking the juiciest cherries to put in his
+policy bowl, adding dustings of voodoo economics and arbitrary assumption, and coming up with a
+super-sweet new monetary policy framework.
+He uses three broad arguments: inflation will fall, and that the neutral rate (R*) is lower and the
+output gap is higher than the central bank thinks. This is standard Taylor-rule thinking, and is
+summarised in the chart below.
+From the current roughly 4 per cent US interest rate, he says persistently lower migration will
+lower rental inflation, reducing overall price pressures and allowing for lower interest rates. The
+big green category depicts what he suggests is a lower neutral rate, owing to the Trump
+administration’s migration policy and fiscal programme (tariffs and the One Big Beautiful Bill Act).
+Looser regulation raises the output gap by boosting potential output.
+All the numbers are taken directly from Miran’s speech, using midpoints where ranges were given.
+Empirical estimates are taken from economic literature.
+
+Miran's monetary magic
+How the Fed governor gets from the current Fed funds rate to his optimal rate (% points)
+Inflation
+R*
+Output gap
+
+Current rate
+Taylor rule
+Rents
+Deregulation + energy
+Migration
+
+The chart shows the benefits of this sort of conviction economics. Within a standard monetary
+policy framework, it is immediately transparent what Miran thinks. And that is better than
+decoding a ream of speeches and articles.
+The estimate is also almost certainly in the right ballpark. Lower migration should decrease the
+neutral rate of interest, because there will be less demand for funds to invest in new property, for
+example. Of course, lower investment also reduces the economy’s sustainable growth rate.
+There are, however, four big problems.
+First, each element is separately guessed and assumes few spillovers to other areas. For example,
+Miran argues that fewer migrants will lower rental inflation. But while counting that as
+disinflationary, he ignores the inflationary pressures coming from lower labour supply. His
+estimate misses half of the story.
+
+Second, the fiscal assumptions are flawed. Accepting tariffs are a tax increase, Miran says they will
+lower the US budget deficit as a share of GDP. This, he adds, will reduce the neutral rate, because
+the US will seek to borrow less. It is standard stuff, though the estimates are large. Then, he says
+Trump’s tax-cutting budget lowers the deficit because it stimulates so much growth. This is voodoo
+economics of the exact sort that so annoyed George H W Bush in 1980. The Reaganite experience
+of twin deficits proved Bush right.
+It’s quite something to assume both lower and higher taxes raise revenues. If only the world was
+like that. Fiscal policy would be so easy.
+If you add the Congressional Budget Office estimates of tariffs and the budget bill together, as I did
+here and roughly in the chart below, the overall effect on the deficit is around zero. Whatever you
+think about the assumed sensitivity of R* to budget deficits, it is not going to budge much.
+
+With tariffs and the Big Beautiful Bill Act, the US fiscal position suggests
+stable but high deficits
+US federal government deficit forecast (% of GDP)
+CBO January 2025
+
+CBO January 2025
+
+Plus Big Beautiful Bill Act
+
+Plus tariffs
+
+Plus Big Beautiful Bill Act
+
+8
+
+6
+
+4
+
+Third, Miran is cherry-picking when it comes to deregulation. Some financial and energy
+deregulation might raise potential output and allow for lower interest rates, but the distortions to
+the US economy from tariffs, immigration and policy uncertainty go in the reverse direction.
+
+Finally, the conviction element of this economics assumes we know roughly what the neutral rate
+is. In truth, R* is extremely difficult to pinpoint. When talking to the FT last week, Chicago Fed
+president Austan Goolsbee said it was important to think how R* might have changed. But he calls
+the measure “R-Sasquatch” after the mythical Big Foot, because “you can never see it”.
+This is where Miran’s arbitrary assumption comes in. Markets have raised long-term interest rate
+estimates a lot this year, but Miran disagrees with them. How much? Well, he says his low R*
+number is two-thirds correct, and financial markets are only one-third correct. I don’t understand
+it either. But remember this: markets are wise mysterious beasts until they suggest something
+different from Miran’s priors.
+
+That pretty warm labour market
+Speaking of the Chicago Fed president, Goolsbee has a rather nice new model to hawk around. It is
+a rebadged version of the reserve bank’s previous CHURN model of the labour market. It uses
+available public and private sources to predict the next move in US unemployment.
+Essentially, the Chicago Fed’s labour market indicator weights movements in 11 measures — such
+as separations, hires, Google searches and initial claims — by their success in predicting upcoming
+unemployment rate changes. It is similar in that respect to “FT core”, the underlying inflation
+indices we produce at Monetary Policy Radar. The key benefit of both is the statistics do the
+weighting, which prevents human biases dominating.
+The initial prediction of the Chicago data is below, suggesting the US unemployment rate most
+likely stays steady at 4.3 per cent in September. The probabilities are slightly skewed towards an
+increase, but that is just because the starting point is a 4.32 per cent August unemployment rate.
+The model’s impulse is slightly to the downside.
+
+Real-time data suggests a steady US unemployment rate in September
+Probability of unemployment rate outcomes for September (%)
+Chicago Fed forecast
+
+Historical probability
+
+30
+
+25
+
+20
+
+Tariffs are not that inflationary
+Not to be outdone, the Boston Fed published interesting research on Monday from surveys of
+businesses and households on the inflationary effect of tariffs. Small US businesses have become
+more sure tariffs are here to stay, expecting to pass through roughly 50 per cent of the increased
+costs to consumers, double the pre-April rate. Pass-through rates rise for companies that expect
+the tariffs to last longer. Households are a little more sceptical, anticipating a bigger proportion of
+the tariff costs to be passed on to them.
+
+Businesses now think that tariff pass-through to prices will be around 50
+per cent. Consumers are more pessimistic
+Pass-through of corporate tariff costs to consumer prices (%)
+Type
+
+Importing businesses
+
+Non-importing businesses
+
+Businesses
+
+Consumers
+
+Date of business survey
+
+Expected duration of tariffs
+
+80
+
+80
+
+60
+
+60
+
+40
+
+40
+
+20
+
+20
+
+0
+
+Before April
+
+April
+
+0
+
+August
+
+Under 1 year
+
+1 to 4 years
+
+4 years +
+
+Source: Boston Fed • Lines show 90 per cent confidence interva
+
+Put this research and these numbers into perspective. The Boston Fed’s back-of-the-envelope
+calculations suggest this pass-through level would raise prices 0.75 per cent. That is significant
+without being enormous. This would confirm US tariffs are not that inflationary because goods
+imports are only about 11 per cent of GDP.
+Of course, they still could spark wider inflationary pressure. But surveys such as this suggest the
+tariff fears I had in April do not seem to be materialising.
+
+What I’ve been reading and watching
+Economists overwhelmingly want Christopher Waller to succeed Powell as
+chair of the Fed next year, according to the latest poll from the Clark Center
+for Global Markets at the University of Chicago’s Booth School of Business.
+Populist political party Reform UK met Bank of England governor Andrew
+Bailey, then did some performative grandstanding.
+
+One small trading nation, New Zealand, has imported its new central bank
+governor from another, Sweden. Congratulations to Anna Breman.
+US and European central bankers talked at cross purposes about
+stablecoins at a conference on Monday. I think Waller overestimates
+stablecoin advantages and underestimates crime, while Bundesbank
+president Joachim Nagel exaggerates the risk of the European Central Bank
+losing control of monetary policy.
+
+A chart that matters
+OK, OK. I am now going to criticise financial market pricing, which is a bit rich of me after my
+critique of Miran. Before you point and laugh at my hypocrisy, I acknowledge the tension.
+It is odd, though, that market short-term interest rate predictions in the US suggest rates will fall
+rapidly to around 3 per cent, while in the UK they fall only to around 3.6 per cent.
+Everyone knows the UK has a bit of an inflation problem at the moment. But is it that much worse
+than in the US? Will it persist for the rest of the decade? And do we really think the UK’s nominal
+R* is significantly higher than the US’s?
+My answer to both questions is “no”, but I’d love to know what you think. Email me:
+chris.giles@ft.com.
+
+Markets think UK interest rates will remain persistently higher than those in
+the US
+Policy rates of leading central banks and the evolution of market expectations at start of year and
+late September 2025
+Policy rate and futures curves at dates shown (%)
+
+Fed
+6
+5
+4
+3
+
+Central Banks is edited by Harvey Nriapia
+
+Recommended newsletters for you
+Free Lunch — Your guide to the global economic policy debate. Sign up here
+The Lex Newsletter — Lex, our investment column, breaks down the week’s key themes, with
+analysis by award-winning writers. Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Global Economy
+US economy
+Central banks
+Federal Reserve
+Chris Giles on Central Banks
+
+

@@ -1,0 +1,105 @@
+FT PROFESSIONAL
+
+Opinion Central banks
+
+Inequality is behind central bank dilemma
+Stagflation would create devastating problems for weaker borrowers, notably
+heavily indebted emerging economies.
+
+MARTIN WOLF
+
+© James Ferguson
+
+Martin Wolf
+Published SEP 21 2021
+
+Why are central banks finding their job so hard to do? A common view is that this is because they
+are imbeciles. People who assert this insist that central banks need to keep interest rates in line
+with their historic norms. This is wrong, because historic norms are irrelevant. The questions are
+why and what this implies for our economies.
+
+A paper by Atif Mian, Ludwig Straub and Amir Sufi at the Jackson Hole monetary conference on 27
+August illuminates this issue. It reaches a conclusion, already suggested in their earlier work: the
+principal explanation for the decline in real interest rates has been high and rising inequality and
+not demographic factors, such as the savings behaviour of the “baby-boom” generation over their
+lifetimes, as some have argued.
+The analysis starts with estimates of the real “natural rate” of interest, a concept that goes back to
+the Swedish economist Knut Wicksell. The natural rate, he explained, balances demand and supply
+in the economy, which shows itself in stable prices. The modern doctrine of inflation targeting has
+descended from this idea. Crucially, however, estimates of this rate for the US show a fall from
+about 4 per cent four decades ago to around zero now.
+This decline is matched in other high-income countries, as one would expect: in an open world
+economy, equilibrium real interest rates should converge. As the paper also notes, the decline
+“raises concerns about secular stagnation, threatens asset price bubbles, and complicates monetary
+policy”. Indeed, it is a big part of the reason why central banks have had to make huge asset
+purchases in crisis situations, such as now.
+
+Their main point is that savings rates vary far more by income within age cohorts than they do
+across age cohorts. The differences are also huge: in the US, the top 10 per cent of households by
+income have a savings rate between 10 and 20 percentage points higher than the bottom 90 per
+cent. Given this divergence, the shift in the distribution of income towards the top inevitably raised
+the overall propensity to save. As an explanation of rising propensities to save and the falling real
+interest rate, the shift of the baby-boom generation into middle age does not work, because rising
+savings have been continuous while the impact of the demographic shift on savings behaviour has
+not.
+
+At the aggregate level, savings must match investment. So what happens when the rich get richer
+and so try to save more? Interest rates must fall. It turns out that the impact of this on business
+investment is quite feeble. Indeed, the propensity to invest has been chronically weak, partly for
+demographic reasons. So the offsets have had to come either from persistent fiscal deficits or from
+higher spending by the bottom 90 per cent. Both are fuelled by debt, while the latter is also
+powered by asset price bubbles, especially in house prices. As central banks pursue the natural rate
+downwards, they drive both of these processes. But, as debt ratios rise, natural rates fall still
+further, as the highly indebted become ever less creditworthy.
+
+An objection to this argument is that it is just about one country, however important. But the
+tendency towards more income inequality is shared by almost all large economies, including
+notably China. Indeed, the excess savings of the rest of the world have also shown up in persistent
+US current account deficits. The need to offset the latter has made the task of the Federal Reserve
+yet more difficult.
+
+The financial crisis of 2007-12 should be seen as an outcome of these processes, resolved at the
+time by rescuing the financial system, tightening regulation and doubling down on low rates across
+the yield curve. The Covid crisis was a bolt from the blue but the response was more of the same,
+but on an even bigger scale. This time, moreover, the huge increases in central bank reserves
+actually increased broader monetary aggregates. It is no great surprise, therefore, that the
+combination of supply side disruptions with today’s strong demand are generating “surprise”
+inflation.
+
+So how might the story evolve? There is no powerful reason to expect income inequality, the
+fundamental driver of today’s excess savings, to reverse, although it might stabilise. There is an
+excellent reason for a huge investment boom, notably the climate transition. But that will not occur
+without consistent, determined, intelligent and globally aware policymaking, none of which we can
+expect, though we may hope. So, in the medium to long term, secular stagnation is likely to return,
+unless income inequality falls.
+
+The short term is harder to read, but if it goes wrong, is disturbing, perhaps even for the medium
+term. In his speech at Jackson Hole, Jay Powell, chair of the Federal Reserve, insisted that all is
+under control. But he would say that. The surge in inflation has in fact surprised almost everybody.
+The worry must be that the price shocks persist and then get baked into expectations, which will
+then only be reversed by a period of significantly higher short-term rates. That would cause
+stagflation, which would create painful dilemmas for central banks and surely cause devastating
+problems for weaker borrowers, notably but not exclusively heavily indebted emerging economies.
+The exceptional policies of 2020 can no longer be justified. Given today’s super-low short-term
+interest rates and supportive fiscal policies, it is hard to see why large asset purchases should
+continue, either. We have more than enough money today and bond yields ought to rise a little.
+When the facts change, central banks should change their minds. That time is now.
+martin.wolf@ft.com
+Follow Martin Wolf with myFT and on Twitter
+
+​Letters in response to this article:
+Economists have failed to anticipate pandemic risks / From Professor Tim Congdon, Chairman,
+Institute of International Monetary Research, University of Buckingham, UK
+Declining investment may explain why rates are low / From Marek Dabrowski, Non-Resident
+Scholar, Bruegel, Brussels, Belgium
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Martin Wolf
+Global Economy
+US economy
+Central banks
+Monetary policy
+
+

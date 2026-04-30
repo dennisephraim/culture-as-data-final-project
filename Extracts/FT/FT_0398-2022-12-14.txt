@@ -1,0 +1,170 @@
+FT PROFESSIONAL
+
+Opinion Unhedged
+
+Happy news on inflation
+And the case against Sam Bankman-Fried
+
+ROBERT ARMSTRONG
+
+© Financial Times
+
+Robert Armstrong and Ethan Wu
+Published DEC 14 2022
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+This article is an on-site version of our Unhedged newsletter. Sign up here to get the newsletter
+sent straight to your inbox every weekday
+
+Good morning. We thought the market would explode upwards after the cool US consumer price
+index numbers came out. But the S&P closed up less than 1 per cent. Is a soft landing totally baked
+into prices? Let us know what you think: robert.armstrong@ft.com and ethan.wu@ft.com.
+
+From slow grind to easy glide
+The first thing to say about yesterday’s inflation data release is that it was good. Inflation is too
+high and we’re happy it’s falling. The second is that we got this report wrong. We (and most
+forecasters) didn’t anticipate several disinflationary surprises tucked into yesterday’s CPI numbers.
+The third is that the hard part — for the Fed, the economy and markets — is still to come.
+The data themselves showed a broad-based deceleration in inflation, with month-on-month core
+CPI sinking below 0.2 per cent (or 2.4 per cent annualised). Core goods prices fell 0.5 per cent,
+reflecting overbuilt retailer inventories and normalisation in the new and used car markets.
+Cheaper energy also helped the headline number. The happy trend is clear:
+
+A few quirks flattered the numbers. Airfares, a volatile component that has fuelled transportation
+services inflation since the coronavirus pandemic, plunged, but could easily rebound next month.
+Hotel prices, another noisy bit we discussed last month after they implausibly soared, fell back to
+earth, dragging monthly shelter inflation down to 0.6 per cent from 0.8 per cent. On the central
+housing inflation components, however, November doesn’t look soft at all (chart by Carl
+Riccadonna of BNP Paribas):
+
+These are quibbles, though. Overall, the good news swamped the bad, leaving us a bit less sure of
+our “slow grind down” view of inflation. Our argument hinged on CPI shelter inflation taking a
+while to roll over and transportation services remaining volatile. Both could still prove true, but the
+offsetting drags on inflation look stronger than we thought. (Of course, two data points don’t make
+a trend and we’ll need to see what the coming months hold.)
+What will the Fed, which meets today, make of yesterday’s data? Remember Jay Powell’s threepronged inflation framework, in which he specified the conditions for the Fed to back off. Here’s a
+progress report:
+
+1 Core goods prices need to keep falling. This is happening.
+
+2 CPI and personal consumption expenditures housing inflation need to
+follow private rent indices down. Too early to tell.
+
+3 Ex-housing core services inflation needs to fall decisively. This is starting to
+happen! Excluding rents, core services inflation rose just 0.1 per cent in
+November, calculates Omair Sharif, CPI guru at Inflation Insights.
+On the last point, Powell claims ex-housing core services inflation is linked to wages. November’s
+numbers make a hash of that idea. Besides shelter, very strong wage growth is not showing up in
+many services prices, making it hard to know how seriously to take Powell’s schema. Someone
+please ask him about this at today’s presser.
+Zooming out, a gentler inflation number probably makes recession less likely, but only a little. The
+Fed is rightly afraid of letting up too early and inflation rebounding. It will press on, though
+perhaps more slowly. And as we’ve written, the biggest trouble will come when inflation is falling,
+but still elevated, while activity data are deteriorating. How the central bank balances its dual
+mandate at the moment will be crucial. Yesterday’s inflation numbers suggest we are approaching
+that decisive point more quickly, and in better shape, than expected. They don’t suggest we’ll avoid
+it. (Ethan Wu)
+
+The SBF allegations
+Before reading the civil and criminal complaints against Sam Bankman-Fried, my view was that
+large financial frauds and scandals develop incrementally. Someone pushes some ethical,
+prudential or legal limit a bit. That smallish violation is so successful that it is repeated, or it
+requires more nasty/dangerous/illegal activity to cover it up. A spiral follows. I think of both the
+Enron accounting fraud and the Wells Fargo fake accounts scandal this way, for example.
+Things go to hell by baby steps, in other words. But if the allegations from SEC, DOJ and CFTC are
+true, this is not what happened at FTX. FTX was hell from the word go.
+From the SEC’s complaint:
+
+From the start of FTX’s operations in or around May 2019 until at least 2021,
+FTX customers deposited fiat currency (eg, US Dollars) into bank accounts
+controlled by [FTX’s affiliated hedge fund] Alameda
+. . . Alameda did not segregate these customer funds, but instead commingled
+them with its other assets, and used them indiscriminately
+And:
+
+Alameda was able to maintain a negative balance in its customer account at
+FTX . . . No other customer account at FTX was permitted to maintain a
+negative balance
+And:
+
+. . . In or around May 2022, as prices of crypto assets were dropping
+precipitously, several . . . lenders demanded re-payment from Alameda.
+Because Alameda did not have sufficient assets to cover all of these
+obligations, Bankman-Fried directed Alameda to draw on its “line of credit”
+from FTX. Billions of dollars of FTX customer funds were thus diverted to
+Alameda
+FTX did not tell its investors or customers that this was how things worked. On the contrary:
+
+FTX’s Terms of Service . . . assured FTX customers that their assets were
+secure, providing: “you control the Digital Assets held in your Account;”
+“[t]itle to your Digital Assets shall at all times remain with you and shall not
+transfer to FTX;” and “none of the digital assets in your account are the
+property of, or shall or may be loaned to, FTX Trading” . . . FTX represented
+that it “segregates customer assets from its own assets across our
+platforms.”
+From the start — according to the allegations — when you put money in your FTX exchange trading
+account, it went straight to the bank account of a hedge fund that did whatever it liked with it. That
+hedge fund, meanwhile, could accumulate unlimited losses at your expense, doing whatever. You
+were told none of this was allowed to happen.
+No increments here. The whole set-up was ludicrously unsustainable and utterly dishonest on the
+day Bankman-Fried and his partners first hung out their shingle.
+The SEC complaint focuses not on the FTX customers who can’t get their money back, but the
+venture investors who provided equity capital. Joseph Hall, a partner at the law firm Davis Polk
+and an expert on both securities and crypto, says the SEC case is “a garden variety securities fraud
+complaint” and not about crypto per se. “It’s about a capital-raising transaction that defrauded
+investors, a tale as old as time.”
+But the same basic allegation — that Bankman-Fried and FTX told investors that their money was
+segregated and then used it to engage in their own wildly risky speculation — turns into allegations
+of wire fraud, commodities fraud, money laundering and campaign finance violations in the DOJ
+indictment, when a few additional facts, transactions, transfers and donations are added in. In the
+CFTC complaint, the same rotten set-up becomes a violation of the commodities exchange act.
+What to make of all this? Three points come to mind:
+
+1 The allegations are so insane that they make me wonder if Bankman-Fried
+and his lieutenants are quite all there. This is absolutely not to say they
+should not be held fully accountable under the law, if the charges are
+proven. It is important that this happens. But a pure criminal mind would
+not create an organisation as shambolic as the one described in the
+complaints. It may well be true that “this is just plain old embezzlement”, as
+John Ray, FTX’s new, court-appointed chief executive, said yesterday. Yet
+the whole thing also stinks of pathological narcissism, self-delusion and
+cultishness.
+
+2 This makes the complaints an even more withering charge sheet against the
+investment funds that put customer or corporate money into FTX. If the
+allegations are true, can we avoid the conclusion that (for example) Sequoia
+Capital, the Ontario Teachers’ Pension Plan and Tiger Global are a bunch of
+clowns?
+
+3 All that said, I still think the SEC should not treat cryptocurrencies as
+securities, or create a special regulatory apparatus for dealing with them.
+This gives crypto too much credit. They are more like baseball cards, tulip
+bulbs or sports bets than investment products. The SEC can of course come
+after crypto companies for lying to investors, as they have with FTX. But
+they should not treat cryptocurrency buyers as investors. That gives
+cryptocurrencies too much credit. (Hall of Davis Polk embraced my
+baseball analogy, by the way, but thinks it points the other way. “If people
+take all their retirement savings and start trading Topps baseball cards,
+maybe the government should step in and say ‘let’s make sure the market
+for baseball cards is fair’. Your objective view of the asset class is not the
+issue.” Agree to disagree.)
+
+One good read
+Howard Marks on markets’ sea change.
+
+Recommended newsletters for you
+Cryptofinance — Scott Chipolina filters out the noise of the global cryptocurrency industry.
+Sign up here
+Swamp Notes — Expert insight on the intersection of money and power in US politics. Sign up
+here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Robert Armstrong
+Unhedged
+US inflation
+Markets
+FTX Trading Ltd
+
+

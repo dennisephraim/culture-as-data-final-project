@@ -1,0 +1,107 @@
+FT PROFESSIONAL
+
+Unhedged Markets
+
+Humble Jay gets it right
+Higher for longer is the right balance, for now
+
+© Bloomberg
+
+Robert Armstrong and Ethan Wu
+Published SEP 21 2023
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+This article is an on-site version of our Unhedged newsletter. Sign up here to get the newsletter
+sent straight to your inbox every weekday
+
+Good morning. We said in yesterday’s intro that Instacart’s IPO price was too low. Just kidding.
+The stock fell back to its offer price yesterday, 11 per cent down from the day before. Arm, another
+recent debut, fell too. Are we seeing the IPO comeback fizzle? Email us: robert.armstrong@ft.com
+and ethan.wu@ft.com.
+
+An appropriately humble Fed
+Jay Powell’s dislike of the summary of economic projections becomes clearer with each Fed press
+conference. The SEP reports, at every other Fed meeting, the estimates of the 19 members of the
+Fed’s Open Market Committee for growth, employment, inflation and interest rates, over the
+remainder of the current year and for the three years to come. It is not a basis for policy; it’s just a
+survey. The members’ degree of confidence in their estimates is not recorded, but it is surely very
+low. Its quantitative crispness, as personified by the infamous “dot plot” of rate policy expectations,
+is therefore an illusion. And the poor chair has to answer question after question about it. “We’ll
+watch the data,” he says, with perceptibly rising ennui.
+Yet the SEP tells us things, whether the chair likes it or not. When it changes a lot, it shows that
+events have forced a group of influential people, whose job it is to think hard about the economy, to
+change their minds.
+And on a day the Fed opted not to change rates at all, the SEP changed a lot, and in interesting
+ways. Here is the summary table:
+
+Start with the economic view. Since June, growth expectations have risen notably for this year and
+next; expectations for unemployment have fallen notably; and expectations for inflation are all but
+unchanged. Six months ago, this combination would have seemed close to insane. Steady growth,
+extremely low unemployment, and inflation half a per cent from target? You wish, our past selves
+would have howled. And yet here we are. The economy, or at least big parts of it, have reaccelerated, as exemplified by the pick-up in consumer spending this summer. At the same time,
+core inflation has continued to trend down, even if slowly, and unemployment has risen marginally
+at most. Powell has long said the path to a soft landing is narrow, but it sure looks like we are
+walking it.
+
+This makes the policy bit of the SEP all the more striking (that’s the bottom two rows of the table
+above). The committee’s aggregate expectation is for the policy rate to be 5.1 per cent at the end of
+next year, less than two quarter-point cuts below the current level. The market is not ready for this:
+futures imply a 4.7 per cent expectation in December 2024; a week ago, the expectation was 4.4 per
+cent. Absorbing these numbers, and Powell’s tone at yesterday’s press conference, stocks drifted
+down and short-term Treasury yields rose. Several reporters gave voice to the market’s agita,
+asking Powell if he wasn’t worried that, with inflation falling, holding nominal rates higher for
+longer didn’t risk an increase in real rates that would harm the economy unnecessarily.
+A fair question, but we should all bear in mind the critical lesson of the past three years: we don’t
+understand very much about inflation. Those who looked prescient in predicting how high inflation
+would rise in 2021 and 2022 — mostly economists focused on excess demand — almost universally
+failed to predict the rapid decline in inflation, accompanied by economic strength, that we have
+seen in the past 12 months. Economists whose theoretical apparatus explains the last year nicely —
+mostly those focused on the coronavirus pandemic supply shock — look wise now, but were almost
+universally wrong about how bad inflation would get in the first place. An observer who is not a
+partisan of either camp could be forgiven for concluding that we don’t know what is going to
+happen next.
+A similarly careful view of how higher rates affect the economy makes sense, too. The fast rise in
+the policy rates seems to have affected different sectors of the economy very unevenly this time
+around. It has crippled commercial real estate, frozen (but not cracked) the housing market, and
+thrown banks for a loop. But big swaths of the economy, starting with the consumer, seem not to
+have noticed, even in the face of poor sentiment. That’s why we don’t even know if we are at the
+very beginning of an economic cycle or the very end.
+Today’s economic vim may not last. Powell nodded yesterday to a litany of coming headwinds: the
+autoworker strike, $90 oil, resumed student loan payments, a potential government shutdown,
+new highs in long yields. But equally, the US consumer has powered through worse, and real wages
+are on the rise again. What will the net effect be? A proper growth deterioration is plausible, but so
+is the shortlived fourth-quarter GDP “pothole” that Goldman Sachs expects.
+
+Given the indeterminacy, the committee is right to plan — provisionally — to keep rates higher for
+longer. The risk of causing a recession and the risk of allowing inflation to recur are both live, but
+for now punchy growth makes the latter outcome look more dangerous. But if the data changes, the
+Fed can, too. (Armstrong & Wu)
+
+One good read
+No one does media intrigue like Michael Wolff.
+
+FT Unhedged podcast
+Can’t get enough of Unhedged? Listen to our
+new podcast, hosted by Ethan Wu and Katie
+Martin, for a 15-minute dive into the latest
+markets news and financial headlines, twice a
+week. Catch up on past editions of the
+newsletter here.
+
+Recommended newsletters for you
+Swamp Notes — Expert insight on the intersection of money and power in US politics. Sign up
+here
+The Lex Newsletter — Lex is the FT’s incisive daily column on investment. Sign up for our
+newsletter on local and global trends from expert writers in four great financial centres. Sign up
+here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Global Economy
+US economy
+US inflation
+US interest rates
+Markets
+
+

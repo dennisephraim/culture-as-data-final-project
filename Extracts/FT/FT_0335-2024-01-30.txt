@@ -1,0 +1,307 @@
+FT PROFESSIONAL
+
+Chris Giles on Central Banks Central banks
+
+The Fed’s battle against inflation is almost complete
+Disinflation is evident, however you look at the price statistics
+
+Those inside the Federal Reserve can almost celebrate the defeat of inflation © Reuters
+
+Chris Giles
+Published JAN 30 2024
+
+This article is an on-site version of our Chris Giles on Central Banks newsletter. Sign up here to
+get the newsletter sent straight to your inbox every Tuesday
+
+This is the second week of major central bank monetary policy meetings. There have been no
+moves so far and none expected from the Federal Reserve tomorrow or the Bank of England on
+Thursday. As the chart below on Tokyo’s inflation rate in January shows, central bankers’ words
+can age quickly and badly. I’d love to hear your thoughts on which statements from central bank
+officials have been undermined most rapidly by brutal reality. And don’t say “transitory inflation”,
+that took at least four months. Email me: chris.giles@ft.com
+
+Almost there . . .
+In the US, officials must feel they are almost within touching distance of “immaculate disinflation”,
+the elimination of rapidly rising prices without an economic downturn or any meaningful rise in
+unemployment.
+Over the past week, the inflation data has been encouraging and the US economy expanded at an
+annualised rate of 3.3 per cent in the fourth quarter of 2023 (for the benefit of most of the rest of
+the world and headline writers everywhere, this irritating American growth reporting convention
+translates to a quarterly growth rate of 0.8 per cent). Before Fed officials went into their “blackout
+period” you could sense the anticipation of good news with titles to speeches such as Fed governor,
+Chris Waller’s, “almost as good as it gets . . . but will it last?”
+Depositors, borrowers and investors want to know where US official interest rates are heading.
+Last week, I said that you should trust the Federal Open Market Committee’s projection that there
+would be three rate cuts this year unless inflation was materially better than the FOMC’s December
+2023 summary of economic projections or economic prospects were significantly worse. With only
+good news coming from the real side of the economy, this week I will take a closer look at the US
+inflation figures published on Friday.
+The figures to watch are the personal consumption expenditure deflator figures (PCE) preferred by
+the FOMC to the consumer price index (CPI) measure because officials think they are more
+comprehensive, more consistent over long periods and reflect more timely household spending
+patterns.
+
+So that we don’t commit bucket or time crime, below is a table of US annualised PCE inflation over
+different measures and time periods. The idea of putting a whole bunch of inflation measures in
+one table came from Professor Jason Furman of the Harvard Kennedy School, although I’ve made
+slightly different methodological choices. I’ve also added the weight of each inflation measure so
+you can see how much of the whole index is excluded. All errors are mine.
+Look first at the 12-month figures — these are the normal year-on-year comparisons that tell you
+how much prices have changed in the past year. The Fed will be pleased that the core rate,
+excluding food and energy, has fallen below 3 per cent in December. But as Martin Sandbu
+explained last week, these 12-month figures often tell you as much about what was happening a
+year ago than more recently. It is therefore worthwhile to look at more recent periods, but
+annualising the change in prices so they are comparable with the 12-month numbers.
+Look at the blue summary median of all other measures and on one-month, three-month and sixmonth annualised bases. PCE inflation is down to 2 per cent or below on each. For sure it is higher
+on a few underlying measures, especially the Dallas Fed trimmed mean measure and the Cleveland
+Fed median inflation measure (which both tend to be a bit laggy), but we can conclude that
+inflation has hit the Fed’s 2 per cent over the past six months at least.
+
+US inflation is under control
+December 2023 annualised PCE inflation for different categories and various time horizons
+
+1m
+
+3m
+
+6m
+
+12m
+
+PCE
+Weight
+
+Headline
+
+2.0
+
+0.5
+
+2.0
+
+2.6
+
+10
+
+Core
+
+2.0
+
+1.5
+
+1.9
+
+2.9
+
+88
+
+Market based core
+
+1.5
+
+1.7
+
+2.0
+
+3.0
+
+76
+
+Core ex housing
+
+1.0
+
+0.3
+
+1.0
+
+2.2
+
+73
+
+Core services ex housing
+
+3.0
+
+2.0
+
+2.7
+
+3.3
+
+Median PCE
+
+2.6
+
+2.8
+
+3.1
+
+3.8
+
+Trimmed mean PCE
+
+2.6
+
+2.3
+
+2.6
+
+3.3
+
+Median of measures
+
+2.0
+
+1.7
+
+2.0
+
+3.0
+
+50
+
+The question for rates is how these figures compare with the FOMC’s summary of economic
+projections. The answer is very well indeed. Compared with the December forecasts (when most of
+the data was already available), a quarter of the FOMC thought headline inflation would have been
+higher in the fourth quarter of 2023 and none thought it would be lower. More than 40 per cent of
+the committee forecast a higher core rate of inflation over the same period and, again, none
+thought price pressures would be weaker.
+
+5
+
+The data for December, of course, tells us nothing about 2024, except that better than expected
+inflation performance at the end of 2023 might continue. The FOMC will therefore have seen
+evidence that is reassuring, but probably not enough yet to signal a March rate cut or a change in
+view in the appropriate number of rate cuts this year. That might be obvious by the March 20
+meeting.
+If you liked the table above, but thought, “I wonder how these figures have moved over the past
+year or so”, they are all in the chart below. But do look also at the shaded minimum and maximum
+values — these show the broad swath of US inflation measures all falling back to target.
+
+The comprehensive picture of US disinflation
+Annualised inflation (%)
+Enter series to show
+Max
+Min
+Headline 12m
+Core services ex housing 12m
+
+Core 12m
+Market based core 12m
+Core ex housing 12m
+Median PCE 12m
+Trimmed mean PCE 12m
+
+8
+
+6
+
+4
+
+With disinflation clearly a feature of the US economy, it is worth thinking what is preventing the
+Fed cutting the federal funds immediately. The four following reasons are likely to feature.
+
+1 Strong growth. With expansion at a year-on-year rate of 3.1 per cent in the
+fourth quarter, the US economy performed better than every FOMC
+member expected as recently as the December 2023 economic projections.
+The highest forecast on December 13 was 2.7 per cent. It would be a brave
+period to base monetary policy decisions on current growth rates since the
+link between economic performance and inflation has been catastrophic of
+late, but strong growth is a good excuse temporarily to do nothing.
+
+2 Uncertainty. As I wrote a few weeks back, the Fed thinks the world is
+unusually uncertain, so is likely to want to wait before taking a big decision.
+
+3 Reversal risk. Last week’s newsletter highlighted how central bankers hate a
+U-turn. This delays action.
+
+4 Low costs of waiting. Since there are few signs of pain in the US economy, it
+is reasonable for officials to say the cost of delay in cutting rates is low. This
+is entirely valid.
+
+A dovish European Central Bank?
+The ECB last week left its interest rates on hold with a statement almost identical to that in
+December. Christine Lagarde said: “The disinflation process is at work.” I am not going to engage
+in a lengthy textual analysis of her words (or those of the multiple national central bank governors
+who have spoken since the meeting) because it is pretty pointless.
+Instead, the ECB emphasised data dependency, so it is clear that a reasonable central expectation
+would be that it starts to cut rates around June. Earlier action is not ruled out and would come if
+there was sufficiently good news on inflation, signs of more rapidly slowing wage growth or bad
+news on economic activity.
+As the chart below shows, the ECB’s meeting itself was viewed in forward interest rate markets as a
+little dovish, but the much bigger move has been a realisation by market participants that they
+became too excited about quick and deep rate cuts over the Christmas period.
+
+Expectations of eurozone interest rates did not move much last week
+ECB deposit rate, EURIBOR 3m-futures (%)
+Deposit rate
+
+Now
+
+One week ago
+
+One month ago
+
+4
+
+3
+
+2
+
+What I’ve been reading and watching
+Your views on whether Christine Lagarde was correct and wise to have a
+pop at economists interested me all week. My summary of them is that you
+are quite evenly split on whether her comments were correct although the
+intensity of feeling among supporters was stronger. People were more
+reluctant to say whether her words were wise.
+
+At the Peterson Institute, David Wilcox, former lead economic forecaster at
+the Fed, gives a candid assessment of what the US central bank got wrong
+recently (too rigid foreword guidance, mostly). But he said the pandemic
+period was so unusual, central banks should not rush into changing their
+forecasting or inflation-fighting frameworks.
+The UK’s Bank of England and Treasury published responses to their
+consultation on a “digital pound”, the UK’s proposed central bank digital
+currency. There were more than 50,000 responses and privacy was one of
+the most often cited concerns. The authorities’ answer was a series of
+guarantees. Any digital pound would not be programmable to expire after a
+certain date or contain conditional contracts such as limiting what it could
+be used to purchase. It would be private (without being anonymous) and
+designed to ensure people would always have a trusted payment
+mechanism in future.
+For the longevity of his reporting, the breadth of his canvas and comments
+on central bank policies, John Plender’s lessons from 55 years of investing
+is a must-read.
+
+A chart that matters
+Japan released figures for Tokyo’s inflation in January. These are an excellent predictor of the
+national figures coming later in February. Headline and core inflation (excluding fresh food) fell
+well below expectations in January and well below the Bank of Japan’s 2 per cent target. They
+came three days after the BoJ said it was more confident than it had been that inflation would be
+sustainable at its target level. Oh dear.
+
+The Tokyo headline and excluding fresh food measures of inflation plunged
+in January, signalling a coming fall in the wider Japan measures
+Annual inflation rate (%)
+
+4
+
+3
+
+Recommended newsletters for you
+Free lunch — Your guide to the global economic policy debate. Sign up here
+Trade Secrets — A must-read on the changing face of international trade and globalisation.
+Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+US inflation
+
+US interest rates
+Central banks
+Federal Reserve
+Chris Giles on Central Banks
+
+

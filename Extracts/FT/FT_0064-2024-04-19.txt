@@ -1,0 +1,157 @@
+FT PROFESSIONAL
+
+Alphaville US inflation
+
+A contrarian take on the US inflation freakout
+Not as bad as it looks — better for the Fed to keep calm, and carry on?
+
+Get your own here: https://www.redbubble.com/shop/ap/133489040
+
+Tej Parikh
+Published APR 19 2024
+
+There’s a peculiar practice in financial markets: expressing shock when economic data don’t match
+forecasts that few had faith in the first place. It’s happening right now with US inflation.
+Last week’s core CPI growth for March came in at a 0.359 per cent month-on-month, against a
+consensus of 0.3. A ‘whopping’ 0.059 percentage points higher. Cue frantic re-pricing of expected
+US Fed rate cuts for 2024.
+
+Admittedly, it was the third consecutive above-expectation reading. So it’s entirely reasonable to
+think the Fed’s stance on three rate cuts for 2024 may change (Powell suggested as much on
+Tuesday). But it feels a bit flawed to base rate reconsiderations — pricing from 3 cuts to 1 or no cuts
+— on a series of missed inflation forecasts that few had confidence in anyway. Best to understand
+why it came in higher than expected first.
+The chart below shows the contributions of various components to annual US CPI inflation. Shelter
+(housing) has been a driving factor, and to a lesser extent, transport. Both were behind the
+surprises in the month-on-month data across January, February and March. They help make up
+the sticky services component.
+
+Housing costs are keeping inflation elevated
+Contributions to annual US CPI inflation, % points
+CPI inflation (%)
+Food
+Energy
+Transport services
+Other
+
+Core goods
+
+Shelter
+
+Medical services
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+
+-2
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+Source: BLS; FT calculation
+
+Digging further — shelter is itself driven by “Owners’ Equivalent Rent of Residences”. This is the
+BLS’ estimate of what owner-occupiers would pay if they rented their homes. It gets a chunky 34
+per cent weight in core CPI (which excludes food and energy). Motor vehicle insurance is driving
+the transport services bar.
+So what? Calculations of OER are dubious (it is imputed based on rents for comparable rental
+housing). The EU HICP and UK’s CPI measures — which the ECB and BoE target, respectively —
+exclude it. As Andrew Hunter, US economist at Capital Economics put it:
+
+Much of the debate on inflation across developed markets right now is being
+driven by comparing apples to oranges.
+(There could be another problem: circularity. Moody’s chief economist Mark Zandi argues that
+housing supply is being constrained by tight monetary policy, which pushes up rents and therefore
+OER. Also, higher insurance claim costs — which may itself be due to inflation — can push up
+premiums. But that’s for another time.)
+Anyway, the Fed targets PCE inflation. That measure places less emphasis on OER (core PCE gives
+it only a 13 per cent weight). It also measures insurance inflation net of claims.
+Below is annual US inflation on a CPI, HICP and PCE basis. As you can see, measures with less
+emphasis on OER are a lot closer to target. And there’s a headline you don’t see: US inflation is
+actually the same as in the eurozone (when comparing like for like)
+
+But surely CPI still reflects the price growth US household feel? True, to an extent. But, as UBS
+Global Wealth Management chief economist Paul Donovan says: “Because OER is completely made
+up, the true the cost of living for a homeowner is more benign than headline CPI would have us
+believe”. (Many market players already know this, but it can still cause volatility).
+Even if you’re still wedded to CPI, it should come down. OER tends to lag private indicators of rent
+— see the chart below. Insurance also operates on rolling contracts. Right now, auto insurers are
+perhaps pushing up premiums to make up for higher post-pandemic costs. Both should settle, but
+it will require patience.
+
+Bottom line: the CPI is noisy right now. It makes sense to focus on PCE to get a better handle on
+underlying inflation pressures, which is what should matter to the Fed anyway.
+As Donovan at UBS points out:
+
+The Fed seems to be caught in a bit of a trap at the moment. It elevated the
+importance of CPI as a measure back in mid 2022, despite traditionally
+favouring PCE. That makes it difficult to be cutting rates when headline CPI
+is 3.5 per cent.
+The dispersion of price pressures in the PCE is now being driven by a narrow portion of the index
+(mainly shelter, and other supply-driven inflation factors). The spread between increasing and
+decreasing elements of the index is now running below its historic average.
+
+Does that mean Powell’s turnaround midweek is a mistake? To answer that, it is worth assessing
+PCE’s overall direction of travel.
+The producer price index reflects price pressures within the supply chain, and is a decent leading
+indicator of the prices households end up facing. Annual PPI growth for final demand goods is now
+back in line with its historic range. Barring any further supply chain snags or energy shocks, PCE
+goods should be well behaved.
+
+As for the labour market, Goldman Sachs has compared several measures of tightness. The average
+z-score — a statistical measure which relates a single data point to the mean of a group of values —
+across all measures is essentially back to pre-pandemic levels.
+
+This suggests pressures on wages ought to continue easing. Indeed’s latest tracker shows annual
+growth in posted wages is back down to 2019 levels. That means the services component of core
+PCE should ease further too.
+
+Pulling this together, the disinflation narrative appears alive and well for PCE. Pressures in good,
+services and shelter (food and energy are less of a problem now) are abating, or already have.
+But to be complete, there may be a political incentive for cuts too, notes State Street Global
+Advisors, which is now considered a contrarian for still backing rate cuts. The Fed may ideally want
+to make cuts before the US election campaigning really kicks off, given the optics.
+The asset manager also cites cracks in America’s growth story despite aggregate resilience on the
+surface — which Alphaville and Free Lunch have also emphasised recently — such as rising debt
+delinquencies, rapidly declining SME hiring expectations, and the fact that the mean perceived
+probability of losing one’s job in the next 12 months is now above pre-pandemic levels according to
+the NY Fed Survey. ..
+In summary:
+— The market’s recent re-pricing is partly based on data realities, but also impatience, an
+overemphasis on headline CPI, and panic.
+
+-The disinflation narrative remains alive and well. Current stickiness is driven by idiosyncratic
+factors, including measurement differences.
+-The Fed’s emphasis on data dependence has tied its hands. It is finding it hard to ignore the run of
+three above expectation CPI prints, despite the detail, forward dynamics, and PCE all looking
+benign.
+-Given how restrictive real rates are, pockets of economic weakness and where underlying inflation
+is — excluding all the noise — the Fed probably still needs to cut rates.
+Still, given Powell’s midweek comments the Fed looks more likely to cut later, and potentially by
+less this year.
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+US inflation
+Federal Reserve
+Alphaville
+Tej Parikh
+
+

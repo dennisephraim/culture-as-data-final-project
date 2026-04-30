@@ -1,0 +1,130 @@
+FT PROFESSIONAL
+
+Opinion Unhedged
+
+Will the Fed scrap 2 per cent?
+And what it might do instead
+
+ETHAN WU
+
+© Financial Times
+
+Ethan Wu
+Published MAR 6 2023
+
+This article is an on-site version of our Unhedged newsletter. Sign up here to get the newsletter
+sent straight to your inbox every weekday
+
+Good morning. After weeks of climbing higher, yields fell on Friday, setting off a relief rally in
+stocks. Suspects include dovish Fedspeak and erratic services activity data. Neither seems terribly
+durable to us. Higher for longer is the unmistakable drumbeat coming from the Fed.
+
+Today, we look ahead to a choice the central bank may well face later this year, which has been
+attracting interest on Wall Street. Email us: robert.armstrong@ft.com and ethan.wu@ft.com.
+
+Why the Fed might fudge
+The Federal Reserve has pledged to keep inflation somewhere around 2 per cent. Here is one
+problem with that:
+
+If inflation is largely unpredictable, and hence not finely controllable,
+then . . . the central bank could always argue that wide misses were the result
+of bad luck, not bad faith . . . This possible escape hatch for the central
+bank . . . suggests that building up credibility for its inflation-targeting
+framework could be a long and arduous process.
+This, from a 1997 paper by Ben Bernanke and Frederic Mishkin, captures why there is so much
+hand-wringing anytime someone suggests the Fed ditch its 2 per cent inflation target. Central bank
+credibility — often defined as its ability to influence long-term interest rates through the shortterm policy rate and strategic communication — is hard-won and easily lost. Changing the wellestablished 2 per cent target risks throwing years of hard-earned credibility away.
+Might the Fed do it anyway? On that question, Jay Powell is very tight-lipped. But later this year,
+he could face an agonising choice between abandoning 2 per cent or engineering a recession.
+Inflation is an enigma, but as Don Rissmiller of Strategas has argued for months, history suggests
+it is symmetrical; it falls about as fast as it rises. This implies there is a long way to go, with
+mounting job losses along the way. It’s no large leap to imagine a scenario where inflation is falling
+but still above target, while unemployment is rising but not yet recessionary. The political pressure
+to loosen policy would be immense. The Fed might conclude raising its inflation target, or at least
+acting chill about enforcing it, is the best of a bad set of options.
+
+On the merits, though, the case for a higher inflation target — perhaps 3 per cent — is strong. First,
+it lets prices adjust more flexibly. In general people like price cuts but hate wage cuts, an
+asymmetry that makes downturns more violent. Firms have to slow price growth but can’t do the
+same for wages, so they stop hiring instead. Research suggests running inflation a touch hotter
+gives prices more room to move, dampening the hit to employment and growth.
+Second, and more importantly, a higher inflation target keeps rates further from the dreaded zero
+lower bound. At the ZLB, cutting rates doesn’t do much and the policy alternatives, such as
+quantitative easing, are messy and more poorly understood. Policy rates are set in nominal terms,
+but the larger policy stance (how tight or easy monetary policy is) depends on real rates, which in
+turn depends on inflation. Running inflation hotter would produce higher nominal rates for any
+given policy stance. That would give the Fed more room to lower nominal rates when it needs to.
+Even critics of a higher target nod to this. They counter on different grounds. Maybe 2 per cent
+isn’t theoretically optimal, but moving to 3 per cent, especially now, would wreck Fed credibility.
+As Jonathan Pingle, chief US economist at UBS, put it to us:
+
+If the central bank suddenly said, ‘OK, our inflation target is 2, we’re not
+meeting that target, so we’re gonna make the target 3’, then immediately the
+next question for most economic agents should be: ‘well, maybe they’ll turn
+around and make it 4’. And if they do that, maybe they’ll turn around and
+make it 5. That logic is a slippery slope . . . Once it starts to erode [it] creates
+real problems for the effectiveness of monetary policy.
+Those problems might include long rates pricing in a big inflation risk premium the Fed can’t
+dislodge. Last year’s UK gilts crisis shows what can happen in the short run when policymakers
+lose credibility, notes Michael Metcalfe of State Street Global Markets. Nothing good. Even if
+something that extreme is unlikely, he thinks a “bond market buyers’ strike” can’t be ruled out.
+
+Thundering into this discussion is Olivier Blanchard, the French economist who has for a decade
+(including in the FT last year) advocated a higher inflation target. Blanchard told Unhedged he
+thinks the case for a higher target is “overwhelming”. As an academic matter, few would dispute
+that. But in policymaking terms, too, he downplays the risks to credibility:
+
+I think, in the right environment, a one-time goalpost move would be
+credible. There is no slippery slope here. It is clear that the earlier
+conclusions and computations that 2 per cent was the right target, and the
+probability of hitting the ZLB was small, were wrong. I think any reasonable
+economist, including [Harvard’s Kenneth Rogoff and Gramercy’s Mohamed
+El-Erian], agree about that.
+I think there is zero risk of moving the target further and further. I heard the
+same argument about credibility when central banks started QE.
+The point here is that context matters. Dropping anchor at 3 per cent — a still-low inflation rate
+that makes rate-setting easier in the long run — as the price of avoiding a recession wouldn’t mean
+the Fed has tossed out its inflation mandate. It means it’s weighing the balance of risks and picking
+the better option. As we like to say, it makes no sense to do stupid policy in the name of credibility.
+However, Blanchard concedes that some credibility hit is likely. Rather than an inflammatory
+formal target change, he expects a Fed fudge:
+
+When inflation is down to, say, 3 per cent, at some stage in, hopefully, the
+not too distant future, I am nearly sure the debate will be: Are we willing to
+further increase unemployment in order to get to 2 per cent, or should we
+revisit?
+
+I suspect the debate will be muddled, central banks will not formally change
+their target, but will be more relaxed about getting to 2 per cent.
+As Andy Haldane pointed out in the FT on Friday, a less aggressive attitude towards the speed of
+disinflation, once it is clear that policy is tight enough (not there yet!), is the Fed’s hidden policy
+tool. “They don’t talk about this as a lever,” adds Claudia Sahm, the former Fed economist now at
+Sahm Consulting. “But the reality is that it’s very fuzzy, and not by accident.” Some discretion over
+“when, and how fast, and how long” would help “take some pressure off of this 2 per cent vs 3 per
+cent” debate, she says.
+But make no mistake: the Fed exercising discretion is a policy choice, carrying many of the same
+risks as an explicit target change. Sahm points out that before the pandemic, the central bank
+considered changing its target to 3 per cent, but declined to do so. The Fed likes 2 per cent
+inflation, in other words. Giving that up to avoid a recession would be defensible. But that decision
+feels precarious indeed.
+
+One good read
+In his widely read annual letter, Dan Wang on China’s lockdowns: “Weibo censored the first line of
+the national anthem: ‘Arise, you who refuse to be slaves.’”
+
+Recommended newsletters for you
+Cryptofinance — Scott Chipolina filters out the noise of the global cryptocurrency industry.
+Sign up here
+Swamp Notes — Expert insight on the intersection of money and power in US politics. Sign up
+here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Ethan Wu
+Unhedged
+US inflation
+Central banks
+Federal Reserve
+
+

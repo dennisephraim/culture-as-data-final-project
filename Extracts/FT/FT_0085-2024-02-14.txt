@@ -1,0 +1,155 @@
+FT PROFESSIONAL
+
+Unhedged Markets
+
+Everyone calm down about CPI
+Plus, a very large taxi company becomes profitable
+
+© FT montage/Bloomberg
+
+Robert Armstrong and Ethan Wu
+Published FEB 14 2024
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+This article is an on-site version of our Unhedged newsletter. Sign up here to get the newsletter
+sent straight to your inbox every weekday
+
+Good morning. A day after we questioned whether Arm was properly an AI stock, the shares fell 20
+per cent. Apologies! More generally, markets were shaken by yesterday’s consumer price index
+data. Unhedged, on the other hand, is taking it in stride, as you will see below. Email us:
+robert.armstrong@ft.com and ethan.wu@ft.com.
+
+Reserving judgment on inflation
+Markets took yesterday’s hotter-than-expected CPI inflation report hard. The two-year Treasury
+yield rose 17 basis points. That sent the S&P 500 down 1 per cent, and the small-cap Russell 2000
+down 4 per cent. Futures markets now price in fewer than four 25bp interest rate cuts in 2024,
+down from five a week ago.
+This looks like an overreaction to us, but look at it from the bond market’s point of view. The
+Federal Reserve can wait for more data before making a call; traders can’t. Yesterday’s CPI
+numbers showed core inflation jutting higher, rising 0.4 per cent on strong increases in services
+prices. “Supercore” inflation (core services ex-shelter) was up a blistering 0.9 per cent. This fits
+with a recent uptrend in the three-month moving average of core CPI, putting it close to 4 per cent
+annualised (see chart below). It makes sense that traders would give more weight to the possibility
+of rising inflation than they were on Monday.
+
+But it’s just one month. In context, the numbers look less scary. Consider:
+
+Inflation expectations, which the Fed thinks are the most important single
+input to realised inflation, are falling. Consumer survey numbers released
+on Monday by the New York Fed showed three-year-ahead expectations
+falling to 2.4 per cent from 2.6 per cent. Across a breadth of measures,
+including market inflation pricing and professional forecaster surveys,
+expectations are anchored and declining:
+January inflation reports tend to be volatile. Many employment and supplier contracts update at
+the beginning of the year. Spencer Hill of Goldman Sachs (who forecasted yesterday’s core CPI
+reading almost exactly) spots this “January effect” in labour-intensive price categories such as
+medical services, personal care and daycare, all of which rose 0.7 per cent. This should fall away in
+February, he thinks.
+
+Recent news is much better for personal consumption expenditure inflation, which is what the Fed
+targets. Even if core PCE prices, published at the end of the month, come in hot, the three-month
+and six-month trends appear benign. In the chart below, we use Goldman’s (relatively pessimistic)
+forecast for a 4.2 per cent annualised rise in core PCE inflation in January. That would lift the
+recent trend above 2 per cent, but not by too much:
+
+Shelter inflation should still cool further, though the timing is anyone’s
+guess. It’s well known that official rent inflation data lags rents on newly
+signed leases, which have plummeted. When this inflation surge began, we
+were told the lag was on the order of nine to 12 months. That proved wrong.
+But it would be odd indeed if rental inflation did not converge to current
+market rents eventually. A soothing chart from Pantheon Macroeconomics
+(the green line refers to an abrupt 0.6 per cent jump in homeowners’
+imputed rents):
+Put simply: we are more relaxed than the bond market. We’ve long argued that inflation would
+grind down slowly but that it would be bumpy. That still looks right. The Fed, which has all but
+sworn off a March cut, has months to collect data, and won’t change its view based on one noisy
+report. If February is similarly hot, that will be a different story. For now, reserve judgment. (Ethan
+Wu)
+
+Uber: still a taxi company? (Revisited)
+Uber will hold an investor update call this morning. Management will discuss strategy and capital
+allocation plans, and we’ll be listening closely. Unhedged has been mostly sceptical about Uber.
+Specifically, we’ve taken the view that at maturity, Uber will have the returns of a very large but
+capital-intensive taxi company, not a big tech company:
+
+[Uber] can’t charge a big premium over what it costs to pay the drivers and
+cover the wear and tear on the cars. Even where it has a monopoly or
+duopoly position in ride-hailing, it is not clear that its service has clear
+cost/speed/comfort/convenience advantages over alternatives such as
+bicycles, buses, subways and local car services. Profits much above Uber’s
+cost of capital, on this argument, seem unlikely to ever materialise.
+Yes, there has been a lot of talk about how Uber is profitable now, and even generates free cash
+flow. We’ve been sceptical about this, too. Uber engages in the widespread and legal, but essentially
+dishonest, practice of not including stock-based compensation expense in adjusted earnings. And
+heavy stock-based compensation inflates free cash flow, too:
+
+Imagine a company that issues new shares to the public, then uses the cash
+raised to pay employees. One would not be tempted to exclude that cash
+expenditure from free cash flow. But in the case where the company cuts out
+the public, and just gives the shares to employees directly, the same
+economic value is being given away.
+But wait! In 2023, Uber reported positive true free cash flow, operating cash flow after both capital
+expenses and stock-based comp, of $1.4bn last year:
+
+Meanwhile, Uber’s smaller competitor, Lyft, reported earnings last night, and said they, too,
+expected positive free cash flow next year (not true free cash flow, of course). The industry looks to
+be firming up.
+That Uber is profitable in cash terms is a big deal. That does not, however, resolve the question of
+whether it is just a big taxi company. Yes, it generates cash. But its returns are still below that of
+traditional transport companies. Uber’s return on capital last year was 3.1 per cent, according to
+S&P Capital IQ (ROC is basically after-tax profit divided by shareholders’ equity plus debt). JB
+Hunt, which is a big old capital-intensive diesel-burning trucking company that owns its own
+trucks, earned 11 per cent (and that was its worst year in more than two decades; trucking is in a
+slump). That’s a wildly imperfect comparison, but it’s close enough to show that 15 years into its
+existence, Uber’s profits still look nothing like a technology company’s (Alphabet and Meta’s
+returns are close to 20 per cent).
+
+The hard question is: now that Uber has cut expenses and raised prices in its core ride-sharing
+(“Mobility”) business, what is its growth rate? Uber booked almost $70bn in rides last year and
+returns were low. Presumably, the way to high returns is by getting bigger still. How quickly can
+that happen? Analysts feel the uncertainty. Here is Morgan Stanley’s Brian Nowak, being
+diplomatic but using lots of capital letters:
+
+The Market Needs Improved Rides Disclosure to Better Understand What is
+Informing UBER’s Investment Decisions: We have broken down Uber’s
+Mobility Gross Bookings multiple ways, including high frequency vs low
+frequency users, Core UberX vs Non-UberX, rideshare use cases, new
+geographies . . . all in an attempt to gain increasing confidence in the scale
+and durability of forward Mobility growth . . . the multiyear path of forward
+Mobility growth remains the point of greatest uncertainty in our
+conversations with investors.
+Our scepticism about Uber has been thawed a bit by the appearance of nice, warm free cash flow.
+But we still don’t understand why the business would produce the increasing returns to scale that
+many tech companies enjoy. What will make the unit cost of incremental sales fall from here?
+Where is Uber’s exclusive intellectual property? Is urban transport really winner-take-most? Until
+we see more evidence, we’ll continue to see Uber as a fast growing, moderately profitable transport
+company. There is nothing wrong with investing in a transport company, of course — so long as
+you know that is what you are investing in.
+
+One good read
+Why not own only stocks?
+
+FT Unhedged podcast
+
+Can’t get enough of Unhedged? Listen to our
+new podcast, hosted by Ethan Wu and Katie
+Martin, for a 15-minute dive into the latest
+markets news and financial headlines, twice a
+week. Catch up on past editions of the
+newsletter here.
+
+Recommended newsletters for you
+Swamp Notes — Expert insight on the intersection of money and power in US politics. Sign up
+here
+Due Diligence — Top stories from the world of corporate finance. Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Gig economy
+US economy
+US inflation
+Markets
+Uber Technologies Inc
+
+

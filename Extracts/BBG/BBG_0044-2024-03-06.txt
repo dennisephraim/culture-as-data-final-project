@@ -1,0 +1,124 @@
+Economics | Inflation & Prices
+
+How a Key Rent Metric Can Change Path of US
+Inflation
+
+The January CPI came in above forecasts, with shelter costs contributing more than two-thirds of the overall
+monthly advance. Photographer: Eilon Paz/Bloomberg
+
+By Augusta Saraiva
+March 6, 2024 at 9:24 AM EST
+Save
+
+Translate
+
+5:12
+
+This article is for subscribers only.
+
+The US government sparked a commotion in late February when it
+suggested that a change in a key measure of rental inflation was partly
+responsible for January’s acceleration in the consumer price index. The
+Bureau of Labor Statistics subsequently tried to quell the confusion, telling
+the small group of analysts who had received the message to disregard it.
+
+But economists are still wondering why a seemingly small change could have
+had such a significant impact — why the so-called owners’ equivalent rent
+metric jumped so much at the start of the year and if that pace will be
+sustained, and how that will affect CPI forecasts and Federal Reserve policy.
+1. What is the owners’ equivalent rent measure?
+Owners’ equivalent rent of primary residence, known as OER, is the largest
+of four components that make up the shelter category in the CPI report. The
+measure — designed to account for the fact that most Americans own their
+homes rather than rent — tracks changes in what hypothetical rents would
+be if owners were to lease their properties instead of owning them.
+2. How is it measured?
+Every component of the CPI has two inputs: the change in price, and the
+weight that item is given in the overall CPI basket. Figuring out the weight of
+OER is trickier than it is for things like potatoes for two reasons. The markets
+for single-family detached housing and apartment complexes have different
+price dynamics, meaning that to get prices right, the percentage of each in
+the units whose prices are being sampled should reflect their proportions in
+real life.
+But while the sample would ideally include 80% single-family units, in
+reality it’s closer to evenly split between such homes and apartments in
+multifamily units. And the BLS doesn’t want to overemphasize this small
+sample of single-family units to close the gap.
+3. Do the weights change?
+The BLS updates the weights of all components in the CPI annually to more
+accurately reflect Americans’ spending patterns. The release of the January
+2023 CPI had a key change for OER — in order to boost the representation of
+single-family homes in some samples where there weren’t enough, the
+agency was going to give those units additional weight. While the weights of
+all categories in the CPI are made public, the BLS typically doesn’t share the
+weights within OER. That is, how much weight single-family detached
+homes are given compared with multifamily units.
+
+Throughout 2023, the change didn’t seem to make much of a difference in
+OER from month to month. But the release of the January 2024 report threw
+economists for a loop.
+4. What happened then?
+The January CPI — released Feb. 13 — came in above forecasts, with shelter
+costs contributing more than two-thirds of the overall monthly advance. The
+OER category, specifically — which accounts for roughly a quarter of the
+overall CPI basket — was largely responsible, rising by the most since April
+2023.
+Economists were puzzled at what was behind the jump, especially since
+another another measure of rent that OER usually tracks closely didn’t rise
+by nearly as much. The BLS said it “received numerous inquiries” on the
+topic, so it sent out an email to a select group of data “super users” on Feb.
+27 in response.
+5. What did the email say?
+“The weights for single family detached homes increased materially from
+December 2023 to January 2024... No additional information related to this
+question will be disseminated,” the BLS email said. One recipient said the
+agency tried to retract it and told them to disregard its contents. This left
+many analysts more confused than before. So the BLS tried to clarify with a
+notice on Feb. 29 that said, “In January 2024, the proportion of OER
+weighted toward single-family-detached homes increased by approximately
+5 percentage points.”
+Economists still aren’t satisfied. Several said that if the weight only increased
+by that much, then prices would’ve had to go up by much more than what
+real-time data suggested in order to propel the observed advance in OER.
+6. What’s the difference between OER and real-time rent measures?
+While metrics from real estate sites like Zillow and Redfin get monthly
+readings on rents, the BLS only polls its sample groups every six months, so
+OER — and therefore the shelter category more broadly — can be slow to
+incorporate real-time data. Unlike the price of eggs — which can vary greatly
+from week to week — rents typically aren’t as volatile, especially if the tenant
+
+renews their lease. So the BLS doesn’t feel the need to update rental prices
+as often, hence the lag in the index.
+7. How does this all affect monetary policy?
+While the CPI housing data feeds into the personal consumption
+expenditures price index, the PCE — which is the Fed’s preferred inflation
+metric — assigns it a much lower weight. That’s one of the reasons why
+central bankers say they favor the PCE over the CPI, and also partly explains
+why the PCE is running closer to the Fed’s 2% target. Both inflation gauges
+picked up in January, which helps illustrate why policymakers have said
+they’re in no rush
+to start cutting interest rates. But economists at the
+Fed and on Wall Street still expect inflation to retreat further, so officials say
+lowering borrowing costs will probably be appropriate later this year.
+The Reference Shelf
+The BLS methodology behind OER.
+A Brookings Institute analysis of how the CPI accounts for the cost of
+housing.
+A Richmond Fed explanation of why OER lags other CPI components.
+This Bloomberg QuickTake shows why inflation heats up and is hard to
+cool down.
+— With assistance from Matthew Boesler
+
+Save
+Contact us:
+Provide news feedback or report an error
+Site feedback:
+Take our Survey
+Confidential tip?
+Send a tip to our reporters
+
+Before it's here, it's on the Bloomberg Terminal
+
+©2026 Bloomberg L.P. All Rights Reserved.
+
+

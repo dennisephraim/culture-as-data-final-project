@@ -1,0 +1,337 @@
+FT PROFESSIONAL
+
+Transcript
+
+How bonds make — and break — nations
+The bond market is bigger than ever, and more influential
+
+Ethan Wu and Robin Wigglesworth
+Published AUG 8 2023
+
+This is an audio transcript of the Unhedged podcast episode: ‘How bonds make — and break —
+nations’
+Ethan Wu
+Shadow banking sounds pretty scary. This is the non-bank part of the financial system, which
+we’ve talked about before on the show. Private credit is one big growing part of shadow banking,
+but it’s not the only part [MUSIC PLAYING] and it’s certainly not the biggest part. Much larger is
+the bond market, over $100tn worldwide, and the bond market is playing an increasingly
+important role in financial crises. Bonds really can make or break a country.
+
+This is Unhedged, the markets and finance show from the Financial Times and Pushkin. I’m
+reporter Ethan Wu, here in the New York studio, joined today by FT Alphaville editor Robin
+Wigglesworth, who has written just a tome of a magazine piece. You know, 20 million thousand
+words on bonds, their history and why they should terrify us. Robin, is this the longest piece you’ve
+ever written and that I’ve ever read?
+Robin Wigglesworth
+I hope not (Ethan laughs). It definitely is the longest piece I’ve ever written. But it’s probably the
+longest piece I’ve written just on the bond market, which, you know, not everybody loves as much
+as I do, but I think they should, which is why I wrote the piece.
+Ethan Wu
+Yeah, yeah, yeah. Katie Martin and I, on some of these Tuesday episodes, we’ve talked about, you
+know, how bonds are hot again and how they’re the new trade. And I think it’s difficult to
+understand bonds as a threat to the financial system because they’re seen as stable, right? They’re
+seen as a place you put your money, you collect a sensible yield, you hold it to maturity, maybe you
+sell it or whatever. But it’s not like a stock that it’s gonna be down 50 per cent and then, oh, you’re
+broke. So what does that miss Robin? What is it about bonds that makes them go in the same
+conversation as a financial crisis?
+Robin Wigglesworth
+First of all, it’s just a bigger market. But like stocks can’t make or break the fate of a country, the
+bond market can and frequently has through centuries. And more recently, actually bonds are
+bigger than banks. So basically, for the past thousand years banks have kind of been the engine of
+capitalism. That’s where like credit is extended and credit’s kind of the fuel for the modern
+economy. But over the past, let’s say decade or so, bond markets actually extend more credit, make
+more loans, are more important than banks.
+Ethan Wu
+Yes.
+
+Robin Wigglesworth
+And I think that’s like this huge kind of change to the entire financial ecosystem that we don’t really
+have our arms around completely yet.
+Ethan Wu
+Yes. No, this is such an important point. And I just wanna highlight and reinforce that. Our mental
+model are in a very broad sense of people that have some awareness of finance is 2008, right? We
+had banks are holding all this crap and the banks are going down and they’re getting billed out and
+JPMorgan’s talking to the Treasury and all this stuff, it’s about banks. And I think people assume
+because banking crises have been an important part of financial history and because we have such
+a massive banking crisis so recently in modern memory, that’s how all financial crises originate.
+But that is perhaps decreasingly the case because of the move that you highlight in your piece,
+Robin, of risk from the banking system to the bond market. And we’ll get into this a little bit in
+more detail. But I wanna take us back, Robin, as you do so nicely in your magazine piece, all the
+way back to the 12th century, to the birth of bonds. You can’t talk about bonds without talking
+about war.
+Robin Wigglesworth
+Yeah, that’s right. The first bond was born out of a war, and it’s kind of accidental. Venice went to
+war against Constantinople, didn’t have money to pay for it. So the Doge, the ruler of Venice,
+issued a loan to all its citizens. They all had to lend him money at 5 per cent a year. But they could
+trade that loan. They could trade their pieces of it if they needed to raise cash. And unfortunately,
+Venice got his ass handed to it by Constantinople. So they lost the war. They weren’t able to repay
+the loan, so it became permanent. And that became the first ever bond, the prestiti. And since then,
+they kind of, because it was actually worked out, was a pretty good, nifty invention, good way for
+city-states or countries to fund themselves. It kind of evolved and grew in France, Netherlands
+especially, which is kind of a country that pioneered modern capitalism. And then to the UK, where
+it became the consol market, the UK government bond market, which literally helped it defeat
+Napoleon.
+Ethan Wu
+Wait, hang on, hang on. Bonds beat Napoleon. You’re gonna have to explain that.
+
+Robin Wigglesworth
+Yeah. Bonds beat Napoleon, right? Almost the unvarnished truth (Ethan laughs). But basically, it
+boils down to the fact that, you know, in war, sometimes generals can win it — strategy, tactics —
+but quite often it’s like who can last the longest. And the UK had a smaller economy and fewer
+people than France. So how was it able to withstand so many years of warfare against a much
+larger country? Well, it was able to maintain armed forces, pay for its ships, pay for its soldiers
+much better because it issued bonds.
+Ethan Wu
+Yeah.
+Robin Wigglesworth
+It issued long term bonds to people in the UK.
+Ethan Wu
+Yeah.
+Robin Wigglesworth
+France couldn’t really do that. They had some banks in Paris they could borrow money from. It was
+mostly more short-term debt so it’s harder for France to muster the full might of its economy,
+while the UK was able to do so. So in a meaningful way, bonds did help beat Napoleon.
+Ethan Wu
+Got it. So just, you fast forward a few centuries and for the most part we’re talking about sovereign
+bonds, bonds issued by governments to fund wars, to fund public works projects, whatever it might
+be. But then in the later part of the 20th century, it’s not just sovereigns that are issuing bonds
+anymore. It’s also corporations.
+
+Robin Wigglesworth
+Yeah. For basically, almost a thousand years it’s all governments. I mean, a few big companies so
+the first corporate bond was actually in Amsterdam, is a Dutch East India Company. But it was
+almost all governments until basically the modern era — the sixties and seventies and especially
+eighties. Things started to change quite radically because first of all, bigger companies, more big
+companies started issuing bonds in Europe as well after World War II. They need to rebuild their
+countries. And then in the eighties, you had the birth of junk bonds.
+Ethan Wu
+Right.
+Robin Wigglesworth
+So non-investment grade bonds — kind of riskier bonds — that was pioneered, not invented, but
+really championed by a guy called Michael Milken, who was a bit of a controversial figure. An
+insider trading probe, he got snagged by that in the late eighties.
+Ethan Wu
+And he was pardoned by Donald Trump just a couple of years ago. I mean, this guy is very much
+still around.
+Robin Wigglesworth
+Oh very much still around. He runs a big global conference. And frankly, to his credit, like what he
+did, he turned a kind of sketchy market for dodgy companies into a very legitimate funding . . .
+Ethan Wu
+Yeah.
+Robin Wigglesworth
+. . . avenue for hundreds of thousands of companies around the world. I guess it’s literally a
+multitrillion dollar market, that is a valuable component of the financial system.
+Ethan Wu
+Yeah.
+
+Robin Wigglesworth
+And then also around the same time you had the birth of securitisation. Again, like the technique
+basically had been around for a while. You take lots of individual loans, packaged them up in a big
+bond.
+Ethan Wu
+Yes.
+Robin Wigglesworth
+But in the eighties that really started evolving and took off and, you know, ended in tears. As we
+know in 2008.
+Ethan Wu
+You mentioned at the top, Robin, bonds can make or break a country. Could you talk about what
+you mean there?
+Robin Wigglesworth
+So let’s deal with the making side. I mean, if you look at the modern world around us, it is to a very
+large extent, an under-appreciated extent, made by bonds. So the US financed the purchase of
+Louisiana with bonds.
+Ethan Wu
+Mmm.
+Robin Wigglesworth
+The railways were built with bonds. Tesla’s cars are financed by bonds. It’s not the stock market
+that finances the building of these cars. Tesla borrows money in the bond market to make these
+cars make its factories. Netflix borrows money from the bond market to make its content.
+Ethan Wu
+Yeah.
+
+Robin Wigglesworth
+But also sometimes, because bonds are quite often a cheap, easy way for big companies and
+countries to borrow money, you know, some countries aren’t as disciplined as maybe they should
+be. So debt crises have been around for millennia. Literally, the first debt crisis I know was in
+something like 4th century BC in Greece. There were some statelets in Greece that borrowed
+money from a big local rich temple, and then they all defaulted and the temple (Ethan laughs) went
+bankrupt. But today, literally like countries like Zambia, Ghana, Pakistan, Sri Lanka are in debt
+crises. And to a large extent, that is caused or at least the main symptom is they . . .
+Ethan Wu
+Yes.
+Robin Wigglesworth
+. . . borrowed a lot of money through bonds.
+Ethan Wu
+Right.
+Robin Wigglesworth
+And bonds are different from the old loans. They used to borrow money from other countries or
+from banks. And that’s painful as well. But at least you can fundamentally get all those bankers into
+a room and kind of work something out sooner or later.
+Ethan Wu
+Right.
+Robin Wigglesworth
+With bond market, it actually makes things a lot more complicated.
+Ethan Wu
+Yeah, you got a million people to talk to.
+Robin Wigglesworth
+Yeah.
+
+Ethan Wu
+It’s, you know, way more fingers in the pot. So I like this point. And that kind of brings us to today,
+Robin. Bonds are a cornerstone of the financial system. Pretty much every government uses them
+to borrow. Pretty much every company uses them to borrow. So what’s the problem? What’s the
+other side of bonds today, and why are you writing a book on it?
+Robin Wigglesworth
+Well, it’s a very good question (Ethan laughs), because it is a fairly nerdy subject. I mean, I love the
+subject because I think it’s important. And I think it’s important because we have seen a shift
+towards bond markets globally for several decades now. But after the financial crisis, there’s been a
+step change. A huge shift has happened that the big lesson we took out of 2008 is that banking
+crises are incredibly painful, because banks aren’t just institutions that trade bonds or make loans.
+They do the payments, they sort out salaries, they take out deposits. So they are hugely important
+to society. And when they go belly up, that is exceptionally painful. So we essentially have
+strengthened the banking sector. And it might not seem that way because obviously we’ve seen a
+few US banks go kind of belly up and Credit Suisse was being Credit Suisse and finally kind of
+keeled over as well. But broadly speaking, the banking sector is vastly stronger today than it’s been
+for generations. That doesn’t mean that there won’t be banks that fail, but they’ll fail in more
+manageable ways. It will be fewer of them and it won’t cause as many systemic problems, at least
+for the time being.
+Ethan Wu
+Yeah.
+Robin Wigglesworth
+But we’ve kind of squeezed risks out of the banking system and pushed it into the bond market.
+And that’s a great home for it. That’s a great place for it. But it doesn’t mean that that risk has
+disappeared. It’s just kind of morphed and changed its nature and become more decentralised,
+which is good. But it means it’s harder to monitor. And when things break bad, they kind of break
+bad in a quite nasty way. And they’re very hard to tackle because the bond market . . .
+
+Ethan Wu
+Yes.
+Robin Wigglesworth
+. . . is more decentralised than banks were.
+Ethan Wu
+You had a very nice line on this in your piece that I think drives the point home. “In finance, risk is
+like energy. It cannot be destroyed, only shifted from one place to another. As it gets shunted
+around, its consequences can morph in little understood even dangerous ways”. And I think that’s
+the point here. It may not be that risk has increased because the bond market has grown in
+prominence. It may just be that risk has been transferred from the banking system to the bond
+market after we’ve seen all these post-2008 regulations tightening controls around the banking
+system. And that’s kind of the point about talking about shadow banking, right? Shadow banking is
+like — and a lot of people have said this — it’s a really amorphous, broad term that includes a
+bunch of stuff that doesn’t share characteristics. It literally just means not banks (Ethan laughs),
+right?
+Robin Wigglesworth
+Yeah, exactly.
+Ethan Wu
+But the point is, exactly that, we don’t know quite where the risk lies, right? We know now in
+hindsight that risk was in the banking system in 2008 and now it’s not exactly clear where it is.
+And that’s the scary part, right?
+Robin Wigglesworth
+I think you nailed it, Ethan. That’s exactly it. It’s not knowing that is kind of the scary part. But I
+think the bond market is a positive thing, right? It has helped reduce risks or at least ameliorated
+the overall riskiness of the financial system because, like I said, we have centuries of horrible
+experiences of banking crises. They’re not fun at all. They’re extremely painful for individuals and
+for economies as a whole. And bond crises, you know, they can also be very painful. You could
+argue that 2008 was at least partially a bond crisis.
+
+Ethan Wu
+Yeah, yeah.
+Robin Wigglesworth
+We came very close to a bond crisis in 2020 when the banking system actually held up pretty well
+when Covid rattled financial markets. But broadly speaking, this is a good thing, right? It’s good
+that risks have kind of been squeezed out of banks and into markets. Markets kind of, that’s where
+risks should be. But, you know, these things have unintended consequences. And I think, they
+might be inherently unknowable or so difficult to fix that the fixes are unpalatable. We will never
+be able to stomach them or get enough global agreement to do so.
+Ethan Wu
+Yup.
+Robin Wigglesworth
+Certainly absent another crisis like after 2008, we’re able to do all these things with banks because
+there was a very strong political conviction across the world that that cannot happen again. It will
+happen again at some point when we’ve forgotten the lessons. But for the time being, I think we
+should more look towards the bond market and maybe see what we can do there to make things a
+little bit better.
+Ethan Wu
+Yeah.
+Robin Wigglesworth
+I think for everybody’s sake.
+[MUSIC PLAYING]
+Ethan Wu
+Good things can be scary, too.
+Robin Wigglesworth
+Yes.
+
+Ethan Wu
+All right, Robin, thank you very much. We’ll be back in a minute with Long/Short.
+[MUSIC PLAYING]
+Ethan Wu
+Welcome back. This is Long/Short, that part of the show where we go long a thing we love, short a
+thing we hate. Robin, we did the show with Katie Martin last week on the case of the soft landing.
+Man, I’m reversing course. I’m short the soft landing. I think this narrative has gone way too far.
+And the problem is the same problem it’s always been, which is inflation, which is wage growth is
+still high. And we have just never seen in US economic history wage growth that we’re getting right
+now, consistent with what the Fed wants, which is 2 per cent inflation. I think inflation’s probably
+going to stabilise a little higher than people are comfortable with and it’s going to create some
+difficult choices for the central bank, which could include, you know, like raising the inflation
+target or a variety of other creative measures. But I think, people are thinking too narrowly and too
+simplistically about the soft landing. And whenever a market narrative goes this far, you gotta short
+it.
+Robin Wigglesworth
+Yeah, I mean, that’s quite compelling. I have to admit, I’m long soft landing, I’m team no landing.
+But I think that was well put. So I think my long is Nintendo.
+Ethan Wu
+OK.
+Robin Wigglesworth
+On the personal side, look, I’m playing Zelda: Tears of the Kingdom with my kids and I’ve been
+playing Nintendo games on and off for most of my life and it blows me away how a company that
+old, so storied, can still just be just a creative juggernaut.
+Ethan Wu
+Mmm.
+
+Robin Wigglesworth
+It is so interesting and vibrant and fun and creative. And seeing my kids rediscover the joys of
+some of these characters I grew up with has been magical. But with a slightly more pragmatic hat
+on, I think the Mario film, which I haven’t actually seen yet, kind of shows that Nintendo is maybe
+starting to monetise its intellectual property a little bit more aggressively.
+Ethan Wu
+Yeah.
+Robin Wigglesworth
+You don’t see that many Mario films or Zelda films, you don’t see mobile games, even though
+everybody knows they would sell. Nintendo’s always been very conservative and careful about
+these things. And if they start even tapping into some of the potential of this, I mean it’s huge.
+Because people forget that as much as we talk about Barbie or an Oppenheimer, it’s the big
+blockbusters this summer, or a longer run like the Marvel Cinematic Universe and the grip it has
+over modern cinema, other franchises like Star Wars or even Mickey Mouse. The biggest franchise
+in history, the biggest-grossing franchise in history is Pokémon. And it has zero cultural clout
+among us adults, right? I don’t get it. I had to buy my son like a gold Nintendo Pokémon card in
+metal gold in France this summer and it’s in Spanish. He doesn’t understand it (Ethan laughs). But
+it’s his prized possession. He’s shown it to all his friends and he loves it. And like they have just
+printed money through T-shirts, toys, caps, Pokémon cards and all that jazz.
+Ethan Wu
+Yup.
+Robin Wigglesworth
+And frankly, it seems that this is something that has more staying power than some of the stuff that
+I grew up with.
+Ethan Wu
+You got to catch them all in English, Japanese and Spanish. That’s the quest (inaudible).
+
+Robin Wigglesworth
+Exactly.
+[MUSIC PLAYING]
+Ethan Wu
+For the record, Tears of the Kingdom, amazing game. Where is Mario Odyssey 2? Where is it,
+Nintendo. Please deliver. Thank you very much.
+Robin Wigglesworth
+Amen (Ethan laughs).
+Ethan Wu
+Robert, thanks for being here. We’ll have you back very soon. And listeners, we’ll be in your feed
+again on Thursday with another episode of Unhedged. Catch you then. Unhedged is produced by
+Jake Harper and edited by Bryant Urstadt. Our executive producer is Jacob Goldstein. We had
+additional help from Topher Forhecz. Cheryl Brumley is the FT’s global head of audio. Special
+thanks to Laura Clarke, Alastair Mackie and Jess Truglia. FT Premium subscribers can get the
+Unhedged newsletter for free; a 90-day free trial is available to everyone else. Just go to
+FT.com/unhedgedoffer. I’m Ethan Wu. Thanks for listening.
+[MUSIC PLAYING]
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+

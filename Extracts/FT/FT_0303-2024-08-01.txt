@@ -1,0 +1,157 @@
+FT PROFESSIONAL
+
+Alphaville US Bureau of Labor Statistics
+
+One of these employment measures is wrong
+Jobs a bad ’un
+
+Toby Nangle
+Published AUG 1 2024
+
+The Fed is always and everywhere obsessed with the US labour market. If Phillips curve
+assumptions around the relationship between unemployment and price inflation are not enough to
+focus minds on the data, maximum sustainable employment is the second explicit part of the Fed’s
+dual mandate.
+And so Non-Farm Payrolls day tends to be one of the biggest, perhaps the biggest day in bond
+traders’ calendars. For non-bond aficionados, here’s most of what you need to know about the first
+Friday of each calendar month:
+
+— Big jobs number => Tighter labour markets => Fed more likely to put up rates or not cut rates
+=> bond goes down (yield goes up) => Bondholders sad
+
+😢😢😢
+
+— Small jobs number => Looser labour markets => Fed more likely to cut rates or not hike =>
+bond prices rise (yield goes down) => Bondholders happy
+
+😊😊😊
+
+Of course, it’s not just bondholders who care. Stock prices react too, though we’re reluctant to go
+down the ‘when does bad data being good for stocks turn into bad data being bad for stocks’ rabbit
+hole (today, at least).
+As well as non-farm payrolls, a slew of other official employment data gets released at the same
+time. These come from two sources: the Current Employment Statistics release (aka the payroll
+survey) and the Current Population Survey (aka the household survey).
+The payroll survey is used to estimate hourly earnings, hours, income and jobs by sampling a
+bunch of firms and government agencies. The household survey estimates the unemployment rate,
+among other things by sampling a bunch of households. Both come from the US Bureau of Labor
+Statistics. Both sample in the week leading to the 12th of the month. Together, they tend to create a
+mosaic of the labour market that analysts and policymakers can read.
+But for the last couple of years, they’ve each given a very different message about job growth. Sure,
+they measure slightly different things, but the ‘payroll-adjusted’ household measure tries to correct
+for this and is showing an even bigger divergence than the straight household measure of
+employment.
+According to the household survey, total employment bounced back strongly from Covid through
+autumn last year, and has since been a bit rubbish. But according to the payroll survey, job growth
+has continued to go, uh, gangbusters:
+
+How many US workers are there?
+Depends who you ask
+Payroll Survey
+
+Adj HHld Survey
+
+Million workers
+160
+
+150
+
+140
+
+130
+
+120
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+2014
+
+2016
+
+2018
+
+2020
+
+2022
+
+2024
+
+202
+
+Source: Bureau of Labor Statistics, FRE
+
+This is not new territory for Alphaville. We started writing on this around the time it started to be a
+thing last autumn, and we did a further dive into the differences in June. But to put some numbers
+on the discrepancy, the household survey reports around 700,000 fewer workers from the peak
+last November, while the payroll survey reports around 1.6 million more workers. It’s more than a
+bit weird that a working population around half the size of Ohio’s appears to have fallen down the
+back of the sofa. This is no rounding error.
+Why should you care? In short, because the Fed’s next move is going to be based — in part — on
+which version officials choose to believe.
+
+In a recent note for clients, Barclays economists — Jonathan Millar, Marc Giannoni, Pooja Sriram,
+and Colin Johanson — come down hard on the side of the payroll survey.
+Analysts, clients, and the media are quick to complain that it’s the payroll survey that’s misleading,
+the Barclays gang say (FTAV covered Standard Chartered’s gripes with the payroll survey in depth
+a while back). And *checks notes* Barclays’ gripes here.
+It’s a reasonable position to hold: the survey’s methodology of estimating births and deaths of
+firms is opaque, and it is subject to periodic revisions when compared to slower, better, measures
+of employment. Moreover, these revisions have invariably been downward. The implication is that
+the go-go jobs data that is keeping the Fed from cutting should be downplayed, and more and
+faster rate cuts should be the order of the day.
+But Millar et al reckon that payroll survey haters have it all wrong. The household survey, they say,
+is the unreliable narrator of labour markets. As they put it (emphasis theirs):
+
+While it is reasonable to speculate that the CES [the payroll survey]
+overstates job gains somewhat, our analysis shows beyond the shadow of a
+doubt that the household survey has severely understated job gains since
+2022. Though it is conceivable, at least conceptually, that this
+mismeasurement has not contaminated the measured unemployment rate, it
+is also quite plausible that it has risen less than advertised.
+Over five and a half thousand words of detailed nerdery, they make their case. The tl;dr is that the
+payroll survey, for all its faults, is kept honest by being trued up to an actual census — the
+Quarterly Census of Employment and Wages (QCEW) — in January each year. This results in those
+revisions about which critics get so het-up.
+
+The household survey, by contrast, never gets trued-up. After cross-referencing the household
+survey (and its adjusted version) to the QCEW (and its adjusted version), as well as to data released
+by ADP (a private payroll provider), Barclays reckons the household survey has massively
+undercounted jobs. We’re talking millions upon millions of undercounted workers. Furthermore,
+they think the household survey’s smaller size, deteriorating response rate, and re-scaling
+methodology makes it less statistically trustworthy, and that incorrect population estimates
+mechanically constrains gains in household employment.
+They conclude:
+
+the fact that the CPS overstates cooling in the pace of job gains, and in the
+overall labor market, is hard to escape.
+They don’t go quite as far as to definitively say that the rise in the US unemployment rate is a
+nonsense, but they get pretty close. It’s worth saying that other analysts looking at this issue reckon
+that because population-count problems affect both numerator and denominator of the household
+survey, the unemployment rate is going to be a fairish reading.
+Who cares? A big deterioration in the labour market according to the household survey is the sort
+of thing that gets the Fed’s attention. Former NY Fed President Bill Dudley last week argued for
+immediate rate cuts largely based on this deterioration. If this deterioration never happened, the
+case for a cut (or the three that are priced in by year-end) falls a lot.
+We know exactly what you’re thinking: couldn’t this all be summed up via a Hamiltonesque cabinet
+rap battle [ed: uh?]? Great minds — with a little help from a combination of ChatGPT and AI song
+generator Suno, here’s the upsum [ed:
+
+🥴 ].
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+US employment
+US Bureau of Labor Statistics
+Federal Reserve
+Alphaville
+Toby Nangle
+
+

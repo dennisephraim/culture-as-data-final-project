@@ -1,0 +1,108 @@
+Economics | Politics
+
+November CPI Report Raises Doubts About US
+Inflation Data
+
+Shoppers near the New York Stock Exchange. Photographer: Michael Nagle/Bloomberg
+
+By Molly Smith
+December 18, 2025 at 1:47 PM EST
+Updated on December 18, 2025 at 4:22 PM EST
+Save
+
+Translate
+
+3:53
+
+Takeaways by Bloomberg AI
+US inflation cooled to a four-year low in November, according to government
+data, but economists agreed that something was off with the report.
+The data was affected by the record-long government shutdown, which
+limited the Bureau of Labor Statistics' ability to collect prices and resulted in
+some categories showing unusually low inflation.
+Economists pointed to issues with the data collection and calculation process,
+including the use of carry-forward imputation for key housing price metrics,
+
+and warned that the results should not be taken at face value.
+
+After long-awaited government data showed underlying US inflation cooled
+to a four-year low in November, economists agreed on at least this much:
+something was off.
+In a report fouled by the record-long government shutdown, inflation in
+several categories that had long been stubborn seemed to nearly evaporate.
+Chief among those were shelter costs, which make up about a third of the
+consumer price index, but other categories like airfares and apparel notably
+declined.
+Because of the shutdown, the Bureau of Labor Statistics couldn’t collect
+prices throughout October and started sampling later than usual in
+November. The so-called core CPI, which excludes food and energy,
+increased 2.6% in November from a year ago — the slowest pace since 2021
+and below all estimates in a Bloomberg survey of economists.
+Several forecasters pointed to the absence of that October data — which
+resulted in pages of blank spaces in the widely watched report — as
+effectively the same as assuming no price growth for the month. That
+culminated in sizable downward pressure on the November inflation figures,
+they said. Some noted the shortened collection period could have also
+skewed the data.
+Stacey Standish, a spokesperson for BLS, said the agency used a process
+called carry-forward imputation for key housing price metrics. This method
+“imputes the price by using data from the last collected period, effectively
+proceeding as if the price had not changed,” she said. “Rents for October
+2025 were carried forward from April 2025, yielding unchanged index
+values for rent and owners’ equivalent rent for October.”
+The titles of economists’ analyses were telling: “Lost in Translation,”
+according to TD Securities. “Delayed and Patchy,” per William Blair, and a
+“Swiss Cheese CPI report” from EY-Parthenon.
+
+“This one-of-a-kind report produced anomaly after anomaly, almost all
+pointing in the same direction,” Stephen Stanley, chief US economist at
+Santander US Capital Markets LLC, said in a note. “I think it would be
+unwise to dismiss the results entirely, but I also believe it would be rash to
+take them at face value.”
+The shutdown limited the BLS’s ability to calculate standard month-overmonth price index values, so it mostly observed changes from September to
+November instead. In FAQs and other supporting documents published the
+day before the report, the agency forewarned that some of the data may not
+be totally trustworthy.
+“If bimonthly CPI data are volatile, then less confidence should be placed in
+estimates for the missing months,” BLS said Wednesday in a document
+explaining how to approximate missing data points.
+Housing Components
+The biggest inconsistencies compared with more recent trends were in key
+housing categories, which have been a main driver of inflation in recent
+years. Some economists pointed out that a shockingly small 0.06% increase
+in primary rents on average over the two months, and a 0.14% average rise
+in owners’ equivalent rent, would only be possible if BLS essentially kept the
+October index values the same as a month earlier. That would represent no
+increase from September.
+“There is no world in which this was a good idea, but here we are,” said
+Omair Sharif, president of Inflation Insights LLC.
+Read More: October US Inflation Report at Risk Even If Last Month Salvaged
+The month-over-month changes for key housing categories will largely be
+sorted with the release of the December CPI — though they may look “high,”
+Sharif said. But the annual changes will likely be impacted for longer.
+That’s because BLS samples several panels of households about their rents
+on a rolling six-month basis, so some of the errant October values may not
+fall out of the index until April.
+
+Despite the idiosyncrasies, several economists maintained that inflation is
+cooling, just perhaps not as much as Thursday’s report would suggest.
+“Through the noise, we believe inflation is slowing on trend, even if today’s
+reading overstates the magnitude of the slowdown,” Wells Fargo & Co.
+economists said in a note.
+The title of their analysis was more direct: “Take It with the Entire Salt
+Shaker.”
+— With assistance from Reade Pickert and Julia Fanzeres
+(Adds BLS response in fifth paragraph)
+
+Save
+Contact us:
+Provide news feedback or report an error
+Site feedback:
+Take our Survey
+Confidential tip?
+Send a tip to our reporters
+Before it's here, it's on the Bloomberg Terminal
+
+©2026 Bloomberg L.P. All Rights Reserved.
+
+

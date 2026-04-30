@@ -1,0 +1,128 @@
+FT PROFESSIONAL
+
+Opinion Unhedged
+
+Pressure on the Fed
+More on why the central bank’s balance sheet is likely to grow again, and soon
+
+ROBERT ARMSTRONG
+
+© Reuters
+
+Robert Armstrong
+Published NOV 7 2025
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+This article is an on-site version of our Unhedged newsletter. Premium subscribers can sign up
+here to get the newsletter delivered every weekday. Standard subscribers can upgrade to
+Premium here, or explore all FT newsletters
+
+Good morning. Yesterday the outplacement firm Challenger, Gray & Christmas released its lay-off
+report for October. It found that companies announced 153,000 cuts last month, 175 per cent more
+than in October 2024. But the number of announced lay-offs and the number of lay-offs are two
+different things. We have good reason — in the form of initial jobless claims, which are stable — to
+think that lay-offs are not leaping higher. So we have a puzzle: why is the increase in lay-off
+announcements outrunning the increase in lay-offs? Send solutions to unhedged@ft.com.
+
+The fed balance sheet, again
+Yesterday Unhedged discussed the views of Joseph Wang, one of several voices arguing that the
+Fed will soon have to increase the size of its balance sheet. Massive deficits funded with short-term
+debt require the Treasury’s bank account (the Treasury general account) to grow. This expansion
+sucks cash (or, if you prefer, “liquidity”) out of the financial system. Scarce liquidity, in turn, forces
+short-term interest rates up — potentially wresting control of monetary policy from the Federal
+Reserve. Wang thinks that the Fed will shortly have to intervene in the money markets directly, as
+it did in 2019 and 2020, buying Treasury bills to push cash into the system.
+This is tricky stuff. Like Bayesian statistics or the NFL’s eligible receiver rule, money market
+mechanics seem clear when you focus on them, but instantly become confusing again as soon as
+your mind wanders. So I thought we might take another look at the issue, from another angle; the
+topic may become quite important for market watchers in the coming months.
+There are, I am sorry to say, five different short-term interest rates to keep track of here. They are:
+
+The standing repo facility rate (SRF): This is the rate at which the Fed
+will lend with Treasury securities as collateral. When the Fed does these
+loans — taking securities, handing out cash — financial system liquidity
+increases. In theory, the SRF is a “ceiling” for short-term rates, because
+borrowers will not want to borrow at a more expensive rate than the one the
+Fed offers. The facility was tapped last week for the first time in a long time,
+including for $50bn on Halloween (boo!). This got everyone talking about
+liquidity problems in money markets.
+Interest rate on reserve balances (IORB): This is the interest rate
+that the Fed pays on reserves that banks deposit with it. As a monetary tool,
+it works by controlling banks’ opportunity cost for lending. If the IORB is
+lowered, banks will lend more in short-term markets, because they earn
+less simply parking reserves with the Fed. More bank lending lowers rates
+and increases liquidity in the system.
+Fed funds rate (FFR): This is the rate at which banks lend to each other
+overnight without collateral, and the rate the Fed officially targets. But it is
+increasingly irrelevant. Daily FFR lending volume is less than $100bn.
+SOFR volumes (see below) are 30 times higher.
+Overnight reverse repurchase rate (RRP): This is the rate at which
+Fed will borrow, using securities as collateral. Such borrowing absorbs
+liquidity, and the RRP is a “floor” in the sense that no one would lend below
+it. There is essentially no borrowing at this rate now, because short rates
+are squeezed up against the ceiling, not squished to the floor.
+
+Secured overnight financing rate (SOFR): a market rate at which
+institutions borrow from one another short term with Treasury securities as
+collateral. While the Fed does not officially target this rate, it’s the one that
+matters most, and you can be sure the Fed watches it very closely indeed.
+Below is a graph of the five rates over the past year (it was inspired by a similar one drawn by Vítor
+Constâncio, former vice-president of the European Central Bank, on his Substack; more from
+Constâncio shortly).
+
+The chart shows the tightness of short-term lending markets. The most important rate, SOFR, has
+been pulling away from the Fed’s target, occasionally breaking above IORB, and even climbing
+above the SRF rate. This is the Fed, at the margin, losing control of monetary policy as cash
+becomes scarce. The recent reduction in the IORB and the SRF have brought SOFR down, but the
+fight may not be over. (Why the SRF sometimes fails to work as a ceiling is a complex question, but
+seems to mostly stem from the capital charges associated with Fed repo).
+
+Constâncio’s view of why the Fed has to worry about SOFR spikes differs from Wang’s. Wang
+thinks it’s about monetary control. Constâncio’s view (in which he is hardly alone) is that the
+problem is that if short rates rise and become more volatile, a crucial buyer of Treasury securities
+— hedge funds engaging in leveraged basis trades — will become forced sellers, causing a proper
+market mess.
+Basis traders buy Treasuries and short Treasury futures, and profit when the difference in the
+prices (the “basis”) closes. Constâncio refers to a now famous recent Fed paper that found that
+hedge funds domiciled in the Cayman Islands were actually the largest foreign holders of Treasury
+securities, bigger than China or Japan. If high, volatile SOFR blows the hedgies out of their trades,
+it will be ugly.
+Constâncio does not think this is going to happen, because he thinks (like Wang) that the Fed will
+have to increase its balance sheet again, ensuring “ample reserves”:
+
+With this policy, it is quite easy for the Fed to stabilise liquidity and the
+[SOFR] repo rate . . . The fact that it has not done it so far can only be the
+result of divergences within the Board [of Fed governors] regarding the
+balance sheet size and the adoption of a policy that could be characterised as
+quantitative easing. Secretary [Scott] Bessent and some Fed Board members
+oppose it for ideological reasons . . . if SOFR remains too high, the Fed will
+have to take whatever steps are necessary to avoid the dangerous unwind of
+the basis trade. A significant liquidity crisis this time should be unlikely.
+This sounds right to me. The stresses in the money market look resolvable. But in any market,
+there is always room for surprises and mistakes.
+
+One good read
+The sceptics were right.
+
+FT Unhedged podcast
+Can’t get enough of Unhedged? Listen to our
+new podcast, for a 15-minute dive into the
+latest markets news and financial headlines,
+twice a week. Catch up on past editions of
+the newsletter here.
+
+Recommended newsletters for you
+Due Diligence — Top stories from the world of corporate finance. Sign up here
+The AI Shift — John Burn-Murdoch and Sarah O’Connor dive into how AI is transforming the
+world of work. Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Robert Armstrong
+Unhedged
+Global Economy
+US economy
+US inflation
+
+

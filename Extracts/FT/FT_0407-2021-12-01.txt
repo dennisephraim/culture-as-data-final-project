@@ -1,0 +1,162 @@
+FT PROFESSIONAL
+
+Opinion Unhedged
+
+‘Transitory inflation’ is dead, long live transitory inflation
+Also, Glencore and Bluebell
+
+ROBERT ARMSTRONG
+
+© Financial Times
+
+Robert Armstrong and Ethan Wu
+Published DEC 1 2021
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+This article is an on-site version of our Unhedged newsletter. Sign up here to get the newsletter
+sent straight to your inbox every weekday
+
+Good morning. A few words to start on yesterday’s Covid piece, which expressed worry that the US
+could go the way of Austria this winter. Quite a few readers wrote to say that the key difference is
+Austria’s greater population density. Well, maybe. But as my colleague John Burn-Murdoch points
+out, if higher population density explains the current outbreak, why did Austria have such a low
+infection rate until October? It’s population did not suddenly get more dense. Second, some of the
+highest rates of Covid infection in the US are in low-density states such as Alaska.
+You will have noticed that neither Ethan nor I are epidemiologists, so now we move back to
+familiar territory: the Federal Reserve and environmental, social and governance, or ESG,
+investing. Email us: robert.armstrong@ft.com and ethan.wu@ft.com.
+
+RIP ‘transitory’
+Time to ditch “transitory”, Fed chair Jay Powell told the US Senate on Tuesday. This terminological
+declaration, paired with an expression of support for faster tapering, smooshed the yield curve. The
+10-year Treasury note fell 9 basis points as the two-year stayed flat. Expectations for rate increases
+are moving forward, too: markets on Tuesday dutifully priced one in by March 2022. Stocks were
+grumpy.
+We’ve written on the transitory-or-permanent debate before. It will rage on whatever words Powell
+uses. But given all the heat the term has generated, was introducing “transitory” into the lexicon a
+bad idea from the outset?
+Chatter about the term picked up in April, when core inflation topped 3 per cent and Powell told
+reporters “these one-time increases in prices are likely to have only transitory effects on inflation”.
+By May, the term had exploded into the public consciousness. Here’s Google searches for
+“transitory” in 2021 (the index is relative to the highest point on the chart):
+
+But the concept debuted well before that, back in May 2019. At the time Powell used the term to
+describe entirely different circumstances. Inflation was about 1.6 per cent, below the Fed’s target.
+Questions about the US central bank’s commitment to a symmetric inflation target were growing
+louder. Wary of the scepticism, Powell told reporters:
+
+“We suspect that some transitory factors may be at work . . . And I’d point to
+things like portfolio management, service prices, apparel prices and other
+things. In addition, the trimmed mean measures of inflation did not go down
+as much. Indeed, the Dallas trimmed mean is at 2 per cent.”
+Sound familiar? The suspects are different — portfolio management instead of used cars — but the
+story is the same. “The (dis)inflation we’re seeing is due to idiosyncrasies that will go away and
+leave the underlying price trends in place. Go have a look at the trimmed-mean index in the
+meantime.”
+
+From Powell’s perspective, the appeal of “transitory” is clear. It sends the message that the Fed will
+not tighten policy in response to what it considers idiosyncratic spikes in inflation. It is a way of
+jawboning expectations for future rates down, and assuring the market a classic “Fed mistake” is
+not in the cards, without committing to a specific response to any one data threshold.
+But the concept invites misunderstanding, as Powell rightly said in his Senate testimony Tuesday:
+
+“So I think the word transitory has different meanings to different people. To
+many, it carries a [sense of] time, a sense of [being] shortlived. We tend to
+use it to mean that it won’t leave a permanent mark in the form of higher
+inflation. I think it’s probably a good time to retire that word and try to
+explain more clearly what we mean.”
+“Won’t leave a permanent mark in the form of higher inflation” is clear enough: it means that after
+the inflationary incident is over, trend inflation will go back to historically normal levels. That
+interpretation is consistent with how Powell used the term all along. But that use is also compatible
+with an inflationary incident that goes on for quite a while. But neither the market nor the public
+had ears for that level of subtlety. So in the end, the transitory story was more confusing than
+illuminating.
+Using the term as Powell did was a mistake, but a small one. Powell has shown willingness to adapt
+on the fly and put data over dogma. Remember: both Powell’s patient response to inflation and his
+view that it won’t stick could still be vindicated. If inflation moderates to 2-2.5 per cent as late as,
+say, the middle of next year, it will not feel transitory. But from the point of view of history, an
+inflationary period that lasts only a little over a year — a real possibility — will look very transitory
+indeed. (Ethan Wu)
+
+Glencore and Bluebell
+Bluebell, a smallish activist investor fund that has had some success harassing the likes of Danone
+and GSK, wants the commodities conglomerate Glencore to spin off its coal business into a
+separate entity. It thinks a split will raise the value of the whole because coal is a drag on the
+valuation of Glencore’s non-coal assets (which mostly come from extracting and trading metals).
+Bluebell argues that the coal business imposes a high cost of capital on the rest of the operation:
+
+“Due to its coal business, Glencore is not an investable company for investors
+who place sustainability at the heart of their investment process. This is a
+huge barrier for wider investment in Glencore’s ex-coal business . . .
+“A clear separation between carbonised and decarbonised assets is needed to
+increase shareholder value and remove the ‘coal discount’.”
+Sustainability aside, Bluebell argues, coal is a dying business and the terminal value of Glencore’s
+coal assets is highly uncertain, another drag on the cost of capital.
+Bluebell might well be right that there is an ESG-driven coal discount (though the point is not
+obvious: Glencore trades at similar multiples of earnings, and at higher multiples of ebitda, as its
+coal-free peers Anglo American and Rio Tinto). It also might well be right that the coal industry is
+going to wither even faster than the market anticipates.
+What is quite wrong is Bluebell’s view that Glencore spinning off its coal assets will help the fight
+against global warming. Glencore has committed to winding down and closing its coal assets over
+the next 30 years, but Bluebell says that:
+
+“The simple concept that thermal coal should continue to be part of
+Glencore’s portfolio until 2050 is to us, as a company shareholder, both
+morally unacceptable and financially flawed.”
+
+The necessary implication is that spinning off the coal assets is morally better than not doing so.
+Why?
+
+“The world is moving to net zero, and capital allocation is a key driver to
+accelerate this transition because carbonised and decarbonised assets have
+started to attract very different pools of capital at significantly different costs.
+By separating businesses with different [carbon-dioxide] footprint, it will
+become possible to foster a global reallocation of capital towards more
+sustainable companies, which in itself is a powerful force to drive
+decarbonisation. Vice versa, by retaining a composite portfolio of low and
+high-impact CO2 assets, it will become virtually impossible to use capital
+reallocation (ie, via capital markets) as an engine of sustainability.”
+The idea here is that when the coal assets are in a separate entity, that entity will have a higher cost
+of capital (lower stock price, higher-yielding bonds) and therefore have less money to invest in coal
+extraction, leading to less coal burnt and less carbon in the air. This is gibberish from front to back.
+How much the hypothetical new entity will invest in coal assets also depends on the return on
+capital for mining coal, not just the cost of capital alone. Divestment campaigns drive those returns
+up (assuming stable demand) by making coal assets cheaper to buy and limiting coal supply. It is
+anything but obvious that the balance between cost of and return on mining capital in coming
+years will lead to less coal mining.
+Furthermore, there is no reason why it is not possible to reallocate capital from coal to non-coal
+within a composite portfolio. Bluebell complains that such cross-subsidisation is economically
+inefficient, which is debatable, and is in any case a separate issue.
+Bluebell tries on another argument, as well:
+
+“By transferring existing in-house coal expertise to a separate entity — with
+the commitment to apply the same (and possibly tighter) coal ESG policy
+currently in place at Glencore group level — it would be possible to spin-off
+coal whilst maintaining unchanged (and possibly improving) the company’s
+existing commitment of responsible ownership.”
+The argument is that when the coal business is separated, and all the shareholders who don’t like
+owning coal sell to investors who are perfectly happy to own coal, the sustainability policies of the
+coal company will not change for the worse, and may even improve. This is bonkers.
+Glencore spinning off its coal business is morally neutral and environmentally irrelevant, but it
+might be a good move financially.
+
+One good read
+Unhedged was shocked to learn from a colleague, who for some reason wanted to remain
+anonymous, that the pop star Avril Lavigne died in 2003 and was replaced by a body double. Wild
+stuff.
+
+Recommended newsletters for you
+FT Asset Management — The inside story on the movers and shakers behind a multitrilliondollar industry. Sign up here
+Free Lunch — Your guide to the global economic policy debate. Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Robert Armstrong
+Unhedged
+
+US inflation
+Markets
+Mining
+
+

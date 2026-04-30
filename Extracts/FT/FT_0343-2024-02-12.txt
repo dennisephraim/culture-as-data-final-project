@@ -1,0 +1,144 @@
+FT PROFESSIONAL
+
+© Estimated eurozone neutral rate from 2020 | FT montage; Getty Images
+
+Central banks
+
+How low will rates go? The hunt for the elusive ‘neutral’ level
+Economists debate whether the real interest rate seen as key to balancing economies has risen from preCovid lows
+
+Sam Fleming in London, Martin Arnold in Frankfurt and Claire Jones in Washington
+Published FEB 12 2024
+
+As markets boost their bets on interest rate cuts this year, investors are heavily focused on exactly
+how low borrowing costs will ultimately fall as the inflationary menace retreats.
+Central banks including the Federal Reserve and European Central Bank will be influenced by an
+elusive and controversial concept: the so-called neutral rate of interest — the borrowing rate that
+keeps economies growing steadily, with full employment and inflation around 2 per cent.
+After falling to rock-bottom levels before the pandemic, the neutral rate has, by some measures,
+edged up more recently. This could suggest official rates will not head as low as their pre-pandemic
+levels, even as inflation eases.
+
+“Whether you are a bank or business or government or household, I don’t think you should expect
+interest rates to go back to pre-Covid levels, so there’s an adjustment to come,” said Bank of
+Canada governor Tiff Macklem, speaking before his central bank’s recent policy decision. “There
+are a number of things suggesting that the neutral rate could be higher.”
+
+Why is the neutral rate so important?
+The neutral rate is not directly set by central banks, and they cannot reliably observe where it is.
+But for many economists the inflation-adjusted neutral rate — known by a range of other labels
+including the natural or equilibrium rate or R-star — is a valuable guiding light.
+If the official interest rate sits above it, central bankers consider policy to be restricting economic
+activity; below it, policy is deemed to be expansionary.
+The neutral rate’s value is highly contested, however. There is no consensus on a single model for
+estimating its level or future direction. Some central bankers are therefore wary of giving it undue
+weight.
+The rate can be valuable when seen in the “rear-view mirror” to assess an economy’s past
+performance, said Bert Colijn, a senior economist at ING bank, but it is less helpful as a guide for
+future policy decisions.
+“The reality is that it is very difficult to determine where it is,” he said. “It is constantly moving.”
+
+What level is the neutral rate?
+The lower neutral rates of recent decades were driven by a range of long-term factors, including
+subdued productivity growth, a glut of savings swilling around the world and an ageing population
+that boosted the stockpiles of cash stored away for retirement.
+One widely used estimate, from the New York Fed, points to a multi-decades-long decline in
+inflation-adjusted neutral rates in both the US and euro area that shows no sign of reversing.
+
+This put R-star in the US at the third quarter of last year at 0.9 per cent before inflation — a big fall
+from levels approaching 4 per cent at the start of the millennium. Canada’s inflation-adjusted
+neutral rate was 1.5 per cent and the eurozone’s was -0.7 per cent, according to their model. Other
+methodologies for estimating the neutral rate point to similar declines.
+Some economists see signs that the R-star has risen. Megan Greene, an external member of the
+Bank of England’s Monetary Policy Committee, argued in November that the neutral rate might
+have edged up in the medium term as a result of rising public debt and increased investment in
+areas such as the green transition.
+
+Where do things stand in the US?
+While Fed officials acknowledge that, at a 23-year high of 5.25-5.5 per cent, their benchmark
+federal funds target rate is way into restrictive territory, that does not mean they are willing to use
+assessments of the neutral rate to guide policy decisions. Instead, they are led more by what
+current data tells them about the balance between consumer price pressures and the labour
+market.
+
+But official Fed projections suggest that some rate-setters believe the neutral rate is creeping up.
+Directly before the pandemic, the so-called “central tendency” estimates for the longer-run federal
+funds target range lay between 2.4 per cent and 2.8 per cent, implying policymakers believed Rstar lay between 0.4 per cent and 0.8 per cent when taking into account the Fed’s 2 per cent
+inflation goal. But the most recent projections show a range between 2.5 per cent and 3 per cent, or
+0.5 per cent and 1 per cent for R-star.
+Raphael Bostic, president of the Atlanta Fed, is one such official. “My sense is that the neutral rate
+has increased to somewhere between 2.5 to 3 per cent” including 2 per cent inflation, he said.
+“We’re actually having arguments about that in the [Atlanta Fed] building.”
+
+What about the eurozone?
+Most economists agree the neutral rate for the eurozone fell in the decade after the 2008 financial
+crisis, as governments, businesses and households reduced debt levels, while population growth
+slowed and productivity declined.
+This forced the ECB to cut rates into negative territory to fight off deflation. The big question is
+whether the 20-country bloc will become mired in the same trap of low growth and low inflation
+again.
+“Those factors that were also weighing on R-star — lower birth rates and lower productivity — have
+not abated,” said Jens Eisenschmidt, a former ECB economist now at Morgan Stanley.
+
+Experts think the real natural rate of interest in the eurozone is just above
+0%
+Percentage per year, median of estimates
+
+1.5
+
+1
+
+0.5
+
+0
+
+-0.5
+
+-1
+2008
+
+2010
+
+2012
+
+2014
+
+2016
+
+2018
+
+2020
+
+2022
+
+Source: Eurosystem estimates, ECB calculations, Federal Reserve Bank of New York and Consensus
+Economics • Includes estimates based on DSGE models; term-based and semi-structural estimates;
+and surveys
+
+However, ECB executive board member Isabel Schnabel told the Financial Times this month:
+“There are good reasons to believe that the global R-star is going to move up relative to the postfinancial crisis period.”
+She predicted that higher investment to tackle climate change, increased defence spending, the
+fragmentation of the global trading system and higher government debt would all push up the
+neutral rate of interest.
+
+Schnabel said uncertainty over R-star meant that once the ECB started to cut rates it should
+“proceed cautiously in small steps” and “may even need to pause on the way down if inflation
+proves sticky”.
+ECB officials published a paper this week outlining how the median of the various measures of the
+neutral rate that it tracks had risen 0.3 percentage points since before the pandemic hit in 2020.
+But they said the estimates “still signal risks” that the ECB policy rate may need to fall back
+towards or even below zero in future, warning that inferences about movements in R-star remain
+subject to “high uncertainty”.
+ING’s Colijn said that while the neutral rate was “attractive conceptually, it is very difficult to
+actually use as an anchor for monetary policy”.
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Eurozone inflation
+Global Economy
+Global inflation
+US inflation
+US interest rates
+
+

@@ -1,0 +1,357 @@
+FT PROFESSIONAL
+
+Chris Giles on Central Banks US inflation
+
+Inflation’s rental risks
+
+The US and UK need to see a moderation in the price of home leases
+
+Private sector measures are beginning to show a drift higher in annual US rent inflation for new tenants © Getty Images
+
+Chris Giles
+Published MAY 14 2024
+
+This article is an on-site version of our Chris Giles on Central Banks newsletter. Premium
+subscribers can sign up here to get the newsletter delivered every Tuesday. Standard
+subscribers can upgrade to Premium here, or explore all FT newsletters
+
+Economists expect US consumer price inflation to moderate when figures for April are published
+on Wednesday. The headline annual rate is expected to dip from 3.5 to 3.4 per cent, with the core
+rate falling more substantially from 3.8 to 3.6 per cent.
+
+These are significant reference points, but more important than all of that for the trajectory of
+inflation is probably one component of both the core and headline inflation rate — rent.
+The CPI uses rents to measure housing costs on the basis that it is a direct measure for tenants and
+provides a proxy for out-of-pocket payments for owner occupiers. It assumes owner occupiers
+purchase their housing services (location, space and shelter) in the private rental market each
+month rather than having it bundled up in the capital cost of their homes they bought in the past.
+Not surprisingly, housing carries a heavy weight in the CPI index — with direct rent accounting for
+7.7 per cent of the inflation index, owners equivalent rent 25.4 per cent and second homes 1.3 per
+cent.
+In total, that accounts for just over a third of the headline index and 43 per cent of the core CPI
+index. And with annual rent inflation running at just under 6 per cent in March, the shelter
+component contributed almost exactly 2 percentage points of the 3.5 per cent headline inflation
+rate (and almost 2.5 percentage points of the core in 3.8 per cent core rate).
+What happens to rent clearly is of huge importance. But as Jay Powell, Federal Reserve chair, was
+at pains to stress in his monetary policy press conference this month, the Fed expects rental
+inflation to moderate.
+
+There are a number of places in the economy where there are just lag
+structures built into the inflation process and housing is one of them. So . . .
+when someone goes to . . . rent an apartment, that’s called market rent and
+you can see market rents are barely going up at all . . .
+
+Before that they were incredibly high, they sort of led the high part. So what
+happens is those market rents take years actually to get all the way into rents
+for tenants who are rolling over their leases. Landlords don’t tend to charge
+as much of an increase to a rollover tenant for whatever reason, and what
+that does is it builds up a sort of an unrealised portion of increases when
+there have been big increases and what happens is, and it’s complicated, but
+the story is it just takes some time for that to get in [the annual inflation
+statistics].
+Now, I am confident that as long as market rents remain low, this is going to
+show up in measured inflation, assuming that market rents do remain low.”
+Let us be clear. Powell was saying rent inflation was real and not mismeasured, but that changes in
+levels take some time to feed into the data. The figures he was talking about are shown in the chart
+below where three separate measures of new rent inflation from Zillow, CoreLogic and the Bureau
+of Labor Statistics all rose at double-digit rates in 2022 and have fallen, while the CPI measure of
+shelter peaked later and is still elevated but moderating gradually.
+
+Measures of US rental inflation rose faster and have fallen faster than the
+official measure, which includes existing tenancies
+Annual change (%)
+CPI shelter
+
+Zillow - all homes
+
+CoreLogic
+
+BLS new tenancies
+
+15
+
+10
+
+5
+
+0
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+Source: BLS, Zillow, CoreLog
+
+I would note two worrying signs in this chart, however. First, the two private sector measures are
+beginning to show a drift higher in annual US rent inflation for new tenants. Second, the pull
+downward of new rents is not as powerful as it once was, according to the Richmond Fed, because
+people are moving less so new tenants are becoming a smaller share of total tenancies.
+What will happen next? Here I am indebted to Adam Shapiro of the San Francisco Fed, who
+recently did the obvious thing and converted the above chart into rent levels. I have reproduced his
+chart below and added other private new rent indices. The most popular new tenant private rental
+comes from Zillow and it suggests that the CPI shelter component has some way to go before
+existing rents catch up with new tenancies.
+
+I would note that it matters what measure you use and things do not look nearly so troublesome on
+the BLS measure. It also matters when you say time zero is, but the start of the pandemic is a
+reasonable choice.
+
+Private sector measures of US rents suggest CPI shelter has further to rise
+Index: Jan 2020 = 100
+CPI shelter
+
+Zillow - all homes
+
+Corelogic
+
+BLS new tenant
+
+New private rentals
+are almost 8% higher
+
+140
+
+120
+
+100
+
+80
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+Sources: Zillow, CoreLogic, BL
+
+It is at this point where US economists like to say, “why don’t we measure inflation like Europe
+without a large and imputed owners equivalent rent component that people don’t actually pay”?
+Martin Sandbu had a great discussion of this topic last week, which I want to take a little further.
+Because in the UK, like the US, we have both an inflation measure which excludes owneroccupiers’ housing costs (confusingly called the CPI) and one that uses the US approach (even
+more confusingly called CPIH). I need to offer a disclaimer here because I sat on an advisory
+committee years ago that recommended the adoption of CPIH in the UK.
+
+You can see in the chart below that in both the US and UK, inflation measures with some form of
+rental equivalence to proxy owner-occupied housing costs are higher than those that ignore the
+measures.
+
+Including rental equivalence currently pushes up measured inflation in both
+the US and UK
+Annual change (%)
+CPI including rental equivalence
+
+CPI excluding rental equivalence
+
+UK
+
+US
+
+10
+
+5
+Inflation target
+
+Inflation target
+
+0
+2018
+
+2019
+
+2020 2021
+
+2022
+
+2023
+
+2024 2018
+
+2019
+
+2020 2021
+
+2022
+
+2023
+
+2024
+
+Sources: BLS, ON
+
+How much should the US worry about rents?
+There is no simple answer as to which inflation measure is best. Ignoring housing costs of owneroccupiers is clearly not a sensible strategy, but if your whole index is skewed by owners’ equivalent
+rent, which no one actually pays, that is also a bad statistical outcome. That said, I would not feel
+comfortable about US inflation just because it looks fine if you exclude owner equivalent rents. I
+would offer two reasons.
+
+First, in the past six months, almost all measures of US inflation have increased and rents are not
+to blame. As Jason Furman of Harvard recently noted, there is no difference between the rise in the
+trimmed-mean measures of inflation and the core measure recently, unlike in 2021, indicating that
+outliers are not driving the recent rise in inflation as they were in 2021.
+
+Outliers were driving the rise of inflation more in 2021 than now
+6m annualised inflation (%)
+PCE core index
+
+PCE trimmed mean
+
+6
+
+Outliers rule
+
+Outliers irrelevant
+
+4
+
+2
+
+0
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+Sources: Jason Furman, St Louis Fe
+
+Second, if the supply of accommodation does not increase much as rents rise (it doesn’t), then
+rapidly rising rents (whether for new or existing tenants) can be about as sure a sign as any of
+excess demand.
+There is excess household spending raising prices and it is not surprising it shows up in the rent
+component.
+
+What about the UK?
+The UK has exactly the same data issues as the US. We can chart rental inflation based on new and
+existing tenancies in the same way, using data on new rental contracts helpfully supplied by
+Zoopla. You might think you have seen this chart before since the UK rental dynamics look exactly
+the same as those in the US, but about a year delayed.
+Private rent inflation in the UK in official measures is climbing towards an annual rate of 10 per
+cent, with the main CPI rent inflation measure lower primarily because it also includes subsidised
+housing.
+If we look at rent levels, new tenancies are being let at levels about 6 per cent higher relative to prepandemic levels than the overall rise in the private sector rent measure underpinning the UK CPI.
+It too suggests there is further for rent levels to rise.
+Ultimately, weaker consumption trends should give the UK more favourable inflation dynamics
+than the US. Evidence of excess demand is certainly much more scarce. But if I want to worry
+myself about persistent UK inflation, this is the chart that is scary.
+
+UK rent dynamics look similar to those in the US
+Annual price change (%)
+ONS Private
+
+Rent in CPI
+
+Zoopla (new tenancies)
+
+10
+
+5
+
+0
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+Sources: ONS, Zoop
+
+What I’ve been reading and watching
+The minutes of the European Central Bank’s April meeting suggest a June
+cut in rates is on the cards and in Sweden, which shares similar economic
+conditions, the Riksbank cut rates last week. Needless to say I disagree with
+Mathilde Lemoine’s concerns about the ECB cutting rates before the Fed,
+since I expect the market reaction to be small
+Arthur Laffer has been tipped to be the next Fed chair if Donald Trump
+wins the US presidential election. I caught up with him in London for an
+Economists’ Exchange and to hear his views on the Fed, tax policy and the
+former president
+
+The Bank of England gave notice that it will cut rates in June if the data is
+sufficiently well behaved. It was not specific on what it needed to see in the
+inflation and wage data in the next six weeks
+John Burn-Murdoch worries about the reporting of economic data and
+whether journalists are always looking for things that bleed to lead
+
+A chart that matters
+I am indebted to Silvana Tenreyro of the London School of Economics for suggesting this chart.
+Lots of Europeans are fretting about long-term poor economic performance. But there is a
+confusion with a temporary lack of effective demand, which the chart below shows.
+I’m with Isabel Schnabel, ECB executive committee member, who is quoted at the end of the linked
+article saying the following wise words: “There is a risk that the doom and gloom [in Europe]
+becomes self-fulfilling . . . Given the huge shocks we have had, the economic performance has not
+been as bad as many had feared, so we should stop talking ourselves down.” That said, Europe does
+need to get private consumption up.
+
+Household consumption in Europe has stagnated since the pandemic in
+contrast to the US
+Real household consumption (solid)
+2013-2019 trend (dashed)
+Index 2019 Q4 =100
+US
+
+Eurozone
+
+UK
+
+2020 2021 2022 2023 2024
+
+2020 2021 2022 2023 2024
+
+2020 2021 2022 2023 202
+
+110
+100
+90
+80
+
+Sources: OECD, FT calculation
+
+Recommended newsletters for you
+Free lunch — Your guide to the global economic policy debate. Sign up here
+Trade Secrets — A must-read on the changing face of international trade and globalisation.
+Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Residential property
+Global inflation
+
+US inflation
+Federal Reserve
+Chris Giles on Central Banks
+
+

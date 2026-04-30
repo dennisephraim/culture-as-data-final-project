@@ -1,0 +1,137 @@
+FT PROFESSIONAL
+
+Opinion Unhedged
+
+Inflation is bad, but not worse
+And central bank forward guidance is kind of lame
+
+ROBERT ARMSTRONG
+
+© Financial Times
+
+Robert Armstrong and Ethan Wu
+Published NOV 11 2021
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+This article is an on-site version of our Unhedged newsletter. Sign up here to get the newsletter
+sent straight to your inbox every weekday
+
+Good morning. Stocks have fallen two days in a row. It’s a correction! Or something! Whatever it is,
+we’re back to talking about inflation. Email us with your thoughts: robert.armstrong@ft.com or
+ethan.wu@ft.com.
+
+Prices and politics
+October inflation in the US came in hot. For now, this is probably a bigger deal politically than
+economically, but the politics will matter to markets.
+The important number from Wednesday’s consumer price index report is inflation ex-food and
+energy, which rose 4.6 per cent. This tells us core inflation is about as hot as it has been since June:
+
+The July and August reports were a bit of a head fake. They made us think inflation was cooling. It
+is not. But it’s not really getting worse, either. Because October’s 4.6 per cent is 10 basis points
+higher than June’s 4.5 per cent, we can have headlines about a 30-year high in inflation again, but
+core inflation is roughly 4-4.5 per cent, and that’s where it’s been. Don’t freak out.
+We have strong demand, fuelled by government stimulus, and supply bottlenecks which are
+causing price spikes, especially of goods. Some people think when those bottlenecks go away, and
+things will go back to normal. Other people disagree. Unhedged has no idea which side is right, but
+in any case is not convinced we got very much in the way of new information in yesterday’s report.
+
+The best case for freaking out is based on the housing component of CPI, which is stable, sticky and
+big (a third of the index or so). It rose by 3.5 per cent, and the trend looks like this:
+
+Part of the issue here is that houses are assets, not goods, and we are in something that looks an
+awful lot like an asset bubble. If you strip out owners’ equivalent rent (which reflects house prices),
+the picture is less bad. Plain old rent inflation is still below pre-pandemic levels:
+
+If house prices keep going crazy, rent will eventually follow, but we are not there yet.
+
+So we are where we were: waiting to see what happens when the bottlenecks clear (including the
+labour bottlenecks, which show up in things such as food away from home prices). Federal Open
+Market Committee members who were dovish before are unlikely to be suddenly more hawkish
+now. Federal Reserve chair Jay Powell has stated plainly he thinks “transitory” is compatible with
+inflation that doesn’t start to normalise until the second half of 2022. Team transitory can still say,
+“We should keep monetary and fiscal policy loose, prices will cool, higher wages will stick, and
+there will soon be happiness all across the land.”
+But for now there is not happiness all across the land, because fuel prices are high and real wages
+are stagnant at best. Nominal wage growth minus inflation including food and energy (a volatile
+series that is not predictive, but which reflects the world people live in) looks like this:
+
+Vulgar language is warranted here. Objectively, this sucks. If team transitory is right, the trend will
+reverse, perhaps dramatically, and the journey will have been worth it. But the economic debate
+about what kind of inflation we are seeing cannot obscure the reality — and the political reality —
+of that chart. Here’s a tweet from Joe Manchin, the swing vote Democrat in the Senate:
+
+“By all accounts, the threat posed by record inflation to the American people
+is not ‘transitory’ and is instead getting worse. From the grocery store to the
+gas pump, Americans know the inflation tax is real and DC can no longer
+ignore the economic pain Americans feel every day.”
+This is factually false. Inflation is not getting worse by all accounts. But it is accurate emotionally.
+It’s time to think about the market implications if President Joe Biden’s agenda is dead in the
+water.
+
+Forward guidance cannot deliver on its promises
+When a central bank surprises the market, the C-word starts to fly. “The Bank blinked on rates and
+now its credibility is on the line,” read one headline after the Bank of England held UK interest
+rates steady last week.
+Barclays’ Moyeen Islam, writing in the FT on Monday, suggested the BoE might protect its
+credibility by adopting something like the Federal Reserve’s dot plot — a chart of the monetary
+committee’s expectations for future policy rates. The idea is this: if central banks say they are going
+to do something, and then do it, markets will believe them the next time they talk. This lets
+policymakers affect rates with talk alone — and potentially affect rates all along the yield curve, not
+just at the short end.
+But credibility can only be a byproduct of good policy. Whatever yesterday’s guidance was, things
+change, and the important thing is doing the right thing today. Here’s how the former Fed
+economist Claudia Sahm put it to me:
+
+“At the end of the day, credibility rests on making the right decision . . .
+Frankly, the Bank of England to some extent could have been blindsided by
+the data. Again, at the end of the day, you should do the policy you think is
+the best policy. If the world gives you the opportunity to be able to signal it,
+this is even better.”
+
+Our colleague Martin Wolf makes the same point, in an email:
+
+“The sensible way of thinking about this is that the central bank will actually
+do what it thinks sensible at the time, given its targets. Unless it is stupid, it
+will not do what is now obviously the wrong thing to do even if it has
+indicated before that it might do something else that it then thought was the
+right thing to do.”
+There are two things a central bank really needs. A policy framework that is not only wise but clear
+enough that the market can roughly anticipate the actions it will dictate; and unified, consistent
+and persistent communication of that framework.
+The US central bank has been exceptionally good at communicating its intentions lately. As a
+result, we seem to be tapering without a taper tantrum. This is good, and a welcome contrast with
+the BoE. But the Fed’s policy framework is a bit of a mess. Its average inflation targeting
+framework is vague. As Sahm put it: “They can’t even agree on what an average is.” This might
+cause trouble before long, dots or no dots.
+Forward guidance might be useful as an internal reference tool. A dot plot might give individual
+monetary committee members a bit of autonomy, which might make them behave more
+responsibly. And guidance might, under certain fortunate circumstances, give central banks a bit of
+power to jawbone the yield curve. But it can only be a weak tool.
+There will always be dissonance between central bank decisions and market expectations. Below is
+a chart of one-year London interbank offered rate, in blue, plotted against what one-year-hence
+expectations for that rate had been a year before, in orange (thanks to Edward Al-Hussainy for
+suggesting the chart). The two are proxies for what traders thought Fed policy would be, and what
+it turned out to be. Unsurprisingly, the dot plot’s introduction in 2012 did not stop people from
+putting bad bets on Fed behaviour:
+
+Dots, schmots. Hedge funds are gonna hedge fund. (Ethan Wu)
+
+One good read
+Aswath Damodaran on Tesla’s valuation. He is very optimistic about the company’s future, and still
+thinks the stock is wildly overpriced.
+
+Recommended newsletters for you
+FT Asset Management — The inside story on the movers and shakers behind a multitrilliondollar industry. Sign up here
+Free Lunch — Your guide to the global economic policy debate. Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Robert Armstrong
+Unhedged
+Bonds
+
+US inflation
+Markets
+
+

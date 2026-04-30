@@ -1,0 +1,84 @@
+FT PROFESSIONAL
+
+Alphaville Yield curve
+
+The *real* yield curve has just inverted
+“Real” meaning inflation-adjusted, or the one that actually matters? Both.
+
+© FT montage/AP
+
+Alexandra Scaggs
+Published FEB 8 2024
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+Yield-curve inversion is the most fun recession indicator. This is mostly because of the stillinexplicable fact that 2019’s inversion was followed by a recession caused by Covid-19, the blackest
+of black swans.
+
+Also because whenever the yield curve inverts, academics and Wall Street strategists come up with
+increasingly baroque reformulations of the classic 2s10s curve, meant to 1) be more accurate and 2)
+say everything is probably OK. The Federal Reserve, for example, came up with a way to measure
+inversion that flashes red when interest-rate cuts are expected in one quarter.
+Both the basic yield curve and the fancy yield curve have been inverted for more than a year now,
+and yet no recession has arrived.
+Now TS Lombard’s Steven Blitz is proposing his own version, and it’s less baroque (no adjusting
+“shadow rates” for “financial repression” or anything) and rather . . . real-er.
+Instead he points to the “real yield curve”, or the inflation-adjusted curve. Unlike the nominal yield
+curve, the US’s real yield curve has only been inverted for about a month. From Blitz’s Thursday
+note, with his emphasis:
+
+In sum, the inverted yield curve has yet to deliver a recession
+because the real curve has only just inverted. This is, in many ways, a
+repeat of the policies that led to the 1969 recession and, in turn, the great
+inflation of the 1970s. Then, the real curve only turned negative after the
+nominal curve had been inverted for 13 months — against a backdrop of
+increased procyclical fiscal spending. The real curve is now inverting after 12
+months of a nominal inversion, and I expect some further slowdown in credit
+extensions. Credit issues are now coming to the fore, notably CRE. This
+sector has, however, been more impaired by shifting work patterns than the
+level of interest rates, real or nominal.
+The history of the real-yield curve heading into recession is pretty interesting as well:
+
+The eerie 2019 inversion aside, Blitz points out that the yield curve predicts recession through a
+pretty clear mechanism. It’s the same simple logic that explains how rate hikes are transmitted
+through the economy: lenders and investors have less reason to take risks when they can be
+compensated for holding safe short-dated assets.
+He explains:
+
+Inverted yield curves slow the economy into recession by increasingly
+compensating investors and intermediaries not to take risk — it is not magic.
+Banks, for example, slow lending as the return on reserves and T-bills
+increasingly outpaces yields on two-year Treasurys (Chart 3) (Pre 2008 it
+was the cost of funding versus the return on lending, now that reserves pay a
+market yield, it is a risk free asset that competes with the return on loans.)
+The current nominal inversion has slowed lending growth, perhaps loan
+growth turns negative now that the real yield curve is inverted.
+... and shows that US bank lending has slowed since the nominal yield curve inverted:
+
+So why are market watchers just noticing this now?
+Well, it’s pretty rare historically that the inflation-adjusted/real yield curve inverts after the
+nominal yield curve. Usually the real yield curve inverts first. (They inverted at the same time in
+1980.)
+Also from TS Lombard, with our scribbled emphasis:
+
+He cites the 1969 example as a cautionary tale for policymakers, as Fed officials were “trying to
+reverse inflation without creating a recession.”
+His takeaway:
+
+If the inverted real curve stands, a recession will occur — but the
+curve may yet need to invert more as the real funds rate rises (passively, at
+first). As for inflation, the Fed is right to be concerned that current
+disinflation could prove somewhat illusory if growth continues apace. In
+short, real yields and the curve are finally restrictive enough to
+lead the economy to recession sometime in the next 7 to 12
+months.
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+US Treasury bonds
+Yield curve
+TS Lombard
+Federal Reserve
+Alphaville
+
+

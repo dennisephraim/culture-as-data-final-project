@@ -1,0 +1,150 @@
+Economics | New Economy
+
+Terminal Tariffs: Modeling the Final Destination of
+Trump’s Trade War
+
+By Maeva Cousin and Rana Sajedi
+November 18, 2025 at 6:17 PM EST
+Save
+
+Translate
+
+6:38
+
+Takeaways by Bloomberg AI
+Average US tariffs have leaped from 2% last year to close to 16%, a level last
+seen in the 1930s, and the new regime will create many losers, few winners.
+For small open economies such as those of Singapore, South Korea and
+Switzerland, taking the high road—avoiding retaliatory tariffs or joining tariff
+coalitions—delivers the least-bad outcomes.
+The US continues to engage with Beijing on the future of their trade
+relationship, and the economic implications vary sharply across three
+scenarios: a détente with China, an all-against-China alliance, and the
+emergence of “Fortress North America.”
+
+This piece is from a Bloomberg Economics report
+
+for the New Economy
+
+Forum which went to press in October.
+President Donald Trump’s return to the White House has thrown the global
+trade system into disarray. Leaders have rushed to secure deals with
+Washington. Average US tariffs have leaped from 2% last year to close to 16%,
+a level last seen in the 1930s. The new regime will create many losers, few
+winners.
+Further seismic shifts are possible. We consider three scenarios: a détente
+with China, an all-against-China alliance and the emergence of “Fortress
+North America.” For each we assess how small open economies—the
+orphaned children of the rules-based trade order—can navigate a path
+through the great-power rivalries that threaten their prosperity.
+
+• The most extreme outcome arrives if the world unites against China’s
+exporting of overcapacity. Our models point to a 4% hit to the country’s
+gross domestic product by 2030. Across the scenarios, losses for the US are
+limited to less than 1% of GDP, reflecting the resilience of an economy that
+remains the biggest in the world and among the least dependent on trade.
+• For small open economies such as those of Singapore, South Korea and
+Switzerland, taking the high road—avoiding retaliatory tariffs or joining tariff
+coalitions—delivers the least-bad outcomes. If the US and China break off
+relations and small open economies can fill in the missing links in the supply
+chain, they may even be marginally better off than in a free-trade world.
+The pendulum in the US has swung from free trade to protectionism. For
+some products, the hike in tariffs is vertiginous: an extra 50% on Indian
+clothes and Brazilian coffee and 60% on Chinese aluminum. Indeed, it’s
+Brazil, China and India that stand out, slammed with additional duties
+layered on top of sectoral and reciprocal tariffs.
+Some countries have done better. Mexico and Canada remain largely
+shielded under USMCA carve-outs. The European Union and Japan, despite
+running big trade surpluses with the US, struck deals almost as good as the
+one secured by the UK, which runs no surplus and has stronger diplomatic
+ties to the US.
+Several small open Asian economies—including Malaysia, Thailand and
+Vietnam—have struck trade agreements with the US but still face steep
+reciprocal tariffs of about 19%-20%. South Korea secured a more favorable
+deal but at the cost of major investment pledges. Switzerland faces one of
+the highest rates among US partners, at 39%.
+This patchwork of tariffs in place as of Oct. 20 means that US importers
+would face a duty of 16% if they were to purchase the same goods from the
+same partners as they did in 2024, up from just above 2%. This has wide
+implications. Using a model of global trade deployed by the World Trade
+Organization, we expect US imports to fall 18% by 2030, with a near-70%
+plunge in imports from China. Canada and Mexico, sheltered from higher
+tariffs, are well-placed to weather the storm.
+
+Over time, economies will adjust. Exporters will find other markets and rely
+more on domestic consumers. Even while facing a large drop in US exports,
+China’s GDP is down only 0.3% by 2030. By pulling away from global trade,
+the US could be the biggest loser, with a GDP hit of 0.7% by 2030. Any gains
+in domestic manufacturing are likely to be outweighed by losses in services
+and higher input costs, leaving the economy worse off overall.
+Where To From Here
+With the tariff dice still rolling, the game isn’t over yet. The US continues to
+engage with Beijing the future of their trade relationship.
+The EU is figuring out its response to Chinese overcapacity. USMCA
+renegotiation looms. The legal basis for the current tariffs
+is in question, investigations into sectoral tariffs continue, and Trump
+relishes tariffs as an all-purpose foreign policy instrument.
+To assess the risks, we set out three scenarios:
+
+Signed
+Sign Up
+Up
+By continuing, I agree to the Privacy Policy and Terms of Service.
+
+• Détente with China: The US drops the 20% fentanyl-related tariff on China
+but maintains sectoral tariffs and a 10% reciprocal rate. All other tariffs are
+unchanged.
+• China alone: As overcapacity from Beijing’s industrial policy spills out, the
+rest of the world imposes tariffs. China retaliates. • Fortress North America:
+The US, Mexico and Canada for a closer bloc, dropping tariffs on one
+another but raising them against all others. Everyone else retaliates.
+The economic implications vary sharply. In the détente scenario, lowering
+tariffs on China reduces the hit to US GDP to 0.5%. China is substantially
+better off, losing only around 10% of its exports to the US. Should the world
+
+unite against China’s overcapacity, the US again limits its GDP drag to 0.5%.
+But China takes a far bigger hit, losing as much as 4% of GDP by 2030.
+In the Fortress North America scenario, despite avoiding US tariffs, Canada
+and Mexico emerge as the biggest losers, with GDP down about 1% by 2030.
+China also suffers as its tariff-free back door into the US through Canada and
+Mexico shuts.
+How Smaller Players Navigate the Chaos
+For small open economies—those deeply tied into global supply chains, yet
+lacking leverage against larger players—the trade war is a
+challenge. We model how economies in the Association of Southeast Asian
+Nations, plus Taiwan, South Korea, Switzerland, Norway, Iceland and the UK
+fare under the scenarios detailed above.
+In the status quo, many small open economies haven’t secured deals as good
+as the EU’s and Japan’s. Even so, the absence of US tariffs on
+semiconductors, electronics and pharmaceuticals benefits them
+disproportionately. Losses are noticeable but not disastrous.
+If the US backs off China, the removal of the fentanyl tariff could deepen
+losses for small open economies. That’s because many are otherwise well
+placed to capture US market share lost by China, especially in electronics.
+Should the world turn against China, joining the coalition risks losses close
+to 1% of GDP for Asian economies that are closely linked to Beijing. Refusing
+to join and avoiding Chinese retaliation could yield better outcomes,
+including modest GDP gains, if countries position themselves as
+intermediaries between China and the rest of the world. But that strategy
+carries the risk of US retaliation.
+In a Fortress North America situation, similar to the status-quo tariffs, small
+open economies can mitigate the losses by not retaliating and remaining
+open among themselves.
+
+In each case the small open economies do better if they reduce frictions
+among themselves and refuse to join the race-to- the-bottom in the global
+trade war. For the orphaned children of globalization, thriving in the new
+global order will require agility, diplomatic smarts and luck.
+
+Save
+Contact us:
+Provide news feedback or report an error
+Site feedback:
+Take our Survey
+Confidential tip?
+Send a tip to our reporters
+Before it's here, it's on the Bloomberg Terminal
+
+©2026 Bloomberg L.P. All Rights Reserved.
+
+

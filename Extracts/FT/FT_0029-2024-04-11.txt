@@ -1,0 +1,140 @@
+FT PROFESSIONAL
+
+Unhedged US inflation
+
+Inflation is not going quietly
+And Apple’s legal fight
+
+Federal Reserve chair Jay Powell. Inflation came in strong in services categories that have looked hot for a while: shelter, medical care
+and auto services © FT montage/Bloomberg
+
+Robert Armstrong & Ethan Wu
+Published APR 11 2024
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+This article is an onsite version of our Unhedged newsletter. Premium subscribers can sign up
+here to get the newsletter delivered every weekday. Standard subscribers can upgrade to
+Premium here, or explore all FT newsletters
+
+Good morning. We enjoyed meeting Unhedged readers at Tuesday’s FT Alphaville pub quiz in New
+York, where a team from GIC, the Singaporean sovereign wealth fund, brought home gold. We
+would’ve bombed the quiz ourselves. Questions included: “To the nearest thousand dollars, what is
+the highest value of pizza that Domino’s Pizza’s chief executive may have received as part of his
+compensation last year?” Email us: robert.armstrong@ft.com and ethan.wu@ft.com.
+
+CPI: stuck
+If three data points make a trend, then US inflation looks stuck at 3 per cent. That’s the message of
+yesterday’s March consumer price index, the third stubbornly hot inflation report in a row. The
+three-month average of core CPI is running north of 4 per cent, and the longer term averages aren’t
+far behind:
+
+It’s not quite as bad as the chart above suggests, because personal consumption expenditure
+inflation, which the Federal Reserve targets, is running nearly 1 percentage point lower than CPI.
+But the recent trend is clear and inflation concern is due.
+
+The market reaction on Wednesday was big. Stocks fell, futures markets further lowered rate cut
+expectations, and yields surged across the curve, led by the two-year which was up 23bp. The twoyear is still below 2023 highs but has risen nearly 75bp this year. It all reflects the view that the Fed
+will keep rates higher for longer, and may not cut at all in 2024.
+The reaction is justified by the composition of the March CPI data. Core services inflation rose an
+annualised 6 per cent, and unlike in the past two reports, there were no big anomalies to blame.
+Arguing CPI looks hot because of a start-of-the-year “January effect” price adjustment only works
+for so long. Used car prices, which rose in February and lifted overall goods prices, fell 1 per cent in
+March; goods deflation also resumed. Airfares and hotel prices, two volatile categories which can
+throw off the data, were both well behaved.
+Instead, inflation came in strong in services categories that have looked persistently hot for a while:
+shelter, medical care and auto services. Shelter inflation again bucked longtime predictions that
+it’ll fall to match the more benign trend shown by new lease data from the likes of Zillow. Medical
+care was driven by strongly rising prices for hospital services (up 1.2 per cent in March), likely
+reflecting big recent wage increases at major hospital systems.
+Meanwhile, car insurance and auto repair shot up 2 per cent and 3 per cent, respectively, in March.
+These two categories make up 7 per cent of core services inflation and have rather scary-looking
+longer-term charts:
+
+There is still a case for optimism. Though the labour market has broadly normalised already, wage
+growth has ground down more slowly. The latest data suggest 4 per cent to 5 per cent wage growth,
+compared to a pre-pandemic 3 per cent to 4 per cent. That could mean it’s only a matter of time
+until slowing wage growth lessens price pressure on, say, hospital or car repair inflation. Shelter
+inflation could also fall further, as analysts have long predicted. No one knows the “right” lag time
+to expect between the Zillow rent and CPI rent data; it could simply be longer than anticipated.
+Three months of sticky inflation is worrying, but could prove a bump in the road.
+On balance, we think this CPI report is a blow to fast-disinflation optimism, and creates significant
+uncertainty around rate-cut timing. So it makes sense markets flinched yesterday. The bigger
+question for investors: how much did the recent rally depend on imminent rate cuts to begin with?
+(Ethan Wu)
+
+Apple lawsuits: different this time?
+I have been covering tech companies on and off for a couple of decades, and all through that time
+intelligent and well-informed people have been telling me, periodically, that some lawsuit or other
+is going to do serious damage to the super-profitable business model of some Big Tech company.
+Microsoft is the prime example here, but there is also Oracle vs Google, Motorola vs Qualcomm,
+assorted efforts to restrain Google’s ad business, and so on. It is only a minor exaggeration to say
+that none of this has ended up mattering one tiny little bit. Microsoft, which has had more legal
+targets painted on its back than anyone, is the highest-valued corporation in the world.
+So it is hard for me not to shrug off the US Department of Justice’s lawsuit against Apple, which
+alleges the iPhone maker is a monopolist. This kind of thing has never mattered before. Why
+should it now?
+Dan Ives, an analyst at Wedbush who has a buy rating on Apple, says “it is different this time
+because the pressure is building globally and the DoJ has struck when the iron is hot”. He says the
+litigation is, on a risk scale of 1-10, an eight, whereas other tech litigation in recent decades was a
+two or three. While he thinks the chances of the justice department forcing an overhaul of the
+company’s business model are low — less than 20 per cent — this would have a big financial
+impact.
+The war on Apple is indeed multi-front. In Europe, the competition authorities have fined the
+company €1.8bn for suppressing competition from rival music streaming services on its platform.
+That’s a sum Apple will fish out from the couch cushions, but is a taste of the fines and remedies
+that could come with the EU investigation of Apple’s and Google’s app stores under the Digital
+Markets Act. Meanwhile in the US, the legal fight with Epic Games won’t go away. The Fortnite
+game maker says Apple has violated a judge’s order to allow app developers to steer customers to
+transaction platforms outside of the app store. And the justice department’s antitrust lawsuit
+against Google’s search business threatens the payments Google makes to Apple to be the default
+search engine on the iPhone — a large, pure-margin chunk of revenue.
+
+All the legal challenges focus on a single, two-sided issue: Apple’s ability to trap consumers within
+its iPhone ecosystem, and to extract payments from rivals who want to get at those consumers.
+This basic issue applied to music streaming, transaction steering, watch-phone pairing, digital
+wallets, and so-called “superapps”.
+Nick Rodelli of CFRA Research, who specialises in legal questions, thinks the DoJ has a three-infour chance of winning the case and the victory surviving Supreme Court review. This outcome
+might take as little as three years, he says. This puts Apple’s services revenue, which accounts for
+about a third of operating profit, at risk. His central case is a 10 per cent hit to earnings per share —
+a lot, for a company that is not growing earnings particularly quickly any more.
+A more benign while still realistic view comes from Gene Munster of Deepwater Asset
+Management. He too sees a significant chance of the DoJ successfully enforcing remedies on Apple
+in many of the areas it is targeting — watches, wallets, superapps, and so on. But he thinks
+increased openness may not lead to that much consumer switching. “Just because it is easier to
+switch doesn’t mean people will.” People trust Apple as a brand, he says, because the products
+work well. “It keeps coming back to who has the good products,” he says. The biggest worry, in his
+view, is therefore the loss of the Google money.
+This view chimes with Unhedged’s strong belief about the immense laziness of most people in most
+domains. Investors need to think about the following equation. Estimate how much better a rival
+product is than Apple’s, in terms of price or (subjective) quality. Subtract the (subjective) cost of
+switching. If the result is negative, Apple should be OK. And remember, people loathe switching
+their digital and financial infrastructure, even if it doesn’t take that long.
+To simplify even more, the key question about Apple is still not about the legality of its business
+model. It’s about the quality of its products. Are they still better, or at least not much worse?
+
+One good read
+Uptown problems.
+
+FT Unhedged podcast
+Can’t get enough of Unhedged? Listen to our
+new podcast, hosted by Ethan Wu and Katie
+Martin, for a 15-minute dive into the latest
+markets news and financial headlines, twice a
+week. Catch up on past editions of the
+newsletter here.
+
+Recommended newsletters for you
+Swamp Notes — Expert insight on the intersection of money and power in US politics. Sign up
+here
+Due Diligence — Top stories from the world of corporate finance. Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Technology sector
+US inflation
+Markets
+Apple Inc
+Federal Reserve
+
+

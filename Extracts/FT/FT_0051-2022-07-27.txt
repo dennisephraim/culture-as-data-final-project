@@ -1,0 +1,81 @@
+FT PROFESSIONAL
+
+Alphaville Europe
+
+Europe’s wrong-type-of-inflation problem
+
+👀 Italy . . .
+
+© Bloomberg
+
+Bryce Elder
+Published JUL 27 2022
+
+A handy thing about inflation is that it improves government finances, though not reliably.
+Deflating public debt with higher prices only works when it’s the right type of inflation, and that’s
+not what Europe has got.
+The UK’s post-WWII rebuild is example of how reflation can work. Wartime spending loaded
+Britain with public debt equivalent 270 per cent of GDP and a recession lasted from 1943 to 1947.
+But by letting inflation run high for a few decades (4.6 per cent annually on average) the ratio had
+deflated to about 50 per cent by the start of the 1970s.
+
+It didn’t happen in isolation though. Post-war stimulus including a 30 per cent devaluation of
+sterling vs gold meant nominal growth easily outstripped nominal interest rates, resulting in rising
+incomes and governments that consistently ran in surplus. Real growth through the golden era
+(~2.8 per cent pa on average) plus a tame interest rate on the mostly foreign-held sovereign debt
+(~3.6 per cent pa) became a fiscal snowball — as illustrated by this chart from Bridgewater’s
+Principles for Navigating Big Debt Crises:
+
+As per above, economies are manifold. Barclays’ economist Philippe Gudin de Vallerin et al explain
+the evolution of public debt as . . .
+
+... the sum of the primary balance as a percentage of GDP and the debt-toGDP ratio for the previous period, multiplied by the difference between the
+average nominal interest rate on the stock of debt and nominal growth:
+Bt = -Dt + Bt-1 (rt-gt)
+where B is the debt ratio, D the primary balance ratio and r the average
+nominal interest rate on the stock of debt and g nominal growth.
+The big problem now is with g, the nominal growth rate. It’s tricky to measure because consumer
+price indexes include imported goods such as Norwegian gas and Indonesian coal, whereas GDP is
+exclusively domestic value-add.
+And since Europe is a net importer of commodities, nominal growth is being squeezed. These two
+charts from Barclays show how the Harmonised Index of Consumer Prices is running 3 percentage
+points hotter than the GDP deflator, which has a drag from import prices of about 8 percentage
+points versus zero a year ago:
+
+A weakening ratio between import and export prices (known as the terms of trade) also means
+European households suffer disproportionately. Barclays guesses that the supply-side shock has
+knocked 4 percentage points off Euro area growth, which against tepid wage inflation leaves the
+nominal rate deep in negative territory:
+
+What about windfall taxes? Ok, but recent measures taken by Spain, Italy and Germany have been
+earmarked to stuff like social security and renewable energy investment, with no corresponding
+reduction in deficit targets. Also, stagflation almost never translates into higher tax receipts. Here’s
+Barclays again:
+
+Another thing to note there is r, the average nominal interest rate, which is very slow to move.
+Market interest rates can rise but only new bond issuance will price off the higher yield. Even that
+might not even matter much, given a percentage of new issuance will be to flip expensive debt
+issued during the 2010-12 crisis. And since the crisis, Euro area states have been issuing debt with
+ever-lengthening maturities. Absent a default threat or a serious political meltdown, the passthrough of market rates should happen gradually.
+
+That’s not true of inflation-linked debt, which for France and Italy make up 10 per cent of the total.
+Italy, unlike its neighbours, also has floating-rate securities that account for another 6.6 per cent of
+tradeable debt.
+Under Barclays’ base case of inflation peaking in September, Italy will be paying about €10bn more
+in inflation compensation next year, or double the 2021 level. If inflation stays elevated through
+2023 the bill will rise to €16bn, which is that’s on top of about €3bn in variable rate coupons:
+
+Based on current market rates this burden isn’t big enough to raise serious concerns about
+sustainability, “assuming [Italy’s] fiscal position returns to a conservative stance”, says Barclays.
+The bigger worry is a repeat of May and June’s mini panic, because any threat that policies tighten
+further and growth forecasts deteriorate would raise the real possibility of a doom loop:
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Global Economy
+Europe
+Alphaville
+Bryce Elder
+
+

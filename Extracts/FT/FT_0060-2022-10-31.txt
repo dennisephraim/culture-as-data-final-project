@@ -1,0 +1,77 @@
+FT PROFESSIONAL
+
+Opinion US inflation
+
+There’s one inflation gauge that bucks the trend
+The New York Fed’s often overlooked UIG believes US inflation is past its peak
+
+MEGAN GREENE
+
+The consumer price index and the personal consumption expenditures index include the prices of volatile items such as energy and
+food © Frederic J Brown/AFP/Getty Images
+
+Megan Greene
+Published OCT 31 2022
+
+The writer is an FT contributing editor and global chief economist at Kroll
+
+Whenever there’s an economic consensus on anything, it’s worth considering how it might be
+wrong. There seems to be general agreement that inflation and rates will be higher for longer, and
+“team transitory” has been defeated. But what if we are at an inflection point on inflation? This is
+the question policymakers should be asking. By one key measure, inflation in the US has already
+peaked. In fact, it peaked in March, the same month that the Federal Reserve began raising the
+benchmark rate.
+The New York Fed’s underlying inflation gauge has largely been ignored for decades. That’s
+understandable, and not just because of the snoozer of a name. There wasn’t any significant
+underlying inflation in the years after the global financial crisis. While the Fed and financial
+markets are fixated on the 2 per cent inflation target, the UIG isn’t primarily a level forecast. Its
+real value is in predicting inflection points. It correctly anticipated the lasting high inflation we are
+now observing. And while it’s still high, the UIG is suggesting it will be abating.
+The media and the public are obsessed with the consumer price index, while the Fed’s target is
+based on the personal consumption expenditures index. Both can be “noisy”, since they include the
+prices of volatile items such as energy and food. But they are not the only price measures. The
+Atlanta Fed tracks nine other indices for inflation that aim to strip out noise. They show inflation
+somewhere between 4.7 and 7.3 per cent in September.
+Most of these gauges remove data to try to identify underlying inflation. Core CPI excludes energy
+and food costs, for example, while trimmed mean and median measures strip out components with
+the largest changes in prices to smooth out the index. But the risk with these indices is that they
+can miss large price moves — up or down — that could be a signal of inflation changing direction.
+The UIG is constructed differently, removing noise rather than items from the index. The idea is
+that movements in trend inflation happen alongside related changes in the trends of other
+economic and financial factors. The index looks at moves in prices, the labour market, financial
+markets and the real economy every month and checks the historical data going back to 1995 to see
+if similar moves had previously lasted at least a year. If so, they are included in that month’s UIG
+and if not, they are filtered out as noise.
+
+You really can’t use the UIG to forecast the level of inflation, as has sometimes been suggested.
+Where it matters is in showing when the inflation trend is changing, and on this it has a decent
+track record in both normal and unprecedented times. When CPI hit a peak in 2018, for example,
+UIG clearly showed the peak while core CPI and trimmed mean and median indices suggested
+inflation would continue rising. In mid-2009, UIG showed a trough in inflation while the other
+measures took another year to reach a nadir.
+What about during the pandemic? Core CPI did a good job of signalling a bottom for inflation in
+mid-2020 before rising, but dipped in the third quarter last year, wrongly suggesting that inflation
+would come down. The trimmed mean and median inflation indices failed to indicate a shift
+towards higher inflation, showing a trough more than six months after CPI and core CPI.
+UIG found a bottom roughly in line with headline CPI and then started a steady climb upwards,
+rightly ignoring the slump in the third quarter of 2021. Of these metrics, it provided the earliest
+and most reliable signal for a rise in underlying inflation.
+The Fed is now looking for signs that trend inflation has peaked and that monetary tightening is
+bringing inflation back towards its target. Much to its alarm, core inflation dipped in the second
+quarter of this year before accelerating in August and September. Median and trimmed mean
+inflation have been on a steady upward climb, with no signs of stabilisation. But the UIG peaked in
+March 2022, stabilised at high levels and has been gradually falling since July.
+All the different gauges for inflation suggest it is way above the Fed’s target. But we know monetary
+policy works with long and variable lags, and there is a danger overtightening could spark a
+recession. The central bank aims to look through transitory factors and set policy based on the
+underlying trend. The UIG shows the trend is finally starting to reverse course. With rates now
+restrictive, that suggests it’s time for Fed officials to consider slowing their tightening path.
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Megan Greene
+US inflation
+Federal Reserve
+
+

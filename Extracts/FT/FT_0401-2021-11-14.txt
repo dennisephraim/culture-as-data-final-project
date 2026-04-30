@@ -1,0 +1,83 @@
+FT PROFESSIONAL
+
+Opinion US inflation
+
+The Fed must abandon average inflation targeting
+Why should failures in the past drive monetary policy in the future?
+
+WILLEM BUITER
+
+When he announced the adoption of AIT last year, Fed chair Jay Powell emphasised the inflation expectations channel © Kevin
+Dietsch/Getty
+
+Willem Buiter
+Published NOV 14 2021
+
+The writer is a visiting professor at Columbia University
+The most egregious mistake made by a leading central bank in the pursuit of price stability has
+been the US Federal Reserve’s adoption of “average inflation targeting” in August 2020.
+
+The 2 per cent annual inflation target for the personal consumption expenditure price index,
+introduced in 2012, applied to the inflation rate in any given period and the anticipated inflation
+rates for all future periods. AIT — even the flexible variety favoured by most members of the
+Federal Open Market Committee — calls for a deliberate overshooting following episodes of belowtarget inflation, so as to ensure that average inflation rates are closer to the target.
+A 2020 statement by the FOMC commits it to achieving “inflation that averages 2 per cent over
+time”. But members of the Committee take different views of what that would mean in practice.
+Atlanta Fed president Raphael Bostic considers targeting four- to eight-year moving averages of
+assorted inflation metrics. His counterpart at the Cleveland Fed, Loretta Mester, mentions five-,
+six- or seven-year moving averages for PCE inflation, or even a fixed starting point rather than a
+moving average. St Louis Fed chief James Bullard considers a five-year window to be realistic,
+while Charles Evans of the Chicago Fed mentions an asymmetric five-year averaging, with no
+correction required for past overshooting of the inflation target.
+All these versions of AIT could mean many years of deliberately generated and quite unnecessary
+above-target inflation.
+Arguments for AIT generally start with the correct observation that, because of the extremely low
+level of the neutral real rate of interest, the effective lower bound on the Fed’s policy rates has
+become a binding constraint. As a result, inflation in the US has been below target consistently
+from the start of the financial crisis until the first quarter of 2021. Fear of the so-called
+Japanification of the US economy — a combination of deflation and anaemic growth — has been
+driving the Fed’s decisions until the recent overshooting of the inflation target put monetary policy
+tightening back on the agenda.
+
+It is bound to be the case that, when the economic system operates at the ELB for significant
+chunks of time, even the most effective pursuit of the conventional inflation target will generate an
+average inflation rate that is below target. Following the AIT approach of deliberately overshooting
+the inflation target (during periods when the ELB does not constrain monetary policy) is indeed
+likely to result in an average inflation rate closer to the target. But it would do so at the cost of
+higher average absolute deviations (and higher average squared deviations) from the target rate.
+Better to be below target when you cannot be on target and on target when you can be, than to be
+below target when you cannot be on target and above target when you could be on target!
+AIT is a form of price-level targeting. Yet basic economics teaches us that the price level is
+irrelevant. Actual and anticipated future inflation rates matter. Inflation is a tax on nominal assets
+and distorts relative price signals. Anticipated future inflation influences expected returns on a
+range of assets.
+Proponents of AIT care about past inflation, which can be indirectly relevant for monetary
+policymakers if there are causal relationships between it and the objectives of monetary policy.
+Contracts with lagged indexation clauses are one such channel. Past inflation can influence
+expectations of future inflation which can in turn drive actual current and future inflation. When
+he announced the adoption of AIT last year, Fed chair Jay Powell emphasised the inflation
+expectations channel.
+But there are other drivers of expected future inflation: past, present, and anticipated future money
+growth, forward guidance, expected and unanticipated changes in the monetary and fiscal policy
+regime, supply side developments, among many others. Even poorly informed economic agents
+will learn to identify episodes when the ELB is a binding constraint on Fed policy.
+Except in unlikely special cases, the role of past inflation in driving current and future inflation
+expectations, and through them actual current and future inflation, will not call for anything like
+an AIT rule.
+
+The choice of average inflation targeting is economically illiterate. Why should unintended and
+mostly unavoidable inflation targeting failures in the past justify future deliberate failures? And the
+cost of adopting AIT could be serious: future periods of unnecessary, deliberate above-target
+inflation. It is time to get rid of this potentially costly nonsense.
+Letter in response to this article:
+A broadside to appeal to old school central bankers / From Bill Smyth, Bagshot, Surrey, UK
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Willem Buiter
+US inflation
+Federal Reserve
+Jerome H. Powell
+
+

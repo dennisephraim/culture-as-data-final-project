@@ -1,0 +1,83 @@
+FT PROFESSIONAL
+
+Opinion Central banks
+
+Will higher interest rates leave economic scars?
+Two new studies argue that even if they depress inflation, they could hurt
+innovation and growth
+
+SOUMAYA KEYNES
+
+© Ann Kiernan
+
+Soumaya Keynes
+Published SEP 15 2023
+
+Complaining that central bankers are squeezing borrowers is a bit like grumbling that weight-loss
+drugs are making your face look gaunt. Looking pinched is part of the process. Officials at the
+Federal Reserve, the Bank of England and the European Central Bank are certainly showing no
+signs of regret as they approach the end of their tightening cycles. Even if they have gone too far
+and end up crushing the economy, central banking lore is that any short-term pain should
+eventually fade. A comforting thought — but one that is increasingly being challenged.
+
+Conventional wisdom is that while monetary policymakers can wind an economy up or down over
+the short term, over longer periods they are pretty much impotent. As expectations adjust, trying to
+juice up the economy with easy money will end in tears and inflation. “One cannot permanently
+enrich a country simply by doling out more banknotes,” explained Bank of England deputy
+governor Ben Broadbent last October. If you want real effects, you have to change real things.
+Over the decades, economists have poked at this core assumption. In the 2010s, sluggish
+productivity growth refuelled suspicions that policymakers were being naive about their own
+power. Luca Fornaro of the Barcelona School of Economics and Martin Wolf of the University of St
+Gallen theorised this year that higher interest rates discouraged innovation and curbed potential
+growth, by raising the cost of capital and dampening expected demand.
+Showing something is possible in a model is easier than proving it with data. That is particularly
+true when there isn’t much data, and what is available is riddled with uncertainty. Central bankers
+change interest rates in response to the shifting macroeconomy. How, then, can one be certain that
+weak growth a decade later is really caused by monetary policy, and not whatever it was reacting
+against?
+A couple of recent papers have had a go. The first is by three economists attached to the Federal
+Reserve Bank of San Francisco, and studies countries that historically pegged their exchange rates.
+Those economies in effect absorb monetary policy shocks from overseas. That means one can be
+more confident that any subsequent changes are independent of developments at home.
+The researchers estimate that 12 years after a one percentage point increase in interest rates, total
+factor productivity is curbed by 3 per cent, the capital stock by 4 per cent and gross domestic
+product by 5 per cent. Interestingly, the result is asymmetric; while tight money hurts, easy money
+does not appear to stimulate the economy in the long run. And they work out that other studies
+using different methods would have found (smaller) long-term effects of monetary policy if only
+they had looked.
+
+The line that monetary contractions curb investment in research and development, which hampers
+growth, is supported by another paper by Yueran Ma of the University of Chicago and Kaspar
+Zimmermann of the Frankfurt School of Finance & Management, which was presented at Jackson
+Hole. They find that three years after a one percentage point rise in interest rates, research and
+development spending falls by between 1 and 3 per cent, venture capital investment falls by a
+quarter and patenting and innovation falls by 9 per cent.
+One might scoff that if there is less money around to chase crypto crazes, that is no bad thing. Low
+interest rates could even hold back growth by encouraging the misallocation of resources to silly
+ideas. But Ma and Zimmerman find that the important technologies often mentioned in
+companies’ earnings calls, such as cloud computing and electric vehicles, are particularly sensitive
+to rising rates.
+Questioning old assumptions is healthy, and economists should do lots of it. As evidence builds,
+central bankers should also ask what it might mean for policy. Perhaps, for example, they should
+think twice about crushing inflation aggressively if there could be long-term consequences for
+productivity growth.
+For now, the appetite to do anything other than beat down inflation is close to nil. Donald Kohn,
+former Fed vice-chair, commented at Jackson Hole that the Fed’s contribution to innovation was
+“to achieve the dual mandate”. Being boring and stable gives companies the certainty they need to
+invest. Once you start considering side-effects, where do you stop? What if your interest-rate
+setting stores up a financial crisis?
+Monetary policy is a blunt tool, and the more things it is asked to do, the worse it will perform at
+each. For now, if hoiking up interest rates derails investment and innovation, the mess will be left
+to others to tidy up.
+soumaya.keynes@ft.com
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Soumaya Keynes
+Global inflation
+US interest rates
+Central banks
+Monetary policy
+
+

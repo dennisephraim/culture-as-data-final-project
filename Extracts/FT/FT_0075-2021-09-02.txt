@@ -1,0 +1,115 @@
+FT PROFESSIONAL
+
+Opinion Free Lunch
+
+Inflation may be falling, not accelerating
+Year-on-year metrics are a poor guide to fast-shifting trends
+
+MARTIN SANDBU
+
+Supply, demand and the prices that are shaped by them are changing so fast that a one-year difference in price levels is a poor guide
+to how prices are moving right now © Bloomberg
+
+Martin Sandbu
+Published SEP 2 2021
+
+This article is an on-site version of Martin Sandbu’s Free Lunch newsletter. Sign up here to get
+the newsletter sent straight to your inbox every Thursday
+
+There is one big economic question that is currently drowning out most other debates: whether
+inflation is getting out of control and, if so, whether governments and central banks need to step on
+the brakes promptly.
+
+The numbers published in news headlines certainly look worrying. Here is what year-on-year
+growth in the consumer price index looks like in the US:
+
+and in the eurozone, where the annual inflation measure (HICP) has reached a 10-year high:
+
+There is, however, a problem with these charts and headlines: they obscure that inflation is in fact
+slowing.
+In normal times, year-on-year price growth is a pretty good measure of inflation trends, since it is
+unaffected by seasonal swings (think seaside hotel room prices in holiday season), and inflationary
+forces do not change that fast. But the pandemic has turned our economies topsy-turvy. Supply,
+demand and the prices that are shaped by them are changing so fast that a one-year difference in
+price levels is a poor guide to how prices are moving right now. For example, prices could be much
+higher today than a year ago — and yet be falling fast today (this happened for US CPI in November
+2020 and to eurozone HICP in July 2021).
+In times like these, it is more informative to look at instantaneous price inflation — the month-onmonth change in prices. To avoid the seasonal problem (those holiday hotel rooms), we can use the
+monthly percentage change in the seasonally adjusted price index. This is what that looks like in
+the US for the CPI, which in July grew at the slowest rate since February:
+
+The deceleration is even clearer when looking at the Personal Consumption Expenditures index,
+which US central bankers favour over the CPI:
+
+On this measure, which is the one Federal Reserve interest-setters target, inflation has been falling
+every month for four months, again to its lowest level since February.
+These levels are still high, to be sure — if sustained for a year, they would accumulate to annual
+inflation of 5 to 6 per cent. The point is simply that they are the lowest they have been in months.
+Keep that in mind when you see those year-on-year price changes accelerating — they say more
+about what happened last year than what is happening now.
+Such a pattern can be seen in the eurozone too, although it is weaker there. Look at the chart of the
+monthly percentage change in the seasonally adjusted version of the official price index targeted by
+the European Central Bank (the same as the one charted as year-on-year changes above):
+
+Inflation actually fell to almost-normal levels last month. A measure of core inflation, which
+excludes volatile food and energy prices, is even more subdued on a monthly basis — apart from a
+few single-month rises, inflation has behaved just like before the pandemic.
+
+These simple graphs do not resolve the argument. Inflation could still become unmoored. But it
+would make for a better debate if we recognised the fact that, at the moment at least, inflation
+looks like it is slowing.
+It could get better still if we pondered why it is slowing. I wrote a few months ago that if price
+pressures were driven by bottlenecks, we should see the economy as a ketchup bottle from which
+“none will come/and then a lot’ll” as Richard Armour put it. It could simply be that we are already
+moving from the “none” to the “lot’ll” phase of the ketchup-bottle economy.
+In a recent blog post, the White House Council of Economic Advisers’ Jared Bernstein and Ernie
+Tedeschi highlight that a lot of disinflationary forces loom over the US economy. The expansionary
+effect of budget policies depends on the change in the deficit (or surplus), not its level, so as the
+enormous pandemic spending recedes, the economy will be slowed down by fiscal policy even if the
+deficit remains large. And they point out that the infrastructure and training and educational
+investments their administration is pushing for should increase productivity over time and thereby
+dissipate price pressures as supply capacity expands to satisfy demand.
+
+Whatever happens to the Biden administration’s infrastructure proposals, I think we may be seeing
+such disinflationary productivity effects already in play. In my FT column this week, I argued that
+we should welcome the labour shortages we are seeing as harbingers of a productivity boom. A case
+in point: my colleague Taylor Nicole Rogers’ story on how US retailers are using QR codes to
+automate work previously done by shop assistants. As the chart below shows, OECD forecasts show
+labour productivity accelerating in virtually all the biggest high-income economies in the three
+years spanning the whole pandemic (both the collapse and the rebound) compared with the three
+years preceding it.
+
+If this is borne out, it should help keep inflation at bay and bring better-paid jobs in the bargain.
+These are early days and that hope could prove unrealistic. But to balance out the doommongering, let us not ignore the very pleasant surprises the post-pandemic recovery is presenting
+us with.
+
+Other readables
+All the presentations from last week’s Jackson Hole symposium are now
+available online. My colleague Robert Armstrong’s markets newsletter
+Unhedged (which I strongly advise you to subscribe) has covered one
+particularly interesting paper on how inequality affects long-term interest
+rates.
+I stood in for my colleague Gideon Rachman in his podcast on global
+politics, for which I interviewed Sarah Chayes on what went wrong in
+Afghanistan and what it says about the US’s own problems at home.
+
+Numbers news
+Chinese manufacturing output contracted in August.
+
+Recommended newsletters for you
+Unhedged — Robert Armstrong dissects the most important market trends and discusses how
+Wall Street’s best minds respond to them. Sign up here
+The Lex Newsletter — Catch up with a letter from Lex’s centres around the world each
+Wednesday, and a review of the week’s best commentary every Friday. Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Martin Sandbu
+Free Lunch
+Eurozone economy
+
+Global inflation
+US inflation
+
+

@@ -1,0 +1,124 @@
+FT PROFESSIONAL
+
+Opinion Unhedged
+
+Is the market too rich and too thin?
+And the return of hyperinflation in lumber
+
+ETHAN WU ROBERT ARMSTRONG
+
+Robert Armstrong and Ethan Wu
+Published DEC 15 2021
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+This article is an on-site version of our Unhedged newsletter. Sign up here to get the newsletter
+sent straight to your inbox every weekday
+
+Good morning. Fed day! Good luck everyone! Email us with predictions before the release lands
+this afternoon! robert.armstrong@ft.com and ethan.wu@ft.com.
+
+Into the narrows
+Like a concerned parent clucking over a wan teenager, investors are worried that the market looks
+thin. Breadth — an umbrella term for various measures of the proportion of stocks in an index that
+are performing well — has collapsed. Does this mean those few stocks still hitting highs are on
+borrowed time?
+Here’s Jared Dillian at Mauldin Economics writing in Bloomberg:
+
+There have been episodes of declining breadth in the past, and those usually
+presage large corrections or bear markets. The Nifty 50 episode in the 1960s
+is one example. But even in the dotcom bubble, breadth declined steadily
+until March of 2000, at which point there was only one stock standing: Cisco
+Systems. When Cisco broke on an earnings report, that was it for the dotcom
+bubble.
+Does a narrowing market really presage a downturn? As Dillian notes, it sometimes has, but there
+have been false dusks, too. The chart below shows the past two decades of monthly S&P 500
+downturns against market breadth:
+
+Other than the fact recessions are bad for stocks, we don’t see an obvious relationship in this chart.
+In June 2010, bad breadth accompanied a market thrashing, but even worse breadth sounded a
+false alarm in September 2014. A period of persistent market thinness around 2015 coincided with
+stocks trading sideways. A simple regression analysis finds that weaker breadth didn’t correspond
+with future market slides.
+Even seemingly straightforward examples such as the dotcom bubble contain subtleties, as Capital
+Economics’ John Higgins pointed out in a recent note:
+
+[T]he S&P 500 has sometimes narrowed for a long period without falling
+sharply. It did so during most of the second half of the 1990s, as the dotcom
+bubble inflated. That bubble only burst around the turn of the century. And
+it did so for most of the second half of the last decade — when the index
+generally soared — before the onset of the pandemic.
+
+We sympathise with the jitters, though. Valuations are stretched, the S&P 500’s real earnings yield
+is at a record low, and macro conditions look increasingly inhospitable. The top-heaviness of US
+equities’ performance inspires fear that investor sentiment is turning sour. This amusing pie chart
+from Bank of America’s strategy team drives the point home:
+
+Can a rich, thin market be sustained by a handful of super-stocks? Perhaps. We do seem to live in
+an increasingly tech-driven economy, where network effects and increasing returns to scale mean a
+few companies make most of the profits, and everyone else fights for scraps. In such a world, one
+would own a stock index not to capture broad returns, but instead knowing that returns would be
+very unevenly distributed, in ways impossible to predict in advance.
+
+Crazy lumber inflation is back
+Someone pointed out to me this summer that inflation is always idiosyncratic. For every item or
+commodity or service that is rising in price, there is a particular and usually surprising story about
+why people want more of it than usual or the supply is abnormally constrained, or both. It is
+therefore tempting to explain away every particular instance of inflation, and so deny, a little bit at
+a time, the general economy-wide inflationary trend. This would be a mistake.
+Such was the case with wild timber prices in the spring of this year. Yes, they were historically
+unprecedented, but look closely at the market and you find a one-off burst in DIY project spending
+by cooped-up homeowners meeting very cold weather in the lumber-producing areas of the US
+south-east, which shut sawmills. Things duly got back to nearly normal by summer. Sometimes
+inflation just goes away, and that is very reassuring.
+Sometimes, however, inflation goes away and then comes back. That is not reassuring. And all of a
+sudden, lumber is back at $1,000 per thousand board feet (data from Refinitiv):
+
+Paul Jannke, lumber principal at the consultancy Forest Economic Advisors and our go-to lumber
+guy, said demand has been strong since Covid hit, but the real swing factor has been supply. In
+sum:
+
+There is always a seasonal slowdown in buying by lumber wholesalers in
+October and November. Delivery from mills, and then delivery to retailers,
+takes about three months, and retail lumber demand is weak in the dead of
+winter. It is normal for buying to pick up in December, but
+The import duty on Canadian is very likely doubling soon, to 18 per cent,
+and
+Many wholesalers held off buying until recently in anticipation of a large
+amount of sawmill capacity that was set to come on in the south, but labour
+shortages at these mills have limited production, and
+Very wet weather has made it hard to pull trees out of southern forests
+(heavy equipment tears up the moist forest floor). Finally,
+In British Columbia, the highest-producing region in Canada, rain was so
+heavy this year that much of the harvest (already much reduced by the
+mountain pine beetle) was prevented from reaching the market.
+“Typically lumber prices are $350 to $400. The move to $600 is lack of supply coming from the
+south — about $100 of that is labour shortage and $100 is weather. The jump past $700 is down to
+the lack of supply from British Columbia — which dragged the whole market higher,” Jannke says.
+For those worried that inflation is going to persist, the point that sticks out there is the one about
+mill labour. Jannke says that mill jobs tend to be in rural locations and not very well paid — and yet
+in modern mills the jobs require tech savviness, too. So potential workers can often find better paid
+work that is less remote, a long-term problem for the industry.
+Are lumber prices one of those idiosyncratic stories that, all the same, reflects wider inflationary
+pressures? Right now, labour issues have pushed prices up by something like 25 per cent, on
+Jannke’s account. That’s significant, even if the other, larger contributors to the supply shortages
+subside soon.
+
+One good read
+Over at Alphaville, Jamie Powell sees an early indication that companies that “won” Covid might
+have pulled demand forward from the future — and could see sales fall sharply post-pandemic. We
+will keep a close eye on revenue estimates and guidance in the months to come.
+
+Recommended newsletters for you
+FT Asset Management — The inside story on the movers and shakers behind a multitrilliondollar industry. Sign up here
+Free Lunch — Your guide to the global economic policy debate. Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Ethan Wu
+Robert Armstrong
+Unhedged
+US equities
+Markets
+
+

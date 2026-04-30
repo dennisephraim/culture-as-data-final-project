@@ -1,0 +1,131 @@
+FT PROFESSIONAL
+
+Opinion Unhedged
+
+Powell splits the difference
+The banking crisis is a mystery to the Fed, too
+
+ROBERT ARMSTRONG
+
+© Financial Times
+
+Robert Armstrong and Ethan Wu
+Published MAR 23 2023
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+This article is an on-site version of our Unhedged newsletter. Sign up here to get the newsletter
+sent straight to your inbox every weekday
+
+Good morning. We are generally admirers of Jay Powell’s press conferences. We think he is about
+as plain-spoken and direct as a person in his position can be. Yesterday, though, his subject matter
+got the better of him. At this point, the US economy is so weird that it defies plain speaking. But if
+you have a crisp account of what’s going on, send it to us: robert.armstrong@ft.com and
+ethan.wu@ft.com.
+
+The Fed’s muddle
+On Tuesday the former Fed economist Claudia Sahm told us this: “It’s almost like the Fed put bank
+failures in its toolkit, to cool off demand.”
+In yesterday’s post-meeting press conference, Jay Powell sounded Sahmian. He reiterated several
+times that bank failures and near failures will spur regional lenders to act conservatively,
+restricting credit in a way that “you can think of [as] being the equivalent of a rate hike, or perhaps
+more than that”. From Powell’s opening statement:
+
+Since our previous meeting, economic indicators have generally come in
+stronger than expected, demonstrating greater momentum in economic
+activity and inflation. We believe, however, that events in the banking system
+over the past two weeks are likely to result in tighter credit conditions for
+households and businesses, which would in turn affect economic outcomes.
+It’s too soon to determine the extent of these effects and too soon to tell how
+monetary policy should respond.
+As a result, we no longer state that we anticipate that “ongoing rate
+increases” will be appropriate to quell inflation. Instead, we now anticipate
+“some additional policy firming” may be appropriate.
+That change in guidance is a big deal. “Ongoing rate increases” means “we’re in inflation-fighting
+mode”. But “some additional policy firming” sounds to us like “we’re almost done”.
+
+Careful readers will spot a muddle. Powell is saying that, because of the bank stresses, the Fed
+anticipates a shorter, less aggressive path for rate increases, but is also saying that it’s too soon to
+tell how monetary policy should respond to the bank stresses. It can’t be both.
+Powell’s attitude seems to be that it’s better to assume bank failures will bite and be wrong, than to
+assume they won’t bite and be wrong about that. Asked what the last two weeks mean for a soft
+landing, Powell said: “It’s hard for me to see how it would help the possibility.” Markets seemed to
+agree. Stocks fell to end the day while bonds rallied across the curve.
+The muddle was also reflected in the Fed’s latest set of economic projections, released yesterday.
+There were few changes to speak of for 2023 — in defiance of the fact that consumption and
+consumer inflation have both picked up recently (For 2024, rate expectations were nudged up, and
+growth nudged down.) Nominally, the Fed is looking past the hotter data because of the bank
+failures, while at the same time acknowledging that the impact of the failures is an unknown.
+Market pundits looked torn on what to make of it all. Some saw stubborn insistence on stamping
+out inflation; others saw the last gasps of a dovish Fed’s rate-raising campaign. Mostly, though,
+people were confused. Many spoke of threading needles. One said Fed decisions had become
+wrapped in a “particular aura of complexity.” That’s right: we have reached the point in the rates
+cycle where we talk about auras.
+To us, this is a reminder that cycles don’t end smoothly or predictably. Jerky, non-linear events,
+like banks breaking, change the economic picture in an instant. Markets are now back to pricing in
+rate cuts later this year; they had finally come around to the Fed’s higher-for-longer view just a few
+weeks ago. Powell repeated his higher-for-longer mantra yesterday and, until now, we’ve been
+inclined to believe him. But it isn’t up to him anymore. (Ethan Wu)
+
+Against bank stocks (and their dividends)
+A few days ago we pointed out that bank stocks seem to be particularly risky: they are highly
+leveraged, vulnerable to runs, face systemic risks, and are beset by technological change. Given all
+those risks, and the share-price volatility that comes with them, one would expect bank stocks’
+returns to be high across the economic cycles. One expects extra pay for taking extra risk. But,
+looking at the past two decades or so, the long-term bank returns are very poor. It looks like, for
+some unknown reason, markets fail to appropriately price in the riskiness of banks.
+The piece generated a fair bit of mail. One note, from Charles Carignan, pointed out that I made a
+rookie mistake in my charts: looking at price return not total return, that is, return including
+dividends. Banks tend to pay dividends. So I reran the numbers yesterday.
+Across what I would call the long bull market, from the end of 2002 to the end of 2021, including
+dividends makes no difference. Among the 24 major industry groups, banks came in dead last, with
+annualised total returns over that period of less than 6 per cent, less than half the return on the
+wider market (these are the S&P 500 indices for each industry):
+
+You might object that we had a monstrous banking crisis in the middle of that span, so I have failed
+to pick a representative period. I’m not convinced by this, given both the frequency of banking
+crises and the fact that the chosen time span gives bank stocks a full 12 years to make back their
+crisis losses. But fine, let’s look at total return from the 2009 market trough to the year-end 2021
+top:
+
+Over this historically good span for stocks, banks outperformed the wider market by a percentage
+point a year. This is awful! The period began with most banks trading at all-time lows, and
+investors sought risk continuously over the ensuing years. And in the end investors who took bank
+equity risk get a lousy percentage point of extra annual return. After the whipping they took in
+2008, and all the volatility they put up with along the way? Man, these things stink.
+Another reader asked about banks’ relative performance in the pre-dotcom bull run — a good test
+to see if the past few decades have been anomalous. Well, they come up short again. From the
+autumn of 1989 (as far back as Bloomberg’s data on the S&P bank index goes) to the 2000 market
+peak, banks’ total return was 14 per cent annualised, to the market’s 18 per cent. The chart for the
+period looks exactly like you might expect: banks do well for a while, but as the cycle ages, they
+falter before the rest of the market does. You can almost smell the loans made during the early
+recovery defaulting as the cycle ages.
+In the end, it’s the same story again: buy a bank, take a host of unique risks and receive average-atbest performance in return.
+
+I submit there is a real puzzle here. It’s fine, and very likely true, to say that banks are hurt by
+punitive or unpredictable regulation, and that banker pay steals the returns, as my colleague Stuart
+Kirk has recently argued. But the risks themselves are not the main point here. The main point is
+that bank equity prices don’t seem to capture these risks and sources of volatility, providing extra
+return to those brave enough to invest. Why not? And what should investors do about it? Do we
+need index funds that own the whole market, except for banks? Do bank capital structures need a
+rethink, before investors figure out they should not touch the equity without big discounts to book
+value? Readers, if you have the answers, send them along.
+
+One good read
+Bank stress after a sharp rise in interest rates? We’ve seen that movie before.
+
+Recommended newsletters for you
+Due Diligence — Top stories from the world of corporate finance. Sign up here
+The Lex Newsletter — Lex is the FT’s incisive daily column on investment. Sign up for our
+newsletter on local and global trends from expert writers in four great financial centres. Sign up
+here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Robert Armstrong
+Unhedged
+US banks
+Markets
+Federal Reserve
+
+

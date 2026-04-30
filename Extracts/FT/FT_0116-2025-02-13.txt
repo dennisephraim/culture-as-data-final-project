@@ -1,0 +1,146 @@
+FT PROFESSIONAL
+
+Opinion Unhedged
+
+Inflation is back on the agenda
+Plus markets and the constitutional order
+
+ROBERT ARMSTRONG
+
+© FT montage/Reuters
+
+Robert Armstrong
+Published FEB 13 2025
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+This article is an on-site version of our Unhedged newsletter. Premium subscribers can sign up
+here to get the newsletter delivered every weekday. Standard subscribers can upgrade to
+Premium here, or explore all FT newsletters
+
+Good morning. Oil major Chevron plans to cut 20 per cent of its 46,000-person workforce as part
+of an efficiency drive. Whether Chevron’s leadership took this decision because they believe
+President Donald Trump is going to cut US energy prices by half, as he promised on the campaign
+trail, is unclear. Send me your oil price predictions: robert.armstrong@ft.com.
+
+Inflation
+January’s CPI inflation reading was bad, and particularly bad measured the way Unhedged prefers,
+annualising the month-to-month changes:
+
+Note that food and energy are excluded in that chart, so runaway egg prices were not a contributor.
+Instead, what we got was a notably broad-based increase in prices, for goods and services alike.
+Shelter inflation, with its very high weighting in the index, is not as bad as it was six months ago,
+but it’s still a big reason why the index is above the Federal Reserve’s 2 per cent target. And the
+problem is not just the lagging measure of imputed (“owner’s equivalent”) rent. Plain old rent is
+trending higher the last two months:
+
+There was a particularly high jump in volatile price series such as used cars, airline tickets and car
+insurance. Used cars, for example, have just a 2 per cent weighting in the overall index, but their
+increases recently are big enough to make a difference:
+
+It is tempting to look past steep rises in volatile prices, but the temptation should probably be
+avoided. As Jason Furman of Harvard summed up in a tweet yesterday:
+
+Flukes . . . elevated January inflation. But in the nearly thirty years from 1992
+to 2019 there were also all sorts of flukes. And this is at the 99th percentile of
+3-month core inflation over that period. That is the issue: the good months
+are normal but the bad months are horrible.
+The “January effect” may be at work here, too: the index’s seasonal adjustments struggle to deal
+with the wave of annual price increases that occur in the first month of the year. Bob Michele of
+JPMorgan Asset Management points out that January inflation has surprised to the upside in 14 of
+the past 15 years. But the Fed (and the rest of us) can’t write off this month’s numbers on these
+grounds. All we can do now is wait and see if the next few months are better.
+
+In all, yesterday’s numbers provide support for the Fed keeping rates where they are for now, and
+suggest that there might be no cuts at all this year. Given this, the market reaction to the report was
+slightly puzzling. Stocks fell only slightly on the day. And the yield curve steepened slightly, with 10
+and 30-year Treasuries moving more than the two-year. One might have expected a higher-forlonger Fed meant higher short-term rates and lower long-term growth prospects, and as such a
+flatter curve.
+The muted reaction from stocks makes more sense when you remember that we have had quite
+high rates for more than two years now, and corporate earnings growth has kept on humming. It
+appears that Fed policy only transmits to quite specific parts of the modern corporate economy,
+and indeed stocks in those parts — homebuilders and construction-related businesses — did take a
+hit yesterday.
+On the yield curve, Jim Caron of Morgan Stanley offered me a tidy explanation of the steepening:
+while after yesterday’s report the Fed looks more likely to keep rates at their current high level for
+longer, they remain unlikely to increase rates. “There is little risk . . . the Fed [will] hike rates while
+at the same time it seems that inflation risks are rising. This is causing a natural adjustment in risk
+premia to rise in longer-term bonds,” he said.
+This, it seems to me, is a way of saying that the market is pricing in a higher long-term neutral rate
+of interest. The market is not just adjusting to higher for longer; it’s adjusting to the possibility of
+higher forever.
+
+Bonds, stocks and constitutional crisis
+Over at Marginal Revolution, Tyler Cowen raises a challenging and daunting question. How do
+markets respond if Trump, as some commentators worry he might, ignores court orders blocking
+his policies, sparking a constitutional crisis?
+
+Which are the securities prices that would indicate an actual constitutional
+problem? Particular equities? Interest rates? The value of the dollar?
+Measures of volatility? Something else?
+I am allergic to the view that ‘fascism could come and market prices would
+not even budge’ . . . I think fascism, or a constitutional collapse, would be a
+terrible outcome in a variety of very practical ways . . . So people, on this
+question, which exactly are the measurable, market price indicators?
+Before I take a shot at this, three clarifications. First, in the case of a constitutional crisis, what
+markets do will of course be a minor concern. Next, I’m not taking any position on the question of
+how likely such a crisis is, except to note that the question is in the air. Finally, while I share
+Cowen’s view that constitutional collapse would be terrible economically (that’s what I take him to
+mean by “practical” above), I do not share his confidence that this implies the market would
+respond to such a collapse in a well-calibrated, easy-to-read way. My sense is that markets are bad
+at discounting political risk, and that the likely response would be pretty erratic.
+But that doesn’t mean there would be no response. Start with bond yields, breaking them into
+inflation expectations and real rates. If the president decides to override one independent
+institution (the courts), perhaps it is natural to think he will then override another (the central
+bank). If he did, that would drive inflation expectations up. But I think this president really cares
+about popularity, and remembers what high inflation did to his predecessor. If inflation keeps
+running hot, I think Trump will stay out of the Fed’s way, even if he begins to trample the court.
+That leaves real rates. And it seems to me that in a system where the president is no longer bound
+by the constitution, real rates and in particular long-term real rates have to rise, because investors
+will demand a higher term premium to own US debt. One might be confident that a particular
+imperial president will run sane monetary (or fiscal) policy, but who knows what the next one will
+do. In a Trumpian constitutional crisis, I would expect long rates to rise more than short rates.
+On to stocks. Let’s disaggregate again, this time into earnings expectations and valuation multiples,
+and further break down earnings expectations into short and long term.
+
+Whether short-term earnings expectations fell in a constitutional crisis would depend largely on
+how consumers responded. Do some of them respond to the crisis by putting off non-essential
+purchases, especially big items such as new cars or home renovation projects? If so, there would be
+a pretty sharp earnings shock. But perhaps another group of consumers would feel nothing but
+relief when the meddling courts are swept aside. It could be a wash; I really have no idea. What I
+am confident about is that a breakdown in the constitutional order would reduce capital
+investment, and therefore long-term earnings growth. What global company would not moderate
+their long-term investments in a lawless America?
+The question of what happens to valuation multiples is much harder. Reflexively, one might think
+that a constitutional collapse would reduce the large premium currently paid for US risk assets. But
+I’m not sure. Remember, by way of analogy, the way the dollar tends to strengthen when the US
+economy is in bad shape. The idea is that when America is in trouble, the world is in trouble, and
+that a troubled world rushes for the safest currency, the dollar. Similarly, if the world is suddenly in
+the shadow of an imperial America, might the shares of a large US company be the safest place to
+put your money?
+I’m not very confident in any of these views, and clearly there is much more to say. I would be keen
+to hear from readers.
+
+One good read
+Cold football.
+
+FT Unhedged podcast
+Can’t get enough of Unhedged? Listen to our
+new podcast, for a 15-minute dive into the
+latest markets news and financial headlines,
+twice a week. Catch up on past editions of
+the newsletter here.
+
+Recommended newsletters for you
+Due Diligence — Top stories from the world of corporate finance. Sign up here
+Free Lunch — Your guide to the global economic policy debate. Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Robert Armstrong
+Unhedged
+US inflation
+US interest rates
+Markets
+
+

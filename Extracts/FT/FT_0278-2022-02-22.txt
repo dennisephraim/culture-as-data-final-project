@@ -1,0 +1,133 @@
+FT PROFESSIONAL
+
+Opinion Central banks
+
+As inflation rises, the monetarist dog is having its day
+Economists are being forced to relearn lessons about the importance of the money
+supply
+
+MARTIN WOLF
+
+© James Ferguson
+
+Martin Wolf
+Published FEB 22 2022
+
+“Inflation is always and everywhere a monetary phenomenon.” Milton Friedman made this remark
+in 1963. At that time, few macroeconomists agreed with him. Twenty years later a high proportion
+did. Twenty years after that, again most did not. Today, almost another two decades later,
+economists have to take money seriously again. If money is ignored, it will take revenge. As
+Bridgewater’s Ray Dalio recently asked: “Where is the understanding of history and the common
+sense about the quantity of money and credit and the amount of inflation?”
+
+The idea that there is a link between the money supply and inflation is very old. When people are
+holding more money than they desire, they will want to get rid of it. With any other asset, this
+would lower its price. But the nominal price of money is fixed: a dollar is a dollar. The adjustment
+comes via higher prices for everything else — or inflation.
+After an exceptional monetary expansion in 2020, we are surely seeing this. I noted the possibility
+in May that year. Tim Congdon, a well-known monetarist, had argued this before me. According to
+the Center for Financial Stability, “Divisia M4” (an index that weights the components by their role
+in transactions) grew by 30 per cent in the year to July 2020, almost three times as fast as in any
+similar period since 1967. No such thing happened after the 2008 financial crisis. Many then
+worried over the expansion of the monetary base. But that did not matter because it did not affect
+broader aggregates. (See charts.)
+
+A big lesson of history is that if economists think they understand how the macroeconomy works,
+they will be wrong. In the 1930s, the conventional wisdom was that the economy was selfstabilising. In the 1960s, it was that inflation expectations and money did not matter. In the 1980s,
+it was that only money mattered. In the 2000s, it was that credit expansion would not destabilise
+the financial system. In 2020, it was that money was irrelevant. Again and again, we fall in love
+with naive stories. We want to believe the economy is a simple mechanism, but it is not.
+
+In 1975, the British economist Charles Goodhart argued that “any observed statistical regularity
+will tend to collapse once pressure is placed upon it for control purposes”. His insight was applied
+to the failure of monetarism to steer the economy. But Friedman would not have been surprised.
+He had argued that money affected the economy with “a lag that is both long and variable”. But he
+did not believe in steering the economy. Those who did moved on to inflation targeting instead.
+Yet “Goodhart’s law” has a plausible corollary: once a measure ceases to be a target, it will again
+become meaningful. As Mervyn King, former governor of the Bank of England, noted in an
+outstanding recent lecture: “Money has disappeared from modern models of inflation.” That is
+ridiculous. So, why has this happened? It is because technocrats have a foolish tendency to prefer
+being precisely wrong to being roughly right.
+
+The monetary expansion in the pandemic was quite different from what
+happened in the financial crisis
+Money supply M3 rebased (Q1 1987 = 100). Semi-log scale
+US
+
+Eurozone
+
+800
+700
+600
+500
+
+400
+
+300
+
+200
+
+100
+
+1990
+
+1995
+
+2000
+
+2005
+
+2010
+
+2015
+
+2020
+
+Source: OECD; Refinitiv • Eurozone series is back calculated with current member countrie
+
+So, where are we today? Optimists argue that the inflation we are seeing is just the result of
+temporary shortages caused by the pandemic. That is indeed part of the story, as a recent paper
+from the IMF explains. Yet the requirement, it asserts, is “to sustain a still-incomplete recovery and
+ensure that output catches up with its pre-pandemic trend — without allowing wages and prices to
+spiral upwards”. Indeed. The difficulty is that, as Robin Brooks of the Institute of International
+Finance has shown, inflation has become general: in the US, the weight in the index of items with
+price rises of over 2 per cent in the year to January 2022 was just under 90 per cent. To make
+things worse, Alex Domash and Lawrence Summers argue that measures showing a very tight US
+labour market, such as the vacancy and quit rates, are better indicators of inflationary pressures
+than non-employment. Worse, today’s labour market tightness would previously have been
+associated with sub-2 per cent unemployment.
+In sum, the inflationary genie is out of the bottle, especially in the US. The danger is that this
+ignites a spiral, in which inflation expectations shift upwards, causing a flight from money and so
+further destabilising expectations. There is no point in insisting this will not happen, because it
+clearly might do so when inflation is so far above the target and previous forecasts. Credibility will
+have to be preserved, whatever it takes.
+
+What this means in policy now is difficult enough. But as King powerfully argues, central bankers
+also have to reconsider some of their recent doctrines. Just as the financial crisis showed that
+banking matters, so this inflationary upsurge shows that money matters. It also indicates that
+forward guidance assumes more knowledge than anybody possesses. Central banks may explain
+their reaction function, but cannot say what they are going to do, because they do not know what
+the economy will do. Last but not least, average inflation targeting is surely stillborn. It never made
+sense to target future inflation in the light of past mistakes. Is the US Federal Reserve really going
+to lower inflation below 2 per cent in order to make up for a prolonged overshoot? What does make
+sense is to reassert its determination to hit its forward-looking target. But it is also possible we are
+going to see a degree of financial instability that will force deeper thinking on this, too.
+
+We should always remember how little we know about the economy. Central banks must be
+humble and prudent. They cannot ignore valuable information just because they do not like what it
+shows. Yes, we cannot steer the economy via the money supply. But we cannot ignore it either. It
+carries warnings.
+martin.wolf@ft.com
+Follow Martin Wolf with myFT and on Twitter
+Letter in response to this column:
+Inflation is always a monetary phenomenon / From Andrew Shouler, Grays, Essex, UK
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Martin Wolf
+UK inflation
+US inflation
+Central banks
+
+

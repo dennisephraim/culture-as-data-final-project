@@ -1,0 +1,343 @@
+FT PROFESSIONAL
+
+Opinion Central banks
+
+Has inflation stopped falling?
+The concern stems from price rises in services remaining too high in some places
+
+CHRIS GILES
+
+Chair Jay Powell said this month the Federal Reserve was ‘not far’ from cutting interest rates © AP
+
+Chris Giles
+Published MAR 19 2024
+
+This article is an on-site version of our Chris Giles on Central Banks newsletter. Sign up here to
+get the newsletter sent straight to your inbox every Tuesday
+
+Today, Japan ended an eight-year period of negative interest rates after gaining confidence that the
+country has defeated deflation for good. More on that below.
+
+Similar fireworks are unlikely when the Federal Reserve and Bank of England meet later this week.
+Their meetings will be interesting for what they say. They come at a time when people are getting
+nervous that inflation is becoming sticky at levels that are too high and the problem lies in the
+services sector.
+Claire Jones will be taking the hot seat next week to pore over the meetings and forecasts. But for
+now I would like to know your views. Is disinflation in trouble? Email me: chris.giles@ft.com
+
+Sticky services
+No one should care too much about movements in individual components of inflation, but many
+economists exempt the broad category of services from this rule because it has predicted overall
+inflationary trends well in the past. The services component is large — 61 per cent of the US
+consumer price index, for example. They are generally produced domestically and therefore fully
+reflect local economic forces. And services inflation is too high still. Everywhere.
+Fed chair Jay Powell recently said it was reasonable to think goods price deflation had run its
+course, so “that would mean the services sectors would have to contribute more” to disinflation.
+President Christine Lagarde said the European Central Bank would be “laser focused” on services
+prices and the wages that underpin them before taking a decision to cut rates in June. So it is
+helpful to look at services inflation and ask what this tells us about bringing inflation down.
+
+The evidence
+The chart below is a fantastic resource and compares annual manufactured goods and services
+inflation across the US, eurozone and UK.
+First look at the pre-pandemic period. Core goods inflation hovered around zero in both the US
+and eurozone. That would also have been the case for the UK were it not for Brexit, which hit
+sterling and raised imported goods prices after 2016. Services price rises in the eurozone were also
+below 2 per cent, resulting in persistently too low inflation, the need for quantitative easing and
+other unorthodox monetary policy. Paradoxically, that is everything hawkish central bankers like
+to avoid, so hawks should not want a return to this world. Services inflation in the US and UK at
+just above 2 per cent was healthier.
+
+Core goods inflation rose later in the eurozone and has dropped
+everywhere, while services inflation remains high
+Inflation rate (%)
+Eurozone
+
+US
+
+Ukraine invasion
+
+UK
+Ukraine invasion
+
+Ukraine invasion
+
+10
+
+5
+
+2%
+
+2%
+
+2%
+
+0
+
+2016 2018 2020
+
+2024
+
+2016 2018 2020
+
+2024
+
+2016 2018 2020
+
+2024
+
+Sources: Factset, St Louis Fed, ONS • Services inflation excludes energy service
+
+The noticeable thing about the pandemic is that the US both had a much sharper rise in core goods
+inflation than Europe and that it came earlier. It suggests excess demand was operating there (in
+addition to the supply chain problems that the Bernanke Blanchard model found). In comparison,
+the eurozone saw industrial goods prices rising sharply after Russia’s invasion of Ukraine,
+indicating an embedding of high natural gas prices at a time when US goods price inflation was
+moderating sharply. Again, this demonstrates that the two sides of the Atlantic did not suffer the
+same inflation shock.
+
+Services inflation has turned the corner and is declining everywhere, although the UK is a little
+behind its two big brothers. But services inflation still remains too high to be consistent with
+inflation falling to 2 per cent durably. In Europe, most of these big jumps in services price rises
+came almost a year ago and the signs are that annual inflation rates will fall.
+The bad news out of the US this year has been that the same is no longer true of the latest
+consumer price data. Of course, the Fed really targets the personal consumption deflator (not the
+CPI) and the inflation in housing is both surprisingly sticky and likely to come down because the
+most recent new rents are not showing the same price hikes as those used in the CPI. But the latest
+data has been poor and is likely to make the Fed cautious. As the table below shows, the latest onemonth, three-month and six-month annualised inflation numbers are higher than the 12-month
+rate, so it is no longer true to say we are just waiting for past large price rises to fall out of the
+annual inflation calculation.
+Excluding housing, services prices have been rising at an annualised rate of 6.9 per cent over the
+past three months. That is not a sign of progress. Taking the median of all these inflation measures
+shows an annualised rate of 4.6 per cent over one month, gently declining to a 3.8 per cent rate
+over 12 months. It is not a cause for undue alarm, but the past two months of inflation data have
+been poor.
+
+Progress on US inflation has stalled
+February annualised CPI inflation for different categories and various time horizons
+
+1m
+
+3m
+
+6m
+
+12m
+
+CPI
+weight
+
+Headline CPI
+
+5.4
+
+4.0
+
+3.2
+
+3.2
+
+10
+
+Core CPI
+
+4.4
+
+4.2
+
+3.9
+
+3.8
+
+Core goods
+
+1.4
+
+-1.1
+
+-1.5
+
+-0.3
+
+Core services
+
+5.6
+
+6.2
+
+5.8
+
+5.2
+
+Services ex housing
+
+7.6
+
+6.9
+
+6.1
+
+3.9
+
+Median
+
+4.6
+
+5.1
+
+4.8
+
+4.6
+
+Trimmed mean
+
+3.8
+
+4.4
+
+3.9
+
+3.5
+
+Median of measures
+
+4.6
+
+4.4
+
+3.9
+
+3.8
+
+80
+
+8
+
+61
+
+Academic evidence
+If the question is whether to worry about services inflation, there have been two recent
+international pieces of academic evidence, unhelpfully providing contradictory conclusions. The
+Bank for International Settlements quarterly review found that services inflation was not linked to
+previous energy price rises and therefore likely to pose an inflationary threat for longer. Its
+conclusion that interest rates needed to remain higher for longer was, however, rejected by
+separate research from Jan Vlieghe, formerly of the BoE, soon to be vice-chair at Millennium hedge
+fund, but currently writing as a researcher at the London School of Economics, who says there is
+much less to worry about after an energy shock.
+
+3
+
+7
+
+The BIS paper is nice and provides the conventional wisdom that services prices reflect domestic
+inflation and are likely to persist. But a core reason it gets this result is that it estimates the impact
+of energy prices on services inflation from the 2011 to 2015 period. This is a serious weakness in
+explaining what is happening today. Vlieghe’s paper finds energy prices to be much more
+important in driving services prices by estimating the effect using the most recent data and
+exploiting the cross-country differences in energy price spikes that have been a feature of the past
+three years. He finds energy to be highly significant in explaining the differences in service sector
+inflation across countries — about half of it. It is powerful evidence.
+This does not mean that the standard thinking that services reflect domestic inflationary pressures
+and that BIS research can be ignored. But it does suggest we should expect a significant part of
+recent services inflation to dissipate quickly after an energy shock.
+
+The upshot
+The eurozone and UK should keep an eye on services prices and wages, but central bankers should
+expect it to moderate now that natural gas prices have reversed. Having not suffered anything like
+the same energy shock, the US almost certainly has a more traditional services prices story and
+therefore more to worry about with persistence of inflation.
+
+A nimble Bank of Japan
+Earlier today, the Bank of Japan ended negative interest rates and raised its policy rate from -0.1
+per cent to a range of zero to 0.1 per cent. Read this for the breaking news and Robin Harding, FT
+Asia editor and our former Tokyo bureau chief, puts the story in context here.
+The mood music at the BoJ transformed last week after indications that large companies will offer
+the highest wage increases since 1992, indicating that a positive wage price dynamic is now
+operating. This is positive, but will not change the outlook hugely. A move had been expected in
+April in any case, and the BoJ has indicated it will keep rates accommodative “for the time being”.
+
+The first move upward in rates is unlikely to push Japanese rates towards anything like those in
+Europe or the US. Even as the central bank has formally ended yield curve control it still says it will
+“make nimble responses”, raising the rate of asset purchases if market interest rates spike higher.
+Economic activity is still lacklustre, the durability of the wage price dynamic is far from secure and
+smaller companies are yet to offer similarly sized wage increases. I could show a chart of forward
+Japanese interest rates over the coming year, but it is identical to that a week ago. Longer term
+Japanese market expectations of interest rates have actually declined a little.
+But let’s not get grouchy. The BoJ’s move demonstrates it knows how to take advantage of the
+situation and escape negative rates before other central banks start easing policy. This marks
+definitive progress and another step towards the normalisation of Japan’s economy.
+
+What I’ve been reading and watching
+US academic economists in the FT-Chicago Booth have been very
+consistent in their 2024 interest rate expectations. In early December 75
+per cent thought there would be fewer than three rate cuts and now it is a
+little over two-thirds. I wonder if there would have been a different result if
+they had been asked in early January
+The ECB published its new framework for setting interest rates, plumping
+for a demand-led corridor system. This was much as expected. With such a
+large balance sheet, it will not apply for some time
+Argentina has managed a large debt swap, increasing the maturities of its
+debts, giving it breathing space and allowing interest rates to come down to
+a mere 80 per cent from 100 per cent. Recessionary forces are still
+increasing and inflation is far from beaten, however
+If you want to read the optimistic take on China, Martin Wolf has been
+examining it
+
+And if you want to be depressed that the Laffer curve rarely exists in
+practice, I went into the gory details from a UK perspective
+
+A chart that matters
+I am indebted to Robin Brooks, senior fellow at the Brookings Institution, for this lovely graphical
+representation of the reversal of the Santa rally in financial markets. In November and December,
+traders were certain about a huge number of rate cuts to come during 2024 and these have mostly
+been reversed (Australia and Switzerland being minor exceptions to this rule). The chart shows
+that financial markets still expect current policy rates to come down by the end of 2024, but not
+nearly as much as at the end of last year. Let no one say it is only central bankers who get their
+forecasts wrong.
+
+Financial markets have largely reversed the Santa rally of late 2023 and
+now expect fewer rate cuts
+Interest rate (%)
+US
+
+Eurozone
+
+Policy rate
+
+UK
+
+Australia
+
+Switzerland
+
+Sweden
+
+Canada
+
+New Zealand
+
+December 2024 market price
+
+6
+
+5
+
+4
+
+3
+
+Recommended newsletters for you
+Free lunch — Your guide to the global economic policy debate. Sign up here
+Trade Secrets — A must-read on the changing face of international trade and globalisation.
+Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+
+Chris Giles
+Global inflation
+US economy
+Central banks
+
+

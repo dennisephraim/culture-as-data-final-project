@@ -1,0 +1,152 @@
+FT PROFESSIONAL
+
+Opinion Unhedged
+
+War and the Fed
+Plus retailer stablecoins
+
+ROBERT ARMSTRONG
+
+© Bloomberg
+
+Robert Armstrong and Aiden Reiter
+Published JUN 17 2025
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+This article is an on-site version of our Unhedged newsletter. Premium subscribers can sign up
+here to get the newsletter delivered every weekday. Standard subscribers can upgrade to
+Premium here, or explore all FT newsletters
+
+Good morning. Retail sales in China picked up in May, while factory output slowed, according to
+official government statistics. The retail numbers were particularly good — up 6.4 per cent from
+the year before, compared with a 5.1 per cent gain in April. This suggests that China’s trade-in and
+subsidy schemes are working, and perhaps that the US-China trade truce is helping Chinese
+households. But with moderate investment and slowing output, China still isn’t going into the next
+round of trade negotiations on the strongest footing. Email us: unhedged@ft.com.
+
+Oil prices and monetary policy
+Some newsletters age like half a head of lettuce. Our first piece on the Israel-Iran conflict threatens
+to become one of them.
+Our central point — that the oil market should remain calm if the conflict stays within the borders
+of Iran and Israel — still holds. After a brief freakout yesterday morning, the crude price continued
+its steady fall from Friday. Our argument that the cental forecast was de-escalation is wilting,
+however. Horribly, the conflict has heated up. There have been more missile volleys from both
+sides, Israel now controls part of Tehran’s airspace and is calling for evacuations, and hawkish
+voices are calling for the US to help destroy Iran’s underground nuclear facilities. All of that seems
+to thicken the ugly tail of the probability distribution and increase the odds of a big jump in the oil
+price.
+The Federal Reserve’s Federal Open Market Committee begins its June meetings today. Chair Jay
+Powell will be asked about the conflict and what it means for the Fed’s outlook in tomorrow’s press
+conference. He will be circumspect. It is too early for the Fed to speculate about the economic
+impact, and the conflict is unlikely to be reflected in the committee’s economic projections.
+Perhaps more importantly, it is not totally clear what the Fed should do.
+Torsten Sløk, chief economist at Apollo, points out that the Fed’s model has a $10 jump in the oil
+price feeding through to a 0.4 per cent drag on US GDP and a 0.35 per cent increase in inflation —
+0.2 per cent from higher energy prices directly, and 0.15 per cent from their secondary effects. In
+other words, expensive oil just amplifies the Fed’s biggest worry: stagflation, which forces the bank
+to choose between supporting growth and fighting inflation.
+
+Which gets priority will probably come down, in large part, to the sequencing of the economic
+impacts. The Fed can only respond to the data that comes in. But historically speaking, the Fed’s
+preferences matter, too. “Arthur Burns was more growth focused and Paul Volcker was more
+inflation focused, so it depends on the era,” says Joseph Wang at Monetary Macro. Wang reckons
+that the Fed currently values employment over inflation, and would thus favour a cut if the oil price
+begins to levy a de facto tax on businesses and consumers. But the Fed will only look through oildriven inflation if long-term inflation expectations remain anchored. Those had been falling, but
+they have started ticking up since the start of the Iran-Israel conflict:
+
+Fracking has turned the US into a major oil exporter, so this moment is very different from the oil
+crises of the last century. Our colleague Chris Giles noted to us that “high oil prices redistribute
+among different groups in the US (producers gain, consumers lose)”. In other words, the impact on
+inflation and growth are not unidirectional. So, again, the sequencing and detail of the data will
+matter.
+
+The futures market has only barely changed its implied outlook for the Fed’s policy rate.
+Expectations have slipped to a bit less than two 25 basis point cuts since the conflict started last
+Thursday:
+
+We think the Fed only has one option for now: keep watching inflation expectations, and hold.
+(Reiter)
+
+Walmartcoin, Amazoncoin, et al
+While we were distracted by missiles late last week, The Wall Street journal reported this:
+
+Walmart, Amazon and other multinational giants have recently explored
+whether to issue their own stablecoins in the US, according to people
+familiar with the matter . . .
+
+The retailers’ final decisions would depend on a bill, called the Genius Act,
+which would begin to establish a regulatory framework for stablecoins . . .
+“Have recently explored” does a lot of work there. People at companies talk about a lot of things at
+a lot of meetings. But down in paragraph 14, there was something firmer:
+
+Merchant trade groups have been meeting with lawmakers in recent months
+to push for passage of the Genius Act. The trade groups, led by the
+Merchants Payments Coalition, have said that a regulatory framework for
+stablecoin would enable an alternative payment type for merchants that
+could significantly lower their expenses and create competition against Visa
+and Mastercard.
+Talking is one thing. Lobbying is another. And the shares of the card network operators took notice
+of the story:
+
+I have said that the Genius Act is, in fact, legislation establishing a light-touch banking regime and
+none of you believed me. Do you believe me now? While crypto nerds natter on about a utopian
+future without fiat currency, the retailers are like “these stablecoin things are obviously banks, so
+now we might finally have our own banks instead of paying other people’s banks, get the lobbyists
+on the phone right now”.
+One might argue, perfectly plausibly, that the retailers aren’t interested in becoming full-on banks
+— they just want to build an alternative set of payment rails so they can avoid paying the credit
+card networks. But remember that this is absolutely not what the Genius Act creates. What the
+Genius Act creates is legal entities that take people’s fiat currency and provide a thingy in return
+that can be redeemed on demand and at par; the entities invest the fiat; and if the entities go
+bankrupt, the people holding the thingies are the entities’ creditors. That means the entity is a
+bank, and the thingies are bank deposits.
+
+One might also argue, again perfectly plausibly, that all the WSJ article describes is nothing but the
+creation of a giant gift card programme. And that seems right, more or less, so long as the
+stablecoins/gift card accounts can only be spent at one store. But if they can be spent in multiple
+stores, and the issuers start to hold a significant amount of fiat reserves, it all starts to smell a lot
+like banking.
+If retailers’ stablecoins can only be spent at their stores, what’s in it for the customers? Discounts?
+If that’s the case, the stores have saved on the card network fees and given the savings back to
+customers. On the other hand, if people forget about the money they put into the
+stablecoins/discount cards or can’t spend all of it, the retailers get to use it. Starbucks, which has
+sales of about $28bn a year, has $2bn in gift card liabilities on its balance sheet. That’s someone
+else’s money they get to hold and collect interest on — a “float”. Walmart has sales of about $450bn
+a year. Should it convert a chunk of its customers to paying in Walmartcoin, the float could be very
+big.
+What could go wrong? Amanda Fischer of Better Markets shared her thoughts on X:
+
+[The retailers] will implement dynamic pricing for customers and they’ll
+create new tying arrangements for small business vendors. They’ll force you
+to keep balances in their Dollars™ and keep the float. They’ll set up new
+yield Ponzis that will siphon money from lending until it explodes.
+My own view is somewhat less apocalyptic. But let me say it again for the people at the back:
+stablecoin issuers, under the Genius Act, are a special class of lightly regulated bank. Maybe those
+would be good things to have. But don’t get distracted by the idea that any of this has very much to
+do with technology. It doesn’t.
+
+One good read
+Made in the USA*
+
+FT Unhedged podcast
+Can’t get enough of Unhedged? Listen to our
+new podcast, for a 15-minute dive into the
+latest markets news and financial headlines,
+twice a week. Catch up on past editions of
+the newsletter here.
+
+Recommended newsletters for you
+Due Diligence — Top stories from the world of corporate finance. Sign up here
+The Lex Newsletter — Lex, our investment column, breaks down the week’s key themes, with
+analysis by award-winning writers. Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Robert Armstrong
+Unhedged
+US economy
+Stablecoins
+US interest rates
+
+

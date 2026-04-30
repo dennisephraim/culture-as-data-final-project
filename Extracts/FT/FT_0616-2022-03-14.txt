@@ -1,0 +1,123 @@
+FT PROFESSIONAL
+
+Opinion Unhedged
+
+A US recession is on the table
+Not the most likely outcome, but no mere tail risk either
+
+ROBERT ARMSTRONG
+
+© Financial Times
+
+Robert Armstrong and Ethan Wu
+Published MAR 14 2022
+
+This article is an on-site version of our Unhedged newsletter. Sign up here to get the newsletter
+sent straight to your inbox every weekday
+
+Good morning. I’m tanned, rested and ready after a week of fishing. Before I left, it was pretty clear
+that the war in Ukraine would lead to a Russian depression and a European recession. On my
+return, however, the possibility of a US recession had been added to the menu of possibilities, as an
+unlikely, but not very unlikely outcome. Today Ethan and I have a look at what’s changed. As
+always we are keen to hear readers’ thoughts: robert.armstrong@ft.com and ethan.wu@ft.com.
+
+We need to talk about a US recession
+Here is the outlook from our favourite Wall Street economist, Don Rissmiller of Strategas:
+
+Our base case is a 2023 mid-cycle slowdown (50 per cent odds) as the private
+sector helps the Fed bring inflation under control (eg, bottlenecks ease).
+With the domestic labour market still solid, and JOLTS job openings
+elevated, it remains difficult to make a US recession our base case. Yet if the
+Fed overdoes tightening, growth would falter (35 per cent odds). An upside
+surprise case would involve productivity increasing and growth proving
+robust (15 per cent odds)
+A roughly one-third chance of recession is what Goldman Sachs economists are looking at too:
+
+While our baseline forecast assumes that further service sector reopening
+and spending from excess savings will keep real GDP growth positive in the
+coming quarters, uncertainty around the outlook is higher than normal, and
+we view the risks of a recession as broadly in line with the 20-35 per cent
+odds currently implied by models based on the slope of the yield curve
+Probabilities that are high but not above 50 per cent are hard to think about. The temptation is to
+chuck a 35 per cent possibility into the unlikely bucket and forget it. But if it comes to pass, and you
+are not prepared, you have only yourself to blame.
+
+What has changed, such that the possibility of a US recession is being taken seriously? Oil prices up
+30 per cent in a bit over two weeks are likely the most important attention-focuser. Wheat and corn
+prices, up 17 per cent and 10 per cent respectively over the same period, don’t help much either.
+But rumblings of a slowdown extend beyond commodities.
+A bit of context first. Remember that the heady growth of the early reopening is fading fast. The
+consensus seems to be that the economy is growing closer to its long-term trend rate. The Atlanta
+Fed’s GDPNow real time estimate for growth in the current quarter is just above zero. And this is
+before — long before — the impact of higher commodity prices could have penetrated the economy:
+
+We are just not that far from a contracting economy. Both consumers and market participants
+know it, which unfortunately only makes a contraction more likely.
+The latest reading of the Michigan consumer sentiment survey hit a new post-financial crisis low.
+No surprise, given that inflation is keeping real wage growth negative.
+Yes, the yield curve remains positive — just:
+
+But credit markets, while still loose by historical standards, are tightening at a lively pace. It sure
+looks like corporate bond traders are thinking that economic conditions could get worse. Here is
+the spread of yields on BBB bonds (the lowest rung of investment grade) over Treasury yields:
+
+Strong corporate earnings have underpinned the bull case for equities through this year’s
+turbulence. But this chart from Citi’s equity strategy team shows that analysts’ earnings revisions,
+overwhelmingly positive just a few weeks ago, are about evenly split between increases and
+decreases:
+
+At the same time, no one should expect the slowing growth, weak consumer sentiment, flattening
+yield curve, widening spreads or earnings downgrades to scare the Fed off the path to higher rates.
+What we are seeing in the US is probably best characterised as a reversion to normal activity levels
+from feverish highs. Given recent CPI numbers, that is not enough to make the Fed back down. The
+market is pricing in close to seven quarter-point policy rate hikes by the end of the year, according
+to Bloomberg. The Fed won’t save the day unless the day gets a lot worse.
+There are good reasons, though, that while the risk of a recession is rising, few observers treat it as
+their core scenario. Though analysts may be increasing their estimates less often, the earnings
+picture still looks decent. Forecasters expect earnings per share for the S&P 500 to expand 17 per
+cent over the next 12 months, according to Bloomberg data. Recent surveys suggest businesses are
+responding to rougher waters by protecting margins with price hikes. Capital expenditure remains
+strong, too.
+
+Most importantly, it is hard to see a recession taking hold while the employment picture is so
+strong. Growth in payrolls and labour force participation have come with high nominal wage gains.
+And though the data is a bit old, it looks like those wages are being spent. Consumer spending and
+retail sales grew 2.1 and 3.8 per cent in January, respectively. Meanwhile, Congress is passing a
+$1.5tn bill that approves new spending on the military, schools, housing and other projects. Tens of
+billions in fresh government demand could flip the US fiscal impulse — which recently has been a
+net drag on growth — positive.
+Given all this pre-existing strength, a commodities shock big enough to cause a recession would
+need to be severe indeed. Judging from historical rules of thumb, Michael Pearce of Capital
+Economics reckons oil would need to stay above $200 a barrel to induce a downturn. Possible, but
+the risk is well telegraphed. That may present a buying opportunity, argues Goldman Sachs
+strategists in a recent note:
+
+when the US economy avoids recession, 10 per cent+ S&P 500 corrections
+typically represent good buying opportunities, with a median subsequent 12month return of 15 per cent
+If we use Rissmiller’s probability estimates, there’s a 35 per cent chance that buying stocks is a bad
+trade, 50 that it works out and 15 that you make out like an absolute bandit. Getting compensated
+for taking a risk — so old-fashioned.
+For a long time US investors broadly and US equity investors in particular have been heavily
+shielded from risk — by fiscal and monetary policy, the steady economic recovery from the great
+financial crisis and the bottomless global appetite for US assets. The rising probability economists,
+analysts and pundits are placing on an American recession shows that risk is returning to markets.
+The process of accurately pricing risk, after this long holiday, is likely to be a long and choppy
+process.
+
+One good read
+Russia scholar and Stalin biographer Stephen Kotkin in conversation with David Remnick.
+
+Recommended newsletters for you
+Due Diligence — Top stories from the world of corporate finance. Sign up here
+Swamp Notes — Expert insight on the intersection of money and power in US politics. Sign up
+here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Robert Armstrong
+Unhedged
+US economy
+Covid-19
+
+

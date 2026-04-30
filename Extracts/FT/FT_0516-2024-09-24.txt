@@ -1,0 +1,300 @@
+FT PROFESSIONAL
+
+Chris Giles on Central Banks Central banks
+
+Three questions for Jay Powell
+
+The Fed went all out last week. The aftershocks of the jumbo cut are still reverberating
+
+Last week the Federal Reserve kicked off its easing cycle with a half-point rate cut © AFP via Getty Images
+
+Elettra Ardissino
+Published SEP 24 2024
+
+This article is an on-site version of our Chris Giles on Central Banks newsletter. Premium
+subscribers can sign up here to get the newsletter delivered every Tuesday. Standard
+subscribers can upgrade to Premium here, or explore all FT newsletters
+
+The last time the Federal Reserve, Bank of Japan and Bank of England all met in the same week, it
+was the BoJ’s hawkish hike that made the weather in markets over the days that followed.
+This time, the Fed’s decision to start the cutting cycle with a half-point bang last week largely
+overshadowed the BoE and BoJ’s prudent holds, propelling the S&P 500 to new highs.
+
+As is customary, the central bank’s chair Jay Powell took questions from journalists at the poststatement press conference. Yet the Federal Open Market Committee’s about-face on its previous
+guidance raises a host of other, harder-to-answer, ones.
+Here are a few of the most important.
+
+1. What does data dependency really mean?
+Self-possessed and relaxed, Powell conveyed confidence, even optimism, as he explained the rate
+decision. “Nothing to see here,” he seemed to be saying. It worked: investors reacted positively,
+dispelling previous fears that they would read a large cut as a sign of panic from policymakers.
+But his framing was a little disingenuous. With the half-point cut, the FOMC backtracked on earlier
+indications that it would start the easing cycle with a regular 0.25 percentage point move. Even
+more importantly, the new Summary of Economic Projections quietly introduced a major
+reassessment of what the central bank needs to do to keep the US economy on track for a soft
+landing.
+The new GDP growth forecasts were basically unchanged from June. Inflation forecasts were lower
+and unemployment forecasts higher, but they did not indicate a substantially different economic
+environment to forecasts three months ago.
+But the rate path that Fed policymakers think is required to get there is now much lower.
+
+US Fed signals further rate cuts by end of 2024
+Each dot represents one FOMC participant's projection for the midpoint of US interest rates (%) from
+every meeting since December 2023
+Sep 2024
+
+Jun 2024
+
+Mar 2024
+
+5
+
+Dec 2023
+
+Current rate
+Current
+rate
+
+4
+
+3
+
+2
+
+1
+
+0
+
+2024
+
+2025
+
+2026
+
+2027
+
+Longer run
+
+Source: Federal Reserve
+FT graphic: Sam Learner
+
+Powell would probably say that this is simply data dependency in practice: policymakers change
+their view as the data changes. “We took all of those [data] and . . . concluded that this was the right
+thing for the economy,” he said. Had he been challenged about the dot-plot revisions, he would
+have presumably given a similar answer.
+But there are issues with this narrative.
+
+The change between the June and September dot plots is big. Earlier this year, it took several
+months of bad inflation data for rate-setters to notch down their projected number of 2024 cuts
+from three to one. By contrast, the past few months’ labour market data, even if slightly
+disappointing, is not flashing red. “The labour market is actually in solid condition . . . you’re close
+to mandate, maybe at mandate, on that,” Powell said during the press conference.
+It doesn’t sound like a solid basis to justify the major dovish shift that took place below the SEP’s
+surface. Was Powell accurate in saying that the Fed is responding to the data, or were other
+considerations in play?
+
+2. Is the Fed losing the markets — if so, is that a bad thing?
+The markets had seen the cut coming. Investors started seeing some chance of a half-point rate cut
+as far back as July, despite policymakers’ insistence that the Fed would, in all likelihood, ease only
+gradually. Ultimately, the traders’ call prevailed.
+Believers in the Fed put clearly feel vindicated — and are doubling down. Markets currently expect
+it to reach its forecast terminal rate of 2.9 per cent in September 2025, more than a year ahead of
+the median rate-setter’s forecasts. In other words, they expect the Fed to deliver around eight cuts
+over the next 12 months or so. The Fed itself is projecting only six.
+What might that mean for the Fed?
+
+Markets are more dovish than the Fed
+Projected Fed funds rate (%)
+Market expectations
+
+September 2024 dot plot
+
+4.5
+
+4
+
+3.5
+
+3
+
+2.5
+
+2
+December 2024
+
+June 2025
+
+December 2025
+
+June 2026
+
+December 2026
+
+Source: Bloomberg, FT calculations • The dot plot's quarterly projections are FT interpolations
+based on the annual figures provided in the SEP.
+
+It could be that markets no longer believe the rate-setters. That would be rational, given how bad
+the dot plot has been at accurately predicting the Fed’s subsequent rate path. That raises the
+question of whether, if its decision-making truly is data dependent, the dot plot might not be
+ditched. Far from communicating policy clearly, it may be hurting policymakers’ credibility.
+But overly dovish markets might be helpful in other ways. Powell said emphatically last Wednesday
+that the bank was not yet declaring victory over inflation. If markets keep financial conditions loose
+beyond the Fed’s own indications, the central bank can have it all: a stance that is “roughly
+balanced” between the two sides of its dual mandate, coupled with the stimulative effect of lower
+borrowing costs in the real economy.
+
+The risk is that the reckoning, in the form of a big market correction, will eventually come. On a
+more positive note, anyone who is not bored with knife-edge 25-or-50 debates has plenty to look
+forward to.
+
+3. How politically dangerous was the decision?
+Presidential candidate Donald Trump is, to put it mildly, unusually attentive to Fed decisions. It
+surprised no one that he weighed in on the rate cut.
+“It shows the economy is very bad . . . assuming that they are not just playing politics,” he said.
+Some, though not all, GOP lawmakers took the same view. Trump’s running mate JD Vance was
+uncharacteristically circumspect.
+On the Democratic side, President Joe Biden called it a “declaration of progress” and attempted to
+link inflation’s decline to his administration’s policies. Vice-president and Trump rival Kamala
+Harris simply called it “welcome news”.
+Powell has a strong record of defying political pressure on rate moves. Though his 2019 spat with
+Trump is most memorable, some Democrats have also unsuccessfully attempted to sway the Fed’s
+rate decisions.
+But Trump has made overt threats to the Fed’s independence before. The decision to start the
+easing cycle on the eve of an extremely tight election is very unlikely to curry the central bank any
+favour with the volatile former president.
+Something more to worry about if Trump wins in November.
+
+The view from overseas
+The Fed cut has also featured heavily in central bankers’ comments beyond US shores.
+Start with the BoJ, which held rates on Friday. The central bank is on a gradual journey to
+normalisation, and markets have long considered Fed rates play a key role in its pace through their
+effects on the yen. The Japanese currency had long been seen as too weak, but following a flash
+market crash and rapid appreciation of the yen in early August, markets unwound bets on further
+BoJ increases next year.
+
+At Friday’s press conference, governor Kazuo Ueda acknowledged that the BoJ would be watching
+developments in the US closely. “One factor we’d like to look at is whether the US economy will
+achieve a soft landing, or whether the slowdown could be a bit more severe,” he reportedly said,
+while reiterating that the BoJ would increase rates again if its economic forecasts were realised.
+But markets did not really react, perhaps believing that the BoJ is worried about excessive yen
+strengthening as well as weakening.
+At the European Central Bank, Italy’s Fabio Panetta, a dovish member of the governing council,
+seized on the US’s jumbo cut as a reason to deliver more easing in the near term. This argument is
+unlikely to have traction, not least because earlier this year Panetta had argued that the ECB
+should cut faster if the Fed’s stance proved tighter than expected.
+
+Market expectations of the ECB and BoJ's rate moves did not change as a
+result of the large Fed cut
+Benchmark rate forecast for June 2025 (%)
+Eurozone (LHS)
+
+Japan (RHS)
+
+3
+
+0.5
+
+2.8
+0.4
+2.6
+Fed
+decision
+
+2.4
+0.3
+2.2
+
+2
+July 2024
+
+August 2024
+
+September 2024
+
+0.2
+
+Source: Bloomber
+
+The ECB arguably has little to fear from the spillover effects of a faster US cutting cycle: it would
+boost export demand for European products, driving growth, and strengthen the euro, which is
+disinflationary. If the Eurozone economy does not rebound as the governing council currently
+expects, the ECB may well accelerate its own cutting cycle in the coming months. But the Fed
+probably won’t have much to do with it.
+
+What I’ve been reading and watching
+Craig Coben’s fascinating article on how the German government
+mismanaged the sale of its Commerzbank shares, allowing UniCredit to
+swoop in and JPMorgan to earn a hefty fee.
+This handy article from Politico unpacks which countries are up and which
+are down in Ursula von der Leyen’s new team of commissioners — and
+what her picks signal about the EU’s priorities over the next five years.
+Should the Bank of England change its name? This is one of several
+provocative proposals about how to reform the Old Lady that Tony Yates
+would like Rachel Reeves to consider. FT readers can join in on the poll.
+Lionel Barber’s profile of Masayoshi Son, investor and inveterate risk-taker
+whose career spanned 1980s Japan, the 2000s dotcom boom and the
+golden years of venture capital in the 2010s, but whose record has been
+blighted by a poor sense of timing (among other reasons). His bets are now
+on AI. But has he missed the train?
+
+A chart that matters
+Between profit warnings, botched forced labour audits and mass lay-off plans, European
+carmakers have had a terrible month. Once an engine of export revenue, employment and
+economic growth, the sector is now stalled, buffeted by competition from Chinese carmakers at
+home and abroad.
+
+The EU is gearing up to raise tariffs on Chinese electric vehicle imports. A decision is expected in
+the next few weeks. But whether investors’ minds about the sector will change is another matter.
+The EU’s biggest auto names have been a major drag on the European stock index in the past few
+months, as the chart below shows.
+
+European carmakers are dragging on the region's stock index
+Total return, January 1, 2024=100
+Stoxx600
+
+Volkswagen
+
+BMW
+
+Mercedes
+
+120
+
+100
+
+80
+
+Jan 24
+
+Feb 24
+
+Mar 24
+
+Apr 24
+
+May 24
+
+Jun 24
+
+Jul 24
+
+Aug 24
+
+Sep 24
+Source: Bloomber
+
+Recommended newsletters for you
+Free lunch — Your guide to the global economic policy debate. Sign up here
+Trade Secrets — A must-read on the changing face of international trade and globalisation.
+Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Global Economy
+US interest rates
+Central banks
+Federal Reserve
+Chris Giles on Central Banks
+
+

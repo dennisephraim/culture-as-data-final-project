@@ -1,0 +1,165 @@
+FT PROFESSIONAL
+
+Transcript
+
+Inflation, inflation, inflation
+Republican lawmakers cite price increases to argue against higher US debt limit
+
+© Financial Times
+
+Marc Filippino, Ryan McMorrow, Lauren Fedor, Derek Brower and Kate Duguid
+Published SEP 29 2021
+
+This is an audio transcript of the FT News Briefing podcast episode: Inflation, inflation, inflation
+Marc Filippino
+Good morning from the Financial Times. Today is Wednesday, September 29th. And this is your
+FT News Briefing.
+[MUSIC PLAYING]
+
+Inflation is the word of the day here at the briefing. Inflation fears led to the biggest sell-off in the
+US stock market since May. Inflation has become a political weapon in the latest battle in US
+Congress, and fuelling fears of inflation are rising energy prices. And we’ll take a little detour from
+inflation and talk about China’s latest attempt to clamp down on cryptocurrency trading.
+Ryan McMorrow
+China’s been trying to get rid of Bitcoin and other cryptocurrency for years now, and people have
+always found a way around it.
+Marc Filippino
+I’m Marc Filippino, and here’s the news you need to start your day.
+[MUSIC PLAYING]
+Prices are going up in part because of the stimulus measures the Federal Reserve put in place
+during the pandemic. Inflation has prompted the US central bank to indicate it could raise interest
+rates next year, and inflation is affecting markets and US politics. So first, politics. Right now US
+Republican lawmakers are battling Democrats’ attempt to lift the government’s borrowing limit.
+Yesterday, Treasury secretary Janet Yellen warned that the US risks running out of money by
+October 18th if Congress can’t agree to raise the debt ceiling. Republicans have argued that raising
+the debt limit would fuel inflation because it would mean more money pumped into the economy.
+Our US political correspondent, Lauren Fedor, reminds me that lawmakers aren’t just thinking
+about the economy here, but also next year’s midterm elections.
+
+Lauren Fedor
+And when it comes to the Republican side, they see inflation, the economy, the Republican’s ability
+to handle the economy as a winning issue. And so if they can go into next year’s midterm saying,
+you know, “We’re the party that will make you richer. We’ll make sure that, you know, prices are
+manageable and you have more money in your pocket for you and your family at the end of the day.
+And the Democrats are going to make you poorer.” They certainly see that as a winning message.
+Democrats’ argument is that Republicans are conflating multiple issues, and they will argue that
+the increase in borrowing is required in order to afford, pay for things that have already been in
+motion, programmes that were already approved last year and even further back in the Trump
+administration.
+Marc Filippino
+Now, Lauren, we should remind listeners that in most years, the debt limit being raised is a routine
+event in Washington, right?
+Lauren Fedor
+Yeah, I mean, you’re right in the sense that the debt ceiling has been raised dozens of times in
+recent years. In fact, in the Trump administration alone, the Republicans voted to to raise the debt
+ceiling three times. They’ve obviously changed their tune here. And a lot of that has to do with the
+political landscape that we’re in. You know, in this case, the Republicans are leaning really hard
+into their argument that they think that the Democrats have been irresponsible when it comes to
+public spending. And they’ve actually sought to link this whole debate to another debate that’s
+causing a lot of headaches in Washington. And that has to do with Joe Biden’s legislative agenda.
+You know, you might remember that there’s this $1.2tn infrastructure bill still in the cards. And
+then there’s a much bigger $3.5tn budget plan. The Republicans largely say this is way too much
+money, this is way too much spending. And they’re basically arguing this is irresponsible, and we’re
+not gonna underwrite it any more.
+Marc Filippino
+Lauren Fedor covers Capitol Hill for the FT.
+[MUSIC PLAYING]
+
+Now, in financial markets, inflation and the looming prospect of higher interest rates are
+prompting investors to sell government bonds. A sell-off that began last week continued into this
+week and has rattled equities as investors reposition themselves for the prospect of more hawkish
+central bank policy. It hit tech stocks especially hard. Yesterday the Nasdaq fell almost 3 per cent.
+The S&P 500 ended the day more than 2 per cent lower, its biggest loss since May. Here’s the FT’s
+US capital markets correspondent, Kate Duguid.
+Kate Duguid
+So investors were somewhat surprised, I think, last week by both the Fed and the Bank of England
+pushing forward rate hike expectations. Both the Bank of England and the Federal Reserve also
+increased their expectations of inflation. So while inflation numbers haven’t actually risen yet, the
+fact that both of these very important central banks are expecting higher inflation for longer has
+investors somewhat spooked. What happened yesterday was that we also saw big losses in the tech
+sector. Investors view tech valuations very much in terms of the company’s future growth. So what
+that means is that when you’re facing the prospect of higher inflation, higher interest rates, that
+growth, that future growth will be impacted.
+Marc Filippino
+The FT’s Kate Duguid covers US capital markets.
+[MUSIC PLAYING]
+Adding to inflation fears is the sharp rise in energy prices, oil, natural gas, coal, you name it, energy
+is getting more expensive just as winter is approaching. Yesterday, Brent crude rose past $80 a
+barrel for the first time since 2018.
+Derek Brower
+It’s really about the supply and demand fundamentals, as they call them, in the market.
+Marc Filippino
+Derek Brower is our US energy editor. He says those supply constraints are pushing up prices in
+other sectors, too.
+
+Derek Brower
+Opec, the cartel of oil producers, is cutting a lot of supply. Still, US shale producers these days are
+not growing very quickly at all because stock market investors in shell companies don’t want them
+to grow. So they’re not spending on drilling. So those two forces are coming to bear on the supply
+side. And then we have this recovery of the global economy and the reopening of economies. So
+there’s a big surge in demand as well.
+Marc Filippino
+And oil prices could go even higher. Derek cites a Goldman Sachs report that predicts oil going to
+$90 by the end of the year.
+Derek Brower
+And oil is still the lifeblood of the global economy. So it will feed through into all of the prices. And
+governments around the world are already worried about inflation. The other problem is that other
+commodities, other energy commodities in particular, are rising fast in their price as well. So you
+have natural gas that’s hitting record highs. Record prices in Asia and Europe and in the US is up
+about 200 per cent in the past year. So natural gas is used for heating, it’s used for electricity, and
+those costs will feed through to the wider economy into household bills as well. So that these are
+big problems that are facing consumers. And because they face consumers or voters, they also face
+governments in economies like the UK, where there’s an energy crisis right now, in the US, where
+Joe Biden has already spoken about his concern around rising gasoline prices, and in China, where
+there are power outages right now.
+Marc Filippino
+Derek Brower is the FT’s US energy editor.
+[MUSIC PLAYING]
+China’s government isn’t just dealing with power outages. It’s trying to wrap its regulatory arms
+around cryptocurrency. The country’s been a big market for cryptocurrency trading and bitcoin
+mining. Authorities have pushed parts of the domestic industry offshore, though. And last week,
+the central bank and nine other agencies made it illegal for overseas exchanges to provide services
+to Chinese users. Ryan McMorrow is the FT’s tech correspondent in Beijing.
+
+Ryan McMorrow
+From the beginning, they’ve been very wary of any digital currency that could let Chinese people
+thwart capital controls. Like, an ordinary Chinese person is, is only allowed to convert the
+equivalent of Rmb50,000 into $50,000 per year. And you’re supposed to have very specific uses
+for that. So cryptocurrency is a way to get around capital controls, and it’s also just a way to get
+around like their strict control of the currency. The initial coin offerings was one of the first areas
+they cracked down on because they saw that leading to fraud and various other things.
+Marc Filippino
+So, Ryan, realistically, how effective could these latest curbs be?
+Ryan McMorrow
+China’s been trying to get rid of Bitcoin and other cryptocurrency for years now, and people have
+always found a way around it. But if the exchanges no longer let Chinese people trade on them,
+then it might be very hard for Chinese people to find buyers and sellers.
+Marc Filippino
+Yeah, and how have those cryptocurrency changes responded? Are they generally doing what
+Beijing wants or no?
+Ryan McMorrow
+So far it’s Huobi, the largest exchange, has said they’re going to offboard Chinese users. Binance
+has made it slightly harder. And other exchanges, I don't, I don’t think they’ve really put out any
+announcements yet. So it’s not like the entire offshore exchange world has said no more Chinese
+users. That is definitely what Beijing wants. But so far, there are some that seem to be still willing
+to onboard Chinese users and let Chinese users trade.
+Marc Filippino
+Ryan McMorrow is the FT’s China technology reporter.
+[MUSIC PLAYING]
+You can read more on all of these stories at FT.com. This has been your daily FT News Briefing.
+Make sure you check back tomorrow for the latest business news.
+
+This transcript has been automatically generated. If by any chance there is an error please send
+the details for a correction to: typo@ft.com. We will do our best to make the amendment as soon
+as possible.
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Ryan McMorrow
+Marc Filippino
+Lauren Fedor
+Kate Duguid
+Derek Brower
+
+

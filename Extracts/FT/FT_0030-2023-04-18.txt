@@ -1,0 +1,104 @@
+FT PROFESSIONAL
+
+Opinion Global Economy
+
+The future of interest rates is a riddle
+Inflation’s comeback has changed the world — but how much we don’t yet know
+
+MARTIN WOLF
+
+© James Ferguson
+
+Martin Wolf
+Published APR 18 2023
+
+The return of inflation has surprised many, including central bankers. So has the resulting rise in
+nominal interest rates. These surprises have brought others with them, notably a mini-shock to
+banking.
+The question, then, is: “What next?” Will inflation subside to ultra-low pre-Covid levels or will it be
+a lasting problem, as in the 1970s and early 1980s? What, too, will happen to interest rates?
+
+As Stephen King, adviser to HSBC, notes in We Need to Talk About Inflation, many were too
+complacent about the possibility of inflation’s return. As he notes, too, once inflation and, above
+all, inflationary expectations are entrenched, they become very painful to eliminate. Have we
+reached that point? Or do our institutions still have enough credibility and is enough of the
+inflation still transitory for us to be able to return to low inflation at a low cost?
+
+We are, in my view, more likely than not to return to inflation at around 2 per cent a year, or
+perhaps just a little bit higher. This is also what markets expect: according to the Federal Reserve
+Bank of Cleveland, US expected inflation is 2.1 per cent, almost exactly in line with the target. This
+shows confidence that the target will be delivered. The inflation risk premium is also estimated at
+0.5 percentage points, which is in line with historic valuations.
+
+There are two (overlapping) arguments why this might prove too optimistic. One is that supply
+conditions have become more inflationary. De-globalisation and other shocks have permanently
+lowered the elasticity of supply of key inputs. That will raise the costs of keeping inflation down.
+The other is that the political economy of curbing inflation has worsened. Thus, the public cares
+less about inflation now, partly because it has no memory of a long period of high inflation.
+Moreover, governments want to lower their indebtedness, which is now far greater than 15 years
+ago, without curbing fiscal deficits. Finally, the inflation genie is now out of the bottle. Putting it
+back in will hurt.
+
+I remain unconvinced. Obviously, there is no necessary link between supply and inflation, since
+demand also matters. Provided aggregate demand grows in line with potential output and the
+structure of output is reasonably flexible, specific constraints are perfectly consistent with low
+overall inflation. Moreover, those responsible for monetary policy will not want to go down in
+history as those responsible for losing monetary stability. Last but not least, they know that it will
+be far easier to crush inflation now than have to tighten yet again later. (See charts.)
+
+Assume that this is correct. Then the inflation components in nominal interest rates will not be
+permanently raised. But what about the real element? Real interest rates fell for a generation,
+before reaching negative levels during the pandemic. Since then, they have recovered sharply.
+What happens now?
+
+In its latest World Economic Outlook, the IMF addresses this question by investigating the “natural
+rate of interest”, which is defined as “the real interest rate that neither stimulates nor contracts the
+economy”. That is also the rate at which one would expect inflation to remain stable (in the absence
+of shocks). The natural rate is not directly observable. But it can be estimated. The main conclusion
+of its analysis is that “once the current inflationary episode has passed, interest rates are likely to
+revert towards pre-pandemic levels in advanced economies”. After the recent shocks, then, real and
+nominal rates will fall back to where they were in 2019. In particular, it expects the effect of further
+ageing to be modest, as is also the (opposite) effect of higher public debt.
+
+In March, two leading macroeconomists, Olivier Blanchard and Lawrence Summers, debated this
+issue in detail for the Peterson Institute for International Economics. Of the two, Blanchard came
+closest to the IMF position. Summers, who had reintroduced the idea of “secular stagnation” into
+the policy debate in 2015, has now changed his mind, arguing that rates will be significantly higher
+than in the recent past.
+
+The difference is not huge. Blanchard argues that real interest rates will remain below the real rate
+of economic growth, which is crucial for debt sustainability. He does not suggest that they will
+return to negative levels. Summers thinks they will be somewhat higher than the Fed’s estimate of
+a natural rate of 0.5 per cent. One reason why real rates will be higher than before, they agree, is
+higher investment in the energy transition. Another is the need to spend more on defence. Higher
+public debt may also raise real rates, though inflation is eroding debt away.
+
+These two disagree, however, on whether the persistent demand reflects temporary (Covid-related)
+factors or more durable strength. They disagree on how far risk aversion will keep yields on safe
+assets low. They disagree on whether ageing will raise savings further. And they disagree, too, on
+the likely impact of public debt on interest rates. In all these respects, Blanchard takes a position
+that justifies lower natural rates and Summers one that justifies the opposite. His position is close
+to that adopted by Charles Goodhart and Manoj Pradhan.
+
+So, assume inflation will decline to 2-3 per cent. Assume, too, an equilibrium real rate of interest of
+0-2 per cent. Then nominal short rates would be 2-5 per cent and, given risk premiums, longerterm rates would be 3-6 per cent. At the lower end, debt sustainability would be simple. At the
+higher end, it would be a challenge. This range of uncertainty is large. Yet reality could still be
+different.
+The return of inflation has changed the world. The question is how much. It is one to which time
+will give its answer. My own guess is “not dramatically so”.
+martin.wolf@ft.com
+Follow Martin Wolf with myFT and on Twitter
+Letter in response to this column:
+US is textbook case of how anchoring inflation works / From Thomas R Michl, Emeritus
+Professor of Economics, Colgate University, Hamilton, NY, US
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Martin Wolf
+Global Economy
+US inflation
+US interest rates
+Negative interest rates
+
+

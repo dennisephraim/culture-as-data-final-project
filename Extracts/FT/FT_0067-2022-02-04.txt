@@ -1,0 +1,84 @@
+FT PROFESSIONAL
+
+Undercover Economist
+
+Why real inflation is so hard to
+measure
+Scientists and bean-counters everywhere need to
+fill gaps in our knowledge rather than stumble into
+them
+
+© Anna Wray
+
+Tim Harford
+Published FEB 4 2022
+
+What colour is a rainbow? On average, white. And what is the current level of UK inflation? On
+average, 5.4 per cent. Both answers are true. Both are missing something important.
+The consumer price index, or CPI, aims to measure the average price paid by UK consumers. But
+when the latest CPI numbers came out, the food writer and poverty campaigner Jack Monroe took
+to Twitter with some examples from her local supermarket: 500g of cheap pasta up from 29p to
+70p year on year; 1kg rice up from 45p to £2; baked beans up from 22p to 32p. As the examples
+piled up, Monroe concluded that the inflation rate faced by poor households was much higher than
+the CPI’s 5.4 per cent.
+
+“The system by which we measure the impact of inflation is fundamentally flawed,” she added — in
+a thread that has since been read by millions of people. I agree, for different reasons. Monroe is
+worried that prices are soaring for the poorest households. I’m worried that our current inflationmeasuring process simply can’t tell us if she is right or wrong.
+Instead, we have to rely on clues. One clue comes from looking at a reweighted CPI. The FT’s Chris
+Giles did this. He pointed out that while energy prices were rising fast, so were the prices of treats
+such as restaurant meals. Reweight the CPI to reflect the spending of a poorer household (more
+food and heating) or a richer household (more eating out and flights) and the inflation rate is much
+the same for everyone.
+Another clue comes from industry watchers. Retail analyst Steve Dresser notes that Jack Monroe’s
+data came from Asda, but “Asda have been cutting value tier products for a while . . . it’s not
+indicative of the wider market.”
+A third clue comes from a large survey of consumer spending recently published by academic
+economists in the US. They conclude that the inflation spike in late 2020 was higher for “low
+income, low education and Black households”. However, the difference is half a percentage point or
+less.
+But we shouldn’t have to rely on clues. Reweighting the CPI cannot show us what is happening to
+the super-cheap food products that are so important to someone shopping on a tight budget.
+Indeed, the head of inflation at the Office for National Statistics, Mike Hardie, tells me that the
+ONS data gatherers target the most popular products, based on shelf space. Are these products the
+cheapest staples or not? “We haven’t done the analysis to know,” acknowledges Hardie.
+I have some sympathy. It makes sense to calculate inflation by looking at the same goods, month
+after month. But a savvy budget shopper might first head to the “reduced to clear” section. Then
+they might pick up some cheap carbohydrates. Rice one week, spaghetti the next — whatever was
+on special offer. What is the inflation rate for such a shopper? Even in theory, the answer is elusive.
+
+Nevertheless, the answer matters. It may not matter to the Bank of England as it tries to ensure
+price stability across the entire economy, but it should matter to the government as it sets the level
+of benefits and the state pension. And it certainly matters to a desperate parent at the checkout,
+trying to figure out if they can afford a jar of peanut butter or whether the toast will be dry this
+week.
+Jack Monroe — who tells me that her “key interests are maths and cheap pasta” — is now pulling
+together a voluntary effort to produce a price index of cheap food staples and other basics such as
+menstrual products, toothpaste and shampoo.
+But that cannot compete with the resources that the Office for National Statistics devotes to
+compiling the CPI, collecting 6,000 price quotations a day across the country. The ONS has just
+announced plans to beef up this effort with scanner data from supermarkets.
+Is this statistical firepower well aimed? Yes, if the aim is to measure inflation across the economy.
+No, if we want to understand what is happening to the poorest households.
+It is both expensive and invaluable to gather really good data. But it is often shocking to realise that
+there are certain questions that have slipped between the cracks. In 2007, we were stunned to
+realise how much we didn’t know about risk in the banking sector. In 2019, Caroline Criado Perez’s
+Invisible Women made a compelling case that data relevant to women were often neglected. In
+2020, the ONS was quick to set up an infection survey representative of the population, but such a
+survey could have been established years before. Now Jack Monroe has pointed to another gap.
+Nerds and bean-counters everywhere — my kind of people — need to try to fill such gaps in our
+knowledge rather than stumble into them. There are white rainbows everywhere, and it is not
+always easy to pick out the colours. But we must try.
+Tim Harford’s new book is “How to Make the World Add Up”
+Follow @FTMag on Twitter to find out about our latest stories first
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Tim Harford
+Undercover Economist
+Personal & Household Goods
+Retail & Consumer industry
+Consumer trends
+
+

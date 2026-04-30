@@ -1,0 +1,121 @@
+FT PROFESSIONAL
+
+Opinion Unhedged
+
+The Fed is ready. Is the market?
+Why we’re still gloomy(ish)
+
+ROBERT ARMSTRONG
+
+© Financial Times
+
+Robert Armstrong & Ethan Wu
+Published DEC 13 2021
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+This article is an on-site version of our Unhedged newsletter. Sign up here to get the newsletter
+sent straight to your inbox every weekday
+
+Good morning. A week ago, Unhedged stuck its nose above the parapet, and smelled fear. With
+tighter policy arriving soon, we argued, the market was poised to struggle. The market, naturally,
+responded to our hubris by ripping higher in the following days. Should we reassess our gloomy
+view? Today we take stock, especially in light of Friday’s inflation report. Email us:
+robert.armstrong@ft.com and ethan.wu@ft.com.
+
+Markets are about to meet tightening face-to-face
+After last week’s CPI report — now, in a sign of the times, the most important data release — where
+do markets stand? There are five essential facts and one big question.
+Inflation remains very high but is not accelerating much, and there is a bit of hope
+for deceleration soon.
+Friday’s CPI report was greeted with a sigh of relief because it was not worse than the consensus
+estimates. But keep that relief in context. The report did not change things much. Inflation is not
+getting better. The numbers (both headline and core) looked a little worse on a year-over-year basis
+and a little better on a month-over-month basis. Here are the core (ex-food and energy) numbers:
+
+The least scary part of the inflation report was the fast price growth for energy and cars. Crude oil
+prices have rolled over and that should show up in CPI before long. For cars, everyone expects
+bottlenecks to subside, supply to improve, and prices to normalise (this point about cars can be
+generalised, to an extent, to apply to goods inflation generally — it will subside with the pandemic,
+because of both easing bottlenecks and fall in demand that has shifted over, temporarily, from
+services).
+The most scary part of the inflation report is housing, which is sticky and is a big part of core
+inflation. It rose at a nasty 3.8 per cent annual rate in November. The only reason that number is
+not much worse is that both rent and “owners equivalent rent” (what owners would be paying if
+they had to rent their houses) are lagging indicators. CPI rent dilutes the sharp recent rises in
+newly signed leases, and OER takes a while to catch up with the housing market. So inflation
+worriers like to point to leading indicators like house prices and big realtors’ rent indices.
+But some of those leading housing cost indicators are turning over. Zillow’s house price index (the
+one the Dallas Fed likes to use) is still running at a burning hot 19 per cent annual rate. But the
+month-over-month rate has fallen to 1.4 per cent in October from 2 per cent in July. The same
+pattern in visible in Apartment List’s rent index:
+
+Economic growth is just plain very high.
+As we have said before, stagflation this ain’t, not even nearly. This is most visible in the jobs data.
+Job opens rose again in November, and the trend for jobless claims is plummeting.
+
+Claims are back at pre-pandemic levels, openings are at a historic high, and friends, we’re in a
+boom.
+The bond market says with total clarity and complete confidence that neither
+inflation nor growth are going to stay strong for more than a year or two.
+Five-year break-even inflation has been falling for a month. At under 3 per cent, with CPI running
+at nearly 7 per cent now, implies a very fast decline in inflation in the next few years. 5-year, 5-year
+forward inflation break-evens are where they were in 2018.
+The 10-2 yield curve suggests that while the Fed will push up short rates, growth will not be strong
+enough over the long term to push longer rates up. Indeed, ten-year yields are a few basis points
+lower that they were when Covid hit.
+There is no ambiguity. If you are worried about inflation or you see sustained growth ahead, the
+bond market is absolutely shouting that you are wrong. Here’s the 10-2 curve and 5-year inflation
+expectations:
+
+The stock agrees with the bond market, sort of.
+If you are one of those investors who believes that the crucial thing supporting the stock market is
+low bond yields, then the fact that the bond market thinks long yields are going nowhere is very
+reassuring. It suggests we can get through a tightening cycle without crashing the stock market.
+And the fact that the S&P 500 has rallied to new highs once again this week expresses confidence
+that higher long rates are not going to ruin the party.
+Of course there is a logical problem with this way of thinking. Low growth means low corporate
+profit growth, which should offset, in whole or in part, the benefit of low rates (that is, low discount
+rates). That’s just the math of stock valuation.
+That said, however, last week we highlighted the outsized contribution to S&P performance of the
+very biggest stocks in that index. And you might argue that these big, bad companies, with their
+superstrong market positions, are precisely the ones that can increase profits in a weak economy.
+But if that’s true, why are highly speculative tech stocks selling off hard — which one would expect
+to happen if long rates were going to rise? Maybe the stock market does not have its head
+completely sorted out.
+
+Everyone now expects the Fed to announce an accelerated taper of bond purchases
+this week, and for there to be several rate increases next year.
+The consensus is that the Fed has changed its posture, and will signal the change strongly on
+Wednesday. There are better than even odds of a rate hike at the May meeting now, according the
+CME’s FedWatch tool.
+Game on!
+The big question: has the stock market really, truly priced in the rate hikes that are
+coming, or does its euphoric optimism doom it to being surprised?
+Historically, rate hiking cycles have been associated with positive stock market returns (sometimes
+very positive ones). In the 2016-19 cycle, it took almost two years (November 2016 to October
+2018) of steady rate increases for the stock market to flinch.
+But there are a lot of nerves this time, because over the past few years the stock market has
+performed brilliantly while real interest rates have fallen into negative territory. Will the Fed
+awaken real rates and crash the stock market? Well, at the risk of repetition, the bond market says
+it just ain’t going to happen.
+Rates and stock prices do not operate in a vacuum. What has Unhedged sticking to its gloomy (or
+at least gloomy-ish) view is the broader context. Higher rates, tighter fiscal policy, high stock
+valuations, slowing earnings growth, and a slowing Chinese economy are a tricky combination.
+
+One good read
+Is the crypto market vulnerable to manipulation by “whales”?
+
+Recommended newsletters for you
+FT Asset Management — The inside story on the movers and shakers behind a multitrilliondollar industry. Sign up here
+Free Lunch — Your guide to the global economic policy debate. Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Robert Armstrong
+Unhedged
+US economy
+Markets
+Federal Reserve
+
+

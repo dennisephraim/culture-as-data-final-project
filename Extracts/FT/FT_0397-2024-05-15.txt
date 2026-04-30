@@ -1,0 +1,92 @@
+FT PROFESSIONAL
+
+Alphaville US inflation
+
+What even is inflation?
+There are weird quirks in how CPI and PCE measure price growth — that matters
+
+Tej Parikh
+Published MAY 15 2024
+
+Another month, another CPI inflation data point, parsed to several decimal places. Markets know
+the Fed targets personal consumption expenditures inflation, not CPI, but they don’t really care.
+The CPI release leads the PCE by 2 weeks, and drives more fanfare as it sometimes helps forecast
+PCE — allowing traders to get positioned early. (CPI is also used to adjust social security payments,
+and is the reference rate for TIPS and inflation swaps and the Medicaid inflation rebate).
+
+For markets, inflation numbers are analogous to a Keynesian Beauty Contest where judges pick
+winners not on their own judgment, but based on what they think other judges will vote for. It does
+not matter which inflation measure might most meaningfully affect rate outcomes, what matters is
+which measure everyone else is looking at. For now, CPI is the winner.
+But the wedge between CPI and PCE inflation is abnormally high: around double its historic
+monthly average since 1960. Reading across from one to the other is less meaningful right now:
+
+As a reminder, PCE has been the Fed’s preferred inflation measure since Alan Greenspan was chair
+in the 1990s (he thought CPI was flawed).
+The CPI is based on a survey of what households are buying; the PCE is based on surveys of what
+businesses are selling. The PCE also tries to account for substitution between goods when one good
+gets more expensive.
+The main difference in the indices comes down to their scope, weights, and formulas.
+
+Digging into each basket item by item, which Eric Pachman, chief analytics officer at Bancreek
+Capital Advisors, has done — check out these data visualisations — can leave one asking: what even
+is inflation?
+“When I look at CPI and PCE, I don’t see anything more than two different groupings of weights”
+said Pachman:
+
+Let’s call them Mr. CPI and Ms. PCE. Mr. CPI and Ms. PCE are just two
+different perspectives on inflation out of more than 330 million different
+personal perspectives on inflation across America.
+Mr. CPI and Ms. PCE’s perspective on inflation underscores the arbitrary nature of what the Fed is
+targeting and markets are trading against. Here are some of their quirkiest quirks.
+
+The PCE’s portfolio management and investment advice component, which has a weight just over 1
+per cent, has been causing some problems, running near 10 per cent on an annual basis.
+It is calculated such that even if someone pays their money manager a fixed fee, if the value of their
+portfolio rose it would show up as inflation. As such it is highly correlated to the S&P 500 . . . is that
+a reasonable proxy for price changes?
+
+Next is auto insurance. After being somewhat correlated, a huge gap opened up between the CPI
+and PCE in summer 2023. Headline US CPI motor vehicle inflation in March reached its highest
+level since 1976.
+The PCE measure is derived from the net cost of auto insurance, whereas the CPI measure is a
+gross cost (the net measure is the cost of insurance after deducting claims). CPI gives it almost five
+times the weight too.
+“Remember future inflation is based off of prior year weights,” says Pachman. “So, this auto
+insurance messiness in 2024 means its weight will be out of whack as we cycle into 2025.”
+
+Health insurance is also weird. CPI measures what customers pay into their policy that is not
+distributed out in benefits, proxied in part by insurers’ margins. The BLS also switched from an
+annual to a semi-annual update to reduce lags in the index last year, which has contributed to a
+kink in its readings. Pachman:
+
+We should probably brace ourselves for this to revert to the mean. And as it
+does, we are going to lose the deflationary benefit of this item fast.
+
+There are plenty more quirks. Alphaville covered what is now the most topical one, owner occupied
+rents, last month. For each, explaining why the methodologies differ, their pros and cons, and so
+forth is another exercise in itself.
+There is a bigger point.
+The different uses of CPI and PCE, variation in their weights, choice of methodologies and changes
+in data collection strategies highlights just how arbitrary the markets, media, and Fed’s focus on
+decimal point misses in forecasts really is.
+“If the market is a carnival, one of the hottest attractions is the inflation fun house, jam packed
+with distorted mirrors. Digging into the data helps expose the mirrors for what they are,” says
+Pachman.
+While it may be a carnival for markets, inflation measures are a problem for the Fed, households
+and businesses.
+
+Everyone would be better off if rates or even new inflation targets (as some are calling for) are
+determined by economic fundamentals rather than arbitrary data quirks. There is no perfect
+measure. But since the last review of how the US measures inflation was in the 1990s, perhaps it is
+time for another one.
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+US inflation
+Federal Reserve
+Alphaville
+Tej Parikh
+
+

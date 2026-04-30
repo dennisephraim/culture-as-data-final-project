@@ -1,0 +1,383 @@
+FT PROFESSIONAL
+
+Chris Giles on Central Banks Federal Reserve
+
+Everyone misunderstands Jay Powell
+
+That is a problem for the Fed; plus a homily on the meaning of dovishness
+
+Trust matters. Fed chair Jay Powell mentioned the importance of anchored inflation expectations eight times in his press conference
+last week
+
+Chris Giles
+Published MAR 25 2025
+
+This article is an on-site version of our Chris Giles on Central Banks newsletter. Premium
+subscribers can sign up here to get the newsletter delivered every Tuesday. Standard
+subscribers can upgrade to Premium here, or explore all FT newsletters
+
+The headline reflects some rather interesting research about the Federal Reserve that shows how
+difficult central banks find landing their expert and technical messages with the public.
+
+For example, however hard Fed chair Jay Powell tries to say absolutely nothing controversial in a
+polarised US, people often hear news mediated through a partisan outlet and take offence,
+assuming he is speaking for the other side.
+The research by Pei Kuang, Michael Weber and Shihan Xie sampled more than 5,000 people just
+after Donald Trump was inaugurated in January. It finds that the public is not only extremely
+polarised, but that this colours their view of the Fed. Democrats thought US inflation was moderate
+in 2024 but expect it to be high in 2025; Republicans think the opposite.
+As such the results are rather like the University of Michigan consumer sentiment index, below,
+which shows consumer confidence is governed more by who is running the country than economic
+events. This is troubling because economic surveys then become difficult to interpret.
+
+US consumer sentiment tells you more about partisanship than the
+economy
+Index of consumer sentiment
+Democrat
+
+Independent
+
+Republican
+
+100
+
+50
+
+0
+2016
+
+Trump 1
+
+2017
+
+2018
+
+Biden
+
+2019
+
+2020
+
+2021
+
+2022
+
+Trump 2
+
+2023
+
+2024
+
+2025
+
+2026
+
+2027
+
+Source: University of Michiga
+
+What is more difficult for the Fed is the public’s view about the institution’s impartiality and its
+ability to take expert decisions. Some 66 per cent of people identifying as Democrats thought the
+Fed was run by a bunch of Trump-loving Republicans and 60 per cent of Republicans thought the
+Fed was a hotbed of woke Democrat lefties.
+This means that most Americans are not inclined to trust the Fed. Interestingly, those identifying
+as independents are not some non-partisan oasis of trust, but the most sceptical group of all. In
+total, almost two-thirds of respondents thought the Fed was essentially out to get them.
+
+Republicans think Fed officials are a bunch of Democrats and vice versa
+Perceptions of the Fed’s political leaning by respondents’ political leaning (%)
+Republican
+
+Democrat
+
+40
+
+30
+
+20
+
+10
+
+0
+
+Strongly Democratic
+
+Moderately Democratic
+
+Closer to Democratic
+
+Closer to
+
+Source: Pei Kuang, Michael Weber, Shihan X
+
+That result is not necessarily disastrous, since independent central banks are supposed to take
+difficult decisions to foster low inflation and financial stability. The problem is that trust in the Fed
+is governed by how much people think it is aligned with their thinking.
+Trust matters. Powell mentioned the importance of anchored inflation expectations eight times in
+his press conference last week. Success relies on people trusting the Fed will keep inflation low.
+In 2023, European Central Bank President Christine Lagarde said trust was extremely important.
+“Conveying our policy messages to the wider public is critical for the legitimacy of independent
+central banks in democratic societies and for the effectiveness of monetary policy.”
+The problem for the Fed is that those who thought the Fed was against them were much less
+willing to trust it.
+
+Those who felt politically aligned with the Fed were willing to trust it
+%
+Fed is one of them
+
+Fed is one o
+
+30
+
+20
+
+10
+
+0
+
+No trust
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Full trust
+
+No trust
+
+Source: Pei Kuang, Michael Weber, Shihan X
+
+The good news in the research is that when respondents were presented with basic information
+about the appointment process at the Fed, its objectives or recent record, trust scores went up
+significantly, as did the survey respondents’ perception of the Fed as an independent institution
+acting in the interests of the US.
+The bad news is that the survey participants were forced to consume this information. And the
+research found that those who did not trust the Fed preferred partisan news sources rather than
+factual information. So, however factual and impartial the Fed is, it has to reach people who prefer
+to have their priors reinforced by partisan outlets.
+
+I got in touch with one of the authors, Michael Weber at the University of Chicago. His conclusion:
+“Communication can be successful in winning people over . . . [but] many consumers do not want
+to learn about Fed policy.”
+
+Well over half of respondents did not trust the Fed
+(%)
+Do not trust
+
+Neutral
+
+Trust
+
+20
+
+30
+
+Trust in the Fed
+
+0
+
+10
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+
+Source: Pei Kuang, Michael Weber, Shihan X
+
+A sermon on hawkishness and dovishness
+With apologies to anyone who has heard me bang on about this in the past, last week’s Fed meeting
+stuffed my inbox with analysts disagreeing on whether the Fed had been hawkish, dovish or
+neutral.
+
+None of the people emailing me were idiots, but in describing economic events or data, anyone in
+the communications game needs to answer one basic question. Is it big or small? In this case: is it
+dovish or hawkish? And to do that you need a relevant comparison. You need to answer the
+“relative to what?” question.
+Given this framework, there are three relevant comparisons to last Wednesday.
+Compared with the Fed’s December meeting, the decision and the summary of economic
+projections were clearly hawkish. Growth was revised down and inflation revised up. Alongside
+these contradictory moves, the centre of gravity in the Federal Open Market Committee shifted
+towards expecting fewer rate cuts than previously, even though the view of the median FOMC
+member was unchanged. Mostly, this came from some officials removing their view of rapid
+interest rate cuts, as the chart below shows.
+
+US Fed officials were more hawkish in March than in December
+Each dot represents one FOMC participant's projection for the midpoint of US interest rates in Q4 of
+each year (%)
+2025
+
+2026
+
+2027
+
+Dec
+2024
+
+Mar
+2025
+2.5
+
+Source: Federal Reserve
+
+3
+
+3.5
+
+4
+
+4.5
+
+Compared with financial market expectations, the meeting and forecasts were also hawkish. Before
+the meeting, bond and interest rate futures markets expected roughly three rate cuts in 2025, but
+Fed officials suggested a maximum of two. Given this, financial markets should have seen the
+decision as hawkish, but weirdly took the meeting as dovish. There is an inconsistency here. Never
+mind.
+Compared with a view that tariffs made rate cuts impossible, the meeting was clearly dovish, since
+the Fed still signalled two rate cuts as most likely this year.
+The meeting was therefore either hawkish and dovish depending on the relevant comparison.
+Before pronouncing, you need to articulate your frame of reference.
+Here endeth my sermon.
+
+What I’ve been reading and watching
+Read Barry Eichengreen’s Saturday essay questioning whether the dollar
+can remain king of the currencies. No one can ever say a straight “no” to
+this question, but Eichengreen comes close and melds wonderful history
+and facts doing so.
+So desperate is everyone to think there is some grand plan behind Trump’s
+economic policy that there has been an explosion of Mar-a-Lago Accord
+explainers (even though a plan does not even exist). To save yourself the
+trouble of many takes, read Martin Wolf’s two-part series. The first lays out
+the theory. The second, publishing as this newsletter goes out, Martin
+promises will trash it.
+President Recep Tayyip Erdoğan’s detention of his political rival shows
+where authoritarian tendencies lead. It is also bad for Turkey’s economic
+prospects.
+
+If you want to know roughly what will be in the UK’s Spring Statement on
+Wednesday, I wrote about it in a column last week.
+
+A chart that matters
+Younger employees are twice as likely to be using artificial intelligence at work than their older
+colleagues, the European Central Bank reported last week. Regardless of age, attitudes towards AI
+were overwhelmingly positive, especially among those who used it.
+The Bundesbank also highlighted last week that artificial intelligence was pretty good at tracking
+dovish and hawkish statements from the European Central Bank (see chart below). It does not
+reflect a dovish bias at the bank, but an appropriate dovish outlook when inflation was below target
+in the 2010s and more hawkish noises before the ECB started raising rates.
+
+Bundesbank hawk-o-meter for monetary policy speeches and ECB press
+conferences
+Index of hawkishness
+Type
+
+Speeches by ECB executive board
+
+ECB press conferences
+
+↑ Hawkish
+↑
+Hawkish
+0.5
+
+0
+
+-0.5
+
+↓ Dovish
+↓
+Dovish
+
+-1
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+202
+
+Source: Bundesban
+
+The even better news is that my colleagues and I over at the FT’s Monetary Policy Radar
+independently undertook a very similar analysis in December last year and got consistent results.
+AI is proficient at reading and synthesising a large amount of information. Chapeau to the robots.
+
+The European Central Bank Hawks-Doves scale
+0 = Dovish; 0.5 = Neutral; 1 = Hawkish
+Trend line is a trailing moving average over last 10 speeches (excluding speeches unrelated to monetary policy)
+1
+
+<- Dovish — Hawkish ->
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+Source: BIS, ECB
+FT graphic: Joel Sus
+
+Recommended newsletters for you
+Free Lunch — Your guide to the global economic policy debate. Sign up here
+The Lex Newsletter — Lex, our investment column, breaks down the week’s key themes, with
+analysis by award-winning writers. Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Global Economy
+US economy
+Central banks
+Federal Reserve
+Jerome H. Powell
+
+

@@ -1,0 +1,142 @@
+FT PROFESSIONAL
+
+Unhedged US inflation
+
+Core inflation falls, a lot
+And more on bank capital
+
+© Financial Times
+
+Robert Armstrong and Ethan Wu
+Published JUL 13 2023
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+This article is an on-site version of our Unhedged newsletter. Sign up here to get the newsletter
+sent straight to your inbox every weekday
+
+Good morning. Former retiree Bob Iger has been given a couple more years as “interim” CEO of
+Disney, and the ceiling on his bonus pay has been quintupled. This reminds us of an old Peter Arno
+cartoon depicting a bunch of ancient gentlemen seated around a long table, wearing wrinkled
+grins. The caption: “Then it’s moved and seconded that the compulsory retirement age be advanced
+to ninety-five!” Feel young at heart? Email us: robert.armstrong@ft.com and ethan.wu@ft.com.
+
+That disinflation sensation
+Although we passed the inflation inflection two months ago, the speed of inflation’s descent has
+remained in doubt. Yesterday’s CPI numbers offered reassurance on that front. Core inflation,
+which had seemed hot and sticky for six months running, rose less than an annualised 2 per cent in
+June. Goldman Sachs called it a “turning point”; for Standard Chartered, it was a “game changer”.
+The details looked encouraging, too. Used car prices fell, finally relenting from a shortlived demand
+pop. Core goods prices declined slightly. Core services inflation rose a modest 0.25 per cent, in line
+with the pre-Covid average. The cooling in core services prices was helped by slower rent inflation.
+Newly-signed leases are trickling into the CPI data, which also includes old, peak-inflation leases.
+This transition takes time, so the economist Jason Furman uses private market rental data to
+simulate where core inflation will settle once CPI finishes catching up. On a six-month annualised
+basis, core CPI would be at 2.5 per cent if CPI shelter fully reflected private market rents.
+A few notes of caution are needed. Next month’s report may not be so benign on the services side.
+Hotels and airfares, two volatile services categories, posted huge price drops, at 2 per cent and 8
+per cent month on month, respectively. These will probably reverse. And other services categories
+such as vet visits, recreational services, car insurance and repairs are all still running hot (for a
+deeper discussion of car insurance inflation, listen to the Unhedged podcast).
+But good news is good news. Most encouraging of all, inflation appears to be unsticking. The
+indices below measure, in different ways, how broadly entrenched inflation is. All three are
+pointing in the right direction, and one is even sporting a 2-handle:
+
+The market was pleased. Falling yields carried stocks gently higher. Calmer inflation means rates
+don’t need to go as high, or for as long, as the market had expected. After the CPI report, the
+futures market lowered its probability estimate of a second additional rate increase this year (the
+one in July still looks all but guaranteed). The two-year yield fell 13 basis points, confirming the
+signal from the futures market.
+But these were incremental moves, reflecting the incremental information contained in yesterday’s
+report. The data did not guarantee a soft landing, but suggested what the path may be. That is:
+decelerating job growth plus lower core inflation buys room for the Federal Reserve to go easier.
+The chance of that happening is on the rise, but things need to keep going right, so Mr Market is
+reserving judgment. As BNP Paribas analysts wrote yesterday, “the market may require either
+confirmation of a trend softening in inflation or signs that the labour market is cracking to shift
+regimes”.
+
+Two questions linger. One is whether progress on inflation will get harder. Growth is still strong,
+the labour market is still tight, and private market rent indices have re-accelerated, suggesting
+shelter inflation won’t fall for ever. A second is what the Fed will do if the chances of a soft landing
+keep rising. Cut early to stop the lagged effects of policy from derailing the economy? Keep rates
+high to make sure the job is done? We’re past halftime for this rates cycle, but there’s plenty of
+game left to play. (Ethan Wu)
+
+A reply on bank capital
+There were quite a few lively responses to yesterday’s piece on the bank capital proposals from the
+Fed’s Michael Barr. Most of them were approving, but there were some interesting points of
+dissent. Several readers took the line that our friend Matt Klein (everyone subscribe to The
+Overshoot!) laid out in an email:
+
+A partial defence of Barr: I think of capital as a way to reduce the risk of
+flight from uninsured depositors and other creditors, because runs are
+usually predicated on concerns about the distribution of losses. Silicon Valley
+Bank and First Republic would not have had those kinds of outflows if
+depositors knew that someone else would be on the hook for underwater
+bonds and loans . . .
+Given the outflows they had, more capital would not have helped, but maybe
+a different balance sheet structure would have prevented the runs in the first
+place.
+
+In other words, more capital would not have helped once the run began, but a thin capital layer
+made the run more likely. This is a plausible view, though I think it’s probably wrong (the Barr
+point I called “almost total nonsense” was the idea that different capital treatment of “available for
+sale” securities would have helped prevent the SVB and First Republic failures). If you read back
+through Unhedged’s coverage of SVB and First Republic, you might find some support for this
+view, in fact. We noted several times that one way to screen for weak banks is to see what capital
+levels would be if securities portfolios were marked to market. Here is a table from our newsletter
+of March 14:
+
+The third column, the leverage ratio, is a measure of capital strength (tier one equity
+capital/assets). The far-right column is the leverage ratio if capital were reduced to reflect
+unrealised securities losses. Back then, terms like “mark to market insolvent” were thrown around
+a lot, and in the case of SVB, that term was accurate. And it seems pretty safe to assume this kind of
+talk helped precipitate the run that overwhelmed the bank.
+So you might say, with Barr, that a few more percentage points of capital might have decreased the
+chance of a run. Of course, First Republic was not mark-to-market insolvent — not even nearly —
+and it got crushed by a depositor run, too; but things are different for the second bank to fall than
+for the first. So there seems to be an argument here in favour of Barr’s view, which urges that
+higher capital levels increase “resilience”, by which he means the ability to survive losses whatever
+their source.
+
+I don’t buy this. The ultimate source of the SVB failure was catastrophically bad rate risk
+management combined with a flighty, concentrated, uninsured investor base. If we think that the
+SVB mess proves we need better regulation and supervision, the target ought to be the ultimate
+cause of the problem. Maybe we ought to change the way we risk weight long-term governmentbacked securities. Maybe we ought to have asset-liability matching rules, or require more capital
+just for banks with lots of uninsured deposits. Or whatever.
+But to argue that all banks need more capital at all times because a tiny handful of them forgot
+fundamental principles of risk management seems looney to me. Because higher capital
+requirements have a cost. Higher capital requirements are nothing but a requirement that banks
+lend less, and especially when the economy is soft, we don’t want less bank lending, we want more
+of it. I hate to sound like a bank lobbyist, but there it is.
+There may be good arguments that show that all banks need more capital. The SVB mess is not one
+of them.
+
+One good read
+The Economist rubbishes the concept of “greedflation”, which needed it (good week for them; they
+also had a nice piece on the Minivan Taliban).
+
+FT Unhedged podcast
+Can’t get enough of Unhedged? Listen to our
+new podcast, hosted by Ethan Wu and Katie
+Martin, for a 15-minute dive into the latest
+markets news and financial headlines, twice a
+week. Catch up on past editions of the
+newsletter here.
+
+Recommended newsletters for you
+Swamp Notes — Expert insight on the intersection of money and power in US politics. Sign up
+here
+The Lex Newsletter — Lex is the FT’s incisive daily column on investment. Sign up for our
+newsletter on local and global trends from expert writers in four great financial centres. Sign up
+here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+US inflation
+US interest rates
+Markets
+Federal Reserve
+Michael Barr
+
+

@@ -1,0 +1,135 @@
+FT PROFESSIONAL
+
+Unhedged US
+
+Inflation, still scary
+The hole in the soft landing story
+
+© Financial Times
+
+Ethan Wu
+Published AUG 8 2023
+
+This article is an on-site version of our Unhedged newsletter. Sign up here to get the newsletter
+sent straight to your inbox every weekday
+
+Good morning. Ethan here; Rob returns tomorrow. Is all the good news priced in already? So far
+this earnings season, the median price reaction to an earnings beat has looked limp versus history,
+according to Morgan Stanley. One notable exception: Berkshire Hathaway, which rose 3.4 per cent
+after Saturday’s earnings, and after Unhedged wrote that Berkshire probably can’t sustainably beat
+the S&P 500. Readers can decide which seems the likelier catalyst. Email me: ethan.wu@ft.com.
+
+Base effects and the inflation threat
+Here is a dumb point about inflation “base effects” that’s nonetheless easy to mix up. Inflation is a
+rate of change, so the denominator you choose to measure it with makes a big difference. The two
+standard methods are month-over-month and year-over-year comparisons. What’s tricky is that
+you can have flat monthly rates alongside rising annual rates. Whatever happened to prices a year
+ago ripples over to today.
+Though this point is fiddly, it matters. Because the sharpest inflation increases happened in the
+first half of 2022, annual comparisons for the rest of this year’s CPI reports will be boosted by more
+slowly rising denominators. The dominant soft-landing market narrative is anchored in part by the
+pretty little 3-handle on current headline annual inflation. If this starts rising, even if it reflects a
+tame monthly rate, investors could begin doubting their assumptions about how immaculate
+disinflation will be.
+This basic point is made in a recent post by Rob Arnott and Omid Shakernia of Research Affiliates.
+Earlier in the year, they forecast “an illusion of tumbling inflation in the first half of the year,
+perhaps even falling below 3 per cent by mid-year, then an illusion of soaring inflation in the
+second half of the year”, driven by shifting base effects. They illustrate why in the chart below, first
+published in January. The orange line shows how high annual inflation could conceivably rise,
+assuming flat monthly CPI readings at 46 basis points (the 2020-23 average). The green line shows
+the lower bound, with monthly readings at zero throughout 2023:
+
+A 46bp monthly print is unlikely, as Arnott and Shakernia concede. (The 2023 monthly average so
+far is 27bp.) Even still, they think year-over-year headline inflation could finish the year in the
+range of 4-5 per cent, starting with Thursday’s July CPI report. From their post:
+
+Suppose, for example, that we see an average of 20-40 basis points of
+inflation each month through year-end. Then we should see the year-overyear inflation rise to somewhere between 4% and 5½% by year-end. That’s
+enough to be alarming to most observers, who are typically not paying
+attention to the low rates of inflation that we are replacing late 2022.
+
+We find it a bit amusing that, if inflation finishes the year at half its peak
+levels of mid-2022, this will be an adverse shock to many (indeed, likely
+most) investors. If we finish the year at 4½% inflation, we will be pleased by
+this usually benign denouement following a dangerous inflationary surge,
+but most of the investment community, media, and political elite will likely
+be alarmed (fear sells!).
+Research Affiliates is not the only shop thinking about this. Bank of America’s chart below received
+a good deal of attention back in July. It shows where yearly inflation would go assuming a few
+different flat monthly rates (the chart is misleading; more on that below):
+
+Omair Sharif of Inflation Insights has a beef with BofA. Their chart’s title suggests that any
+monthly inflation reading above 20bp would push up annual headline rates. That would seem a
+low bar, raising fears of a base effects-driven inflation resurgence. But Sharif points out that BofA
+misleadingly uses non-seasonally adjusted monthly rates. If you use more conventional seasonally
+adjusted numbers instead, base effects look much less threatening. The real bar for monthly rates
+creating inflation re-acceleration is more like 40bp. Here is Sharif’s redo of BofA’s chart:
+
+Base effects should be easy enough to ignore in the next few months because, as Carl Riccadonna,
+chief US economist at BNP Paribas, pointed out to me yesterday, “when we talk about base effects
+we’re basically talking about energy base effects”. Watching core inflation, even in year-over-year
+terms (currently at 4.9 per cent), will probably give you a better idea of where inflation is heading.
+But in general, “for the next couple months, you shouldn’t be too focused on the year on year
+trend”, he added.
+
+So, all good then? Not entirely. Rather than a sharp inflation rebound, the problem is if inflation
+settles in at an uncomfortably high rate. Over the next couple months, we will probably see
+encouraging monthly core inflation readings around 20bp, thanks to disinflation in shelter and
+used cars. But Sharif thinks the next 12 months will look more like core inflation pinging between
+20bp and 30bp, somewhere between the high-2s and 4 per cent in annualised terms. Over at The
+Overshoot, Matt Klein makes the case that it’ll look more like 4:
+
+Without a downturn, it is unclear whether (or why) wage growth would
+decelerate enough from here to bring inflation all the way back to the Fed’s
+2% yearly goal over any reasonable timeframe . . .
+The main reason to worry is that nominal wages have consistently been
+rising about 5%-6% a year since last summer . . . Since consumer spending
+tracks wage growth better than anything else, real volumes of goods and
+services would have to rise about 3%-4% a year for the current pace of wage
+increases to be consistent with 2% inflation. That would certainly be my
+preference, and there are good reasons to think that productivity might
+accelerate, but the likelier outcome is that underlying inflation is closer to
+4% than 2%.
+This is the hole in the soft landing story: persistently high wage growth sustaining consumer
+spending. In lieu of slower wage growth, falling prices may just increase consumer purchasing
+power, lifting demand in a way that, ultimately, shows up as higher prices.
+Sharif gives a vivid example from the used-car market, in principle one of the most rate-sensitive
+parts of the economy. In the last six months of 2022, used-car prices fell steadily. Then, in January,
+demand popped. Driven by lower prices (and substitution from new cars), retail used-car sales shot
+up 10 per cent in just one month. The surge in demand “caught all the dealers off guard”, forcing
+them to rush to wholesale auctions, says Sharif. Three months later, that mad dash showed up in
+inflation. The used cars and trucks CPI sub-index rose more than 4 per cent in April and May.
+
+Used cars are an especially dramatic category, and probably unrepresentative. But the point is that
+inflation can only fall as far as consumer spending lets it. The inflation threat to markets has not
+gone away.
+
+One good read
+A very nice book review considers the gap between George Orwell’s rhetoric and his life.
+
+FT Unhedged podcast
+Can’t get enough of Unhedged? Listen to our
+new podcast, hosted by Ethan Wu and Katie
+Martin, for a 15-minute dive into the latest
+markets news and financial headlines, twice a
+week. Catch up on past editions of the
+newsletter here.
+
+Recommended newsletters for you
+Swamp Notes — Expert insight on the intersection of money and power in US politics. Sign up
+here
+The Lex Newsletter — Lex is the FT’s incisive daily column on investment. Sign up for our
+newsletter on local and global trends from expert writers in four great financial centres. Sign up
+here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+US economy
+US inflation
+
+Bank of America Corp
+US
+Unhedged
+
+

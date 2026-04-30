@@ -1,0 +1,133 @@
+FT PROFESSIONAL
+
+Opinion US inflation
+
+Not enough good inflation news
+And investor optimism fades
+
+ROBERT ARMSTRONG
+
+© Financial Times
+
+Robert Armstrong
+Published SEP 15 2021
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+This article is an on-site version of our Unhedged newsletter. Sign up here to get the newsletter
+sent straight to your inbox every weekday
+
+Welcome back. When inflation comes in lower than expected, and stocks can’t manage a rally,
+something is going on. Not sure what it is. Are you? Email me if so: robert.armstrong@ft.com
+
+Cheaper used cars leave markets cold
+We know the August inflation report was more or less good news, because Treasuries rallied. Mr
+Market seems to have seen nothing in the consumer price index numbers to make him think the
+Fed will move it’s tapering/tightening schedule forward.
+Core inflation (which leaves out food and energy) rose just 0.1 per cent from last month and 4 per
+cent from a year ago. That’s the slowest rate in six months. Used car prices, though still a third
+more expensive than a year ago, were a little cheaper than last month, suggesting that one of the
+worst and most visible of the reopening bottlenecks is easing.
+So, yay. But a lower-case yay: the good news was not good enough to plug the slow leak in stock
+markets. The S&P 500 hissed lower again yesterday, and has now deflated by 2 per cent from the
+highs of earlier this month.
+While reopening inflation is giving way — witness those used car prices — some observers see
+underlying sources of cyclical price pressure. Here is Paul Ashworth of Capital Economics, in a
+note to clients:
+
+Both rent and owners’ equivalent rent increased by 0.3 per cent month on
+month, illustrating that the cyclical pressure coming from very tight labour
+market conditions is seeping into consumer prices. The unprecedented surge
+in other measures of rents suggests there is a lot more about to come down
+that pipeline . . . [We] expect further declines [in reopening inflation] over
+the coming months . . . But, look under the hood, and what we see is cyclical
+inflation pressure continuing to build
+
+I spoke to Ashworth yesterday. “The pandemic sparked a very dramatic labour shortage,” he told
+me, as health worries, lack of childcare, enhanced government benefits, early retirements and
+perhaps even a societal reassessment of work/life balance all coalesced. His worry is that wage
+pressure jumps to other “sticky” prices — paradigmatically housing — and this leads to a wageprice spiral (for children of the ’70s such as myself, wage-price spirals were the monster our
+parents scared us with when we were naughty).
+Concerns like these are backed by this chart:
+
+Wages are rising, but not nearly at the rate one would expect given the unprecedented explosion in
+the number of unfilled jobs — 3m more than pre-pandemic levels. How long can this gap endure?
+(The average hourly wage data probably understate wage inflation because of the return to work of
+many low-skilled hospitality workers in recent months, which also explains the downward spike
+this spring, with the arrival of vaccines.)
+And if the CPI data do not convince you that there is not a cyclical increase in “sticky” prices,
+maybe this map of urban rent increases from Apartment List, a rental search site, will convince
+you:
+
+In yesterday’s letter I called those who think that the markets are not pricing in enough inflation
+risk “inflation neurotics”. I look at that map and wonder if I was too harsh.
+Ashworth thinks it will be some time before the penny drops for inflation sceptics such as Federal
+Reserve chair Jay Powell:
+
+“It will be a mixed picture over the next 12 months. It is difficult to know if
+the Fed will have to move. We expect inflation and core inflation to be down
+next year. But the question is, does inflation get all the way down to [the
+Fed’s] target? There will be a period of six to 12 months where Fed officials
+will be able to say, ‘there you go, it’s coming down’ . . . But then the reopening
+effects will give way and the cyclical components inflation will predominate.
+That is when it will become clear to the Fed that inflation is not transitory.”
+
+Fund managers own lots of stocks, and are sad
+One chart neatly sums up the September edition of Bank of America’s much watched fund manager
+surveys:
+
+The proportion of the 232 fund managers surveyed by BofA who think the global economy is set to
+improve has recently plummeted, from more than half to a small minority. Yet despite the
+pessimism, vastly more managers overweight stocks than underweight — the difference is 50
+percentage points, about as wide as it ever gets.* This is a rare combination, as the chart shows.
+The pessimism theme runs right through the survey. The managers’ expectations for profit growth,
+profit margins and inflation are all coming down. The proportion taking “higher than normal risk”
+is rolling over. Few managers now think small caps or low-quality stocks will outperform. Cash
+allocations, while low, are starting to rise.
+At the same time, though, the managers want nothing to do with bonds. A whopping 69 per cent
+are underweight fixed income (light blue lines):
+
+Finally, the proportion of managers who say they have hedged their equities against a sharp fall in
+the markets is the lowest it has been in three and half years.
+I looked at all this and thought “dreary complacency”: pessimism mixed with the belief that stocks
+will always remain the place to be, regardless. I put that phrase to David Jones, one of the BofA
+strategists behind the survey, and he said he preferred “bearish bulls”:
+
+“People are certainly long equities, maybe not quite as long as they have
+been, but they just can’t justify putting a marginal dollar into fixed income at
+these yield levels. So what else are they going to do?
+“So you are seeing this dissonance between the macro outlook, which is
+darkening, and continued investment in equities . . . Equity flows have been
+incredibly strong; year to date for 2021 I think they are equivalent to the last
+10 or 15 years . . . We are headed for a trillion-dollar year.”
+
+Jones’s team thinks the tension between sentiment and allocation is most likely to be resolved by
+declining enthusiasm for equities. They think the end of this year could be tough for stocks. The big
+reason? They think the 40-year bull market for bonds is over, ended by Covid and the political,
+fiscal and monetary changes that the pandemic has wrought. The super-low interest rates that have
+kept stock valuations high are set to rise. Change is coming, gradually or quickly. This year’s
+massive flows could dribble back into cash and bonds, or come out all at once, in a disorderly rush.
+I’m not sure I buy Jones’s macro thesis. I am sure, however, that the BofA survey shows a
+significant change in market sentiment. The ground is shifting.
+
+One good read
+The FT’s economics editor Chris Giles is excellent on how both sides of Brexit have shifted into
+damage control mode.
+*This article has been amended since original publication to correct the paragraph referring to
+the BofA survey of fund managers
+
+Recommended newsletters for you
+Due Diligence — Top stories from the world of corporate finance. Sign up here
+Swamp Notes — Expert insight on the intersection of money and power in US politics. Sign up
+here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Robert Armstrong
+Bonds
+US economy
+
+US inflation
+US equities
+
+

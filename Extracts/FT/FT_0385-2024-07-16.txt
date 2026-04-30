@@ -1,0 +1,360 @@
+FT PROFESSIONAL
+
+Chris Giles on Central Banks US inflation
+
+’Tis the season to be happy (about US inflation)
+Latest figures put Fed on a glide path towards monetary easing
+
+Jay Powell will be even happier after the latest US inflation figures © PETE MAROVICH/EPA-EFE/Shutterstock
+
+Chris Giles
+Published JUL 16 2024
+
+This article is an on-site version of our Chris Giles on Central Banks newsletter. Premium
+subscribers can sign up here to get the newsletter delivered every Tuesday. Standard
+subscribers can upgrade to Premium here, or explore all FT newsletters
+
+A cheerful Jay Powell took to the comfy seats at the Economic Club of Washington DC on Monday,
+basking in the latest US inflation data that suggests the Federal Reserve has inflation licked. Its
+chair had told Congress last week he wanted to see “more good data” before cutting rates and the
+CPI duly obliged.
+
+“In the second quarter, actually, we did make some more progress” in getting inflation durably
+down to 2 per cent, Powell said, adding that “the three readings in the second quarter, including
+the one from last week, do add to confidence”.
+The extent of the good news in the CPI data is shown in the table below. While the headline and
+core annual rates were still significantly above the 2 per cent inflation target at 3 and 3.3 per cent
+respectively, the more recent data has been much more favourable. Annualised core inflation data
+from June was below 1 per cent and the three-month annualised data shows a core rate, excluding
+food and energy costs, of 2.1 per cent.
+Excluding shelter brings the core rate down to target, and services excluding shelter, having been
+very high, has moderated significantly over the past three months of data. It is still high on an
+annual basis, but coming down.
+The only aspects of the table below showing lingering inflationary pressure are the weighted
+median and the trimmed mean measures of inflation, produced by the Cleveland Fed. These are
+still significantly higher than other measures, especially in recent months. This suggests that much
+of the decline in monthly inflation has come in more volatile components — fresh fruit and
+appliances in the latest data saw particularly large drops in price.
+In the latest month, however, even the median and trimmed mean are nothing to worry about, with
+annualised readings of 2 and 2.4 per cent respectively.
+
+Recent good data suggests US inflation is under control
+Data up to June
+1m
+
+3m
+
+6m
+
+12m
+
+Weight in PCE
+
+Headline
+
+-0.7
+
+1.1
+
+2.8
+
+3.0
+
+1
+
+Core
+
+0.8
+
+2.1
+
+3.3
+
+3.3
+
+Core ex-shelter
+
+-0.3
+
+0.6
+
+2.0
+
+1.8
+
+Services ex-shelter
+
+0.4
+
+1.1
+
+4.8
+
+4.8
+
+Median
+
+2.4
+
+3.2
+
+4.2
+
+4.2
+
+Trimmed mean
+
+2.0
+
+2.3
+
+3.4
+
+3.3
+
+Median of measures
+
+0.6
+
+1.6
+
+3.3
+
+3.3
+
+80
+
+43
+
+28
+
+One other thing to note in the table above is that the six-month annualised inflation figure is not
+much lower on most of the measures than the 12-month annual rate. In other words, inflation did
+not slow in the first half of 2024 compared with the second half of 2023.
+It is important not to take that argument too far. This pattern in the data is the odd result of three
+pretty good sets of US inflation data in April, May and June following three pretty terrible ones.
+If the data is compared with the same analysis for CPI inflation up to April this year, the
+improvement is plain to see. Then, the figures were too high across the range of measures and time
+periods. Now, the latest data is much more encouraging. The expectation should be that further
+months of progress will soon feed through into annual comparisons as long as there is not another
+reversal of the trends.
+
+A few months ago, US inflation remained too high across the board
+Data up to April
+1m
+
+3m
+
+6m
+
+12m
+
+Weight in PCE
+
+Headline
+
+3.8
+
+4.6
+
+3.7
+
+3.4
+
+1
+
+Core
+
+3.6
+
+4.1
+
+4.0
+
+3.6
+
+Core ex-shelter
+
+2.7
+
+3.4
+
+2.9
+
+2.1
+
+Services ex-shelter
+
+2.7
+
+6.9
+
+6.7
+
+4.9
+
+Median
+
+4.3
+
+4.4
+
+4.8
+
+4.5
+
+Trimmed mean
+
+3.3
+
+3.6
+
+3.9
+
+3.5
+
+Median of measures
+
+3.4
+
+4.2
+
+4.0
+
+3.6
+
+80
+
+43
+
+28
+
+Better than forecasters feared
+A second important check on the CPI figures comes from comparing them with forecasts produced
+by economists. These give us some cheer and some reasons to temper our enthusiasm. The cheer
+comes because the second quarter’s annualised inflation rate is significantly lower, both on
+headline and core, than professional forecasters expected as recently as May.
+Inflation outcomes in the second quarter were still higher than economists expected in the four
+preceding forecasts, but much of that resulted from the knock-on effects of much worse than
+expected first-quarter inflation than hoped.
+
+US professional forecasters got too nervous about inflation after the bad
+first quarter
+Forecast inflation for Q2 2024 and date of forecasts
+Quarterly rate annualised (%)
+Forecast
+
+Actual
+
+Headline
+May-23
+Aug-23
+Nov-23
+
+Seasonality in prices
+The evidence therefore suggests that there was a surprise jump in prices in the first quarter with
+largely well-behaved inflation trends in the second quarter. This has led some economists to blame
+seasonal patterns in corporate pricing decisions for the inflation trends.
+Most vocal among these was Nobel laureate Paul Krugman, who took to X to say there was excess
+seasonality in the data and that the US has solved its underlying inflation problem.
+“That bump in inflation earlier this year — core CPI 4.4 per cent — really looks like start-of-year
+price resets. Core for the past three months only 2 per cent. Fed’s gotta cut,” he said.
+This raises an interesting practical question. Was it just new year price changes that gave the Fed
+an unnecessary inflation scare earlier this year? I’ve grouped CPI changes since the great
+moderation in the chart below by month and highlighted the latest year in red.
+
+Looking first at the headline CPI, it is clear from the first panel that US monthly inflation has clear
+seasonal patterns. Price increases are generally much higher in January and February than in
+November and December, for example, in the non seasonally adjusted data. Seasonal adjustment
+in the second panel significantly smooths the monthly pattern with the box plots roughly in line.
+The data in the first three months of 2024 were unusually high on both of the charts, however,
+suggesting this is not just a resetting of prices in a new year. Potentially, companies have become
+more prone to raising prices at the start of the year, but this would be a new seasonal pattern and it
+is more likely that inflation was just high in January, February and March.
+By contrast, there is little doubt that June’s published figures were much better than normal for
+June. Again that could be a new seasonal pattern which the Bureau for Labour Statistics has not
+taken account of yet, but it is more likely that the data was just rather good.
+
+June was a brilliant month for US inflation however you look at it
+Monthly CPI increase (%)
+Datatype
+
+Latest year
+
+Not seasonally adjusted
+
+Season
+
+January
+February
+March
+April
+May
+June
+July
+
+Sources: St Louis Fed, FT calculations • Historical values based on 1985 to 201
+
+The same analysis is possible with core inflation and it shows the same results. Last week’s CPI
+data was simply rather good on any basis and better than you can normally expect given historical
+seasonal patterns. No wonder Powell and his fellow members of the Federal Open Market
+Committee are feeling pretty chipper at the moment.
+
+June was a brilliant month for US inflation however you look at it
+Monthly core CPI increase (%)
+Datatype
+
+Latest year
+
+Not seasonally adjusted
+
+Season
+
+January
+February
+March
+April
+May
+June
+July
+
+Sources: St Louis Fed, FT calculations • Historical values based on 1985 to 201
+
+What I’ve been reading and watching
+In her latest column, Soumaya Keynes looks at the burgeoning research
+into household inflation expectations. A smallish group of people in the US
+are now expecting higher inflation for longer, but no one seems too worried
+For lovers of alternative and up-to-date data, Indeed came out with some
+rather strong wage growth numbers last week. There were some huge
+jumps in the Eurozone and the UK still looks very high. European central
+banks will hope these are a blip or an example of low quality data. It is
+something to watch
+Nikkei Asia took a guest column by Masaaki Shirakawa, former Bank of
+Japan governor. He has burnished his hawkish reputation suggesting the
+BoJ raises rates and does not worry about low inflation. He thinks it would
+stimulate the economy
+ECB staff are complaining again — this time about stress levels at work. But
+the survey undertaken by the staff committee drew a low response rate,
+with 1,602 of the 5,089 staff taking part
+
+A chart that matters
+Two weeks ago I asked for your view on whether central bankers were lucky or smart in reducing
+inflation. The results are below, along with my vote.
+Nearly everyone agreed that the options were not mutually exclusive but there was a bigger cluster
+of informed opinion suggesting they were lucky (45 per cent) than they were smart (34 per cent).
+
+Recommended newsletters for you
+Free Lunch — Your guide to the global economic policy debate. Sign up here
+The State of Britain — Helping you navigate the twists and turns of Britain’s post-Brexit
+relationship with Europe and beyond. Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+
+US inflation
+Central banks
+Chris Giles on Central Banks
+Chris Giles
+
+

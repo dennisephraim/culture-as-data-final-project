@@ -1,0 +1,286 @@
+FT PROFESSIONAL
+
+Chris Giles on Central Banks Federal Reserve
+
+The Fed sheds one of its three big threats
+The courts will not pose a problem, even if tariffs and the budget still do
+
+The US Supreme Court says Donald Trump can fire officials at will, as long as they are not on the Fed’s board © Reuters
+
+Chris Giles
+Published MAY 27 2025
+
+This article is an on-site version of our Chris Giles on Central Banks newsletter. Premium
+subscribers can sign up here to get the newsletter delivered every Tuesday. Standard
+subscribers can upgrade to Premium here, or explore all FT newsletters
+
+At the start of the year, Fed watchers were concerned about three threats to the central bank in
+2025: that Donald Trump would impose stagflationary tariffs, execute an inflationary fiscal policy
+and undermine the independence of the Federal Reserve.
+He did the lot.
+
+But last Thursday, the US Supreme Court all but removed one of the threats hanging over the Fed.
+In an emergency ruling, a majority on the court decided that Gwynne Wilcox — who was fired
+without cause by Trump from the National Labor Relations Board in January — will stay out of her
+former job while the case goes through the lower courts.
+The Supreme Court also indicated that it was minded to overturn 90 years of precedent by ruling
+that it was unconstitutional for Congress to create positions on similar boards in which officials are
+protected from being fired, barring cases of serious misconduct.
+It was all sounding pretty bad for the Fed’s governors, who have exactly these protections written
+in law by Congress. Then the Supreme Court’s majority executed a handbrake turn in its reasoning.
+Even though US central bankers have exactly the same protections, they are employed by “a
+uniquely structured, quasi-private entity”, so different rules will apply. That is bad news for Wilcox
+and other public officials fired by Trump, but good news for Jay Powell and other Fed governors.
+The ruling did not make a lot of logical sense, as the protections are identical. This is what Lev
+Menand at Columbia Law School told the FT, and was also the position of the three dissenting
+justices. But what you, me, Menand or the minority in the court might think frankly does not
+matter — because the majority on the Supreme Court decides.
+Powell is safe; other US officials are not.
+Powell then celebrated his new security with a ballsy rendition of the UK’s first world war
+recruitment poster, “Daddy, what did YOU do in the Great War?” Praising American universities as
+“a crucial national asset” at a time when the administration is attacking them, he told Princeton
+graduates to fight for US democracy. “When you look back in 50 years, you will want to know that
+you have done whatever it takes to preserve and strengthen our democracy, and bring us ever
+closer to the founders’ timeless ideals,” Powell said.
+
+That leaves two out of three risks
+Fed officials’ jobs might be safe, but their reputations still depend on their response to the tariff
+and budgetary threats hanging over the US economy. I will come back to the specifics of these as
+policy becomes clearer in the coming weeks, but it is worth documenting how markets and analysts
+have changed their views on likely Fed monetary policy over the past month.
+
+At the start of May, the stagflationary risks from tariffs dominated. There were fears that very steep
+tariff increases would slow the US economy to a crawl and force the Fed to ease monetary policy,
+even if inflation was rising.
+Despite Friday’s presidential outburst — when Trump threatened higher tariffs on imports of
+iPhones and goods from the EU — the emerging view is that an expansionary budget and less
+severe tariffs removed some of the recessionary threat that would have forced interest rates down.
+As the chart shows, market expectations of future US interest rates are now significantly higher
+along the curve by around 0.5 percentage points.
+
+Expectations of Fed rate cuts
+Midpoint of Federal Funds range and the evolution of market expectations in early April and today
+Policy rate and futures curves at dates shown (%)
+
+6
+
+4
+
+The market’s view is that the Fed will be slower in cutting rates, but that the projected level at the
+end of 2026 will be roughly the same as it was in early April. If I instead chart the market forward
+rates for the end of 2025 and the end of 2026, it is clear that in May, there was a growing
+realisation that the Fed will want to wait and see before changing interest rates.
+
+The FT’s Monetary Policy Radar has taken the view since April that a sensible central scenario
+would see no US rate cuts at all in 2025, with an alternative scenario containing a significant
+loosening of policy. We judge the risks of each to be pretty similar.
+
+During May, financial markets lost confidence in multiple interest rate cuts in
+2025
+Future Fed Funds rate at dates shown (%)
+
+4.5
+Current US Fed Funds rate
+
+4
+
+What is going on with UK inflation?
+Last week, UK inflation figures for April brought difficult headlines for the Bank of England.
+Annual headline inflation was up from 2.6 per cent in March to 3.5 per cent in April, with far from
+all the action being in energy prices. Core inflation rose from 3.4 per cent to 3.8 per cent.
+Everyone knew inflation would rise, because there were significant increases in gas and electricity
+tariffs already announced in February. There were also specific tax increases, such as vehicle excise
+duties, and the likelihood of higher airfares because Easter was later in 2025. But the actual figures
+exceeded the 3.3 per cent increase expected by analysts and the 3.4 per cent expected by the BoE
+itself.
+
+With the benefit of hindsight, it appears that the bigger problem lay in the forecasts rather than in
+a nasty surprise in the data. More than the rise in overall inflation can be accounted for by gas and
+electricity prices, vehicle excise duties and a 27 per cent rise in air fares. These are all one-offs, and
+airfares are likely to fall back in May.
+The BoE has a supercore services inflation which excludes indexed and volatile components, rents
+and foreign holidays. I calculate it fell from 4.4 per cent in March to 4.2 per cent in April. This is a
+good measure to use when you know there are volatile components in the data (which forced even
+the FT core measure of inflation higher). So, April was not quite as awful as it first seemed.
+That said, there is no doubt that UK disinflation has slowed, as the chart below shows, when
+looking at two measures that really try to get at the persistent nature of price movements. There is
+a balanced debate on the Monetary Policy Committee between those who worry the slowdown in
+disinflation highlights a deeper problem and those who think it is merely a pause.
+
+The big picture is that UK underlying disinflation has slowed
+Underlying annual inflation rate (%)
+BoE supercore services
+
+FT core
+
+8
+
+6
+
+4
+
+The April data also illustrated the need for a common and official measure of inflation adjusted for
+seasonal effects such as a late Easter. Everyone — including us at the FT — is producing their own
+seasonally adjusted series, so inevitably there is no shared truth to guide the debate.
+The good news is that the Office for National Statistics recognises this is problematic, will consult
+on the matter over the summer and hopes to be ready to publish next March. At the excellent UK
+Economic Statistics Centre of Excellence conference last week (disclaimer: I am on its advisory
+board), Huw Dixon and Monica George Michail presented their analysis of the feasibility of
+seasonally adjusting UK inflation data.
+
+Read their excellent paper if you want the details. But the summary is that seasonal adjustment is
+clearly possible, although as the chart below shows, seasonal patterns in pricing do change over
+time. That means the seasonally adjusted data will get revised — and the most problematic
+monthly inflation numbers, unfortunately, are almost always the most recent.
+
+The changing pattern of seasonal prices in the UK
+Monthly price relative to the average price for the year (%)
+1
+
+Less seasonality
+Less
+seasonality since
+since 1994
+1994
+
+0.5
+
+0
+
+-0.5
+
+-1
+
+Lowest
+prices in
+September
+
+Lowest
+prices in
+December
+
+Lowest Lowest
+prices in prices in
+February January
+
+1960 1965 1970 1975 1980 1985 1990 1995 2000 2005 2010 2015 2020
+Source: H Dixon & MG Micha
+
+What I’ve been reading and watching
+The US dollar is again on the skids.
+Wags in the US administration dubbed Trump’s “big, beautiful” bill “triple
+B”, says Gillian Tett, putting it just above junk status.
+
+John Thornhill puts his finger on the bullshit that underpins large language
+models.
+Stablecoins are bank deposits, Robert Armstrong argues over at Unhedged,
+which obviously makes their issuers banks.
+
+A chart that matters
+If you are prone to worrying about persistence in inflation, the chart below provides just the shock
+you crave. Joseph Gagnon at the Peterson Institute and Steven Kamin of the American Enterprise
+Institute have discovered a cross-country relationship between historic inflation and recent price
+rises.
+Countries that suffered high inflation in the 2000s had higher pandemic-era inflation. This is not
+just a “proximity to Russia” relationship, and I have improved on the authors’ estimates by
+including the latest data below.
+It appears that central banks’ promises to keep inflation under control are less credible in countries
+that have experienced high inflation, even in the distant past. To the extent this relationship is
+causal and holds, future policymakers are in for a pretty rough ride.
+
+Countries that had previous experience of high inflation performed worse
+between 2020 and 2024
+10
+
+Average inflation 2020-2024
+
+Estonia
+Estonia
+
+8
+
+Czech Republic
+Czech
+Republic
+Slovakia
+Slovakia
+Croatia
+Croatia
+
+6
+
+Austria Netherlands
+Austria
+Netherlands
+
+Sweden
+Sweden
+Australia
+Australia
+Ireland
+Ireland
+Canada
+Canada
+Malta
+Malta
+Finland
+Finland
+Korea
+Korea
+Israel
+Israel
+
+4
+
+2
+
+0
+
+Latvia
+Latvia
+
+Japan
+Japan
+
+Iceland
+Iceland
+
+Slovenia
+Slovenia
+
+Taiwan
+Taiwan
+
+Hong Kong
+Hong
+Kong Switzerland
+Switzerland
+
+0
+
+2
+
+4
+
+6
+
+Average inflation 2000-2009
+Sources: Gagnon & Kamin (2025), FT calculation
+
+Central Banks is edited by Harvey Nriapia
+
+Recommended newsletters for you
+Free Lunch — Your guide to the global economic policy debate. Sign up here
+The Lex Newsletter — Lex, our investment column, breaks down the week’s key themes, with
+analysis by award-winning writers. Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Global inflation
+US economy
+Federal Reserve
+Chris Giles on Central Banks
+Chris Giles
+
+

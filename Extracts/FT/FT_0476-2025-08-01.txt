@@ -1,0 +1,117 @@
+FT PROFESSIONAL
+
+Opinion Unhedged
+
+Inflation is rising, and it’s not just the tariffs
+Plus the simplicity of the Mag 7
+
+ROBERT ARMSTRONG
+
+© FT montage
+
+Robert Armstrong
+Published AUG 1 2025
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+This article is an on-site version of our Unhedged newsletter. Premium subscribers can sign up
+here to get the newsletter delivered every weekday. Standard subscribers can upgrade to
+Premium here, or explore all FT newsletters
+
+Good morning. A wild week for US economic data culminates today with the jobs report. As you
+read the numbers, remember that Fed chair Jay Powell said this week: because the labour force is
+shrinking, the absolute number of jobs created is less important now. The unemployment rate is
+the number to watch. Whatever happens, send us your thoughts: unhedged@ft.com.
+
+Inflation
+Look at the dark blue line below, and answer a simple question: what direction has it been going
+for the past six or eight months?
+
+That dark blue line is inflation, as measured in the Personal Consumption Expenditures price
+index, on a six-month rolling basis. And it is going up. All together now: inflation is rising. Not
+maybe rising, not rising depending on what you include or exclude. Just Rising.
+
+This is not because of some fiddly calculation the Department of Commerce does to impute some
+price, or some rogue, highly volatile price throwing off the whole index. As Omair Sharif of
+Inflation Insights pointed out to me, market-based (that is, no imputed prices used) core inflation
+has started rising too, after progress there stalled more than a year ago. It’s a similar story with
+trimmed mean PCE inflation.
+What is more, inflation is not rising just because of tariffs.
+The main culprit? Goods prices:
+
+Notice two things. The rise in goods prices, which were falling outright in late 2024, proceeds the
+“liberation day” tariffs by months. And services inflation, while it has been coming down a bit in
+2025, has only got back to its 2024 lows on a rolling basis: the past four monthly numbers were
+2.6, 1.8, 2.4, and 2.6 per cent, respectively. And, as Sharif points out, most of the progress in core
+services is down to financial services prices, which in part reflect a lagged effect of the April/May
+market swoon. That may not last.
+
+Jason Furman of Harvard argues that this can’t all be down to tariffs:
+
+The bigger nervousness is the non-tariff inflation, because that could be
+more persistent. If we thought the story was 2.2 per cent core inflation and
+tariffs were adding the rest, you would not be in the clear, but it would not be
+that bad . . .
+But overall core PCE inflation is 3 per cent and I have not seen any analysis
+that says tariffs added a percentage point — all the analysis are in the [low]
+tenths of a per cent.
+Sharif, for example, estimates that we have seen between 0.15 and 0.2 per cent annual contribution
+to inflation from tariffs now, for example. As of earlier this month, Goldman Sachs thought the
+impact on year-to-date PCE prices was less than 0.1 per cent. And, Furman emphasises, the idea
+that we have underlying inflation that is significantly above target is consistent with current levels
+of wage growth. “Employment Cost index wages, average hourly earnings, the Atlanta Fed wage
+tracker, they are all showing you wage growth you would expect in a 2.75 per cent inflation world,
+so the idea that inflation tariffs aside is 2.5, 2.75, or 3 per cent is not crazy.”
+We are far from the wretched days of 2022 and it seems very unlikely that we are heeded back
+there. But we need to be clear that inflation, while it looked like it was just about whipped a year
+ago, is still with us and unmistakably heading in the wrong direction. Rate cuts would be a bad
+decision right now. And investors should be thinking about a scenario in which prices accelerate
+further at the same time that (as we discussed yesterday) consumer demand seems to be
+weakening.
+
+The Magnificent Seven: it is not complicated
+Apple and Amazon reported yesterday. Apple’s revenue was better than expected, giving the shares
+a late bump, although tariff fears linger; Amazon’s outlook for high spending to come weighed on
+its stock. The Magnificent Seven have all reported now (depending on how you treat Nvidia, whose
+quarters end on a different schedule than the others). Who is winning and who is losing, and why?
+There is a lot to pick through: AI spending and AI accomplishments, new products, tariff impacts,
+strategy and on and on.
+Stock performance should show us the consensus answer of the market to all those questions. Here
+is how the Seven have done since the market last hit a proper bottom, in November of 2022:
+
+How to make sense of that chart? Well, in one sense, the message is very simple indeed. The
+market is saying that it will reward growth, and all the technological and strategic speculation, and
+for that matter all the financial fundamentals besides growth, don’t matter much. Consider this
+table:
+
+Nvidia has performed by far the best, because its sales growth is by far the best. Meta is next best
+on sales, and therefore on performance. The share performance of Amazon, Microsoft and
+Alphabet are huddled together and so are their sales growth rate. Apple and Tesla? Bad growth,
+bad performance. The wide divergence in cash flow among the companies since the market
+bottomed doesn’t seem to correlate to performance after all.
+Grow sales, the stock goes up. Occasionally the market is a pretty simple beast.
+
+One good read
+We love LA!
+
+FT Unhedged podcast
+Can’t get enough of Unhedged? Listen to our
+new podcast, for a 15-minute dive into the
+latest markets news and financial headlines,
+twice a week. Catch up on past editions of
+the newsletter here.
+
+Recommended newsletters for you
+Due Diligence — Top stories from the world of corporate finance. Sign up here
+The Lex Newsletter — Lex, our investment column, breaks down the week’s key themes, with
+analysis by award-winning writers. Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Robert Armstrong
+Unhedged
+Big Tech
+US economy
+US inflation
+
+

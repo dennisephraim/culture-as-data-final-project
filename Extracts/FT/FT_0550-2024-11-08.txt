@@ -1,0 +1,134 @@
+FT PROFESSIONAL
+
+Opinion Unhedged
+
+The Fed talks about not talking about Trump
+Jay Powell sets some limits
+
+ROBERT ARMSTRONG
+
+Jay Powell said: ‘We don’t guess, we don’t speculate, and we don’t assume’ © Bloomberg
+
+Robert Armstrong and Aiden Reiter
+Published NOV 8 2024
+
+This article is an on-site version of our Unhedged newsletter. Premium subscribers can sign up
+here to get the newsletter delivered every weekday. Standard subscribers can upgrade to
+Premium here, or explore all FT newsletters
+
+Good morning. Ride-share company Lyft jumped 22 per cent yesterday and sportswear maker
+Under Armour was up 27 per cent. The two companies reported good quarters and upgraded
+forecasts, after years of uninspiring results. Both are second fiddles to larger competitors Uber and
+Nike, respectively. Is this an underdog market? Should we expect great things from Pepsi next
+quarter? Email us: robert.armstrong@ft.com and aiden.reiter@ft.com.
+
+The Fed
+In central banking, boredom is success. Yesterday’s Federal Reserve policy announcement and
+press conference were, by this measure, successful. A quarter of a percentage point was snipped off
+the policy rate. Chair Jay Powell said nothing new about how he and his colleagues see the
+economy. They still think the following: inflation is falling, the economy is sound, and policy is
+restrictive. And they are still feeling their way towards a neutral rate, which they will only know
+when they hit it.
+There was no appreciable market reaction. Well done, everyone.
+Reporters pressed Powell on what the re-election of Donald Trump, who has made unpleasant
+noises about the Fed and him in the past, meant for bank policy. Here some non-boring moments
+managed to slip though. One such moment was the only one-word answer in Powell’s tenure (to
+the best of Unhedged’s recollection). Would he leave his job before the end of his term, if Trump
+asked him to? “No.” Next question. Then there was a curt five-worder. Does the president have the
+ability to fire you or other Fed leaders? “Not permitted under the law.” Noted.
+Furthermore, Powell made clear that possible changes in policy under a new Trump administration
+would not be taken into account by Fed policymakers until those policies were enacted: “We don’t
+guess, we don’t speculate, and we don’t assume.” (Unhedged’s motto: “We guess, we speculate, we
+assume.” It takes all kinds.)
+A more paranoid interpreter of Fed statements than Unhedged might wonder if this is strictly true.
+
+Powell was asked about the recent rise in long-term interest rates, and whether these higher
+borrowing costs presented a risk to growth — as he said they did when they were at almost as high
+a level a year ago, when inflation was still high. The question was clever. The market consensus is
+the rise in the 10-year Treasury yield is down to “Trumpflation”. The argument is that the next
+president’s tax, immigration, and tariff policies will increase inflation, and therefore require tighter
+monetary policy, and increase the deficit, requiring higher compensation to tempt investors to buy
+the government’s long-term obligations. So the question was about Trump, without mentioning
+Trump explicitly. Here is part of Powell’s answer:
+
+It’s too early to really say where [long rates] settle . . . I will say, though, that
+it appears that the moves are not principally about higher inflation
+expectations. They’re really about a sense of more likelihood of stronger
+growth, and perhaps less in the way of downside risks. So that’s what they’re
+about. You know, we do take financial conditions into account. If they’re
+persistent and if they’re material, then we will certainly take them into
+account in our policy. But I would say we’re not, we’re not at that state right
+now.
+In one sense, Powell is quite right. The chart below breaks down the increase in 10-year Treasury
+yields since they bottomed in late September. The larger part of the increase is accounted for by
+real interest rates, here proxied by yields on inflation protected Treasuries (Tips), in light blue.
+Almost 40 per cent of the increase is, however, down to higher break-even inflation (the difference
+between nominal yields and Tips), in dark blue. Higher inflation expectations are an important
+part of the picture.
+
+Great expectations
+Basis points
+10-year breakeven inflation
+
+10-year real rates (Tips yields)
+
+80
+
+60
+
+40
+
+20
+
+0
+September
+
+October
+
+November
+Source: Bloomber
+
+Yet, the fact that most of the increase is driven by higher real yields does not imply that it is
+principally about growth expectations. Higher real yields can reflect growth expectations — which
+draw money away from safe Treasuries and towards riskier assets. But they can also mean
+investors are demanding more compensation for higher rate volatility in the future — exactly what
+investors might do if they thought that the US fiscal situation was becoming more perilous. But
+talking about the latter possibility would draw Powell into a conversation about responding to
+things that are (at least in the eyes of the market) very much effects of Trump’s expected policies.
+And Powell has vowed not to talk about expected policies, let alone act on them. Saying the rate
+increase is about growth lets him off the hook.
+
+Powell and his team may be decoding the rise in long rates differently than I am, and may have
+very good reasons to think it is about growth rather than inflation or the fiscal outlook. The point is
+not to doubt his sincerity, but to highlight what a delicate balance he will have to strike in the
+months to come, as the shape of Trump’s policies become clearer — or, worse, do not.
+
+One good read
+Europe’s indispensable nation is in trouble.
+
+FT Unhedged podcast
+Can’t get enough of Unhedged? Listen to our
+new podcast, for a 15-minute dive into the
+latest markets news and financial headlines,
+twice a week. Catch up on past editions of
+the newsletter here.
+
+Recommended newsletters for you
+Due Diligence — Top stories from the world of corporate finance. Sign up here
+Chris Giles on Central Banks — Vital news and views on what central banks are thinking,
+inflation, interest rates and money. Sign up here
+
+Letter in response to this article:
+Why president-elect is good for Europe’s economies / From David Crook, Tail Wind Advisory &
+Management, London WC2, UK
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Robert Armstrong
+Unhedged
+Global inflation
+US economy
+US inflation
+
+

@@ -1,0 +1,138 @@
+FT PROFESSIONAL
+
+Opinion Unhedged
+
+Two (other) ways of looking at a yield curve
+A Fed mistake? Tightening liquidity?
+
+ROBERT ARMSTRONG
+
+© Financial Times
+
+Robert Armstrong
+Published JUL 15 2021
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+This article is an on-site version of our Unhedged newsletter. Sign up here to get the newsletter
+sent straight to your inbox every weekday
+
+Welcome back. When I took this job, my friend Jonathan Guthrie said that the professional risk
+was that I would just end up writing, “boy, interest rates sure are low!”, in slightly different ways,
+day after day. He has not turned out to be entirely wrong. On the other hand, there do seem to be a
+lot of ways to think about low rates, and which way you think about them does seem to matter to
+how you see what will happen next.
+That said, here we go again.
+
+It’s a mistake!
+On Wednesday, I shamelessly anthropomorphised the bond market, trying to sort out what it was
+“telling us” about the outlooks for monetary policy and the economy, in light of the fact that 10year yields didn’t seem bothered by a hot inflation report, but 2-year yields snapped to attention.
+Here is what I came up with:
+
+Inflation is looking mostly transitory, but there is enough of it, and shortterm growth looks good enough that the Fed will have to taper bond
+purchases in a little while, and raise short rates after that, so short yields
+need to nudge up. BUT these Fed moves will make it all but certain that
+inflation doesn’t get out of control, and indeed, growth isn’t going to be that
+great from here on out, so no need to bid up long bonds on inflation risk.
+Not everyone agrees. I was particularly struck by this alternative view from Thomas Tzitzouris of
+Strategas:
+
+Like a surgeon that always wants to cut, the Fed, over the last 40+ years, has
+consistently chosen to tighten more than the bond market said was
+warranted. So betting odds would suggest that once inflation enters an
+uncomfortable zone, the Fed is going to respond by raising short rates more
+than they should, and thus forcing long rates lower, all the while scratching
+their head and uttering gibberish about why the move in long rates doesn’t
+make sense.
+The Fed will kill the economy by tightening, despite supine long yields telling them, loud and clear,
+that they don’t have to. Wednesday’s move up in the 2 and the flat 10 was “the bond market’s way
+of saying ‘policy mistake is coming’”.
+I wrote to Tzitzouris to ask why we had to anticipate a mistake. Can’t it just be that there is enough
+inflation for a little short-end tightening, confidence that the Fed will ultimately control inflation,
+and a modest, “new normal” level of long-term growth — all justifying a flattish curve? He replied:
+
+Historically, the Fed has regularly ignored the fact that they’ve proven
+impatient and artificially moved rates well above healthy levels on the front
+end and forced the back end lower, and then continued to raise rates into
+inversion [of the yield curve] . . . [Ben] Bernanke began to accept that the
+market had a better grasp on where neutral [interest rates were], and [Jay]
+Powell appears to fully embrace the notion that no amount of PhDs can
+match the wisdom of the cowboys in the trading pits (or over the phones in
+the case of bonds). Still, the market thinks the Powell Fed is no different
+from prior Feds, and the market is saying Powell will eventually tighten until
+something breaks.
+I’m not sure what I think about this. But what is very striking is the idea that the market thinks the
+Powell Fed may overdo it, despite Powell trying as hard as he can to tell us he definitely won’t do
+that (as he did again on Wednesday). He’s a prisoner of history.
+
+No, it’s about liquidity
+According to Michael Howell of CrossBorder Capital, the yield curve isn’t telling us anything about
+what central banks might do. It’s telling us about something they are doing already: pulling
+liquidity out of the system. Here is a chart from CrossBorder that shows how the pace of liquidity
+injections in Europe, China and the US has fallen:
+
+This is a chart of indices, and takes a little explaining. A level of 50 represents the five-year rolling
+average liquidity growth in each jurisdiction, measured by the changing size of central bank
+balance sheets along with other factors that release money into/absorb money from the economy.
+The index shows deviation from that mean, with 20 units representing about a standard deviation
+move. So with the Covid response, the pace of liquidity introductions hit highs nearly two standard
+deviations from the mean, but now the pace is dropping back.
+In Europe and China, this deceleration comes down to a straightforward slowdown in central bank
+asset purchases. In the US, asset purchases continue at $120bn a month, but two other factors play
+in.
+For one, the Treasury’s bank account at the Fed (the “General Account”) is getting smaller.
+Basically, the Treasury raised a lot of money and put it aside. Now it’s spending that money,
+putting it into the economy. On the other hand the Fed, worried about money-market interest rates
+going negative in a market awash with cash, is absorbing liquidity with reverse-repurchase
+operations, swapping its assets for cash overnight. The Fed says this is a purely technical operation.
+Liquidity watchers think it is reverse-QE at the short end of the curve (“tapering in disguise” as
+Eric Barthalon of Allianz described it to me).
+Here’s how those two forces compare (Fed data, my chart; who else would make such a crappy
+chart?):
+
+Since early April, reverse repo balances have risen by almost $800bn. The General Account has
+fallen by just $250bn or so. US liquidity growth is slowing.
+What does all this have to do with the yield curve? The view of Howell at CrossBorder is that the
+financial system today is not so much for financing — funding new companies and projects — as for
+refinancing, given the huge amounts of corporate and sovereign debt in circulation and the
+perpetual need to roll it over. When liquidity starts to recede, refinancing debts looks harder, and
+leveraged balance sheets start to constrain activity, which “increases uncertainty, limits economic
+growth and potentially causes volatility to spike higher”. In such an environment, Treasury bonds
+look pretty good.
+“If you flood the system with liquidity, the demand for safe assets goes down, because you want
+risky assets. When liquidity falls, everyone wants the safe asset — which explains very well why the
+yield curve moves pro-cyclically with the liquidity,” he says.
+
+When liquidity falls, people want Treasuries, which pushes long yields down and flattens the curve.
+Howell illustrates the point with this chart of the 10-year-5-year yield curve plotted against his US
+liquidity index (with liquidity moved forward by nine months):
+
+The higher demand for safe assets is not meeting with greater supply. Net of Fed purchases, the
+Treasury is not issuing tons of long bonds right now. Here, from the Dallas Fed, is the amount of
+Treasuries outstanding in the private sector:
+
+This is all a little involved. Andrew Smithers, however, wrote in response to Wednesday’s letter,
+making what I think is broadly the same point: one has to think about rates in terms of supply and
+demand, not what bonds are “telling us” about the economy.
+“Prices are determined at the margin,” he wrote. “The yield [curve] is not ‘the bond market’s view’,
+it is the view of bondholders at the margin.”
+
+One good read
+I am not a religious man, but I am interested in the ancient world, which led me to Sarah Ruden’s
+new translation of the four gospels. Rather than modernising the text, she tried to preserve the feel
+of the original Greek text, with its Aramaic and Hebrew interpolations. The result is a weird, messy,
+deeply foreign but moving book.
+
+Recommended newsletters for you
+#fintechFT — The biggest themes in the digital disruption of financial services. Sign up here
+Martin Sandbu’s Free Lunch — Your guide to the global economic policy debate. Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Robert Armstrong
+Unhedged
+Sovereign bonds
+US interest rates
+Central banks
+
+

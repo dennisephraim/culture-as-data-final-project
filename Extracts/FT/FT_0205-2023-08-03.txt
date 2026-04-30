@@ -1,0 +1,121 @@
+FT PROFESSIONAL
+
+Unhedged Markets
+
+Higher yields threaten the equity rally
+The rise in long Treasury rates is not just a soft landing story
+
+© FT montage/Bloomberg
+
+Robert Armstrong and Ethan Wu
+Published AUG 3 2023
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+This article is an on-site version of our Unhedged newsletter. Sign up here to get the newsletter
+sent straight to your inbox every weekday
+
+Good morning. The initial plan today had been to reflect on Fitch’s downgrade of US debt, but we
+could find no reason to dissent from the consensus view of the rating agency’s view: that the report
+is both irrelevant to the bond market and very oddly timed. So we skipped it. We’re more
+interested in what Apple and Amazon results — both of which come today — have to say about the
+US economy. Email us: robert.armstrong@ft.com and ethan.wu@ft.com.
+
+Long bonds and equities
+Long Treasury yields are approaching the highs that they hit back in the autumn of last year, in
+both nominal and inflation-adjusted terms:
+
+This fact has not attracted much comment, perhaps because of the cheery mood in markets
+generally and because there is plenty of other news. Still, I think it’s a big deal and demands some
+reflection, not least among equity investors, who have (at least until yesterday) been enjoying a
+stonking 2023 rally. Bond yields and stock valuations do not (as is often assumed) have a regular
+relationship through time, but there is some reason to think that, at the current moment, rising
+yields and the hot stock market are in tension.
+It is odd, from one simple point of view, that long yields should rise just as worries about inflation
+are falling away. While inflation and Federal Reserve policy are most tightly linked with short
+rates, long rates are just the sum of expected short rates through time, plus a term premium. The
+term premium is currently negative. So recent evidence of disinflation should, all else being equal,
+tamp down long yields, because short yields are likely to have peaked.
+This was the basic thinking behind our newsletter of a few weeks ago arguing that owning logdated bonds was becoming more appealing:
+
+The 10-year Treasury yield has not moved much since the autumn of last
+year, but the inflation situation is both clearer and more benign. Rates
+volatility appears to be easing off. If we are on the way back to normal after a
+bout of supply-shock inflation, then locking in a 3.8 per cent yield for 10
+years — when pre-pandemic long yields were quite consistently below 3 —
+seems like a logical bet.
+Well, 10-year yields are nearly 4.1 per cent now, and the inflation outlook is the same, so that story
+should be even more compelling now.
+But inflation is only half the story, of course. The news about growth has been good, too. This
+means implied probabilities of recession are down, which should reduce the appeal of risk-free
+Treasuries, and push yields up. Our excellent colleague Kate Duguid points out that the biggest
+recent daily move up in long yields came on July 27, the day of the ebullient report on US GDP in
+the second quarter.
+
+The growth-based story fits with the recent negative correlation between bond prices and equity
+prices. Stocks have risen alongside yields in recent weeks, as they often do when growth is solid
+and inflation fears are under control. But high yields are not only a reflection of good growth
+prospects. I asked Bob Michele, chief investment officer at JPMorgan Asset Management, what he
+made of the recent move up in long bonds. His reply:
+
+The market is pricing in a Fed that will remain restrictive for a long period of
+time.
+We prefer to look at yields in real terms. While 10-year real rates have risen
+to cycle highs, it is because front-end real yields (most often associated with
+policy stance) have continued to move higher. In fact, 5-year real yield 5-year
+forward [that is, the implied 5-year real interest rate five years from now] are
+within the range they traded since December, while 2-year and 5-year real
+rates are at or above the cycle highs (3% and 2%, respectively).
+It remains to be seen how well the economy can handle such restrictive
+policy rates. We see 10-year yields at these levels reflecting attractive
+valuations in both real and nominal terms.
+In other words: higher longer yields now reflect tight monetary policy, but that restrictive policy
+may well depress growth — meaning lower rates later. So buying duration makes sense.
+Unhedged would push Michele’s interpretation a step further and suggest caution about stocks,
+which might not enjoy such a firm economy for much longer (as we argued yesterday). Making
+matters worse for stocks, high real yields give investors an attractive alternative. Days like
+Wednesday, when yields rise and stocks fall, fit with this logic.
+
+Our view comes with an asterisk, however. Several of our contacts and colleagues have pointed out
+technical or structural reasons for rising long yields, none of which are directly related to US
+monetary policy, inflation and growth. These include the effect on Treasury demand of the Bank of
+Japan’s loosening of yield curve control; traders’ closing of profitable “curve flattener trades” (buy
+the long end of the curve, sell short the short end); mortgage convexity hedging; and the Treasury’s
+recent announcement of greater impending issuance of new long-term debt. Depending on how
+much influence you think these factors have on long yields, and how long you expect that influence
+to last, your appetite for duration will vary.
+Still, we are inclined to keep it simple. One does not have to equate higher bond yields with lower
+equity valuations to think that, in the current moment, rising long yields will put pressure on
+stocks. Those yields reflect restrictive monetary policy that will probably depress economic growth
+and present an attractive alternative to stock ownership.
+
+One good read
+Patrick Radden Keefe has written an insightful profile of the art dealer Larry Gagosian for The New
+Yorker — a much more detailed portrait than my much shorter effort on the same subject for How
+To Spend It.
+
+FT Unhedged podcast
+Can’t get enough of Unhedged? Listen to our
+new podcast, hosted by Ethan Wu and Katie
+Martin, for a 15-minute dive into the latest
+markets news and financial headlines, twice a
+week. Catch up on past editions of the
+newsletter here.
+
+Recommended newsletters for you
+Swamp Notes — Expert insight on the intersection of money and power in US politics. Sign up
+here
+
+The Lex Newsletter — Lex is the FT’s incisive daily column on investment. Sign up for our
+newsletter on local and global trends from expert writers in four great financial centres. Sign up
+here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+US Treasury bonds
+US economy
+US inflation
+Markets
+US
+
+

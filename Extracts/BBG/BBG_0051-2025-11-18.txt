@@ -1,0 +1,138 @@
+Economics | New Economy
+
+How Trump’s Fight Against the Fed Could Trigger a
+Stagflation Slump
+
+By Jamie Rush, Anna Wong, David Wilcox, and Nick Hallmark
+November 18, 2025 at 6:17 PM EST
+Save
+
+Translate
+
+5:24
+
+Takeaways by Bloomberg AI
+The president has attempted to exert control over the Federal Reserve,
+including trying to fire Fed Governor Lisa Cook and installing one of his chief
+economic advisers, Stephen Miran, on the Federal Open Market Committee.
+The near-term impact of political control of the Fed could be an appearance
+of healthy growth and low unemployment, but the painful reality of inflationary
+malaise and weaker growth would follow.
+Eroding Fed independence may buy short-term growth, but the long-term
+employment, inflation, and output costs would turn it into a losing proposition.
+
+This piece is from a Bloomberg Economics report
+
+for the New Economy
+
+Forum which went to press in October.
+The independence of the Federal Reserve is grounded in the principle that
+the US Congress, not the president, has the power to set its mission and the
+Fed has control of how that mission is accomplished. Try telling that to
+Donald Trump.
+The president has turned his desire to bend the Fed to his will into a neardaily drumbeat. No longer satisfied merely cajoling Jerome “Too Late”
+Powell, as he’s nicknamed the Fed chair, to act, Trump has attempted to fire
+Fed Governor Lisa Cook and installed on the Federal Open Market
+Committee one of his chief economic advisers, Stephen Miran.
+To his supporters that reflects an overdue overhaul of a Fed that has missed
+its inflation target for more than four years, suffers from an overdose of
+
+groupthink and delivered a preelection rate cut they believe was aimed
+more at reelecting Democrats than keeping the economy on an even keel.
+To his detractors it represents a partisan political takeover, and an attempt
+to install a low-rates supermajority on the FOMC in the same way a
+conservative supermajority dominates the Supreme Court. For Trump,
+nothing less than lowering interest rates by 3 percentage points will do.
+Using our model of the US economy, {BECO MODELS SHOK <GO>}, we
+explore two scenarios for how political control of the Fed could affect the US
+economy.
+In both, the near-term impact is an ersatz glow of healthy growth and low
+unemployment. The painful reality of inflationary malaise, higher nominal
+rates and weaker growth takes some time to follow. In the more extreme
+scenario, Republicans head into the 2028 elections with the economy in a
+stagflationary slump.
+It would be tempting to dismiss Trump’s attacks as a kind of MAGA dog
+whistle, meant to convince his supporters they’d be better off if only the
+money mandarins would loosen up. The consequences if Trump were to
+succeed are far more serious, and all too real.
+The reason is simple: If monetary policy is set by politicians, there’s a
+temptation to juice the economy ahead of elections, including the 2026
+midterms that will determine whether Trump ends his term with a pliant
+Congress or a divided one. Enjoy the benefits of higher employment and
+growth now, and deal with the soaring inflation and painful corrections
+later. In that world, everyone other than the meddling politician is worse off.
+This isn’t just economic theory. It’s what really happened in the 1970s.
+President Richard Nixon—no paragon of good governance— called on Fed
+Chair Arthur Burns to help him in the ’72 election by keeping rates low.
+Burns delivered, Nixon won, and inflation continued creeping upward. With
+a significant assist from the Arab oil embargo, the consumer price index
+climbed toward 15% in 1980. It took the “Volcker shock” of significantly
+
+higher interest rates, and a pair of deep recessions, to bring the CPI under
+control.
+Toward a More Friendly Board
+Now Trump is trying to stack the Fed board with his appointees—a shift that
+allies say injects necessary diversity of opinion but many in the economics
+profession view as a dramatic new threat to independence.
+
+Signed
+Sign Up
+Up
+By continuing, I agree to the Privacy Policy and Terms of Service.
+
+His attempt to fire Cook over alleged mortgage fraud was put on hold by the
+Supreme Court, which said she can stay in the job at least until after the
+justices hear arguments in January. Cook denies the claims. Miran, the head
+of Trump’s Council of Economic Advisers, took part in the Fed’s September
+deliberations, believed to be the first time since 1936 that a Senateconfirmed economic adviser did so.
+A Cook replacement plus Miran would give Trump four Fed appointees—
+enough to control the outcome of the board’s required vote to approve the
+reappointment of all 12 Reserve Bank presidents, a vote that must take place
+by March 1, 2026.
+Trump’s barrage of barbs on Powell continued to intensify over the summer,
+when Bloomberg Economics’ index of executive-branch attacks on Fed
+independence reached a record in July.
+Of course, words matter, and presidential words matter quite a lot.
+Bloomberg Economics looked at scenarios where political influence pushes
+the Fed’s reaction function in a more dovish direction.
+Two Scenarios
+
+The Fed has a dual mandate to achieve maximum employment and price
+stability. In the first scenario, we assume the Fed puts much more weight on
+keeping unemployment low than on getting inflation down to target—a
+stance often favored by politicians.
+In this scenario there are two more interest-rate cuts than in our baseline,
+and, recognizing the shift in behavior, inflation expectations are less well
+anchored. Price gains drift up toward 3%.
+The extreme scenario models an abrupt political takeover, where the Fed
+cuts the policy rate to Trump’s stated preference of 1% and holds it there
+regardless of what the inflation data show.
+Inflation expectations move significantly higher, the Fed fails to respond,
+and the economy booms—but only briefly. With inflation moving above 4%,
+the Fed’s loss of independence is suddenly priced in as a regime shift. That
+sees five-year borrowing costs climb 3 percentage points—comparable to the
+late 1970s—as investors demand compensation for the risk of persistently
+higher inflation.
+What looks like a boom in 2026 could quickly unravel into stagflation by
+2027, just ahead of the next presidential election. Not in our model, but also
+important: risks to the dollar’s reserve currency status as foreign investors
+worry its value will be inflated away.
+The lesson is clear. Eroding Fed independence may buy short-term growth,
+but the long-term employment, inflation and output costs would turn it into
+a losing proposition. Try telling that to the Republicans who see the Fed not
+as honest brokers of the best economic outcome but as Democrat partisans
+aiming to keep their party in office.
+
+Save
+Contact us:
+Provide news feedback or report an error
+
+Site feedback:
+Take our Survey
+Confidential tip?
+Send a tip to our reporters
+Before it's here, it's on the Bloomberg Terminal
+
+©2026 Bloomberg L.P. All Rights Reserved.
+
+

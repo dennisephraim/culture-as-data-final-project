@@ -1,0 +1,165 @@
+FT PROFESSIONAL
+
+Opinion Unhedged
+
+The enigmatic US economy
+A confusing picture gets more so after the jobs report
+
+ETHAN WU
+
+© Financial Times
+
+Robert Armstrong & Ethan Wu
+Published FEB 6 2023
+
+This article is an on-site version of our Unhedged newsletter. Sign up here to get the newsletter
+sent straight to your inbox every weekday
+
+Good morning. We spent the weekend wondering how the China spy balloon saga could be turned
+into an extended metaphor for what is happening in the stock market. No luck; sometimes a
+balloon is just a balloon. So we wrote about the jobs report instead. Email us:
+robert.armstrong@ft.com and ethan.wu@ft.com.
+
+The blowout jobs report and the disorienting economy
+Unhedged is feeling confused about the economy. Is it firing on all cylinders? Cresting into a midcycle slowdown? Hurtling towards a Fed-induced recession? Friday’s jobs report didn’t help. It
+showed the US economy adding half a million jobs in January, blasting through expectations and
+making any recent labour market cooling look marginal indeed.
+It’s not just the jobs data. As Jay Powell put it last week: “This is not like the other business cycles
+in so many ways.” We’ve summed up several data points we look at below. If there’s an obvious
+overriding story, it eludes us:
+
+Whaddya make of this?
+Strong signals
+
+Mixed signals
+
+Weal signals
+
+Employment
+
+Wage growth
+
+Retail sales
+
+Credit/debit card spending
+
+Corporate earnings
+
+Manufacturing
+
+Risk appetites in financial
+markets
+
+Credit conditions
+
+Yield curve
+
+Consumer spending on
+services
+
+Consumer spending on
+goods
+Housing sales
+Big tech outlooks
+
+Whatever is going on, the labour market is an important part of it. The Fed is worried about a
+category of prices called non-housing core services, which it sees as the beating heart of sticky
+inflation. And historically, that category has looked awfully sensitive to wage growth. This chart
+from Deutsche Bank shows the close correlation (ECI is the employment cost index, a wages
+measure):
+
+With that in mind, Friday’s whopper jobs number presents a question. Does a strong data surprise
+in the labour market make a soft landing more likely, or less? The question is a bit pat; one month
+of data can always be a blip. But the rock-solid labour market has been surprising everyone for
+months now. Is it good news for investors or bad news?
+The range of opinion runs wide. Some in the “soft landing more likely” camp, like BlackRock’s Rick
+Rieder, take employment strength as a sign the economy can muscle through higher interest rates
+without a recession. He wrote on Friday:
+
+Central banks are embracing the slowdown in excessive levels of inflation
+witnessed over the past year, while maybe not having to sacrifice as many
+jobs as previously thought. We think the Fed would be well-served to
+consider this as a success and think that slowing down the pace of hikes (and
+potentially ending them over the next few months) would allow the job
+market to bend, but maybe not break. Today presents good evidence of a job
+market not breaking and evidence of how the economy can adapt and adjust
+to remain vibrant in the face of major headwinds (such as higher interest
+rates).
+Others emphasise how wage growth (slowly decelerating) and employment (still growing) have
+decoupled. The hope is that we might get the best of all worlds — a high-employment disinflation
+— as long as the Fed’s anti-inflation zeal doesn’t get in the way. Preston Mui at Employ America
+writes:
+
+For months, the Fed has been telling a story that “pain” in the labour market
+will be necessary to bring down inflation ...
+The Fed should revise its views based on the last few months of data. The
+unemployment rate is at a historic low. The prime-age employment rate,
+while not at a historic high, is at its highest level since COVID began.
+Meanwhile, nominal wage growth has been slowing ...
+Along with recent disinflationary data from the CPI, we are seeing what
+many said to be impossible: slowing inflation in prices and wages even as
+levels of labour market strength remain strong across the board.
+
+On the “less likely” side, Don Rissmiller of Strategas argues that the Fed is focused on its price
+stability mandate to the exclusion of all else. Inflation is high, so rates must remain restrictive until
+that’s no longer true. Labour market resilience just prolongs the process:
+
+The default position remains that the US labour market is overheating, with
+the unemployment rate making a new cycle low. Underlying inflation
+pressure remains, so central banks are mandated to move policy to a
+restrictive stance & hold there.
+The FOMC still looks set to take fed funds above 5 per cent in early 2023.
+The US labour market will likely have to show more slack to create an end
+game for tightening — we’re not there yet with the surprising momentum
+we’re seeing in 1Q.
+Aneta Markowska at Jefferies points out that a structurally tight labour market combined with
+falling price inflation is a recipe for pinched margins and, ultimately, lay-offs. Yes, wage growth has
+been slowing, which in theory eases margin pressure, but can that last? Markowska calculates that
+in December there were 5.3mn more job vacancies than unemployed people, but only 1mn in
+potential workers who could join the labour pool:
+
+In this context, labour should still enjoy a great deal of pricing power . ..
+Price growth is likely to slow much more sharply. Put differently, firms are
+losing pricing power faster than labour. This points to a steep slowdown in
+top line growth, while costs remain sticky. The result: margin compression.
+
+So, despite softer wage growth than we envisioned in January, data are still
+tracking broadly in line with our scenario. The base case continues to be
+margin compression in 1H, triggering more lay-offs around mid-year and
+recession in 2H. In the meantime, it is possible that the Goldilocks narrative
+[ie, slowing wage growth and low unemployment] remains alive and kicking
+for several more months. But we doubt it will live past this summer.
+Markowska’s scepticism about wages and employment decoupling for long seems right to us. Both
+are functions of workers’ bargaining power, which is high. Wage growth is still elevated by any
+measure, and a little deceleration seems weak evidence that a high-employment disinflation is
+coming.
+But a generous helping of modesty is due. The chance of a soft landing comes down to how easily
+inflation falls. No one really has any idea what will happen, in large part because of the mass
+transition from goods spending to services spending in the aftermath of Covid: we’ve never seen an
+economic event like it. A comparison to history illustrates the enormity of the change. As far back
+as the data go, there is no real precedent, including the second world war:
+
+Remember that the cooling inflation reports that markets have cheered on lately have all come on
+the back of goods disinflation. How long will that inflation drag last? Is today’s services inflation,
+like goods two years ago, just a temporary Covid distortion working its way through the economy?
+Or is it a more entrenched expression of the labour shortage? We simply don’t know. (Ethan Wu)
+
+One good read
+FTX’s in-house shrink had two prescriptions: more pills and more dating.
+
+Recommended newsletters for you
+Cryptofinance — Scott Chipolina filters out the noise of the global cryptocurrency industry.
+Sign up here
+Swamp Notes — Expert insight on the intersection of money and power in US politics. Sign up
+here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Ethan Wu
+Unhedged
+US economy
+US inflation
+US employment
+
+

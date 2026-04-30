@@ -1,0 +1,139 @@
+FT PROFESSIONAL
+
+Opinion Unhedged
+
+Why we get inflation wrong
+And the ESG gravy train
+
+ROBERT ARMSTRONG
+
+Robert Armstrong
+Published SEP 16 2021
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+This article is an on-site version of our Unhedged newsletter. Sign up here to get the newsletter
+sent straight to your inbox every weekday
+
+Good morning. For some reason writing about inflation makes me feel slightly guilty, as if I am
+forcing my readers to eat spinach, or conjugate irregular verbs. But it is worth remembering why
+the topic is so important. In the transitory-vs-sticky debate, the market has put all its chips on
+transitory. This is most visible in bond yields, but it is wired into equity valuations too. The chances
+of multiple years of inflation much over (say) 3 per cent seem slim to me, but if that’s how the dice
+come up, we’re going to have some wild times. So bear with me, and read on. Email me:
+robert.armstrong@ft.com
+
+Do we have 1950s-style inflation?
+I often describe inflation as the thing that everyone is always wrong about. In my adult life, there
+has only been one thing to say about it that did not come back and bite you in the ass: “It’s going
+lower, and staying lower, no matter what and forever.” Anyone who said anything other than that
+has ended up looking dumb.
+Of course the inflation neurotics may be vindicated in the end. But it is worth thinking about why
+so many have been so wrong for so long. In this context, this blog post from Gabriel Mathy, Skanda
+Amarnath and Alex Williams is interesting. It argues that when we think about inflation, we should
+think more about the 1950s and less about the 1970s. Here is their statement of the standard
+narrative about the 1970s:
+
+“The unemployment rate got too low in the late 1960s (3.4%), which set off
+inflation through a Phillips curve dynamic. This inflation then caused
+workers and price-setters to reset their inflation expectations higher, and
+these higher expectations cashed out into a higher rate of inflation over the
+following decade. This tug of war then went on until the Volcker Fed hiked
+rates far enough to cause a major recession, which reset everyone’s inflation
+expectations.”
+
+MA&W are right: talk to 100 people about inflation, and 95 of them will talk about it just like this.
+Most of us have only three tools in the box. One: a Phillips-curvey idea that there is some level of
+unemployment below which any effort at economic stimulus must result in inflation. Two: the idea
+that inflation expectations are self-fulfilling prophecies because price-setters try to get ahead of
+them. Three: saying “inflation is always and everywhere a monetary phenomenon” without
+reflecting too carefully about what exactly that might mean.
+And when these are the only inflation concepts you have, the conclusion you will come to is the
+Federal Reserve has better be vigilant.
+But the 1950s, MA&W point out, saw very low unemployment at the beginning of the decade, and a
+subsequent “burst of inflation”, and no interest rate shock tactics were used to bring it down.
+
+So, what was the difference? In the 1950s inflation rose quickly as America moved towards war in
+Korea, but:
+
+“Once it became clear that the Korean war would not require the same scale
+of economic overhaul or active management as world war two, inflation
+expectations quickly normalised . . . The account of ‘inflation expectations’
+that this experience implies is one centred around world events, rather than
+past realised values of inflation. This version adds a degree of empirical
+realism, but sacrifices the idea that inflation — once started — will create a
+self-sustaining upward spiral. Instead, inflation rises and falls as
+expectations about the future change.”
+In the 1970s, MA&W think, the problem was not a spiral of expected and realised inflation, but a
+retooling of the economy that led to persistent capacity bottlenecks and labour markets that
+couldn’t clear. The difference with the 1950s was not about expectations; the underlying economic
+changes were simply much greater.
+The punchline, of course, is that today the economic changes we see are not as dramatic or as
+permanent as those of the 1970s, and even if they do last a few years, inflation expectations need
+not spook us, and we don’t need to worry about a policy mistake.
+MA&W want a super-tight labour market (their blog is called “Employ America”). So like everyone
+else, they have a policy agenda. I’m not advocating their theory. I don’t know enough economics to
+assess it properly. But I am convinced that their starting point is correct: any serious thinking
+about inflation has to start by accepting that the most longstanding and widely accepted view of it
+has been proven wrong.
+
+Aswath Damodaran on ESG
+When I say that environmental, social and governance investing does the world harm, people
+assume I’m exaggerating for effect; that what I write is clickbait. Nope. I’m sure the ESG investing
+industrial complex is well intentioned, but I am equally confident that the world would be a better
+place without it. To use Tariq Fancy’s analogy, the industry is selling wheatgrass juice as a cure for
+cancer: it won’t help; it reduces the chance the patient will seek the right treatment; and it’s not
+cheap.
+
+It’s a lonely view to hold, so I was gratified to discover that Aswath Damodaran, the New York
+University professor and much-cited valuation expert, holds the same view. He makes some of the
+arguments that Fancy and I have made, but he makes many of them more clearly and rigorously
+than either of us, and adds some new wrinkles.
+I should note that he and I disagree on one point. He thinks the fact that what constitutes good
+corporate behaviour is always going to be contested, so that the lack of correlation among ESG
+rating schemes cannot be resolved. I think consensus on key issues (climate change, supply chain
+transparency, shareholder rights, executive compensation) is possible. That’s why the ESG industry
+loves to talk about this issue. It is solvable, unlike ESG’s other contradictions and conflicts.
+Damodaran makes two key points with particular elegance. One is that, in equilibrium, the
+insistence that ESG portfolios can outperform non-ESG portfolios makes no sense:
+
+“The notion that adding an ESG constraint to investing increases expected
+returns is counter intuitive. After all, a constrained optimum can, at best,
+match an unconstrained one, and most of the time, the constraint will create
+a cost.”
+That is the best expression I’ve read of the plain truth that ESG funds do-well-by-doing-good
+marketing is just bullshit.
+Next, he fleshes out the important point (also made here) that ESG attributes can only drive
+outperformance in transition periods, where investors’ preferences are changing. Thereafter, cost
+of capital differentials must mean underperformance:
+
+“During the adjustment period the highly rated ESG stocks will outperform
+the low ESG stocks, as markets slowly incorporate ESG effects, but that is a
+one-time adjustment. Once prices reach equilibrium, highly rated ESG
+stocks will have greater values, but investors will have to be satisfied with
+lower expected returns.”
+Most importantly, though, he poses a crucial question:
+
+“If ESG is a flawed concept, perhaps fatally so, and if the flaws are visible for
+everyone to see, how do we explain the immense push [for it] in both
+corporate and investment settings?”
+The answer is that ESG is a deep trough at which investment fund managers, accountants and
+consultants can feed. Damodaran’s chart of this is a delight:
+
+One good read
+That thing that keeps happening to big companies in China? It happened again.
+
+Recommended newsletters for you
+#fintechFT — The biggest themes in the digital disruption of financial services. Sign up here
+Martin Sandbu’s Free Lunch — Your guide to the global economic policy debate. Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Robert Armstrong
+
+Unhedged
+US inflation
+Sustainable capitalism
+Markets
+
+

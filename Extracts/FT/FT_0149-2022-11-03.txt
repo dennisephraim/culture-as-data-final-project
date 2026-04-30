@@ -1,0 +1,123 @@
+FT PROFESSIONAL
+
+Opinion Unhedged
+
+Slower, longer, higher
+From rates peak to rates mesa
+
+ROBERT ARMSTRONG
+
+© Financial Times
+
+Robert Armstrong and Ethan Wu
+Published NOV 3 2022
+
+This article is an on-site version of our Unhedged newsletter. Sign up here to get the newsletter
+sent straight to your inbox every weekday
+
+Good morning. The big hedge fund Elliott Management thinks we are on the road to
+hyperinflation, much deeper market declines, and possibly global strife. The Federal Reserve seems
+a bit less worried. Let us know which you think is right: robert.armstrong@ft.com and
+ethan.wu@ft.com.
+
+The Fed
+The stock and bond markets, which do not always behave particularly coherently in response to
+Fed press conferences, were cogent in response to yesterday’s. Here is a chart of the S&P 500
+against the two-year Treasury yield:
+
+Jay's handiwork
+Trading day of Nov 2
+2-year yield (right)
+
+S&P 500 (left)
+
+3900
+
+3880
+
+3860
+
+3840
+
+3820
+
+At 2pm, the press release landed. As everyone expected, the rate increase was three-quarters of a
+percentage point, the same as last time. The wording, too, was almost identical to the release from
+six weeks before, except for this key sentence:
+
+In determining the pace of future increases in the target range, the
+committee will take into account the cumulative tightening of monetary
+policy, the lags with which monetary policy affects economic activity and
+inflation, and economic and financial developments.
+This is more or less a jumble of things Fed officials have said before, but the fact that it was
+inserted into the statement at this particular moment gives it meaning. The crucial words: “lags”
+and “cumulative”. Both suggest that what the Fed has done already is strong medicine for the
+treatment of inflation, implying that future doses might not need to be as large. As you can see
+above, markets signalled their immediate, if measured, approval. Stocks rose and yields fell.
+Then came chair Jay Powell’s press conference.
+Powell did give the market what it has hoped for and speculated about for weeks — a signal that the
+pace of rate increases would soon slow:
+
+I have said at the last two press conferences that at some point it will become
+appropriate to slow the pace of increases. So that time is coming, and it may
+come as soon as the next meeting or the one after that. No decision has been
+made. It is likely that we will have a discussion about this at the next
+meeting.
+Now, if the context were benign, those words might have been equivalent to Powell, with a flourish,
+releasing a flock of white doves from behind the podium. But the context was not benign. The
+words were prefaced by the Fed chair saying that, as the tightening cycle ages, the pace of increases
+is less important than the ultimate level of rates, and how long that level is maintained. He said his
+estimate of the peak rate had risen since the last meeting; noted that the Fed was much more
+worried about under- than over-tightening, because the latter mistake is easier to repair; and said
+it was premature to even discuss a pause in rate increases.
+See the chart above past 2:20pm for the market response to that.
+
+It may appear odd for Powell to say that while he is increasing his estimate of where rates need to
+go, he wants to get there more slowly. But there is a logic here. As rates move higher, the possibility
+of a financial accident increases. A crisis in the financial system (Treasury market breakdown? Big
+fund blow-up?) could force the Fed to loosen policy even while inflation is still running hot. A more
+measured pace of increases, even on the way to a higher peak rate, gives everyone some time to
+adjust, decreasing the chance that something breaks.
+The day’s drama was relatively small in scale, though. Both stocks’ and Treasury yields’ end-of-day
+levels are within recent ranges. A treat was briefly dangled before the markets, then snatched away.
+Taking a step back, how much has really changed?
+We wrote Tuesday that there is a real risk markets are underestimating how long peak rates will be
+sustained. Markets expect the fed funds rate to touch 5 per cent in the first half of 2023 and then
+begin falling immediately. We think that is too optimistic, and yesterday’s emphasis on
+“cumulative” effects and the asymmetric risk of not doing enough made us feel more confident in
+this view. Whatever the terminal rate ends up being, Powell will hold there until he is sure inflation
+will stay down. The rates peak may end up looking more like a rates mesa.
+On the other hand, a more gradual ascent for rates might also mean lower market volatility.
+Inflation that is still high, but grinding lower, and rates that are still rising, but more slowly, could
+calm the market palpitations that now follow rates-relevant data releases, notes BlackRock’s Rick
+Rieder. And as Sonia Meskin of BNY Mellon Investment Management told Unhedged, tightening
+delivered in smaller doses should be easier for markets to swallow:
+
+Markets tend to respond more to changes in near-term event probabilities
+(size of next rate hike) than probabilities of events farther out (ultimate level
+of terminal rate).
+Lower rate-driven volatility, all else equal, would be good for risk assets. But restrictive monetary
+policy — however gradually delivered — slows the economy, squeezes margins, and increases
+bankruptcies and defaults. Avoiding a financial accident is not the same as avoiding recession.
+(Armstrong & Wu)
+
+One good read
+How much would you pay for Joan Didion’s sunglasses, which her estate is now auctioning off?
+The $400 to $800 suggested bid strikes us as low.
+
+Recommended newsletters for you
+Cryptofinance — Scott Chipolina filters out the noise of the global cryptocurrency industry.
+Sign up here
+Swamp Notes — Expert insight on the intersection of money and power in US politics. Sign up
+here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Robert Armstrong
+Unhedged
+Global Economy
+US economy
+US inflation
+
+

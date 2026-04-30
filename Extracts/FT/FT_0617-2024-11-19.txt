@@ -1,0 +1,412 @@
+FT PROFESSIONAL
+
+Chris Giles on Central Banks Global trade
+
+Tariffs and taxes are not very inflationary
+Households will pay, but probably not through much higher prices
+
+Evidence suggests that the US overwhelmingly bears the costs of US tariffs, but exactly how these are passed to households remains
+murky
+
+Chris Giles
+Published NOV 19 2024
+
+This article is an on-site version of our Chris Giles on Central Banks newsletter. Premium
+subscribers can sign up here to get the newsletter delivered every Tuesday. Standard
+subscribers can upgrade to Premium here, or explore all FT newsletters
+
+Raghuram Rajan, the University of Chicago professor and former Reserve Bank of India governor,
+will receive the Bancor award in economics today. In his bleak acceptance speech, he notes the
+world economy is “fragmenting slowly, but surely” and says much of this stems from “misdirected
+anger at trade” when the big job killer in the US has been technology, not foreigners.
+
+Perhaps most telling is the following passage:
+
+After this gloomy assessment, in typical speeches the speaker pulls out their
+magic solutions to all the problems that envelop us. Unfortunately, I have
+none.
+President-elect Donald Trump has certainly stoked anger in the US about trade. It is in many ways
+odd that the US is most unhappy with trade because it is an extremely closed economy, as the chart
+below shows.
+Large economies will generally be more closed to external trade than smaller ones (hence the EU
+and Eurozone are more closed than individual member states), but the US is in a league of its own
+compared with the EU, China and India. None of this will matter. Tariffs are coming.
+The questions are who will pay, and are tariffs inflationary?
+
+The US is a remarkably closed economy
+Goods trade (% of GDP)
+Width of bars represents size of economy (Current PPP $)
+Not EU
+
+European group
+
+EU member state
+
+US
+
+EU
+
+India
+
+China
+
+Japan
+Eurozone
+UK
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+France
+45
+
+50
+
+Canada
+Italy
+55
+
+60
+
+German
+65
+
+70
+
+Source: ECB, World Bank, FT calculation
+
+In the US presidential election, the effects of tariffs caused little academic disagreement. About 95
+per cent of economists polled by the Kent Clark Center for Global Markets in September agreed or
+strongly agreed with the statement that “imposing tariffs results in a substantial portion of the
+tariffs being borne by consumers of the country that enacts the tariffs”.
+
+This consensus did not extinguish all debate. In a remarkable online argument, Oren Cass, the
+chief economist of American Compass, fought toe-to-toe with Justin Wolfers, a professor at the
+University of Michigan, over just this issue and, in particular, the chart reproduced below. Cass
+accused Wolfers of being simplistic in attributing relative price changes to tariffs and accused him
+of cherry-picking data.
+The common sense way to look at the chart is to say — as Wolfers did — that the 20 to 50 per cent
+tariffs on imported washing machines between 2018 and 2023 raised consumer prices compared
+with other appliances where no tariff was applied. There is a difficult period for this argument,
+between mid-2019 and mid-2020, but this should not invalidate the position that US tariffs were
+borne by the US.
+
+Trump's tariffs on laundry equipment appeared to raise the price compared
+with other appliances
+Price level (Average 2017 = 100)
+
+140
+
+Tariffs
+Tariffs
+
+130
+
+120
+
+110
+
+100
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+202
+Source: BL
+
+So far, the points have been anecdotal and we really need a more comprehensive account.
+Theoretically, Trump is not necessarily wrong to say that the foreign exporter might bear the
+burden of tariffs, so the outcome is an empirical issue.
+There are many worthy academic studies of the Trump tariffs from 2018. While not the most
+riveting reads, they give a reasonably clear account of the evidence. If you want to listen rather
+than read, try Soumaya Keynes’ podcast this week with Kimberly Clausing. The evidence suggests:
+
+US importers bore the vast majority of the cost of tariffs. Overall, for a 20
+per cent tariff, the importer paid 18.9 per cent higher prices with the extariff price reducing just 1.1 per cent. Tariffs were passed on to US
+importers much more than US exchange rate depreciations, where
+contracts tend to be fixed for a period in dollars.
+The one exception from this rule was for steel tariffs, a commodity used as
+an intermediate good. Here, exporters to the US dropped prices
+substantially to remain competitive.
+While US importers paid, these costs were not always passed on directly to
+US consumers. Washing machines were a bit of an exception where prices
+rose. In other areas, prices barely increased. It is less certain whether
+retailers spread the tariff effect over multiple goods, margins were squeezed
+or products were bought ahead of tariffs being imposed.
+Retaliation with tariffs imposed on imports of US goods was often
+concentrated among homogenous agricultural products with many global
+suppliers. US producers had to reduce their export prices in response.
+The incidence of US tariffs clearly appears to fall on the US corporate sector, with it then passed on
+to households in a combination of lower profits, higher prices and lower wages.
+
+A new set of tariffs applied more aggressively, across the board and for longer can therefore be
+expected to have significant detrimental effects on the US, although we must remember that the
+country’s economy is relatively closed so these might not be huge.
+The important point is that the evidence suggests the US overwhelmingly bears the costs, but
+exactly how these are passed to households remains rather murky. The inflation effect does not
+appear large.
+
+OK, what about taxes?
+British business leaders are angry with the new Labour government. The October 30 Budget raised
+the UK’s main payroll tax, employers’ national insurance contributions, from 13.8 per cent to 15
+per cent from next April and reduced tax-free thresholds.
+Sainsbury’s, the country’s second-largest supermarket chain, said the additional costs it and its
+suppliers faced would “feed through into higher inflation”. Saying much the same were companies
+including the grocery and clothing retailer Marks and Spencer, the telecoms company BT and the
+pub group Wetherspoons. Today, retailers have clubbed together to send a joint letter of complaint
+to the chancellor.
+In response, chancellor Rachel Reeves has sought to flatter. Companies can absorb the new tax
+worth almost 1 per cent of GDP with greater efficiencies or lower profits, she says. “Businesses are
+amazingly creative and have great ingenuity, and one of the things that they do really well is drive
+efficiency and productivity performance,” she told MPs in a parliamentary hearing.
+Just like tariffs, the likely outcome is an empirical question. The natural places for the tax to end up
+are in lower wages, lower profits or higher prices.
+There is pretty good evidence from the past. In the 2010s, employers were forced to contribute to
+their employees’ defined contribution pensions in an auto-enrolment scheme, where the vast
+majority of employees participated. As the chart below shows, it is not easy to see an impact of the
+1 per cent, 2 per cent and 3 per cent compulsory contribution levels on trends in nominal wage
+growth or inflation. Perhaps there was an effect in 2012, but this was much smaller than the
+obvious exchange-rate impact on prices that caused the sterling’s plunge after the 2016 Brexit
+referendum.
+
+Compulsory UK employer pension contributions in the 2010s did not
+obviously raise inflation or damp private sector pay growth
+Annual change (%)
+Shaded areas show compulsory employer pension contribution rates for auto-enrolled staff
+Nominal private regular pay
+6
+
+CPI
+
+Real private regular pay
+
+1%
+1%
+
+2%
+2%
+
+Brexit
+referendum
+
+3%
+3%
+
+4
+2
+
+Inflation target
+
+0
+-2
+-4
+-6
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+Sources: ONS, FT calculations • Pay variables are 3 month moving average
+
+Luckily, we do not have to rely on seeking a signal in the noise of macro data because the UK’s
+independent Office for Budget Responsibility has examined the evidence.
+In a glorious moment of candour, professor David Miles, one of the OBR’s leading officials, told
+members of parliament that the fiscal watchdog had examined a “quite big, very boring, academic
+literature” on the subject of who pays. It had come to “central” estimates, “based on hundreds of
+boring studies”. You can feel his pain.
+
+Using the results of this tedious effort, the OBR has estimated that in the first year of operation, 40
+per cent of the cost of higher employer NICs will hit profits, with 60 per cent being borne by
+households in the form of lower wages and higher prices. After that, the incidence of the tax
+increase is borne more by households with the split ending up as 76 per cent in lower real wages
+and 24 per cent in lower profits. The OBR does not assume (correctly) that companies become
+more efficient as a result of the tax — they already have an incentive to cut unnecessary costs.
+Only 20 per cent of the effect on real wages is expected to come through higher prices, the OBR
+estimated. A fifth of the 76 per cent of total annual revenue from the tax increase of £25bn suggests
+£3.8bn of the money raised would result in a rise in nominal prices. With consumer spending of
+roughly £1.65tn in 2023, it suggests a one-off price impact of 0.2 per cent, but spread over a period
+longer than a year. This is precisely the effect the OBR has assumed.
+The Bank of England has assumed much the same in the chart below. The direct effect of the
+employer NICs increase on inflation in any one annual period (only mentioned in a chart footnote)
+was about 0.1 per cent, and included in the “other Budget effects” category which also counted rises
+in bus fares, higher car taxes and value added tax on private school fees. The exact number is
+impossible to glean from BoE documents.
+UK companies are justified in feeling angry since they have the hassle of passing a new tax on to
+shareholders, customers and employees. It is probably best to ignore them, however, when they say
+the move was inflationary.
+Lots of boring studies suggest otherwise.
+
+The BoE thinks increased national insurance barely affects inflation
+CPI effect
+
+Other Budget effects
+
+Fuel duty
+
+Spare capacity
+
+0.4
+
+0.2
+
+0
+
+-0.2
+25
+25
+25
+25
+26
+26
+26
+26
+27
+27
+27
+27
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+1
+2
+3
+4
+1
+2
+3
+4
+1
+2
+3
+4
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Source: Bo
+
+What I’ve been reading and watching
+The FT’s trade writer Alan Beattie explains what Donald Trump can and
+cannot do with tariffs and other whims
+In the least surprising consequence of Trump’s victory, G20 initiatives are
+already in trouble
+The Federal Reserve’s Jay Powell is cooling on interest rate cuts only a
+couple of months after a jumbo rate cut. Other Fed officials have made
+similar noises, although the December rate cut does not appear to be off the
+table yet
+
+A chart that matters
+With Trump having made multiple threats to the Fed’s independence, it is a good time to look at a
+remarkable chart that documents the formal spread of central bank independence compiled by my
+colleague Joel Suss. Although legal independence appears secure, it is gradually being undermined
+in practice in many countries. Click on the chart to see the full measures of independence.
+
+Central bank independence has increased substantially since 1940
+Indices range from 0 to 1, with 1 being the highest level of independence
+Filter by index sub-items
+Overall index
+
+0.7
+0.65
+0.6
+0.55
+0.5
+0.45
+1940
+
+1950
+
+1960
+
+1970
+
+1980
+
+1990
+
+2000
+
+2010
+
+2020
+
+Source: Davide Rome
+FT graphic: Joel Suss
+
+Recommended newsletters for you
+Free lunch — Your guide to the global economic policy debate. Sign up here
+Trade Secrets — A must-read on the changing face of international trade and globalisation.
+Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+US trade
+Global trade
+Global inflation
+Chris Giles on Central Banks
+Chris Giles
+
+

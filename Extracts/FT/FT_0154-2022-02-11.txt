@@ -1,0 +1,106 @@
+FT PROFESSIONAL
+
+Opinion Unhedged
+
+The inflation leak drips on
+Bad, but not as bad as the market reaction
+
+ROBERT ARMSTRONG
+
+© Financial Times
+
+Robert Armstrong
+Published FEB 11 2022
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+This article is an on-site version of our Unhedged newsletter. Sign up here to get the newsletter
+sent straight to your inbox every weekday
+
+Good morning. Once a month we write about the CPI report. Rules are rules. I think the market is
+overacting a bit. Think different? Email me: robert.armstrong@ft.com.
+
+Small changes, big scare
+Let’s start at the end of the movie, and work backwards towards the beginning. The ultimate
+expression of Thursday’s gnarly market response to the CPI report can be seen in the fed funds
+futures market. Before the report, the futures implied a one in four chance that the central bank
+would do a double-weight rate increase — half a percentage point — in March. After the report, the
+probability rose to more than 90 per cent. Oh, the drama:
+
+Broadening the frame, the whole interest rate curve moved up. The two-year bond followed the fed
+fund futures, pricing in an additional rate increase almost immediately. That’s a whopping big
+move. While the long end of the curve moved up non-trivially, as well, the flattening of the curve
+was significant.
+
+A flatter curve may not make tons of sense, in the abstract, as an indicator that the Fed will tighten
+policy so abruptly that it causes a recession. But the market, like the heart, has reasons that reason
+cannot know. Inverted curves scare everyone to death. The 10-year minus 2-year curve has now
+fallen 1.2 percentage point since March. Another half a point and it’s inverted. Expect to see a lot of
+pictures like this in the next few weeks:
+
+Fear was perceptible in the stock market, too. The Nasdaq lost more than 2 per cent, as the
+increase in long-bond yields was driven, once again, by an increase in real yields, not inflation
+expectations (once again: Is there good reason tech stocks need to move conversely with real
+yields? Not really. Does that seem to be the pattern these days? Sure does).
+The S&P didn’t do much better.
+Some part of yesterday’s febrile climate is down to James Bullard, who runs the St Louis branch of
+the Fed. Mid-day yesterday, Bloomberg reported that Bullard supports raising the policy rate to 1
+per cent by mid-year. He was also quite flirty about the possibility of a 50 basis point move in
+March.
+But the main culprit was the CPI report itself, of course. Headlines latched on to the year-over-year
+increase in the full index. At 7.5 per cent, it was at a multi-decade high and perhaps 30 basis points
+higher than expected. At Unhedged, we’ve lately become converts to looking at the month-tomonth core numbers. Here is a picture:
+
+Start with core inflation (that is, excluding food and energy) in dark blue. After two months of
+deceleration, it was basically flat, which is not great, but north of horrific. Second: durable goods,
+where inflationary pressure has been greatest, in light blue. It fell a little in January — an
+encouraging sign. Third: core non-durable goods, in mid-blue. This is clothes, tobacco, cleaning
+products, and the like. Slowing for the fourth straight month. Good stuff.
+Not an awful picture, so far. So why the violent reaction? Rent picked up a bit, but that was widely
+expected. Was the market looking for more deceleration this month? Certainly, there is a strong
+consensus that inflation will decline significantly this year, but not until the second half. The wild
+reaction is a bit of a puzzle.
+Here is a possible explanation. Look at the little red bars, above. Services inflation accelerated. Just
+by a touch; but as I’ve noted a month ago, any acceleration looks bad, if you are inclined to think
+inflation is going to get dug in.
+
+To reiterate. The overarching narrative of the current inflationary incident is that the pandemic
+makes it hard to consume services, which so often require proximity. The stimulus programmes
+ensure American households and companies maintain, and in some cases increase, their spending
+power. Demand shifts massively to goods. Supply chains can’t keep up, and prices rise. If services
+prices rise, therefore, that is a sign of inflation “leakage” beyond the places where the problem
+began. And the leakage is bringing inflation to places where prices tend to stick, such as rent and
+personal services, from haircuts to car repair.
+Consider the Atlanta Fed’s index of those historically “sticky” prices (one month changes,
+annualised):
+
+The January sticky-price increase was the biggest monthly move (4.3 to 7.5 per cent) since the start
+of the pandemic. And this comes on top of strong moves up in the Fed’s preferred measure of
+wages, the employment cost index, which is now running at a four per cent annual rate in its last
+quarterly reading (wage increases are thought to be a main channel though which price increases
+spread).
+The CPI report, to sum up, had just enough in it to whip up fears of sticky inflation that were
+already present in markets. That said, Thursday’s market response looks like an overshoot. The
+plain fact is that January’s report was only marginally worse than December’s.
+Markets are jumpy. Be careful out there.
+One good read
+
+You cannot consider yourself a proper inflation geek until you have read a 26-page paper about
+how nail prices have changed over the last 325 years. I mean, look at this:
+
+Nails!
+
+Recommended newsletters for you
+Due Diligence — Top stories from the world of corporate finance. Sign up here
+Swamp Notes — Expert insight on the intersection of money and power in US politics. Sign up
+here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Robert Armstrong
+Unhedged
+US inflation
+Markets
+Federal Reserve
+
+

@@ -1,0 +1,103 @@
+Markets
+
+Traders in $7 Trillion Market Turn to Obscure Option
+to CPI Data
+
+By Greg Ritchie
+October 28, 2025 at 1:51 PM EDT
+Save
+
+Translate
+
+4:01
+
+Takeaways by Bloomberg AI
+Traders are grappling with the scenario of having to price securities tied to US
+inflation without any consumer price data due to the US government
+shutdown.
+The shutdown is leading investors to explore untested fallback mechanisms
+embedded into inflation-linked bond and derivative legal documentation as an
+alternative to the missing data.
+The discrepancy in the fallbacks for different types of inflation-linked
+securities is opening up a potentially fascinating divergence and creating
+relative value opportunities for investors.
+
+Traders in a $7 trillion market are grappling with the unprecedented
+scenario of having to price securities tied to US inflation without any
+consumer price data.
+With the US government shut since the beginning of the month the data void
+is likely to be prolonged, especially after the White House said the US
+probably won’t release inflation data for October. That’s leading investors to
+explore untested fallback mechanisms embedded into inflation-linked bond
+and derivative legal documentation decades ago as an alternative.
+These contingency plans reflected a tail risk that until recently was hard to
+imagine given the systemic importance of US economic data. The nation’s
+consumer price rises are embedded into a range of financial contracts, while
+the release each month jolts global markets and influences Federal Reserve
+monetary policy.
+
+Complicating matters, not all inflation-linked securities use the same
+fallbacks. The methodology for the $2 trillion Treasury inflation-protected
+securities (TIPS) differs from those used in the $5 trillion market for inflation
+swaps, which are used by investors and companies to hedge against price
+increases.
+That’s already leading to the outperformance of a TIPS maturing in January
+on the prospect of a greater payout. The longer this shutdown persists, the
+greater the distortion of a market used by investors to protect against price
+increases and policymakers to gauge inflation expectations.
+“The discrepancy in the fallbacks opens up a potentially fascinating
+divergence,” said Jon Hill, head of US inflation strategy at Barclays. “This is
+certainly a space for the inflation market to watch as the shutdown drags on
+and an example of relative value opportunities that may emerge.”
+The fallback methodology for TIPS is defined by the US Treasury. If there’s
+no October data, then the Treasury will announce a synthetic number
+“based on the last available twelve-month change in the CPI,” which is
+between Sept. 2024 and Sept. 2025.
+For zero-coupon inflation swaps, standard contracts use International Swaps
+and Derivatives Association documentation. If the derivative is not linked to
+a specific bond, ISDA’s fallback calculation would take the October 2024
+figure and grow it by the September 2025 year-on-year change.
+The current government shutdown, now the second-longest in US history, is
+threatening to exacerbate these distortions as investors continue to fly blind.
+While the Bureau of Labor Statistics was directed to recall some staff to
+prepare the September CPI report in a rare exception, all active data
+collection activities have been paused, derailing plans for the October
+figures and possibly beyond.
+Read More: October US Inflation Report at Risk Even If Last Month Salvaged
+The potential use of fallbacks has particular implications for TIPS coupon
+and principal payments scheduled in January. Under Treasury rules, the
+
+amount that investors receive on Jan. 15 of any year is interpolated from
+October and November CPI values.
+However, depending on the methodologies used, the results would be
+different. For October, the TIPS fallback would produce an index reading of
+325.604, greater than the swaps fallback of 325.174, according to Bloomberg
+calculations. If the November reading is also unavailable, the divergence
+widens to 326.411 for TIPS and 324.998 for swaps.
+The TIPS note maturing in January would have an annualized breakeven rate
+of 3.15% compared to 1.76% for the comparable derivative, according to
+Barclays calculations based on there being no October or November CPI
+data.
+“This is a massive wedge between the TIPS breakeven and the matchedmaturity CPI swap,” said Barclays’ Hill.
+The TIPS maturing in January is already richening on a relative basis to
+reflect the potential use of the October fallback, according to JPMorgan
+Chase and Co. strategists led by Jay Barry. That could extend further if the
+November CPI data is also unlikely to be released.
+“In the scenario that the shutdown extends beyond another few weeks,
+which appears increasingly likely, these securities could richen further,” the
+JPMorgan strategists said.
+— With assistance from Elizabeth Stanton
+
+Save
+Contact us:
+Provide news feedback or report an error
+Site feedback:
+Take our Survey
+Confidential tip?
+Send a tip to our reporters
+
+Before it's here, it's on the Bloomberg Terminal
+
+©2026 Bloomberg L.P. All Rights Reserved.
+
+

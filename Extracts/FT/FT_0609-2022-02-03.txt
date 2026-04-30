@@ -1,0 +1,142 @@
+FT PROFESSIONAL
+
+Opinion Unhedged
+
+Quantitative tightening, redux
+And the return of services
+
+ROBERT ARMSTRONG
+
+© Financial Times
+
+Robert Armstrong and Ethan Wu
+Published FEB 3 2022
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+This article is an on-site version of our Unhedged newsletter. Sign up here to get the newsletter
+sent straight to your inbox every weekday
+
+Good morning. As if Spotify needed more problems, the streaming service ate dirt in after-hours
+trading yesterday on a bad subscriber growth outlook. Facebook and PayPal lost as much as a
+quarter of their share prices for similar reasons. Yet Google is doing just fine. Is there a pattern
+here?
+We’ll have more to say on earnings tomorrow. Today we think more about what QT means for
+markets and one big way the economy is returning to normal. Email us: robert.armstrong@ft.com
+and ethan.wu@ft.com.
+
+What happens when the Fed balance sheet shrinks? (part 2)
+Here are some striking comments about how quantitative easing and tightening work, from
+someone who would know. Claudia Sahm of the Jain Family institute is an economist who worked
+at the Fed for a decade. She spoke on a UBS webcast this week about how the US central bank will
+tighten policy given low unemployment and high inflation:
+
+The extra layer of problems here is that the Fed is very uncomfortable with
+the balance sheet. That’s one area where I look at the robust debate among
+the FOMC [Federal Open Market Committee] and I don’t feel so good.
+Because they don’t know why it works or how it works. They don’t have
+enough data points on this working well. They can’t talk about that much in
+public because they don’t want to unsettle markets or themselves . . . lift-off
+[of policy rates] is not the tricky thing here. It’s lift-off in a pandemic, it’s liftoff with a big balance sheet. How do you get out of [the QE] business?
+The Fed does not know how its balance sheet operations affect the economy, and if they don’t
+know, you should consider the possibility that you don’t know, either. The last time we talked
+about this, a few weeks ago, we pointed out how the central bank delicately acknowledged its
+puzzlement in its last set of minutes, writing that “there is less uncertainty about the effects of
+changes in the federal funds rate on the economy than about the effects of changes in the . . .
+balance sheet.”
+
+Sahm continues:
+
+[Markets] are probably going to have to deal with a flatter [rate] path and
+more balance sheet runoff because, regardless of exactly how this works, this
+is a signal from the Fed — ‘we’re walking away from pushing so hard on the
+recovery.’ Because they do believe, and I think it’s pretty clear, that
+quantitative easing, after [policy rates] hit the zero lower bound in 2020, did
+help, whether it was through messaging or whether it was through pushing
+down interest rates . . .
+Whether [balance sheet runoff] is the same thing as a quarter point or 50
+basis point [rate increase] we can argue about till the cows come home. But if
+the Fed wants out of that business . . . that would make a lot of sense.
+To rehearse what we said last time, the standard theory of what happens when the Fed buys or sells
+treasury bonds is that, by changing the supply/demand balance for those bonds, they move yields
+up or down, which encourages/discourages lending and borrowing in the economy. Nice theory,
+but the facts are characteristically uncooperative. When the Fed started tightening last time, in
+2018, rates were near their peak and fell as the central bank shrunk its balance sheet, the opposite
+of what the standard theory would predict.
+There is a somewhat more satisfying story of what balance sheet reduction will do to risk assets.
+The Treasuries that the Fed is not buying have to be bought by someone else. And whoever that is
+will be buying them instead of something else — something such as stocks and corporate bonds.
+John Hussman of Hussman Funds, who catches a lot of hell for being bearish for the last decade
+but brings rare rigour to market analysis, laid out the theory as follows in an email:
+
+[During QE] the Fed purchases Treasury securities that would otherwise be
+held by the public, and pays for them with essentially zero-interest base
+money, which someone in the economy will have to hold until it is retired. As
+the Fed forces people in the economy to hold much more zero-interest
+liquidity than they want or need, they look for alternatives . . . [QE has]
+created trillions of dollars in zero-interest hot potatoes that drive . . .
+investors to chase yield in more speculative assets. Yet every time some
+buyer uses the cash to buy a security, the seller ends up holding the damned
+stuff.
+What happens when the Fed runs off the balance sheet? . . . somebody is
+being relieved of zero-interest but low-risk base money in return for an
+interest-bearing but higher risk Treasury security. This doesn’t necessarily
+drive the level of interest rates higher. But let’s be clear — it does finally
+make someone happy with what they’re holding. And as the pile of zerointerest hot potatoes is reduced, so finally may the deranged level of yieldseeking speculation.
+This “hot potato” theory of the Fed’s balance sheet has an interesting consequence.
+Michael Howell of CrossBorder Capital summarises the theory like this: when there is less liquidity
+in the system, there is more risk, and more risk aversion. The main reason for this is that when
+there is a lot of cash around (Hussman’s “zero-interest base money”) it is easy to refinance
+maturing debts, something that is always a primary concern in a heavily indebted economy. When
+liquidity declines, it becomes harder for weak companies to refinance. Some default. Credit spreads
+widen. Investors worry and look for lower-risk assets — paradigmatically, those very same
+Treasuries the Fed is selling.
+
+This increased demand drives Treasury prices up and yields down, the opposite of what the
+standard theory would suggest. As Howell puts it, “Yes, when [the Fed] is actively buying or selling,
+that pushes yield down or up, but when you look at the longer term, the liquidity effect is
+dominant.”
+This seems paradoxical: Fed creates demand for Treasuries by selling them. But the crucial point is
+that when the Fed sells a Treasury, it literally destroys the money it takes in, reducing system
+liquidity.
+Is the market pricing in the possibility that quantitative tightening might push yields down?
+
+One goods (and services) read
+At risk of repeating a cliché, the pandemic packed a decade’s worth of change into a few months.
+No, really, look:
+
+Between February and May 2020, the ratio of goods to services bought by US consumers wiped out
+more than a decade of declines. This has been pointed out many times, and for good reason: the
+huge shift of demand to goods is very inflationary.
+
+We are finally seeing some clear signs of normalisation. December data came out last week
+showing consumers moving back from goods to services — and suggesting a similar move in
+November was not a blip. In durable goods, a big pandemic anomaly (think Peloton), the reversion
+was especially sharp. The chart below shows what fraction of consumer goods bought were durable
+goods:
+
+There is chatter that more normal demand for goods is a bellwether of lower inflation, a case our
+colleague Martin Sandbu has forcefully made. We don’t know. All we’d point out is that coupled
+with the now-fully normalised personal savings rate, two of the biggest economic dislocations of
+the pandemic are fading. That surely means something for markets. Readers are invited to send
+their prognoses our way. (Ethan Wu)
+
+One good read
+A hacker known as P4x was himself the victim of an attempted hack by the North Korean
+government. He did not like this. So he shut down the country’s internet.
+
+Recommended newsletters for you
+Due Diligence — Top stories from the world of corporate finance. Sign up here
+
+Swamp Notes — Expert insight on the intersection of money and power in US politics. Sign up
+here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Robert Armstrong
+Unhedged
+Covid-19
+US quantitative easing
+Markets
+
+

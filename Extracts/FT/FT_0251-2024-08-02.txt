@@ -1,0 +1,121 @@
+FT PROFESSIONAL
+
+Opinion US interest rates
+
+A US recession is not off the table yet
+A bigger rate cut than the Fed envisages may be warranted in September
+
+TEJ PARIKH
+
+Seemingly ‘strong’ numbers, such as consumption figures, belie a weaker underlying economy © Bloomberg
+
+Tej Parikh
+Published AUG 2 2024
+
+Jay Powell is keeping calm about the US economic outlook — perhaps overly so. The Federal
+Reserve opted to hold interest rates at its midweek meeting, though it adjusted its tone, citing
+moderating job gains and rising unemployment as signs of a cooling economy. That opens the door
+to cuts in September.
+The problem is that weakening activity tends to feed off itself, meaning a cooling economy can
+quickly turn into a recessionary one. Has the Fed left it too late?
+
+Since May, US economic data has indeed started to surprise to the downside, according to Citi’s
+Economic Surprise Index. But, signs of America’s slowdown had been emerging well before the
+Fed’s recent change in emphasis. Full-time household employment started weakening towards the
+end of 2023, credit card delinquencies rose above pre-pandemic levels around then, too.
+
+That the US avoided a forecasted recession in 2023 has helped keep faith in an economic softlanding this year — and has perhaps contributed to favourable interpretations of data. Take the
+above-expectation economic growth figures for the second quarter. The 2.8 per cent annualised
+rate was taken as evidence that the US economy is in fine fettle. But dig deeper, and you see the
+flaws.
+Government spending — backed by a hefty deficit — has helped prop up growth. Jobs have been
+bolstered by a public sector hiring spree, too. What about consumer expenditure? Break it down
+and the largest spending contributions come from essentials such as rents, utilities, health and
+food rather than discretionary stuff. Consumption growth is outpacing income as well. Indeed,
+seemingly “strong” numbers belie a weaker underlying economy.
+
+Leading economic indicators look troubling, too. The ISM manufacturing New Orders Index is in
+contraction territory, and has been a decent signal for a recession in the past. Jobless claims rose to
+an 11-month high last week, small businesses have been cutting hiring plans, and many consumerfacing companies have recently recorded earnings misses.
+
+Slowing economic activity could prompt a wider correction
+S&P 500 index
+
+ISM New Order
+
+6,000
+
+120
+
+4,000
+
+80
+
+2,000
+
+40
+
+0
+2000
+
+2005
+
+2010
+
+2015
+
+2020
+
+2024
+
+0
+
+Sources: Haver Analytics, ISM manufacturing • US recessions shade
+
+The proximate cause is the Fed’s interest rate policy. The Committee debated cutting rates at its
+July meeting, and could end up lamenting not doing so. Annual US inflation — measured by the
+Fed’s preferred benchmark of the personal consumption expenditures index — came within 0.5
+percentage points in June of the central bank’s 2 per cent target. Price pressures are also on a
+downward trend: the jobs market is cooling, and wage growth is easing.
+
+A precautionary cut midweek would not have equated to a substantial easing either. Many
+households and businesses will still face steep borrowing costs if they have to refinance fixed-rate
+loans coming up for renewal. The question is whether they should face current peak rates, or
+something slightly lower, in line with easing demand. For measure, Goldman Sachs recently
+estimated the median optimal interest rate, based on various monetary policy rules, to be closer to
+4 per cent. All this points to the Fed pressing too hard on the brakes, for too long.
+
+Market signals are looking ominous, too. Based on the slope of the curve of bond yields over time,
+which has been an unreliable indicator recently, the New York Fed estimates an above 50 per cent
+chance of a recession in the coming year. Stock valuations appear stretched, too. Indeed, the
+concentration of the S&P 500 index — with the magnificent seven tech stocks making up more than
+30 per cent of its value — makes it vulnerable to a correction in the bullish AI narrative.
+
+Some argue that rate cuts would only encourage an asset bubble. The prospect of rate cuts may in
+part support equities, but the S&P 500’s relentless upward march has recently wobbled as
+investors begin to question whether AI can deliver the revenues needed to cover the hefty capital
+investment currently being committed. That has happened even though rates cuts are coming into
+view.
+
+The problem is that by September the Fed may realise that demand has been overly restrained. It
+may then need to front-load more cuts — punting for a 0.50 percentage point reduction, instead of
+a 0.25 point cut. That would worry equity markets.
+This may seem unlikely now, but the economy does not slow in a linear manner. The loss of
+economic momentum, which has been happening for longer, and is deeper, than many seem to
+appreciate can become a self-reinforcing spiral. Joblessness, delinquencies and bankruptcies can
+suddenly spike, and a market priced for a soft-landing could quickly unwind. The recessionary
+warnings are flashing, they should not be taken lightly.
+tej.parikh@ft.com
+
+Follow Tej Parikh with myFT and on X
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Tej Parikh
+Global Economy
+US interest rates
+US employment
+Federal Reserve
+
+

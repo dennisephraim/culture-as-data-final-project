@@ -1,0 +1,158 @@
+FT PROFESSIONAL
+
+Opinion Unhedged
+
+The case for a Fed rate cut
+And against alternative investments
+
+HAKYUNG KIM AIDEN REITER ROBERT ARMSTRONG
+
+© FT montage
+
+Robert Armstrong, Aiden Reiter and Hakyung Kim
+Published JUN 6 2025
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+This article is an on-site version of our Unhedged newsletter. Premium subscribers can sign up
+here to get the newsletter delivered every weekday. Standard subscribers can upgrade to
+Premium here, or explore all FT newsletters
+
+Good morning. The US trade deficit fell 55 per cent in April, according to the commerce
+department. There was a noticeable uptick in exports, but the overall decline was mostly due to a
+drop in imports — pharmaceutical and gold bullion imports, in particular. Remember the
+argument that last quarter’s negative GDP reading would net out later this year, as tariff frontrunning recedes? That seems to be happening. Email us: unhedged@ft.com.
+
+Rate cuts
+In December, the Federal Reserve made it clear that its rate-cutting cycle was on hold until the
+inflation and employment outlooks became clearer. Six months since that declaration, a strong
+case is emerging that the Fed should start cutting again — not necessarily at its June meeting, but
+soon. Today’s jobs report, which many are speculating will be weak, could strengthen that case.
+So far, the Fed has had every reason to stay put. The inflation data has been on a slow downward
+trend. The labour market has held up well and even surprised to the upside on occasion. And
+despite reams of bad sentiment readings, there is still very little evidence of inflationary impacts in
+the hard data due to Donald Trump’s tariffs.
+That could just be a matter of time, however. While soft data is not as predictive as it once was,
+according to Guneet Dhingra, chief US rates strategist at BNP Paribas, the soft data has continued
+to weaken. And it is suggestive of the outcome the central bank fears the most — stagflation. Just
+this past week, ISM services slipped into contraction, with falling new orders and prices way up,
+building on a multi-month ascent. The ISM manufacturing picture was similar: new orders
+dropped, and prices continued rising.
+
+All the same, a growing chorus says that the Fed should look through any inflationary impact of
+Trump’s policies. At a conference this week, Federal Open Market Committee member Christopher
+Waller laid out his case for transitory tariff inflation:
+
+Given my belief that any tariff-induced inflation will not be persistent and
+that inflation expectations are anchored, I support looking through any tariff
+effects on near-term inflation when setting the policy rate.
+Waller also emphasised that the market’s expectations of inflation should be given more weight
+than survey data. And the inflation swap market shows that inflation expectations are cooling:
+
+If persistent inflation or unanchored expectations are not in the offing, that gives the Fed more
+room to cut at the first whiff of trouble in the job market. That whiff could come in today’s report.
+The ADP employment report from earlier in the week was cold: the private sector added only
+37,000 jobs in May, well below expectations. It’s a temperamental series, but there are signs of
+weakness elsewhere, too. A rising number of people are either shifting from being jobless but not
+looking, to looking but not finding, or shifting from employed to unemployed. This was also the
+trend ahead of previous slowdowns. Chart from Troy Ludtka at SMBC Nikko Securities America:
+
+If today’s jobs numbers come in on the weak side, and if inflation continues to trend down in the
+face of tariffs, a cut in July makes sense.
+(Reiter)
+
+‘Alts’
+Richard Ennis thinks that having alternative investments in your portfolio is a big mistake. And
+that “your” doesn’t just cover individual investors, the usual targets of the standard “allocate,
+index, rebalance and relax” advice. He thinks even the most sophisticated pension and endowment
+fund investors are hurting their returns badly by owning hedge funds, private capital, real estate,
+venture capital, and so on.
+Ennis — whose credentials include founding and selling his own institutional investment fund
+advisory, and serving as editor of the Financial Analysts Journal — lays out his case in a new paper
+called, categorically, “The Demise of Alternative Investments”. He argues that while 35 per cent of
+public pension money and 65 per cent of endowment money is invested in alternatives (“alts”), this
+is mostly down to conflicts of interest and poor incentive structures among fund managers and
+consultants, not risk-adjusted investment performance. For the past 15 years or so, that
+performance has been terrible for alts of all flavours.
+
+There are two legs to his argument: quantifying the high costs of alts, mostly by marshalling
+previously published research; and then using a new statistical analysis to show a strong
+correlation between higher exposure to alts and weaker investment performance.
+For private asset costs, Ennis turns to a paper from Wayne Lim, based on a large database of fee
+data from an investment adviser, which lays out the difference between gross- and net-of-fee
+internal rates of return for various alt strategies. Here is a table of Lim’s appalling findings:
+
+For hedge funds, the news is bad, too: the academic research Ennis cites finds annual costs
+averaging more than 3 per cent of assets.
+The challenge comes in showing that the returns from alts do or do not justify the very high costs.
+“There is no reliable source for asset-class-level return data for institutional investors” because
+disclosure is sporadic and of poor quality, said Ennis. The indices meant to track alt investment
+results are uninvestable, “hypothetical and nebulous”. As an aside — I’m amazed by the lack of an
+industry standard reporting protocol for both funds and money managers. I asked Ennis why there
+isn’t one. “This is a huge problem,” he said. “No one is setting standards. The CFA Institute has
+been a big disappointment in this regard. There simply is no incentive to create the type of resource
+you describe.”
+
+What we do have, however, are databases that include pensions’ overall performance and their
+exposure to various categories of alts. Ennis ran a regression on the returns on alt exposure using
+two large databases, one for pension funds and one for endowment funds, covering 2016 to mid2024. He then compared the aggregate results of the funds in the databases to a “market portfolio”
+of public indices with the same equity and bond mix and same volatility of returns as the funds.
+The pension funds underperform the market portfolio by almost 1 per cent a year, and the
+endowments by more than 2 per cent.
+Much or all of the reason for the underperformance appears to be exposure to alts. Regressing
+performance and alt exposure renders a statistically significant slope coefficient of -0.071; for every
+extra percentage point of exposure to alts, annual performance falls by a bit more than 7 basis
+points. Here’s Ennis’ scatter plot, with each blue dot representing a pension fund and each green
+diamond, labelled one to five, representing cohorts of endowments of ascending size:
+
+Ennis also breaks the performance down by exposure to various types of alts. Real estate fares
+particularly badly; he suggested to me that funds stick with it simply because “people are suckers
+for real estate investments. Think Canary Wharf, Cadillac Fairview, etc. Real estate is tangible and
+can have tremendous sex appeal.”
+Why, given the wretched recent record, do fund trustees and managers keep trusting alt managers
+with their money? Chief investment officers and consultants can earn higher pay and look clever by
+backing complex strategies. They also pick their own benchmarks, gravitating towards bad
+benchmarks that allow the poor performance of alts to appear acceptable, Ennis argues.
+I would propose another explanation: that fund trustees and managers just want an easy life. So
+they will go with the money managers that can handle multibillion-dollar cheques easily, deal
+smoothly with reporting and tax requirements, don’t screw up anything massive, and have good
+reputations and high name recognition. So the big managers, with the sophisticated back-office
+systems and marketing operations, win the mandates. And the big managers are no fools, so they
+always push the highest-fee products. The pensions and endowments industry (like most
+industries) is fundamentally lazy and inert, in other words. So it defaults to buying whatever the
+big asset managers feel like selling. But this is mostly just speculation on my part.
+The strongest objection I can think of to Ennis’ argument is that the past 15 years in markets have
+been anomalous. Risk assets, and particularly big US stocks, have just gone up like crazy. In such
+an environment, the hedging strategies and uncorrelated returns of alts are a pure drag on
+performance. If we return to a more unforgiving market environment, alts will prove their value
+once again.
+I don’t quite buy this. If Ennis’ numbers are even mostly right, the recent drag on performance
+from alts has been so large that it would take staggeringly good results in the next market cycle to
+make up for it. The burden of proof is squarely on the side of alternative investment managers and
+their fans in the pension and endowment world.
+(Armstrong)
+
+One good read
+The boss.
+
+FT Unhedged podcast
+Can’t get enough of Unhedged? Listen to our
+new podcast, for a 15-minute dive into the
+latest markets news and financial headlines,
+twice a week. Catch up on past editions of
+the newsletter here.
+
+Recommended newsletters for you
+Due Diligence — Top stories from the world of corporate finance. Sign up here
+The Lex Newsletter — Lex, our investment column, breaks down the week’s key themes, with
+analysis by award-winning writers. Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Hakyung Kim
+Aiden Reiter
+Robert Armstrong
+Unhedged
+Asset management
+
+

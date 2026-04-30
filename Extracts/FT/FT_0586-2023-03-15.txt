@@ -1,0 +1,82 @@
+FT PROFESSIONAL
+
+Markets
+
+Turbulence strains interest rate markets as traders bet on Federal Reserve cuts
+Dramatic moves force futures halt while investors resort to phones to arrange big deals
+
+Futures markets suggested the Federal Reserve could begin to reduce interest rates as soon as June © Reuters
+
+Kate Duguid in New York and Colby Smith in Washington
+Published MAR 15 2023 | Updated MAR 15 2023, 15:09
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+Investors have rapidly increased bets that the Federal Reserve will cut US interest rates this year in
+a frenzied day of trading that strained the functioning of markets.
+The turbulence was such that the main US futures exchange temporarily halted trading in certain
+interest rate contracts. Traders backing away from risk widened the gap between prices offered and
+bid for US Treasury securities. Deals in the $22tn Treasury market — the deepest and most liquid
+in the world — took longer and were more expensive to execute.
+
+The market moves on Wednesday came a week before the Fed is scheduled to decide on interest
+rate levels at its next monetary policy meeting after months of increases in the past year. Many
+bond traders now expect the Fed will not raise rates though some still see a chance of a 0.25
+percentage-point increase as it battles stubborn inflation, according to pricing in futures markets.
+Expectations of a half-point increase prevailed in markets as recently as last week.
+Pricing in futures markets suggested that the Fed could begin to cut rates as soon as June by a
+quarter point and deliver further reductions to bring the central bank’s benchmark rate down to
+3.9 per cent, which would be more than 1 percentage point lower than an expected peak of 4.9 per
+cent in May.
+Rate expectations have changed in the past week after failures of Silicon Valley Bank and two
+others in the past week triggered fears of a broader banking crisis.
+Quickly shifting rate projections triggered price fluctuations that forced exchange operator CME
+Group to halt trading for two minutes in certain contracts linked to the Sofr borrowing benchmark
+and federal-funds futures markets. Trading has since resumed.
+“There is a circuit breaker that gets tripped if those futures move more than 50 basis points, and
+that happened this morning,” said Tom Simons, money market economist at Jefferies.
+Traders said such a halt was rare, as these interest rate futures markets tend to move in small
+increments based on signals from the Fed and official data.
+The yield on the two-year Treasury note, which is more sensitive to interest rate expectations, fell
+0.27 percentage points on Wednesday to 3.98 per cent. It has plunged from more than 5 per cent
+last week in moves not seen since the late 1980s.
+The 10-year Treasury note yield fell 0.21 percentage points to 3.4 per cent. Bond yields move
+inversely to prices.
+“Some market participants were looking for the Fed to keep hiking until something broke. The
+question now is, was this it?” said Michael de Pass, global head of linear rates trading at Citadel
+Securities, referring to the bank sell-off.
+
+Swings in the Treasury market were big enough to widen the spread between bids and offers for
+Treasuries, making it more difficult to buy and sell the securities.
+“Liquidity is off and has the possibility to deteriorate further,” said Michael Lorizio, a fixed-income
+trader at Manulife. “It makes sense that given the volatility, bid-ask spreads have widened.”
+The cost to make trades has increased, though investors were still saying it was possible to get deals
+done. One portfolio manager said: “We’re doing trades of any size on the phone and negotiating
+prices more carefully. Going to the screens to execute electronically is painful.”
+While some of the shift in futures markets is linked to expectations for Fed policy, traders said it
+was also likely to reflect the unwinding of leveraged positions that had been building up since the
+start of the year.
+“Speculators had been the shortest on bonds they had been in some time,” said Simons. “Now
+we’ve had a risk event and it has been a scramble to cover those positions.”
+That build-up was reflected in data from the Commodity Futures Trading Commission, which
+showed the largest ever short position — a bet on higher rates — in two-year Treasuries in midFebruary. The CFTC data is typically released weekly but has been delayed due to a recent cyber
+attack on Ion Markets, a financial technology group that serves derivatives markets.
+Rate expectations first began to shift after concerns mounted over the fate of Silicon Valley Bank
+late last week. They dropped further on Wednesday after Credit Suisse said its largest shareholder
+would not provide the Swiss bank with more capital.
+Meanwhile, the US reported that producer prices fell 0.1 per cent in February, versus expectations
+for a small increase. Wednesday’s report tempered news from Tuesday that US consumer prices
+continued to rise, inflation data that puts pressure on the Fed raise rates further.
+“If we take a step back, the Fed has done a fair amount in terms of the hiking cycle. And you look at
+when the hiking cycle started, we’re now at the point where you’d really expect the effects of the
+hikes to kick in earnest,” said de Pass at Citadel Securities.
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+US Treasury bonds
+US economy
+Derivatives
+US interest rates
+Futures contracts
+
+

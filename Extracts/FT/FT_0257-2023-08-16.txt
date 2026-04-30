@@ -1,0 +1,149 @@
+FT PROFESSIONAL
+
+Transcript
+
+A year of the Inflation Reduction Act
+China sends finance experts to tackle regions’ debts
+
+Sonja Hutson, Sun Yu and Amanda Chu
+Published AUG 16 2023
+
+This is an audio transcript of the FT News Briefing podcast episode: ‘A year of the Inflation
+Reduction Act’
+Sonja Hutson
+Good morning from the Financial Times. Today is Wednesday, August 16th, and this is your FT
+News Briefing.
+[MUSIC PLAYING]
+
+Investors were not happy. Consumer spending in the US beat expectations, and Beijing and local
+governments are squaring off over debt. Plus, it’s been a year since the US passed major clean
+energy subsidies. The FT looked into what states are benefiting the most. I’m Sonja Hutson, in for
+Marc Filippino, and here’s the news you need to start your day.
+[MUSIC PLAYING]
+US stocks hit a five-week low yesterday. Bank shares fell after comments by an analyst from Fitch.
+They said the agency is considering lowering the credit ratings of multiple lenders. Investors were
+also concerned by strong US retail sales data that came out yesterday. That signalled that the
+economy is resilient, which could mean that the Federal Reserve will keep interest rates higher for
+longer.
+[MUSIC PLAYING]
+There’s a growing unease about public finances in China. Local governments are struggling with
+high levels of debt. So Beijing has sent out debt squads to deal with the overleveraged regions. I’m
+joined now by the FT’s China economics reporter, Sun Yu. Hey there.
+Sun Yu
+Hi.
+Sonja Hutson
+So tell me about these debt squads. What exactly are they doing?
+Sun Yu
+It’s basically the regulators, which would include the central bank, and the idea is for them to send
+a group of professionals to local governments and to work with them to figure out just how serious
+the problem is. Because many local authorities have accumulated not only the debt that’s on the
+balance sheet, but also the off-balance sheet debt as well.
+Sonja Hutson
+So why has this debt become such an issue for the central government?
+
+Sun Yu
+Local authorities have borrowed so much over the past few years. The expectation is that they
+borrow a lot, and they will be able to repay the debt by either selling the land or generating more
+tax revenue. But the situation has changed to the extent that China’s real estate market has
+basically plunged and there’s no sign that it will recover to the previous high. And that’s making it
+very difficult for the local authorities to sell land. Secondly, the dramatically declining domestic
+demand means that the local governments are finding it harder to keep the tax revenue, and that
+means they have to count on the central government to solve the problem.
+Sonja Hutson
+Is the debt straining the relationship between the central government and these local
+governments?
+Sun Yu
+So the central government has made it clear that each local government, whether on a provincial or
+city level, should try to resolve the debt problem on their own. So here comes the tension, right?
+Basically, the central government would like the local authorities to sell assets or to raise capital on
+their own. By contrast, the local governments are asking the central government to either issue
+Treasuries or to have centrally owned policy banks issue low-interest loans to bail out local
+authorities. And that’s something that the central government is very reluctant to do.
+Sonja Hutson
+What are you going to be looking out for next?
+Sun Yu
+I think it’s becoming pretty obvious that this debt problem will not be solved without a rescue plan
+from the central government. Local authorities are simply can’t resolve the problem on their own.
+So it will be worth watching, (a) what the actual implementation or enforcement plan will be and,
+(b) whether the central government will provide real money to solve the problem.
+Sonja Hutson
+Sun Yu is the FT’s China economics reporter. Thanks so much.
+
+Sun Yu
+Thank you.
+[MUSIC PLAYING]
+Sonja Hutson
+In the US, it’s been about a year since Democratic president Joe Biden signed two pieces of
+landmark legislation into law. The Inflation Reduction Act and the Chips and Science Act provide
+subsidies for clean energy projects and semiconductor manufacturing. Companies have announced
+several large projects since then, and the FT has been tracking where they’ve ended up. Eighty per
+cent have gone to Republican-controlled areas. The FT’s Amanda Chu has been reporting on this,
+and she joins me now. Hey, Amanda.
+Amanda Chu
+Hi, How are you?
+Sonja Hutson
+Doing well, thanks. So why do we care about the political leanings of the areas where this
+investment is headed?
+Amanda Chu
+It’s a really big deal because both of these laws received very little support from the Republican
+party. And so, one, it’s going to present a growing conundrum for Republicans as they want to
+welcome these projects and these jobs in their own districts. But in Washington, they are launching
+efforts to repeal or water down pieces of the IRA. The second part of it is that Biden is really sort of
+struggling to take credit for these projects and jobs. He was on a tour this summer to
+manufacturing sites across the country, often attacking the GOP lawmakers in those districts for
+voting against the bill that helped spur these projects.
+Sonja Hutson
+I mean, why is there such a huge disparity about where this money is going? I mean, 80 per cent is
+going into these Republican districts. That’s a huge number.
+
+Amanda Chu
+It’s surprising, but it’s also unsurprising because when you think about the industrial areas of the
+US, places where you can find lots of cheap available land, cheap labour, it’s often in rural, often
+conservative areas. At the same time, though, a lot of Republican districts are also working actively
+to compete for these projects, offering very lucrative incentive packages to try to win projects to
+their state.
+Sonja Hutson
+So it seems like Republicans are walking kind of a fine line here. How are they deciding to message
+this? Have they figured it out yet?
+Amanda Chu
+I don’t think that they’ve figured it out yet. The one that comes most to mind is Georgia’s governor,
+Brian Kemp. Georgia’s a leading state in terms of securing these manufacturing projects. Governor
+Kemp has been very critical of the IRA since its passage. But at the same time, he said that he
+wants Georgia to be the electric vehicle state of the country. And it really does look like an electric
+vehicle is going to emerge in the south-east of the US. And so I don’t think that there really is a
+playbook yet for how to navigate this discussion.
+Sonja Hutson
+Do we have a sense of how voters are viewing the Inflation Reduction Act and the Chips Act and
+the local investment happening in their areas?
+Amanda Chu
+Yes. So when it comes to voter awareness, a recent poll that came out last month from the
+University of Maryland and The Washington Post, I think, found that less than half of voters were
+aware of the IRA and that, you know, most voters disapprove of president Biden’s climate record,
+even though he passed arguably the most significant piece of climate legislation in US history. And
+so it really hasn’t trickled down into voters’ mindsets.
+Sonja Hutson
+That’s the FT’s Amanda Chu. Thanks, Amanda.
+
+Amanda Chu
+Thanks.
+[MUSIC PLAYING]
+Sonja Hutson
+Before we go, Pink Floyd has struck a chord with neuroscientists. Researchers at the University of
+California, Berkeley, reconstructed the song “Another Brick in the Wall”, using brain waves of
+people listening to it.
+[AUDIO OF ‘ANOTHER BRICK IN THE WALL (PART 1)’ RECREATED FROM NEURAL
+SIGNALS PLAYING]
+Sonja Hutson
+So not exactly a perfect recreation, but the breakthrough could help people who can’t talk
+communicate better. Right now, devices that speak for people tend to have a kind of robotic
+quality. That’s because they vocalise words one by one. The hope is that newer devices will speak
+with more human tone and rhythm, even if they’re not singing.
+[MUSIC PLAYING]
+You can read more on all these stories at FT.com for free when you click the links in our show
+notes. This has been your daily FT News Briefing. Make sure you check back tomorrow for the
+latest business news.
+[MUSIC PLAYING]
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+

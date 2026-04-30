@@ -1,0 +1,365 @@
+FT PROFESSIONAL
+
+Transcript
+
+What is Bidenomics and is it working?
+A shift in policy that is changing America and the wider world
+
+Gideon Rachman
+Published SEP 21 2023
+
+This is an audio transcript of the Rachman Review podcast episode: ‘What is Bidenomics and is it
+working?’
+[MUSIC PLAYING]
+
+Gideon Rachman
+Hello and welcome to the Rachman Review. I’m Gideon Rachman, chief foreign affairs
+commentator of the Financial Times. Our subject this week is Bidenomics. The future of the
+American and global economies and President Biden’s chances of re-election may hang on the
+success or failure of the super-ambitious industrial and economic policies launched by the Biden
+administration. My guest is Brian Deese, who is director of the National Economic Council in the
+Biden White House, was a key architect of Bidenomics. He’s now a visiting professor at MIT. So
+what are the aims of Bidenomics and is it working?
+Joe Biden
+Folks, my economic plan is about investing in places and people that have been forgotten. It’s
+about making things here in America again. It’s about good jobs. It’s about the dignity of work. And
+it’s about damn time we’re doing it.
+Gideon Rachman
+That was President Joe Biden in a campaign advertisement that gives a strong flavour of the
+presidential election campaign that lies ahead over the coming year. But Bidenomics is
+controversial, both at home and abroad. Opinion polls suggest that most Americans currently think
+the US economy is doing badly and many American allies are concerned that the White House’s
+program of subsidies and tariffs to foster American industry will come at their expense. So is
+Bidenomics in trouble or is it just getting started? There’s no one better to consult on that subject
+than Brian Deese, who was crucial in designing and implementing this radical turn in American
+economic policy. I began our conversation by asking Brian Deese about the motivation for
+Bidenomics. Is it an attempt to deal with the economic discontents that led to the rise of Donald
+Trump?
+
+Brian Deese
+Look, I think a big part of the theory and the push behind this whole effort was a view that the
+basic trickle-down strategy of focusing on reducing tax rates, reducing regulation, and hoping that
+those benefits would flow through left big gaps. Gaps in our economic growth and prosperity, gaps
+in the economic geography of the country at big parts of the country feeling left behind. And it also
+left decades of deferred maintenance in key drivers of productivity in our economy. Our
+infrastructure has fallen way behind other countries, not just physical infrastructure, but our
+digital infrastructure, for example, we’re running behind other major economies in terms of
+deployment of broadband and other drivers of productivity. And that our country needed a big
+infusion of public investment designed to try to unleash private investment and increase our
+productive capacity. You know, at core, that was the motivation behind the strategy and it was the
+motivation for prioritising infrastructure and doing infrastructure first. You know, we talk a lot
+about the Inflation Reduction Act. I’m quite proud of what we were able to do there. But the first
+piece of the legislation equivalent in size that we passed was an infrastructure bill really designed
+to go at driving productive capacity in that space, but again, using similar tools, using public
+investment as the tool.
+Gideon Rachman
+So clearly some of this was designed to win back Trump voters. But how much continuity do you
+think there is with some of what Trump was doing? After all, he talked about the need to reindustrialise America, use the very evocative phrase, American carnage. Biden seems to have taken
+that on board and that re-industrialisation is a big game. And also Trump really changed the
+dialogue on China. He imposed tariffs on China, which the Biden administration have not
+withdrawn. So for all the obvious immense hostility between the two camps, is there continuity
+between Biden and Trump?
+
+Brian Deese
+I think there’s areas of overlap, but there’s much for difference and there is continuity. I think you
+have to break this down between substance and rhetoric. On the substance, the most significant
+policies that the Trump administration put in place were the 2017 tax cut and a broad effort to
+deregulate industry across the board, whether it was financial services or tech or energy. And in
+that sense, the Trump administration’s strategy was more traditionally trickled down. The tax cut,
+which is the most significant substantive policy that they put in place, was a $2tn tax cut unpaid
+for, designed to try to wait tax cuts to those at the upper end of the spectrum and reduce the
+corporate tax rate with the theory that that would increase investment and increase productivity in
+the economy. On that substantive score, the Biden administration’s strategy really is a stark break,
+sort of a reaction to a trickle-down type approach. Rhetorically, I think that the idea of trying to
+bring economic opportunity back to parts of the country that have felt left behind is something
+where there is more of a throughline. I think, in practice, part of what has happened in the Biden
+administration is actually delivering on things that were talked about a lot in the Trump
+administration and fairly in prior administrations, too, but we didn’t actually deliver on. So if you
+look at infrastructure, you look at semiconductors, those are things where there was a lot of
+discussion and a lot of deliberation and a lot of rhetoric behind the idea that we should do
+something about that. I think the key difference in the first two years of the Bush administration is
+that there was actual concrete action on those. And in those cases, bipartisan. You know, durable
+bipartisan action to try to deliver on infrastructure, deliver on semiconductor. So, look, I think that
+there’s a throughline in some important themes, but really big differences in terms of the policy
+approach.
+Gideon Rachman
+So what is Bidenomics?
+
+Brian Deese
+Well, look, I think the term has taken on a lot of different elements. To me, it’s a description of
+what are the three core economic policy priorities of the Biden administration that have played out
+over the course the last two years. The first being prioritising a strong labour market recovery,
+which we’ve seen from this crisis. The second being trying to prove out the theory that the US can
+actually build a long-term public investment campaign against productive sectors of the economy.
+That’s what has been, I call it, at least an industrial strategy. And the third is basically
+reinvigorating a historical tradition in the United States of more vigorous competition policy and
+enforcement of antitrust laws. Across all three of those, you see a kind of an economic thread
+around trying to shape markets and make markets work more effectively for increasing
+productivity growth and generating more equitable growth. That’s how I think about it in
+substance. And obviously, there’s politics involved, too, but that’s how I think about it.
+Gideon Rachman
+Let’s talk a little bit about the politics, because described in those terms, it all sounds quite
+reasonable, but it’s a big and radical break, isn’t it? With 50 years or 40 years of, let’s say, fair
+economics. So why was it felt necessary to do this now?
+
+Brian Deese
+Well, I think that the changes in many cases are more of degree than fundamental break, which is
+why I describe it the way that I did. The Biden administration’s response to the Covid crisis in
+many ways extended the bipartisan responses that came before it. The push around public
+investment campaign is in places quite novel, but in other places quite consistent with what many
+have tried to get done, like, for example, investment in public infrastructure. But it’s been more
+difficult to get it done politically. And the rejuvenation of competition policy is new in the last 30
+years, last 40 years, but it’s not new in the last 100 years. So if you look back in the first half of the
+last century, it was a big hallmark of American economic policy. So the why now, I think, is because
+we have acute immediate crisis. The Covid crisis precipitated a lot of thinking about how to
+approach economic policy, but it also revealed longer-term structural challenges the brittleness of
+our supply chains, the degree to which geopolitics was shifting, the priority we needed to place on
+different economic policies. So I think a lot of these were born out of the crisis. Put together, there
+is real ambition in this economic strategy that we haven’t seen in some time.
+Gideon Rachman
+You talk about industrial strategy, others talk about industrial policy. Those words were pretty
+unsayable in the White House, weren’t they? Even 10 years ago when you were working there in
+previous administrations? Industrial policy was not really a fashionable idea.
+
+Brian Deese
+It was like, I’m reading my kids Harry Potter and it’s like industrial policy was Voldemort, the word
+that you cannot say. Look, I talk about an industrial strategy and I choose those words explicitly
+because I think it goes to actually understanding what it is that the US has put in place across three
+big pieces of legislation: infrastructure, semiconductors and the Inflation Reduction Act. Which
+really is a theory about long-term public investment focused on areas of the economy where the
+private sector on its own is not gonna generate enough output, enough capacity to meet our
+economic and national security goals. And it’s targeted in those three areas, in infrastructure, in
+innovation, in microelectronics and in clean energy. Viewed in that way, an industrial strategy,
+again, goes back to some of the more historical ways of thinking about that, more Hamiltonian in
+terms of the way Hamilton, at the beginning of the founding of our country, laid out the need for an
+industrial strategy. I think part of the reason why people have been more hesitant to use the word
+industrial policy is it has been used as a way to cast a negative shadow over a broad array of public
+investments that are not only necessary but way overdue in our economy. So, yes, it has been out of
+favour. Yes, there’s now a big semantic debate around words. I think in the core policies, that’s
+what they’re doing. It’s about public investment to try to crowd in private capital in those three
+areas.
+Gideon Rachman
+And how much was this driven by the climate crisis? The sense that the market just wouldn’t
+provide the kinds of investments that were necessary?
+
+Brian Deese
+Well, I think the climate crisis drove this in two important ways. The first was the recognition of
+the market failure that you described, which is very clear. And it’s been screaming out increasingly
+that the market on its own is not going to actually meet sufficient supply of zero carbon energy that
+the world needs. But the second way was that we have been focused for many years in climate
+policy around a strategy about how to make pollution more expensive, and that that was seen as an
+elegant way of trying to address the climate crisis. There is another strategy which is about making
+zero carbon technologies cheaper. And we determined that the political economy in the United
+States was such that the only way we could meet the level of ambition that we need to address the
+climate crisis, was to focus on a strategy to try to make zero carbon technologies cheap as quickly
+as possible. And so that is a lot of the theory behind the Inflation Reduction Act to try to use public
+investment to drive down the cost of deployable clean energy technology. And yes, the urgency of
+that and the scale necessary is a big part of this strategy itself.
+Gideon Rachman
+So do you think the Inflation Reduction Act was actually a bad name? I think Biden has suggested
+as such and others have said, well, this was basically a climate bill which was dressed up as an
+inflation bill.
+Brian Deese
+Well, look, the Inflation Reduction Act had multiple components. We don’t talk about the reforms
+in prescription drug pricing that are gonna help to reduce spending in Medicare. We don’t talk
+about the reform to the US corporate tax system to establish a 15 per cent minimum tax and to tax
+companies based on their book income not their tax income. Those are important reforms and
+those are reforms that were designed to try to lower spending and increase tax revenue in the US
+economy. But those were connected together with the clean energy pieces of the Inflation
+Reduction Act, which on its own should be described as the most significant effort in the United
+States ever to combat climate change by investing in driving down the cost of clean energy
+technologies. You know, as often is the case, we tried to accomplish multiple things in an individual
+piece of legislation. But if we’re talking about the clean energy components, then, yeah, that’s what
+it was about.
+
+Gideon Rachman
+And how much effect do you think you’re having? I mean, you’ve got a single term. It’s a big piece
+of legislation and the Chips Act as well. Can you see the effects already coming through?
+Brian Deese
+So look, if you look at clean energy, for example, and this is an issue that now at MIT, I’m looking
+at closely. We just launched this past week a tool that allows us to measure with more precision in
+real time, clean energy investment in the US economy. So what do we know so far in the last year,
+through the end of the second quarter of 2023, we saw $213bn of clean energy investment in the
+US economy. Importantly, that’s not announced investment. That’s not a company putting out a
+press release saying, I will invest $5bn. That’s actual investment. That’s up about 35 per cent from
+the year before. It’s up 165 per cent from five years earlier. So I think what we’re seeing initially is
+quite positive, a significant private sector response to these incentives. I think the same is largely
+true on the microelectronics side as well. So initial results are quite positive in terms of the private
+sector response. That’s not dispositive, though, in part because we need to make sure that we could
+actually build to scale in the United States. And there are some big challenges to do so in practical
+terms. But coming out of the gate one year in, I think we’re operating at the high end of
+expectations and now we’ve got to deliver.
+Gideon Rachman
+Biden is clearly campaigning on using his economic record. He’s very proud of it. The Biden-Harris
+ads major on Bidenomics. He’s adopted the term even though initially it was used by his
+opponents. But if you look at the opinion polls, it doesn’t seem to be cutting through. Most
+Americans seem to think the economy is not doing well. How do you explain that?
+Brian Deese
+Well, look, I would offer a couple of thoughts. The first is there’s an increasing partisan skew in
+polling in the US, which you can see on a number of issues, and so you do have to break that down.
+But underneath, I think that everything that is happening in the economy today, we do need to
+view through the fact of what has happened to families and what has happened to people’s lived
+economic circumstances over the course of last couple of years.
+
+And of course, the principal thing that has defined the way people live and work and operate is not
+the policy improvements that we’ve put in place, because those largely are just in the beginning
+stages of actually being felt. The principal driver has been this complete shock to the system of
+Covid and upsetting every part of how people live and work. And then this burst of historically high
+inflation, which created instability and pushed real incomes into the negative category for a period
+of time. Now we’re coming out of that process, and I think most optimistically, real incomes for
+typical working people in the United States have turned positive now for more than a year.
+And so I believe that as that happens and as the investment campaign begins to more clearly show
+fruit across time, that people will understand and see that and respond to that. But that is going to
+take some time. So that political calendar operates in a way where everything is rushed. And so
+there will be a lot of focus on this question of, you know, does this approach deliver dividends in
+the immediate term? I’m optimistic that it will. But the most important impacts of this strategy are
+going to be felt in communities across the country in terms of our economy’s capacity over multiple
+years.
+Gideon Rachman
+I mean, you’re not a political strategist. It’s not your department. But that must be making the
+Biden team in the White House bite their nails a little bit because they’ve got 15 months to turn this
+around. So they need the economic effects to be felt. Although, as you suggested, this partisanship
+effect is very interesting, isn’t it? I mean, basically, Democrats think the economy is doing well and
+Republicans just don’t.
+Brian Deese
+Yeah. Look, I mean, I’m not dismissing that people’s lived experiences have made them anxious
+and uncertain about the economy for sure. Looking at polling and looking at aggregated polling
+questions without actually unpacking them and provide noise versus signal, and that is because our
+politics has gotten much more skewed on almost any really salient issue. You see an increasing
+skew between Democrats and Republicans. And so part of what I try to do to answer that question,
+which I think is a fair question and one that obviously anyone involved in US politics is gonna pay
+close attention to, is to try to unpack and look at how our Democrats, how our independents
+responding to economic circumstances.
+
+One fascinating thing I would say, by the way, is if you look at Democrats and independent voters
+and you ask them about their own individual personal financial circumstances, their responses are
+positive, more positive than in many cases pre the pandemic. If you ask about the overall economy,
+you get more muted response. You know, that also is, I think, an indication that part of what is
+going on here is that the uncertainty associated with the Covid pandemic and with the burst of
+inflation has created a sense of uncertainty in the aggregate, even as many people are feeling more
+secure in their own individual economic circumstances.
+Gideon Rachman
+Turning to the global picture, as you well know, a lot of the reaction even among American allies to
+the big subsidies that were announced for EVs, electric vehicles and chips and so on was dismay
+because they said, you know, America is gonna suck all these jobs into the United States and this is
+gonna disrupt the global trading system. Were you at all surprised by that reaction? And how did
+you try to respond?
+Brian Deese
+I was a bit surprised with the European reaction, in part because I think it reflected a missed
+opportunity. Because at core, to your point, even if the name wasn’t the best way of capturing this,
+what the Inflation Reduction Act actually was, its most important element, was the United States,
+after multiple decades of trying and failing to step up and step into leadership in the global fight
+against climate change, the United States actually doing so in a big way. And I would say going
+back decades, my conversations with European counterparts, including when we were working to
+try to get the Paris Agreement done, was a hope and an urging of the United States to get into the
+climate game and an understanding that when the United States did, it would be with an American
+approach and an American strategy, and it would not look like the way that other countries or
+jurisdictions was doing.
+
+And so having done that in the Inflation Reduction Act, I think there was a missed opportunity to
+say, OK, this is historic progress because the United States is now leading in the fight against
+climate change. Now we have to work to make sure that this works for the world and importantly
+works for the global south. I think we have now moved the conversation more productively in that
+direction. I think some of the reaction last fall was around parts of the Inflation Reduction Act that
+substantively are smaller but were politically salient, like the consumer subsidies for electric
+vehicles, when in fact that provision, for example, is not by any stretch of the imagination the most
+meaningful fiscally or the most meaningful in terms of addressing climate change. But it took on a
+certain, you know, political resonance.
+So I was a bit surprised, but I am heartened by the fact that I think we’ve now moved through some
+of the stages of working on that. And I think we are getting now closer to what should be the real
+focus, which is the Inflation Reduction Act is necessary but not sufficient to make sure that as we
+drive down the cost of zero-carbon technologies, that those technologies are available to deploy in
+large emitting emerging markets. We have to make sure that we build a system where that
+happens, if we want to address climate change and if we want to address American economic and
+national security.
+Gideon Rachman
+You mentioned national security. So how much, again, is competition with China, both
+economically but strategically behind the whole approach?
+Brian Deese
+Look, I think that you can’t build an economic strategy and an economic growth strategy in
+isolation without a recognition of the way in which the global economy has changed as China has
+grown and the approach that China has taken to growth over the course of the last couple of
+decades. And I do think that if you look at our industrial strategy, not just in the IRA, by the way,
+across how we’ve done infrastructure and how we’ve done semiconductors, it reflects a more
+realistic view of the reality that China is a major player in the global economy and that they operate
+according to an economic strategy and using a set of tools that are distinct.
+
+And so we can’t hold the global economy as a stylised, free market economy, design our policies in
+a certain way, and then look back and say we didn’t get the results that we wanted because China
+was operating using different tools. We have to start from the reality of where we are today and
+then build a strategy that’s durable to that. So China is in focus. But I also think that some of the
+criticisms of our approach have missed the fact that China is not the principal and dominant
+reason why we’re doing what we’re doing. We’re doing what we’re doing to build a durable
+economic growth strategy for the United States, doing so clear-eyed about the role of China in the
+global economy, not because of China.
+Gideon Rachman
+So next week in the series we’re gonna do on Bidenomics, we’re talking to Ngozi Okonjo-Iweala of
+the World Trade Organization. One of the points she made to me is that, yes, there are signs now
+that Europe is also taking, if you like, a more Biden-like approach, putting money subsidies into
+chips and EVs and so on. But that she fears that the real losers will be the poorest countries in the
+world, which absolutely cannot compete in a subsidy race, and that that will have a distorting
+effect. What’s your response to that?
+Brian Deese
+The Inflation Reduction Act provides the best opportunity that we have had in decades to actually
+credibly address the climate crisis. And nothing is more important for economies in the global
+south that are bearing the brunt of the climate crisis more than having a durable strategy to do so.
+By driving down the cost of deployable technologies. The IRA provides the potential to really be a
+game-changer in helping those economies transition more effectively and more equitably. It is
+necessary, but it is not sufficient.
+
+And so what I would say is that I share the concerns, which is why I think our focus, collective
+focus, in the United States, in multilateral fora, needs to be on how do you now build the necessary
+capabilities to make sure that that’s the case. And I think that reforming our multilateral
+institutions and having our institutions, including the World Bank, be much more ambitious about
+being a bridge of providing financing so that when we have deployable technologies, we can deploy
+them at scale in emerging-market economies is incredibly critical. I think that’s behind what you
+saw happening at the G20 with some of the Biden administration’s policies to that effect. I think
+that that is doable. And absolutely, I think, there are risks, but I end where I start, which is we need
+as a global community a very ambitious and credible strategy to fight the climate crisis.
+And this, I think, is a better opportunity than we’ve had in some time. But we need to finish that
+piece of the task by saying how do we make sure that when we’re using public investment in the
+United States to drive down the cost of technologies, the goal is not to be very clear to do so, and
+then to build a wall around the United States where that technology is not deployed in other
+jurisdictions. You saw, for example, President Biden and Prime Minister Modi at the G20 explicitly
+saying we need to build partnerships so that we can transfer zero carbon technology more
+effectively into the Indian economy. We need to do more of that and we need to credibly put
+resources behind that effort.
+Gideon Rachman
+Last question. I mean, as you said, there’s been a kind of ideological shift, a general belief that if
+you want to call it trickle-down economics, that that hasn’t worked — and as a result, a
+rehabilitation of industrial strategy. But there are, as you know, critics still out there saying
+industrial strategy has a very bad record. Industrial policy is picking winners, that governments
+aren’t good at doing that, that you’ll waste a huge amount of money through subsidies. That
+favouring localism over global production is a misbegotten idea. Are you convinced that this is all
+gonna work?
+
+Brian Deese
+There are a lot of things that keep me up at night for sure. And every strategy has risks. I think we
+need to be very humble about the ways in which targeted industrial policies in the past have not
+achieved their objectives. But I also think some of the concerns create a straw man that you
+actually look at the substance of the Biden administration’s policies don’t actually operate.
+So the goal of this policy is not self-sufficiency or putting the US on the island. The goal is to
+achieve more diversification and resilience. The goal is not to have the government doling out
+subsidy to individual companies based on favoured terms. It’s to provide stable public investment
+incentives to try to build private capacity in areas where we have fallen behind, to include
+infrastructure, to include research and development, to include areas where there has been less
+debate in the past, but there has been less success in actually driving policy outcomes, in part
+because this idea that any time the government gets involved, it actually slows rather than extends
+economic opportunity has actually cast a shadow over a number of policies that we need to push as
+a country.
+So, you know, that’s why I do think that looking at this industrial strategy as not a, you know,
+fundamental ideological break, but a rejuvenation of a set of strategies that the US has used to
+great effect in the past. If you look back, whether it’s in the 1950s and the 1960s or other historical
+periods, we have used these approaches to great effect. We need to be humble about the ways in
+which they can go wrong. But I am fundamentally optimistic and convinced that this can be a very
+effective and a very durable economic strategy for the country.
+[MUSIC PLAYING]
+Gideon Rachman
+That was Brian Deese, the former director of the National Economic Council in the Biden White
+House, ending this edition of The Rachman Review. And we’ll be continuing on this topic next
+week and the week after. Next week, I interview Ngozi Okonjo-Iweala, the director-general of the
+World Trade Organization. So please join me again for another edition of the Rachman Review.
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+

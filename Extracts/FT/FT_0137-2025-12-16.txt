@@ -1,0 +1,229 @@
+FT PROFESSIONAL
+
+Chris Giles on Central Banks Central banks
+
+How central banks should navigate an uncertain 2026
+Communicating better about what they don’t know would be a start
+
+Research suggests fan charts are superior at communicating uncertainty and reducing the public’s feeling of betrayal when forecasts
+turn out to be wrong © Henry Nicholls/AFP/Getty Images
+
+Chris Giles
+Published DEC 16 2025
+
+This article is an on-site version of our Chris Giles on Central Banks newsletter. Premium
+subscribers can sign up here to get the newsletter delivered every Tuesday. Standard
+subscribers can upgrade to Premium here, or explore all FT newsletters
+
+Surveys of public understanding about monetary policy tend to be dismal affairs. People are pretty
+clueless about inflation, overestimating its level; they do not think in neat annual chunks of time;
+they worry when prices rise above quite low thresholds; and they overestimate their knowledge.
+Newer research shows they take credit for their wage rises, but blame others for a rising cost of
+living. That greatly complicates the task of setting monetary policy.
+This lack of understanding and increased suspicion have contributed to a sharp decline in public
+satisfaction with the work done by the Bank of England, US Federal Reserve and other central
+banks, as the chart below shows.
+When faced with a highly uncertain outlook for 2026, central banks need some help in
+understanding how best to get their message across (assuming, of course, that their policy is set
+correctly).
+
+Public satisfaction with the Bank of England and Federal Reserve is fragile
+Net satisfaction with performance (%)
+BoE
+
+Fed
+
+Satisfaction
+60
+
+40
+
+20
+
+A lovely piece of research currently being presented in universities and central banks seeks to help
+out with that task. It asks: how best should central banks communicate uncertainty? It is being led
+by professor Michael McMahon of Oxford university, alongside co-authors Matthew Naylor, Ryan
+Rholes and Peter Rickards.
+The first part of the research attempts to work out what visual presentation of forecasts members
+of the public and an expert panel objectively understand best and like most.
+
+The trial showed people six presentations of forecasts (shown below) and then asked them
+objective questions about the data to test their understanding. The six alternatives tested point
+forecasts, a fan chart, a point forecast with a range, a box and whiskers plot, a dot plot and a
+(hateful) speedometer approach.
+Both the public and experts preferred the point forecasts, although the fan charts and dot plots also
+scored highly. The speedometer was a turkey in terms of what people said they liked and
+understood.
+When it came to objectively testing which one best conveyed uncertainty, obviously the point
+forecast scored very poorly because it ignores that issue. Dots conveyed too much certainty. Fan
+charts did best among the public and experts in striking the balance between being liked and
+accurately highlighting uncertainty.
+
+With these results to hand, the second question the research sought to address was how people
+react when a central bank gets its forecast wrong, as we have seen quite a bit recently. Does the
+presentation of a forecast alter the way people react to central bank forecast errors?
+
+Here, the research tested point forecasts against a fan chart in a lab experiment in which people
+were motivated with money to give genuine answers. They were given a time series of inflation data
+extracted from a standard model of an economy and asked to give a forecast, knowing their payout
+would depend partly on their accuracy. Then they were shown a “central bank forecast” and asked
+whether they wanted to update their own prediction.
+The researchers then showed them the real outcome for the first year, which came from a random
+draw of possibilities from the model, and asked them for their updated predictions. Finally, they
+were given a new central bank forecast on the basis of the outcome in the first period to see
+whether they still trusted the central bank, especially if it had made a big error initially.
+Here is a brief summary of the results:
+
+People were overconfident in their own calibration of the uncertainty of
+forecasts. This will surprise nobody, but it shows it is not just artificial
+intelligence that bullshits when it does not know.
+People anchor their forecasts on those produced by the central bank, so the
+monetary authority has an important role in shaping expectations.
+Point estimates in forecasts are better at anchoring expectations than fan
+charts.
+But when errors are revealed, people feel more betrayed if they had initially
+been served with a point estimate rather than a fan — especially if the error
+was large.
+People are still willing to be influenced by a second central bank forecast,
+whether it comes from a point estimate or a fan chart. This indicates that
+the loss of central bank credibility is not that large in a lab setting.
+McMahon concludes that the results of both estimates show the value of fan charts in
+communicating uncertainty and reducing the feeling of betrayal when forecasts turn out to be
+wrong.
+
+But he told me that the lab setting might be skewing the final result, because participants were
+forced to continue to engage. In real life, they might well just stop listening and go and do
+something else.
+
+Rejoice for Fed profitability
+It is the time of year for cheer, so I can bring you the good news that the Fed is broadly profitable
+again now that its interest rate has fallen.
+The Fed pays interest on banks’ reserve balances at the midpoint of its fed funds target range,
+which is currently 3.65 per cent. It holds mostly US Treasury bonds with variable yields.
+When short-term interest rates were high, the Fed made a loss. But this loss has fallen as rates have
+come down and quantitative tightening has reduced the overall balance sheet size.
+
+The Fed is moving back into profit as interest rates have fallen
+Fed funds rate
+
+Weekly remittance to US Treasury
+
+Weekly profit at the Fed ($mn)
+
+2000
+
+0
+
+Because the US likes to brush these losses under a huge carpet in the Fed’s Eccles building rather
+than recognise them in government accounts, they accumulate as a “deferred asset” of about
+$240bn on the central bank’s balance sheet. In reality, these are future remittances of profits to the
+US Treasury that will not materialise.
+The Fed is now reducing this deferred asset. But this will not help reduce the US fiscal deficit for
+many years until the $240bn is repaid.
+
+Paying off the Fed's accumulated losses will take years
+Remittances due to the US Treasury ($bn)
+
+0
+
+-50
+
+-100
+
+What I’ve been reading and watching
+JPMorgan’s chief executive Jamie Dimon has given Kevin Warsh the
+thumbs up in the battle to become Fed chair. Whoever gets the nod will
+work with all the current regional Fed presidents now that they have been
+approved by the Fed’s board to serve another five-year term from March
+2026. The vote came earlier than expected and was unanimous, surprising
+everyone.
+Frustrations with China’s growing trade surpluses are continuing, with
+Mexico imposing up to 50 per cent tariffs on Chinese goods. The move was,
+of course, made as much with an eye on maintaining Mexico’s trade deal
+with the US.
+Who would have thought a decade ago that Greece would supply the
+Eurogroup member states with a president on a unanimous vote? It shows
+how far the country has progressed since it ditched populism.
+If you want some good news — relative to what is reported, at least — I
+wrote about the UK economy being healthier than you’ve been told.
+
+One last chart
+Last week President Donald Trump enjoyed messing with the high expectations that his pick for
+Fed chair would be Kevin Hassett. In an interview with the Wall Street Journal, he said the choice
+was between the two Kevins (Hassett and Warsh).
+Separately, Hassett has come under some fire for being perceived as both too close to Trump and a
+threat to inflation. Bond investors have warned the US Treasury that Hassett does not have the
+credibility they want.
+
+The problem with these warnings is that there is nothing to see in the correlation between Hassett’s
+odds of becoming Fed chair and five-year forward financial market break-even rates. If he really
+did spook the market, this is where you would see higher inflation expectations.
+There is nothing causal in the relationship below. But the negative correlation between the odds of
+Hassett becoming chair and expected inflation suggests markets do not perceive him as an inflation
+risk. Of course, market pricing can be wrong.
+
+Financial markets think Kevin Hassett becoming Fed chair is benign for
+inflation
+Correlation between odds of Hassett becoming Fed chair and five-year inflation expectations from
+August 2025
+
+Five-year expected US CPI inflation
+
+2.5
+
+2.45
+
+2.4
+
+2.35
+
+2.3
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+75
+
+80
+
+Probability of Kevin Hassett as Fed chair (%)
+Sources: St Louis Fed, Polymarke
+
+Central Banks is edited by Harvey Nriapia
+
+Recommended newsletters for you
+Free Lunch — Your guide to the global economic policy debate. Sign up here
+The Lex Newsletter — Lex, our investment column, breaks down the week’s key themes, with
+analysis by award-winning writers. Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Global Economy
+Central banks
+Federal Reserve
+Chris Giles on Central Banks
+Chris Giles
+
+

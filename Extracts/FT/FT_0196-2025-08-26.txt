@@ -1,0 +1,185 @@
+FT PROFESSIONAL
+
+Chris Giles on Central Banks Federal Reserve
+
+Jay Powell is pivoting into an inflation problem
+Immigration policy might turn out to be a bigger source of upward price pressure than tariffs on US economy
+
+Federal Reserve chair Jay Powell, at the Jackson Hole Symposium, hinted that the US central bank would cut interest rates in
+September © David Paul Morris/Bloomberg
+
+Andrew Whiffin
+Published AUG 26 2025
+
+This article is an on-site version of our Chris Giles on Central Banks newsletter. Premium
+subscribers can sign up here to get the newsletter delivered every Tuesday. Standard
+subscribers can upgrade to Premium here, or explore all FT newsletters
+
+Hello, I’m Andrew Whiffin, stand-in for Chris Giles today. We work together on Monetary Policy
+Radar, where we try to figure out what central bankers are thinking and the path they will dictate
+for interest rates.
+
+With the Federal Reserve’s September decision capturing the market’s attention, I will offer a few
+thoughts on why if the central bank cuts as expected, it is unlikely to charge into another period of
+rapid easing. Then I look at recent data that might be a sign of the more structural upward pressure
+on US prices.
+But first up is Fed voting member Lisa Cook, who is reportedly being fired by US President Donald
+Trump following allegations of mortgage fraud. Cook has refused to step down and a legal battle
+over the “for cause” framework that Trump cited in her termination letter is shaping up. Cook said:
+“President Trump purported to fire me ‘for cause’ when no cause exists under the law, and he has
+no authority to do so”.
+This raises the possibility of another Trump pick joining Stephen Miran on the Fed’s board. It
+could also threaten a potential constitutional clash if the president’s dovish appointees ever find
+themselves outvoted by “inferior officers”, the hawkish heads of the regional Fed banks who have
+not been signed off by the Senate and Trump.
+If you want to know what will happen next, read this MPR explainer.
+
+Powell pivots into rising inflation
+Speaking at Jackson Hole Symposium, Fed chair Jay Powell hinted again that the Fed would cut
+interest rates in September, stating that “the baseline outlook and the shifting balance of risks may
+warrant adjusting our policy stance”.
+Powell already indicated at July’s rate meeting that higher unemployment was a prerequisite for a
+cut. July’s employment report later delivered as much, along with big downward revisions to jobs
+growth in the summer.
+In our capacity as rate forecasters, we now expect the Fed to cut in September. But we do still
+expect inflation worries to temper appetites for rapid easing. Tariff-related inflation is one thing,
+which Chris has covered in detail here; inflation from immigration policies deserves some
+attention, too.
+
+Powell’s speech was otherwise quite hawkish. It included the following near the top: “Changes in
+trade and immigration policies are affecting both demand and supply. In this environment,
+distinguishing cyclical developments from trend, or structural, developments is difficult.”
+Tariffs might prove to be transitory, as per the Fed’s base case. Other unknowns are changes in the
+jobs market and the impact of immigration policies on labour supply. One question is: how much
+of the downgrade to jobs growth this summer was a function of supply and not demand?
+The US foreign-born labour force has fallen by about 900,000 people since April. The participation
+rate is down too, presumably over fears of government enforcement.
+
+The foreign-born US labour force has begun to fall
+Foreign-born labour force (mn) left-hand scale
+
+34
+
+Foreign-born participation rate (%) right-hand scale
+
+This could be exactly the kind of structural change to the economy the Fed is worried about, and
+one which lower rates could make worse. Back in February, Goldman Sachs identified agriculture
+and construction as two sectors most at risk from lower immigration. This might already be
+showing up in the latest data.
+Upon publishing July’s producer price data, a measure of wholesale prices, the Bureau of Labor
+Statistics said: “Forty per cent of the broad-based increase [in prices for final demand goods] in
+July can be attributed to the index for final demand food.”
+One-quarter of the increase was down to fresh and dry vegetables, which rose by 39 per cent from
+June. This measure is very volatile, but it was still the biggest increase since early 2022.
+
+US producer prices for fresh and dry vegetables jumped in July
+Change on previous month (%)
+
+40
+
+The producer price index for final demand food tracks prices of goods at the factory gate. It rose by
+4.2 per cent year on year in July. Consumer price inflation for food has also risen this year and was
+2.9 per cent in July. The chart below shows CPI for food against factory-gate food inflation. They
+correlate most strongly with a five-month lead.
+
+Consumer food inflation tracks producer food inflation
+CPI food prices (annual % change)
+Factory gate food prices (PPI final demand food), led 5-months, annual % change
+
+15
+
+Higher import costs for fruit and vegetables thanks to tariffs are another possible explanation,
+albeit an indirect one in the PPI measure. But given reliance on foreign workers in the food
+manufacturing sector, rising labour costs are likely.
+Food inflation, recently described as “salient” by the Bank of England, needs special attention from
+central bankers. Not only does food have an outsized impact on inflation expectations, the Fed has
+said food inflation has the best predictive value for headline CPI.
+
+US food prices have already been facing the same broad-based cost pressures pushing up consumer
+prices across the world. A labour crunch would compound them, and is another reason why we
+think the Fed will proceed cautiously when it starts easing again.
+
+A September fall
+Goings-on in the depths of US money markets risk stealing the limelight from September’s rate
+decision.
+September 15, two days before the Fed meeting, could be a crunch point. That day is special
+because quarterly tax payments and bill coupon settlements could drain $200bn of central bank
+reserves in a single day, and push reserves below $3tn for the first time since 2020.
+“In a sense we will be heading into uncharted territory in September since reserves will fall to levels
+not seen this cycle on a sustained basis,” says Samuel Earl, vice-president at Barclays.
+A quick reminder that reserves are the most liquid for central bank money. And in the past when
+they have become “scarce”, things in the US financial system have started to break.
+US government funding is at the core of the issue as the administration rebuilds the Treasury
+General Account, the government’s current account. The TGA receives funds either when the
+government sells a bond or bill, or when taxes are paid. Money leaves when the government has to
+pay bills, such as wages or debt repayments.
+Having run down the account this year because of limits imposed by the debt ceiling, the Treasury
+is now topping it back up to about $900bn (which the “big, beautiful bill” and the debt ceiling
+extension made possible). But this also acts as a drain on the fixed levels of broader central bank
+reserves.
+The question is whether this takes us into the realm of “scarce” or whether reserves remain
+“ample”, the level the Fed is aiming for. This contrasts with “abundant”, the artificially high level of
+reserves in place during quantitative easing eras.
+The problem is that no one really knows when reserves move from ample to scarce, and in the past
+we have only found out when something has gone wrong.
+
+We appear to still be some way off. But we know the Fed is concerned because of the slowdown in
+quantitative tightening earlier this year.
+Today reserves are around the $3.3tn mark, down from about $3.6tn at the beginning of 2024.
+Barclays’ Earl, who prefers to think of reserves as a proportion of bank assets, predicts they will
+move to around $2.9tn by the end of September, or “above the 11 per cent level we think is the
+sweet spot of reserves under the Fed’s ample reserves framework”.
+
+US central bank reserves are expected to fall in September
+Treasury General Account ($bn)
+
+3000
+
+Reserves ($bn)
+
+What I’ve been reading and watching
+Monetary Policy Radar’s scenario for Fed rates over the next few years.
+Is it time to sell your AI stocks?
+Investors warn of a “new era of fiscal dominance” in global markets.
+
+A chart that matters
+Could the Fed surprise us by holding rates in September? It’s possible, but highly unlikely. The
+central bank rarely goes against the consensus. And when it has in recent years, the surprise has
+been one of magnitude rather than direction.
+The chart below is from academics working at the San Francisco Fed who measure the so-called
+“information surprise”, which is a function of what interest rate futures do in the half-hour after
+the Fed puts out its rate decision statement.
+
+Hawkish information surprises have generally meant good news for the
+economy
+Basis points
+
+Positive is hawkish surprise
+20
+
+It tells us that in the past hawkish information surprises have generally meant good news for the
+economy*, signalling stronger growth and inflation.
+With the Fed likely to start cutting again in the face of rising inflation, a return of hawkish
+surprises seems likeliest to me. This time, though, that might not mean the economy will do better.
+
+Central Banks is edited by Harvey Nriapia
+
+Recommended newsletters for you
+Free Lunch — Your guide to the global economic policy debate. Sign up here
+The Lex Newsletter — Lex, our investment column, breaks down the week’s key themes, with
+analysis by award-winning writers. Sign up here
+
+*Author’s interpretation of the data. The San Francisco Fed research showed that there is no
+evidence for such information effects, and that hawkish policy surprises tend to be followed by
+lower inflation and employment, consistent with the classical channels of monetary transmission.
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+US inflation
+US interest rates
+Central banks
+Federal Reserve
+Chris Giles on Central Banks
+
+

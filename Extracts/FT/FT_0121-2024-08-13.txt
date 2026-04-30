@@ -1,0 +1,206 @@
+FT PROFESSIONAL
+
+Chris Giles on Central Banks US presidential election 2024
+
+Decoding Harris and Trump on inflation
+
+The question is whether we judge their words seriously or literally
+
+Donald Trump and Kamala Harris © FT montage/Getty/Bloomberg
+
+Chris Giles
+Published AUG 13 2024
+
+This article is an on-site version of our Chris Giles on Central Banks newsletter. Premium
+subscribers can sign up here to get the newsletter delivered every Tuesday. Standard
+subscribers can upgrade to Premium here, or explore all FT newsletters
+
+In a column for the Atlantic almost eight years ago, the reporter Salena Zito said “the press takes
+[Trump] literally, but not seriously; his supporters take him seriously, but not literally”.
+It was a wonderfully astute distinction for the pre-2016 election period.
+
+But her characterisation turned out to be false. In office we learnt to take Trump sometimes
+seriously, sometimes literally, sometimes neither and sometimes both. In short, everyone had to
+engage their critical faculties on different issues rather than rely on her original observation.
+So, what should we make of the remarks on inflation and the Federal Reserve made last week by
+the two candidates to become US president, Kamala Harris and Donald Trump?
+
+Take Harris seriously, not literally
+There is no doubt that Kamala Harris feels the need to talk about inflation. Over the past week, her
+stump speeches in Pennsylvania, Wisconsin, Michigan, Arizona and Nevada have all contained
+some version of the following remarks (these are from Michigan).
+
+We believe in a future where we lower the cost of living for America’s
+families so they have a chance not just to get by but to get ahead. Because,
+look, while our economy is doing well by many measures, prices for everyday
+things like groceries are still too high. You know it and I know it.
+When I was attorney-general, I went after price-fixing schemes. And when I
+am president, it will be my day one priority to fight to bring down prices; to
+take on the big corporations that engage in illegal price gouging; take on
+corporate landlords that unfairly raise rents on working families; to take on
+Big Pharma and cap the cost of prescription drugs for all Americans. That is
+the work we will do together.”
+Notice there is no talk about disinflation, but an ambition to bring down prices and some specific
+areas where Harris would like to act. Taken literally, this is a call for the Fed and other parts of
+government to lower the price level and seek deflation. If this were literally true, the only valid
+response would be, “you cannot be serious”.
+
+Fortunately, there is an excellent source available to allow us a clear interpretation of the thinking
+behind Harris’s words. In fact Jared Bernstein, chair of President Joe Biden’s Council of Economic
+Advisers, wrote it down late last month.
+After an eloquent and pretty standard explanation of the causes of inflation, Bernstein noted
+something I’ve also been banging on about.
+
+Economists obsess over rates; regular people obsess over levels . . . A central
+banker wants inflation to get back to target. A shopper wants his or her old
+price back.”
+Now, Bernstein and, I presume, Harris do not explicitly want deflation but recognise that people
+have powerful rules of thumb about how much things should cost.
+So long as inflation is low, these can adjust slowly without a problem. But when inflation is high,
+Bernstein said a lot more of these rules of thumb are broken and “vibe disruption ensues”. This
+might take two years to heal, he added. For example, he noted the increase and subsequent
+recovery in the number of hours it would take typical production workers to earn enough for a
+week of groceries (below).
+
+An important calculation people in the US don't make
+Hours of work needed to purchase a week's worth of groceries
+
+4.2
+
+4
+
+3.8
+
+The most important passage of his for understanding Harris’s words is the following:
+
+Vibes matter, and economists risk talking past people if we fail to recognise
+that both inflation rates AND price levels matter. We’re acutely aware of this
+in the Biden/Harris administration and it is a key reason for our cost-cutting
+agenda.”
+Harris is calling for price and cost-cutting measures not because she believes in deflation, but sees
+these actions, which would involve relative price changes, as essential to help people reset their
+price level rules of thumb and slowly accept they are no worse off after the period of inflation.
+
+The upshot: Take Harris seriously, but not literally. And read the whole Bernstein speech. It
+explains everything.
+
+Harris on the Fed
+Harris has also taken some questions spontaneously from journalists. After her rally in Phoenix,
+Arizona on Saturday, she promised a big economy speech this week and reiterated her support for
+Fed independence. I think we can take the following seriously and literally (1m25s in this video).
+
+The Fed is an independent entity and, as president, I would never interfere
+in the decisions that the Fed makes.”
+
+Don’t take Trump’s word for it
+If Harris’s stump speech words were extremely carefully chosen and required an economics lecture
+to explain them, Trump’s comments on inflation and the Fed were improvised and can be
+summarised by the phrase “I’m the best”. He made this clear in Thursday’s news conference (72
+mins in).
+
+The Federal Reserve is a very interesting thing and it’s sort of gotten it wrong
+a lot and [Powell’s] tending to be a little bit late on things. He gets a little bit
+too early and a little bit too late and, you know, that’s very largely a gut
+feeling, I believe it’s really a gut feeling and I used to have it out with him. I
+had it out with him a couple of times very strongly.
+I fought him very hard and, you know, we get along fine, we get along fine,
+but I feel that a president should have at least say in there, yeah, I feel that
+strongly I think that in my case I made a lot of money. I was very successful
+and I think I have a better instinct than in many cases people that would be
+on the Federal Reserve or the chair.”
+
+I am sure no one should take this literally. I do not think we should take it entirely seriously either
+and certainly not write that Trump is stirring fears for Fed independence as the Wall Street Journal
+did. That said, there will be a lot of uncertainty at the Fed if Trump wins. I can also report that
+yesterday’s chat with Elon Musk on X added little.
+Although Trump’s words on the Fed above were a rambling mess, it is important not to dismiss the
+former president. He also understands that levels matter more than rates for salience such as when
+he says “you have people dying financially because they can’t buy bacon” (59 mins in). This will be
+difficult for Harris even if Trump’s estimation of current gasoline and bacon prices are simply a lie.
+
+People are voting with their stomachs, meaning they’re going to the grocery
+store they’re paying 50, 60, 70 per cent more for food than they did just a
+couple of years ago.
+Look at what’s happened to energy; look at what’s happened not only to their
+cars where gasoline’s gone from $1.87, we had moments when it was below
+that, but it’s gone from $1.87 to five, six and seven dollars.”
+With Musk, Trump was also talking about those hurt by inflation and again revealed his weird
+interest in bacon prices.
+
+We’ve got to get the prices down you know, when I look at bacon costing five
+four or five times more than it did a few years ago, when when you look at
+some of the food products and groceries people go they can’t believe it, they
+used to be able to buy a whole cart and today you know a lot of people just
+don’t have the money, they go in and they can’t buy anything they they look
+at, yeah it’s sticker shock they call it sticker shock.”
+The chart below shows the true rise in the level of US prices (CPI), gasoline and bacon. Memo to
+Donald Trump: Stop talking about bacon — you’re out of date on the cured meat front.
+
+The CPI has risen more than twice as fast under Biden than Trump with
+volatile gasoline and bacon prices
+Trump
+
+200
+
+150
+
+What I’ve been reading and watching
+Barry Eichengreen, professor of economics at the University of California,
+Berkeley, wrote an opinion article telling the stock market to calm down
+and not overreact to recent data. He expects the Fed will not be swayed
+from previous guidance
+Soumaya Keynes was talking to Catherine Mann, an external member of the
+Bank of England’s Monetary Policy Committee, late last week for her
+Economics Show podcast. Mann is still worried that real wage resistance
+will keep inflation too high in the UK for too long
+
+Ahead of Kamala Harris’s economic policy roll out this week, I looked at the
+Biden record on the economy versus Donald Trump. Inflation will be a big
+hurdle to clear and Harris might be wise not to build a campaign on Biden’s
+economic record
+Unhedged asked what changed in the US economy last week. It concluded
+that higher volatility puts the Fed in a difficult position — either the market
+forces it to cut more than it wants, or it refuses and the markets have a
+tantrum
+If you want the full two hours of Trump, here is the YouTube link. If, like
+me, you want to search for a specific topic, I use TacTiq to generate a
+transcript.
+
+A chart that matters
+Forward interest rate markets did not get the message from the stock market that the initial
+panicked reaction to weaker-than-expected US jobs data was overblown. Traders expect the Fed to
+cut interest rates by 1 percentage point by the end of the year and follow that up with another 1
+percentage point reduction in 2025.
+For a relatively normal miss on jobs and unemployment, these are punchy bets. They assume that
+the Fed now sees the economy completely differently to a month ago.
+
+Market expectations of US interest rates plunged after the July jobs report
+and have not really recovered yet
+Federal funds rate (%)
+Expected rate Dec 2024
+
+Expected rate Dec 2025
+
+Current fed funds rate
+
+5
+
+4
+
+3
+
+Recommended newsletters for you
+Free lunch — Your guide to the global economic policy debate. Sign up here
+The State of Britain — Helping you navigate the twists and turns of Britain’s post-Brexit
+relationship with Europe and beyond. Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+US inflation
+Central banks
+US presidential election 2024
+Kamala Harris
+Donald Trump
+
+

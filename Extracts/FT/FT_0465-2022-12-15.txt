@@ -1,0 +1,120 @@
+FT PROFESSIONAL
+
+Opinion Unhedged
+
+Markets don’t believe Jay Powell
+But he still holds the policy levers
+
+ROBERT ARMSTRONG
+
+© Financial Times
+
+Robert Armstrong and Ethan Wu
+Published DEC 15 2022
+
+This article is an on-site version of our Unhedged newsletter. Sign up here to get the newsletter
+sent straight to your inbox every weekday
+
+Good morning. Cheers to Morocco for a remarkable run and for putting up a valiant showing
+against France yesterday. Unhedged will be watching the finals as we write on Sunday. Send us
+your World Cup predictions: robert.armstrong@ft.com and ethan.wu@ft.com.
+
+The Fed
+There was a very brief moment when it looked like the Federal Reserve had managed to deliver a
+surprise. It wasn’t the 50 basis point rate increase, which was locked in beforehand and was
+delivered in a statement identical to last month’s. The accompanying economic projections came
+with a little spice, though: a half-point increase in the outlook for year-end 2023 rates, to 5.1 per
+cent, even as the projected GDP growth rate was brought down. Of the 19 members on the open
+market committee, 17 thought that rate should be above five. Back in September, zero did.
+The context for this hawkish message was, first, two consecutive CPI inflation reports that had
+surprised to the downside and, second, a notable loosening of financial conditions — from stock
+prices to mortgage rates — over the past month or two. Against that backdrop, the message from
+the central bank was: slow your roll, markets, we ain’t done yet.
+Initially, markets flinched. The S&P 500 fell 2 per cent between the release of the statement and
+the opening minutes of Jay Powell’s news conference half an hour later. The two-year bond, a
+barometer of policy rate expectations, rose 12 basis points. Not huge moves, but the market was
+standing to attention, at least.
+It didn’t last. As the press conference went on, the market took back losses. The two-year went
+straight back to sleep, closing the day just about where it started. On Tuesday afternoon, the
+futures market’s bet was that the policy rate would peak under five, and that the Fed would then
+make two, 25-basis point rate cuts in the second half of next year. Yesterday afternoon, it was
+making precisely the same bet.
+In other words, the market looked Powell right in the eye and said: we don’t believe you.
+Is this a problem? It can only be frustrating for Powell and his colleagues, but if they decide that
+financial conditions really are too loose, there is a solution at hand: a rate increase. The market’s
+problem is that it might be wrong, either about what inflation will do or how the Fed will react to it,
+or both. And if that is so, the only solution is lower asset prices.
+
+Put aside, for now, the question whether the market has a realistic estimate of inflation in 2023 (we
+think it’s pricing in a pretty optimistic scenario, but inflation forecasting is very hard). Focus,
+instead, on the market’s implied view of what the Fed will have to do to get inflation down, and the
+central bank’s own view.
+As already stated, the futures market expects the Fed to start easing policy in the second half of
+next year. Bond markets expect inflation to come down fast. Near-term break-even inflation is at
+2.3 per cent and falling:
+
+There is one perfectly plausible scenario under which inflation would fall fast and the Fed would
+cut rates: a recession. But markets are not expecting a recession. The price/earnings ratio on the
+S&P 500 is back to its pre-pandemic level, that is, historically quite middling:
+
+Junk bond spreads are not recessionary either. Here’s triple-Cs:
+
+What the market sees coming, in other words, is the Fed cutting rates next year because inflation
+falls quickly without help from a serious economic contraction.
+The contrast with Powell’s view is stark. Yesterday he restated his tripartite inflation framework,
+rolled out last month: goods, shelter, and non-shelter core services. He emphasised that the Fed’s
+decisive battle will be in the last category. Crucially, he believes these prices are tightly linked to the
+labour market. The problem, in Powell’s words, is that “it feels like we have a structural labour
+shortage out there”, which he pinned on accelerated retirements, Covid-19 deaths and a drop in
+migration.
+He hearkened back to a chart he showed last month, showing the labour supply 3.5mn workers
+short of demand:
+
+He also alluded to anecdata, such as that collected in the Fed’s Beige Book, suggesting employers
+remain desperate for workers, even in the face of a slowdown. A recent selection:
+
+[From the Philly Fed:] Firms from many sectors reported preparations for a
+potential recession but also remain hesitant to lay off employees, given
+recent hiring difficulties
+[Atlanta Fed:] Finding qualified candidates was reported as nearly
+impossible, so firms increased investments in training new hires
+[Richmond Fed:] The supply of labour remained tight with several contacts
+noting difficulties finding workers with necessary skills. One company that
+was looking to hire an experienced worker decided to hire an entry-level
+worker instead and pay for their training.
+The Fed, in sum, is worried about a category of inflation that won’t fall until labour market
+conditions get worse for workers, which they are a very long way from doing. And since labour
+supply probably won’t expand suddenly (Congress does not seem keen on tons more immigration),
+labour demand will have to fall.
+
+The market view that inflation glides down, rates get cut and the US sidesteps a recession looks
+inconsistent with Powell’s view of the economy. In his framework, for the labour supply-demand
+gap to close, rates have to weigh on demand — meaning higher rates for longer. The world where
+the Fed, highly attuned to loosening policy too soon, starts cutting is a world where the economy is
+entering recession.
+Maybe the market has figured out something Powell hasn’t, like inflation’s fall being much faster
+than its rise. At a minimum, they are clearly operating with different reaction functions. But
+remember: the Fed chair has the power here. He who holds the policy levers has more sway over
+markets than they do over him. That markets disagree with Powell’s outlook is fine, but it is
+ultimately a gamble. If he presses on, investors will get stuck holding the bag. (Armstrong & Wu)
+
+One good read
+Chat bots come for the sell side.
+
+Recommended newsletters for you
+Cryptofinance — Scott Chipolina filters out the noise of the global cryptocurrency industry.
+Sign up here
+Swamp Notes — Expert insight on the intersection of money and power in US politics. Sign up
+here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Robert Armstrong
+Unhedged
+US economy
+Federal Reserve
+
+Jerome H. Powell
+
+

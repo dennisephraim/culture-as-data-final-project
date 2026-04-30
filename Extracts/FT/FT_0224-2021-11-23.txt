@@ -1,0 +1,138 @@
+FT PROFESSIONAL
+
+Opinion Unhedged
+
+Growthflation takes hold
+And fixing the Treasury market
+
+ROBERT ARMSTRONG
+
+© Financial Times
+
+Robert Armstrong and Ethan Wu
+Published NOV 23 2021
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+This article is an on-site version of our Unhedged newsletter. Sign up here to get the newsletter
+sent straight to your inbox every weekday
+
+Unhedged has nothing to say about Jay Powell’s renomination as Federal Reserve chair that hasn’t
+been said already. It was a good idea, and good politics, because continuity was needed and a new
+Fed chief was not a hill President Joe Biden needed to die on. If you think there is more to say than
+that, email it to us at robert.armstrong@ft.com or ethan.wu@ft.com
+
+Growthflation, real rates and debt traps
+Well, would you look at this:
+
+Fourth-quarter economic growth is tracking towards an 8 per cent annualised rate, according to
+the Atlanta Fed’s purely data-driven real time estimate. That’s a heck of an acceleration from the 2
+per cent for the third quarter, and ahead of high inflation. Hat tip to Chris Verrone of Strategas,
+who pointed this out in a recent note, on the grounds that no one was paying attention — which
+was true, at least of Unhedged, which was fully asleep at the wheel on this development.
+
+The Atlanta reading is not anomalous, either. Verrone points out that, for example, Citi’s economic
+surprise index, which had been on a long slide downwards since mid-2020, has been rising since
+September, and is now well into positive territory, meaning that the majority of reports are now
+coming in ahead of expectations.
+Jim Reid of Deutsche bank called this environment “growthflationary” yesterday, and I like the
+term, as a contrast to stagflation. But the signs of emerging growthflation make the refusal of real
+interest rates to rise all the more mysterious. Here are the standard proxy for real rates, the yield
+on 10-year inflation-indexed Treasury securities, or Tips:
+
+This chart makes me embarrassed to be an American. I mean, real rates of minus 1 per cent, after a
+kazillion dollars in stimulus, and despite consumers and companies that are flush and freespending? Come on, people.
+It makes me embarrassed as an analyst too, because I’ve always thought that spikes in inflation,
+like the ones we are having now, should force real rates up. The argument for this idea is that
+because high inflation is always volatile, bond investors respond to high inflation by demanding
+compensation for the possibility that inflation will get higher still, dragging real rates (nominal
+rates minus inflation) up. This is not happening at all now.
+
+A look at the long-term relationship between real rates and inflation only makes me feel a little bit
+better. Tips have only existed for a few decades so in this chart I have used 10-year yields less
+three-year rolling average core consumer price index inflation as a real rates proxy. Here is the
+result, compared to average core CPI inflation by itself:
+
+It is interesting that real rates hit or came close to zero when inflation peaked in 1970, ’74 and ’80.
+It took time for volatile inflation to drag real rates up to their early-80s peak, by which time
+inflation had begun its long-term decline. Maybe we are seeing a repeat of this pattern now, and we
+can expect real rates to play catch-up. Decades of low and stable inflation has taken the inflation
+risk premium out of the bond market. It’s not going to come back in a period of a few months.
+People may need to lose more money before the message gets through.
+But there is another explanation for why real rates remain on their backs: we’re in a debt trap. The
+always-interesting Ruchir Sharma argued this line in the FT yesterday. The idea is that debt has so
+piled high that any increase in rates will make it terribly expensive to service, wounding the
+economy and leading rates back down again:
+
+“In past tightening cycles, major central banks typically increased rates by
+about 400 to 700 basis points.
+“Now, much milder tightening could tip many countries into economic
+trouble. The number of countries in which total debt amounts to more than
+300 per cent of GDP has risen over the past two decades from a half dozen to
+two dozen, including the US. An aggressive rate rise could also deflate
+elevated asset prices, which is usually deflationary for the economy as well.”
+I’m not sure the debt trap hypothesis is right, but it is not to be dismissed. Note that, as Sharma
+indicates, it comes in two flavours. Following Robert Frost, we might call them fire and ice. In the
+fire scenario, higher rates cause an asset price crash that stalls the economy and ends inflation all
+at once. In the ice scenario, rates high enough to end inflation cool economic growth over time.
+Like Frost, I favour fire: the last two cycles ended in asset price crashes. Why should this time be
+different?
+
+Fixing the Treasury market
+The US Treasury market almost broke down in March 2020, which scared everybody to death.
+When things get rough, it is important that people can raise cash by selling Treasuries, because if
+they can’t, pretty much everyone will default on everything.
+We recently spoke to Yesha Yadav, a Vanderbilt University law professor who last year wrote a
+blueprint for reforming the Treasury market. Yadav thinks that a couple of dozen primary dealers
+— mostly big banks — underpin Treasury market liquidity. But they disappear when they are
+needed most. In last year’s crisis:
+
+“We saw price dislocations, liquidity disappeared, bid-ask spreads widened,
+Treasury prices became out of sync with the futures market. This was a
+catastrophe as far as the reputation and credibility of the Treasury market is
+concerned.
+“[Primary dealers] do not have any constraint binding them to liquidity
+provision in US Treasury markets. Which means it’s [rational] for them to do
+as they have done in March 2020, in February 2021, in October 2021 — to
+simply exit the market.”
+The world’s most important market is liable to fall apart whenever a few firms decide that the risks
+of participation are too great. Something ought to be done about this, and proposals vary.
+Gary Gensler, chair of the US Securities and Exchange Commission, wants a centralised Treasuries
+clearing house, eliminating the counterparty risks of bilateral clearing. JPMorgan thinks the
+supplemental leverage ratio, which requires capital to be held against risk-free assets, should be
+nixed, as it discourages banks from holding Treasury inventory. Yadav likes both ideas, and also
+thinks regulators could secure agreements from primary dealers that they would trade “against the
+wind” during market turmoil. She writes:
+
+“Such a commitment would not be open-ended. But it could prevent a rapid
+deterioration of trading conditions during difficult conditions. This
+affirmative market making was once prevalent in the equity markets where,
+for example, New York Stock Exchange specialists provided this kind of
+service.”
+
+Neither primary dealers, nor any other buyer, will enter panicked markets unless it is profitable for
+them to do so. A central clearing house, ending the SLR, and liquidity provision agreements would
+all increase risk-adjusted profits at the margin. But it may not be enough, given the size of
+leveraged positions in the modern Treasury market, and the huge messes they can create.
+Unhedged thinks that either the Fed will remain the buyer of last resort, as it was in 2020, or
+markets will have to learn to live without guaranteed Treasury market liquidity (Ethan Wu).
+
+One good read
+Jonathan Chait thinks that Biden’s unpopularity comes not from Rooseveltian aspiration but the
+stain of the hard left, “a privatised shadow party, financed by naive donors and staffed by fervent
+foot soldiers, carrying out a strategy of anti-politics”. A good rendition of an increasingly popular
+view.
+
+Recommended newsletters for you
+FT Asset Management — The inside story on the movers and shakers behind a multitrilliondollar industry. Sign up here
+Free Lunch — Your guide to the global economic policy debate. Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Robert Armstrong
+Unhedged
+US Treasury bonds
+US economy
+US inflation
+
+

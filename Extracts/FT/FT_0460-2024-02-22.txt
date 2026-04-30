@@ -1,0 +1,130 @@
+FT PROFESSIONAL
+
+Unhedged Markets
+
+The Fed probably won’t raise rates
+Declining to cut is punishment enough
+
+Fed chair Jay Powell © FT montage/Bloomberg
+
+Kate Duguid
+Published FEB 22 2024
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+This article is an on-site version of our Unhedged newsletter. Sign up here to get the newsletter
+sent straight to your inbox every weekday
+
+Good morning. It’s Kate Duguid in New York; thanks for having me back to guest host Unhedged
+while Rob is off. It’s never a good idea to be the follow-up act to Katie Martin, but here goes.
+
+First, though, Nvidia. The chipmaker’s shares had dipped ahead of yesterday’s earnings, perhaps
+on the thought that beating investors’ sky-high expectations would be too hard. But no! Nvidia
+blew estimates out of the water. Its stock was up 9 per cent in after-market trading. If you were
+looking for a downside, our smart stocks correspondent Nick Megaw notes that sales in China
+continue to pose a challenge as export rules have forced the company to scale back in the region.
+But for now it doesn’t seem to be enough to offset blowout numbers everywhere else.
+Songs of praise can be sent to kate.duguid@ft.com. All complaints to ethan.wu@ft.com.
+
+The Fed probably won’t raise rates again
+Is it bananas to say that the Federal Reserve could raise interest rates this cycle? Put another way,
+am I willing to call Larry Summers bananas?
+In an interview with Bloomberg last week, the economist said that because of persistent
+inflationary pressures, there was a “meaningful” chance — he put the odds at around 15 per cent —
+that the Fed’s next move on rates could be an increase. “The worst thing you can do when the
+doctor prescribes you antibiotics is finish part of the course, feel better and give up on the
+antibiotics,” said Summers.
+It’s not just Summers, either. Bloomberg followed up the interview with a big piece titled “Markets
+Start to Speculate If the Next Fed Move Is Up, Not Down”. Mark Nash, who manages the absolute
+return macro fund at Jupiter Asset Management, told Bloomberg that he put the odds at 20 per
+cent.
+(A note on 15 per cent odds — that’s the same chance an NFL kicker has of missing a 37-yard field
+goal, but also the odds that The New York Times put on Donald Trump winning the 2016 election.)
+
+Summers’ argument comes just after a big market rethink of where rates are going. At the start of
+January, the futures market had six quarter-point cuts priced in. These market expectations were
+always at odds with the Fed’s own forecasts, but traders were betting on a rapid deceleration in
+inflation this year — like we saw in the back half of 2023. Since January, the macro picture has
+changed a bit. Inflation is falling slower than expected and the jobs market looks sturdy. That is on
+top of clear signals from Fed chair Jay Powell that the Fed would take its time before cutting. So
+rates traders reined in their expectations. Today, three to four cuts are priced in, starting in June
+rather than March:
+
+Market expectations are now much more in line with the Fed’s own thinking. The central bank’s
+December projections showed the average official forecasting three cuts in 2024, a view that Powell
+restated at the bank’s January meeting, and then again in a February interview on CBS’s 60
+Minutes.
+Combining the somewhat more inflationary economic picture with the trend in market
+expectations for rates, does it make sense to start betting on the chance of a rise? I don’t think so.
+
+Start with Summers’ argument. He mostly cited January CPI figures, which did come in hot.
+Headline inflation cooled less than expected, leaving the year-over-year rate at 3.1 per cent. Core
+inflation was stagnant at 3.9 per cent. Summers focused especially on “supercore” (non-shelter
+services) and on owners’ equivalent rent, which rose an annualised 7 per cent in January.
+Though he conceded it was just one month of data, Summers said the CPI numbers could also
+mark a “mini paradigm shift”. But that seems far-fetched, or at least too early to tell. The day it
+happened, Ethan laid out why we should take the data with a grain of salt: inflation expectations
+look calm, the OER jump looks like noise, and January inflation data tends to be wonky. It is
+reasonable to think that February’s figures will be a little cooler.
+Yes, stock and bond markets did take the inflation data poorly. But that speaks less to the data
+itself than the amount of disinflation and rate-cut optimism priced into markets. The below chart
+from Meghan Swiber, US rates strategist at Bank of America, shows just how out of whack the
+market was with Fed expectations. The market-Fed expectations disconnect has only been so wide
+in previous moments of crisis (March 2020, the Silicon Valley Bank mini-crisis) or during
+monetary policy pivots:
+
+There is no sign from the Fed that it expects to raise interest rates this year. The minutes from
+January’s Fed meeting, released on Wednesday, showed officials were “highly attentive” to
+inflation risks and wary of cutting interest rates too quickly. Buoyant stock and credit markets are
+adding to Fed caution: “several participants mentioned the risk that financial conditions were or
+could become less restrictive than appropriate, which could add undue momentum to aggregate
+demand and cause progress on inflation to stall.” But in spite of all these reservations, the Fed is
+still only talking about rate cuts.
+“The odds of an outright hike are tough, because the Fed would have to see a significant
+reacceleration in core inflation momentum, ” said Gennadiy Goldberg, head of US rates strategy at
+TD Securities. It’s important to note that the Fed can only influence certain types of inflation. Any
+reacceleration would likely have to occur in core inflation — ie, not including higher energy prices
+— and would have to reflect overly strong demand. Supply chain snarls might not count.
+
+And even in the case of re-accelerating core inflation, the Fed still might not raise rates.
+Markets are sufficiently all-in on cuts this year that failing to deliver them would be “toxic”, said
+Goldberg. You could get a dramatic repricing: tanking equity markets, widening corporate credit
+spreads, much tighter financial conditions. This would do much of the Fed’s work for it. “Just by
+keeping rates at [today’s] 5.5 per cent, the Fed would be doing a fair amount of tightening,” said
+Goldberg. This is the strongest point against increases: why would you need them?
+To have renewed tightening, we’d probably have to see the US labour market heat up more. The
+labour market’s trend towards better supply-demand balance, which Powell has touted in every
+recent meeting, would probably have to not just stall, but reverse. This would change the calculus
+for the Fed. Instead of facing two-sided risks to its dual mandate, the risk of higher unemployment
+would start looking diminished. Like in 2022, inflation-fighting mode would kick in.
+So is thinking about rate rises this year bananas? No; it’s a real tail risk. But Summers’ 15 per cent
+probability strikes me as too high. It’s premature to speak of “mini paradigm shifts”. Markets are
+pricing in the tail risk more realistically: a 6.3 per cent chance of a quarter-point rate rise in 2024
+— closer to getting a false positive on a drug test than missing a 37-yard field goal.
+
+One good read
+This piece, by the aforementioned Nick Megaw, on wonky trading in Nvidia-linked stocks, is a good
+read for you, and for the securities regulator in your life.
+
+FT Unhedged podcast
+Can’t get enough of Unhedged? Listen to our
+new podcast, hosted by Ethan Wu and Katie
+Martin, for a 15-minute dive into the latest
+markets news and financial headlines, twice a
+week. Catch up on past editions of the
+newsletter here.
+
+Recommended newsletters for you
+Swamp Notes — Expert insight on the intersection of money and power in US politics. Sign up
+here
+Due Diligence — Top stories from the world of corporate finance. Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Global inflation
+US interest rates
+Markets
+Federal Reserve
+Unhedged
+
+

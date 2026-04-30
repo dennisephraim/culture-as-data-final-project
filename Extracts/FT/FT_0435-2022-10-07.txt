@@ -1,0 +1,125 @@
+FT PROFESSIONAL
+
+Unhedged US inflation
+
+Inflation’s slow grind down
+Avoiding the worst still isn’t much fun
+
+© Financial Times
+
+Robert Armstrong and Ethan Wu
+Published OCT 7 2022
+
+This article is an on-site version of our Unhedged newsletter. Sign up here to get the newsletter
+sent straight to your inbox every weekday
+
+Good morning. Life of a markets journalist, late 2022. Wake up, stare at computer, ask self:
+anything to write about except inflation and the Federal Reserve? Answer from the News Gods: no.
+It’s still the biggest and, most days, most interesting story out there. If you have other ideas, send
+them: robert.armstrong@ft.com and ethan.wu@ft.com.
+
+Inflation: probably getting better, slowly
+After today’s payrolls numbers drop, the market will have to, once again, recalibrate its estimate of
+how much the labour market is or isn’t tightening and how the Fed will or won’t react. But
+remember why we care about the labour market so much right now: because of inflation. A tight
+labour market creates wage inflation and wage inflation is sticky and contagious — that’s the
+orthodoxy, anyway. What started as a goods price spike driven by tight supply chains, lockdown
+spending habits and stimulus cheques has turned into a surge in wage-sensitive services prices.
+The job market is important. But let’s keep our eyes on the ball: what is inflation itself doing? It is
+easy to just shrug sadly and say “it’s high”. So it is, but the story is subtle, and continues to evolve.
+The details reward attention.
+The first thing to say is that headline CPI has peaked. In both month-on-month and year-on-year
+terms, the top came in June and (at risk of tempting fate) a return to that level seems unlikely.
+Many commodity and transport prices are falling fast and (for what it’s worth) job listings are
+declining, too. There are lots of charts that look like this in circulation:
+
+But the Fed is not going to be much impressed by these volatile, goods-driven prices in headline
+CPI. The focus now is squarely on core CPI — and more specifically on services such as housing,
+where wages are thought to be particularly important. Here is the economist Jason Furman,
+arguing in the Wall Street Journal this week that the Fed must not let up:
+
+Optimists point to signs that inflation will moderate. The latest signal is the
+large decline in job openings, but there are also falling home prices, falling
+shipping costs, falling commodity prices . . . however, labour markets are still
+much tighter than at any point before the pandemic, and many of the other
+frequently cited factors have only a small or uncertain relationship to
+inflation. Many other signs go in the opposite direction . . . Wage inflation
+has picked up over the course of the year, and rent on existing leases remains
+well below rent on new leases.
+
+Services inflation contains a ton of stuff, but three categories — shelter (42 per cent of core CPI),
+medical care (9) and transportation (8) — have dominated in recent months. This chart from
+Omair Sharif of Inflation Insights shows which inflation categories have driven up inflation the
+most since April (OER is owners’ equivalent rent, or what homeowners would rent their house out
+for):
+
+Start with transportation services. Look beneath the hood and you quickly spot the bit that’s on
+fire: airfares. Since the pandemic, plane ticket prices have been exceptionally volatile.
+
+This isn’t terribly shocking given pandemic disruptions to travel and fuel prices, but with the
+Omicron coronavirus variant hit to travel well behind us, we’re surprised how volatile airfares have
+remained. A slowing economy is cutting air travel demand, but the holiday season will boost it.
+Alan Detmeister, an economist at UBS, figures airfares, and transportation services inflation, won’t
+fall consistently until next year.
+Medical care services are more interesting. As we’ve written, prices here hinge on insurance
+company earnings data that is updated once yearly, and on a long lag. As a result, Detmeister
+points out, every CPI report published so far this year has been based on price data comparing
+2020 to 2019. When new data comes in October’s CPI report, all the analysts we talked to expect
+medical services will get squashed, dragging down core services.
+You’ll notice that neither of these two categories really contains the usual story about wages or a
+tight labour market. As Sharif put it to us:
+
+I just see people blindly looking generally at core services, seeing how high it
+is, and saying, ‘Oh, this is obviously a function of wage growth’ . . . What will
+people be saying in three months’ time when medical care becomes a drag on
+core services and transportation isn’t showing 14-15 per cent in airfares?
+The last category, shelter, is inflation’s key link to a tight labour market. You can observe that
+empirically, but the intuition is plain enough. Here’s Detmeister again (notice that he emphasises
+stable employment over wages):
+
+If you get a job, and a stable job, then you’re more willing to move out of a
+group house to have your own place. You’re more willing to move out from
+living with your parents. So [shelter inflation] is more tightly linked with the
+unemployment rate than with wage growth itself.
+We’ve long known shelter inflation would come in hot this year, but it’s becoming clear that the
+peak is due soon (if it hasn’t come already). CPI’s shelter components are based on rental data. And
+private market rent indices kept by websites such as Zillow and Apartment List have been
+decelerating:
+
+Remember that what makes an inflation rate go up is not whether rents are increasing, but whether
+they are accelerating. So for this index, the tip of the hump above should represent peak rent
+inflation.
+Of course, the Zillow index is not an exact apples-to-apples comparison. It measures newly signed
+leases, while CPI rent indices captures the full universe of new and existing leases. But it does offer
+a look into the future. CPI rent tends to follow the private indices on a lag, the median of which is
+eight months, according to Nomura’s Aichi Amemiya. That pattern, he says, suggests month-onmonth rent inflation should start falling around January, though gradually.
+The point is that while the jobs market-inflation story matters, current data suggest the worst has
+passed. Put together, we have a picture of services inflation that will moderate, slowly, as airfares
+eventually settle, new data deflate medical care and CPI rent indices catch up with current
+conditions.
+
+For markets, the optimistic bit is that a cataclysmic wage-price spiral looks unlikely. But avoiding
+disaster doesn’t mean inflation’s grinding descent will be pleasant. We’d guess that there won’t be
+enough good inflation news to knock the Fed off its march to 4-5 per cent rates. In the meantime,
+plenty else could go wrong. (Ethan Wu)
+
+One good read
+Are the current disruptions the birth pangs of a new economic regime? Or just a temporary
+interruption of the old one? Our bet is on the latter. The Economist has put its chips on the former.
+
+Recommended newsletters for you
+Cryptofinance — Scott Chipolina filters out the noise of the global cryptocurrency industry.
+Sign up here
+Swamp Notes — Expert insight on the intersection of money and power in US politics. Sign up
+here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+US economy
+US inflation
+Federal Reserve
+Unhedged
+Ethan Wu
+
+

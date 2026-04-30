@@ -1,0 +1,92 @@
+FT PROFESSIONAL
+
+Opinion US Treasury bonds
+
+The US Treasuries market is a dangerous place to dream
+When markets awake and reprice Treasuries, there is every chance we will see
+another nasty jolt
+
+GILLIAN TETT
+
+© Efi Chalikopoulou
+
+Gillian Tett
+Published NOV 18 2021
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+For almost two years, a frightening question has haunted the US Treasury and Federal Reserve.
+No, this is not whether the Fed can engineer a smooth exit from quantitative easing; nor whether
+this is the right moment to switch the governor (and policy).
+
+The question I am referring to is whether the US Treasuries market is robust enough to handle the
+shocks that might arise from those first two problems. For while the US government bond market
+used to be considered to be the world’s most liquid and deep asset class, in March 2020 that cosy
+assumption was smashed apart.
+Most notably, when investors woke up to the economic risks associated with the Covid-19
+pandemic, there was such a dramatic sell-off in Treasuries that trading froze up. That, in turn,
+posed such big systemic threats that it forced the Fed to step in with what John Williams, NY Fed
+president, has called “staggering” amounts of liquidity support, reaching almost $1tn each day.
+Thankfully, that Fed intervention prevented a complete crash. But, as a paper issued this week by a
+body called the Inter-Agency Working Group on Treasury Market Surveillance points out, a far
+milder echo of that shock re-emerged this February. And it could easily occur again soon. After all,
+inflation is now surging in a way that has created mounting calls for a US rate hike.
+Even so, many investors are being lulled into a “dreamland”, as Pimco founder Bill Gross told the
+Financial Times this week, since they assume that long-term rates will remain indefinitely low.
+This is bizarre, given the outlook for prices and growth, which has propelled equity markets higher.
+If nothing else, it suggests bond repricing is overdue.
+That brings us back to the key problem haunting the Fed: can this adjustment occur without
+another 2020-style freeze? There is good and bad news on this front. To start with the good: 20
+long months after that Covid-19 market shock, financial authorities now understand the source.
+The essential problem might be likened to somebody rebuilding a house after a bad storm, but only
+shoring up half the foundations. More specifically, a decade ago, in the aftermath of the 2008
+financial crisis, regulators tightened capital rules for banks in a way that made it too costly to hold
+vast quantities of Treasuries on their books. This move strengthened half the financial system’s
+foundations — it made the banks safer — but had the unintended consequence of prompting them
+to withdraw from traditional market-making roles.
+
+This has coincided with a rise in “principal trading firms” (or high-frequency trading funds), which
+have moved into the Treasuries sector with their computerised models and now account for 50-60
+per cent of activity, as Gary Gensler, Securities and Exchange Commission chair, noted this week.
+When market conditions are calm, the PTFs create strong, liquid foundations for trading. But in a
+crisis, they have no incentive to act as market makers, are more likely to flee and, as the IAWG
+paper notes, when some big holders of Treasury bonds — notably foreign investors — trimmed
+exposures in March 2020, nothing could absorb the selling shock.
+What made the situation doubly pernicious was that some hedge funds had built huge, hidden
+derivatives positions. The lightly-regulated foundations of the system, in other words, created big
+cracks, although the banks were safe.
+The bad news is that there is no easy or swift fix for these problems — even though authorities
+understand them. This week the Fed convened a conference which floated ideas to protect the
+market from future shocks. Gensler, for example, called for those pesky PTPs to be placed inside
+the SEC’s regulatory net. He also suggested that Treasuries be cleared on a central platform.
+Meanwhile, Fed officials called for more transparency and Wall Street bankers — unsurprisingly —
+demanded a rollback of the capital rules.
+Some of these ideas are sensible. Personally, I would be wary of any widespread relaxation of the
+post-crisis reforms. But it would be useful if the rules were tweaked to help brokers to act as
+market makers in the Treasuries sector. Indeed, this is precisely what the Fed did temporarily in
+2020. It would make even more sense to introduce more oversight of PTPs, via a clearing house or
+regulatory scrutiny (or both).
+However, as so often in Washington, it would be wildly naive to expect that an entirely sensible set
+of solutions will be implemented fast. It has been clear that structural cracks were emerging in the
+Treasuries market ever since a so-called flash crash — or freeze — hit the sector, briefly, in 2015,
+presaging 2020. The Fed has since tinkered with small reforms. But it has taken six long years to
+get a serious policy debate under way. It could take as long again to actually make big structural
+changes.
+
+Investors should draw two lessons. First, they need to pay attention to who replaces Randal
+Quarles as head of financial oversight at the Fed, since these issues will partly fall into his or her
+lap (along with the newly hyperactive SEC). Second, when markets awake from dreamland and
+reprice Treasuries, there is every chance we will see another nasty market jolt.
+Unless, of course, the Fed keeps acting as a trillion-dollar-a-day market maker of last resort. Which
+is not, of course, how free market finance is supposed to work.
+gillian.tett@ft.com
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Gillian Tett
+US Treasury bonds
+US economy
+Financial & markets regulation
+Federal Reserve
+
+

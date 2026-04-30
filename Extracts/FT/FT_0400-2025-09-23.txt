@@ -1,0 +1,314 @@
+FT PROFESSIONAL
+
+Chris Giles on Central Banks Central banks
+
+Dovish Federal Reserve moves could make a frothy US market frothier
+Cutting interest rates while equities are roaring raises financial stability risk
+
+The US Federal Reserve’s decision to cut interest rates last week is expected to spur the already buoyant equity market further ©
+SHAWN THEW/EPA/Shutterstock
+
+Joel Suss
+Published SEP 23 2025
+
+This article is an on-site version of our Chris Giles on Central Banks newsletter. Premium
+subscribers can sign up here to get the newsletter delivered every Tuesday. Standard
+subscribers can upgrade to Premium here, or explore all FT newsletters
+
+Hello from the newsroom in London. I’m Joel Suss, FT data journalist, standing in for Chris Giles
+today.
+
+Stephen Miran, the new US Federal Reserve governor currently on leave from Donald Trump’s
+White House, argued that his decision to back a half-point cut at last week’s rate-setting meeting
+was justified because the fed funds rate is “roughly 2 points too restrictive” and there hasn’t been
+“any material inflation from tariffs”.
+This does not seem to accord with the US’s loose financial conditions, above target and rising
+inflation, and 4.3 per cent unemployment. What am I missing? Let me know: joel.suss@ft.com.
+
+Frothy markets get frothier
+The Fed is in a tricky spot. Leaving aside the menace to its independence, the central bank faces
+stagflationary forces, with inflation and labour market indicators moving in opposite directions.
+With CPI inflation rising over recent months — from a post-pandemic low of 2.33 per cent in April
+to 2.94 per cent in August — last week’s cut could constitute a mistake that pushes inflation higher.
+FT core — our in-house measure of underlying inflation — is also trending higher, driven in part by
+the increasing proportion of items rising in price, which is now far above the long-run average.
+
+The FT's measure of core CPI
+inflation has settled above target
+
+Drivers of FT core for US CPI show
+inflation is not defeated
+
+Annual rate of change (%)
+
+Annual measures (%)
+Average is from 2001-2019
+
+All items
+
+FT core
+Weighted median
+
+Prop
+1
+
+8
+
+0.9
+
+10
+
+0.8
+5
+6
+
+4
+
+Average
+
+0.7
+0.6
+
+0
+
+0.5
+
+Volatility
+
+Excl.
+
+8
+2
+
+Inflation target
+
+10
+
+6
+4
+
+0
+2
+
+5
+Average
+
+0
+Source: FT calculations, BLS • FT core inflation is calculated using an ensemble model (methodolog
+here)
+FT graphic Joel Suss
+
+And while the Fed still considers US interest rates to be in restrictive territory (though not nearly
+as much as does Miran), financial conditions were already loose and loosening sharply ahead of
+last week’s rate cut, thanks in large part to buoyant US equities.
+Spurring on inflation is not the only concern. The Fed’s move last week is expected to egg on
+equities further. And with stock valuations already signalling a potential bubble, financial stability
+risk is rising.
+
+US financial conditions are loose and Loose US financial conditions are
+loosening, even though Fed rates are being driven by a buoyant stock
+considered ‘moderately’ restrictive
+market
+Contributions to GDP growth over the next year
+(% points). Negative values mean financial
+conditions are expected to boost GDP growth in
+the year ahead, and vice versa
+
+Contributions to financial condition index by
+category
+Solid line is annual headline inflation (%)
+FCI
+FFR
+Mortgage rate
+House prices
+
+10-year Treasury
+BBB
+Stock market
+Dollar
+
+2
+
+↑ Headwinds
+1
+
+to GDP
+growth
+
+2
+
+1
+
+↑
+
+Headwinds
+to GDP
+growth
+
+0
+0
+-1
+
+↓ Tailwinds to
+GDP growth
+
+-1
+
+↓ Tailwinds
+to GDP
+
+Source: Federal Reserv
+FT graphic: Joel Suss
+
+With the S&P 500 back at record highs after Trump’s “liberation day” shock, a frothy market may
+soon get frothier. Is it a bubble and, if so, when will it burst? These are questions only answerable
+with hindsight. But what is clear is that the Magnificent Seven megacap tech stocks are driving the
+market higher. Meanwhile, price-to-earnings ratios are near dotcom levels, according to the BIS.
+And the revolutionary promise of artificial intelligence seems premature.
+
+Gary Marcus, prominent AI scientist and critic, has for some time been warning that current
+technology is reaching fundamental limits that fall well short of promised superintelligence. Even
+Meta chief executive Mark Zuckerberg concurred in a recent podcast appearance. He said an AI
+bubble akin to dotcom was “quite possible”, although that would mean opportunities to acquire
+cheap distressed assets, he added.
+A clearer sign of rising financial froth is in listed crypto hoarding companies, many of which
+purchase bitcoin and other cryptocurrencies via equity and debt from already highly leveraged
+hedge funds. Lots of these companies’ share prices have now fallen below the market value of their
+crypto holdings (their answer to which is often to take on more debt).
+How worried should we be? In its April financial stability report, the Fed highlighted the country’s
+healthy household and bank balance sheets. This is certainly not the US before the global financial
+crisis. But the fallout from a burst tech or crypto bubble could still cause widespread damage. This
+is especially true when considering that a lot of risk sits opaquely outside, but interconnected with,
+the traditional financial system, in the form of highly leveraged “business development
+corporations” and other private credit vehicles.
+
+'Business development corporation' leverage has been rising
+Debt-to-equity
+100%
+
+80%
+
+60%
+
+40%
+
+20%
+
+0%
+2000
+
+2002
+
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+2014
+
+2016
+
+2018
+
+2020
+
+2022
+
+2024
+Source: B
+
+Regulatory independence
+Another under-appreciated risk to financial stability has grown in plain sight. Much has been said
+since Trump’s re-election about threats to Fed independence, but the concerns have mainly
+revolved around monetary policy and the risk of rampant inflation.
+Threats to Fed regulatory and supervisory independence also present clear risks.
+World Bank and Bank of England academics developed a regulatory independence index that
+assesses countries based on variables such as laws around removal and tenure of the regulatory
+agency head and autonomy in technical rule-setting for banks.
+Unsurprisingly, regulatory independence correlates with financial stability, with banks having
+substantially fewer non-performing loans when independence is high.
+
+While the Fed is fighting hard to keep its monetary policy independence, it has arguably acquiesced
+to Trump on the regulatory front. Just before the US president’s inauguration, Michael Barr
+announced he would resign as Fed vice-chair for supervision owing to “risk of a dispute over the
+position” (although he remains on the Fed board of governors).
+Michelle Bowman, Trump’s pick as Barr’s successor, has promised a more “pragmatic” approach to
+supervision. Let’s hope the pragmatism does not trade off financial stability for lower Trump
+dispute risk.
+
+What I’ve been reading and listening to
+The Swiss National Bank is unlike its peers and more akin to a sovereign
+wealth fund. It has large holdings of US equities, including $42bn invested
+in five American tech giants.
+If the sources of financial instability discussed above weren’t enough, the
+European Central Bank has a new working paper that finds experiences of
+high inflation lead to higher chances of financial crises.
+Economist Edward Yardeni writes that tensions between the Fed’s
+employment and inflation objectives underline why the central bank’s dual
+mandate should be repealed in favour of its original 1913 goal to maintain
+financial stability.
+Martha Gimbel of the Yale Budget Lab speaks to Claire Jones about the
+history of tariffs in the US and whether the revenues they raise outweigh
+their negative economic impact.
+
+A chart that matters
+Trump’s “liberation day” tariff announcement was a major negative economic sentiment shock, as
+clearly seen in the FT Monetary Policy Radar’s macro mood index. How did the market recover so
+quickly?
+
+The BIS’s latest quarterly review does some nifty work to decompose changes in the S&P 500 and
+Vix indices. In short, “adverse effects appear to have been dominated by non-tariff-related news
+triggering renewed optimism in risky asset markets”, with retail investors having been net buyers
+over the period, in contrast to institutional investors.
+
+Negative tariff effects have been dominated by positive non-tariff news
+Deviation around trend (log points)
+Data
+
+Tariff shocks
+
+Other shocks
+
+10
+0
+
+Vix
+'Liberation
+day'
+China-US
+truce
+
+S&P 500
+
+-10
+Mar 23 2025 May 25 2025 Jul 27 2025
+
+100
+50
+0
+Mar 23 2025 May 25 2025 Jul 27 2025
+Source: BIS
+FT graphic: Joel Sus
+
+Central Banks is edited by Harvey Nriapia
+
+Recommended newsletters for you
+Free Lunch — Your guide to the global economic policy debate. Sign up here
+The Lex Newsletter — Lex, our investment column, breaks down the week’s key themes, with
+analysis by award-winning writers. Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Global Economy
+Central banks
+Federal Reserve
+Chris Giles on Central Banks
+Joel Suss
+
+

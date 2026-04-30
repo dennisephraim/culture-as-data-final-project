@@ -1,0 +1,351 @@
+FT PROFESSIONAL
+
+Chris Giles on Central Banks US interest rates
+
+Is the Fed’s next move a raise in rates?
+
+Four reasons to doubt a hike is coming, but US inflation has been misbehaving
+
+Residual heat in the labour market will be increasingly important in determining US interest rates © Bloomberg
+
+Chris Giles
+Published APR 30 2024
+
+This article is an on-site version of our Chris Giles on Central Banks newsletter. Premium
+subscribers can sign up here to get the newsletter delivered every Tuesday. Standard
+subscribers can upgrade to Premium here, or explore all FT newsletters
+
+Almost nobody thought the fashionable question in the northern hemisphere spring would be
+whether the Federal Reserve would soon have to raise rates again. But that is where we are.
+Definitively hot US inflation data, unlike that in Europe or Japan, has changed the outlook.
+
+Instead of the six to seven quarter-point rate cuts in 2024 that financial markets expected at the
+turn of the year, they are now expecting roughly one. In options markets, many participants put a
+probability close to 20 per cent on the next move from the Fed being a rate rise.
+At the end of the Fed meeting on Wednesday, Jay Powell is likely to be careful not to rule out a
+hike. The Fed chair will probably stick to his mantra that the committee has become less confident
+about the ability to cut rates in the short term.
+Others have been less circumspect. Larry Summers, former Treasury secretary, said earlier this
+month: “You have to take seriously the possibility that the next rate move will be upwards rather
+than downwards.” He added that recent inflation data indicated the neutral rate of interest was
+“way above” the 2.6 per cent level believed by the Fed.
+To corroborate that, the Fed’s favoured inflation measure has been rising again. Annualised threemonth PCE inflation on most measures exceeded annualised six-month inflation however you cut
+the data. And six-month inflation exceeded 12-month inflation, suggesting there is momentum in
+US prices and it is not good.
+
+US inflation is under control
+December 2023 annualised PCE inflation for different categories and various time horizons
+
+1m
+
+3m
+
+6m
+
+12m
+
+PCE
+Weight
+
+Headline
+
+3.9
+
+4.4
+
+2.5
+
+2.7
+
+10
+
+Core
+
+3.9
+
+3.8
+
+3.0
+
+2.8
+
+88
+
+Market-based core
+
+3.6
+
+5.7
+
+2.8
+
+2.6
+
+Core services ex-housing
+
+4.9
+
+4.7
+
+3.8
+
+3.5
+
+Median PCE
+
+3.1
+
+4.0
+
+3.6
+
+3.5
+
+Trimmed mean PCE
+
+2.9
+
+3.9
+
+3.0
+
+3.0
+
+Median of measures
+
+3.7
+
+4.2
+
+3.0
+
+2.9
+
+76
+
+50
+
+The better news is that there are many reasons to dispute the idea that the Fed will soon be hiking
+US interest rates from their 5.25 per cent to 5.5 per cent range. Most important is the consideration
+of both supply and demand trends to assess inflationary pressures.
+The first area to look at is the US labour market. There is a lot of labour market data coming out
+this week after this article goes to print, so caution is required. That said, recent trends still show
+big improvements in supply of workers from inactivity and immigration hand-in-hand with rapid
+gains in labour productivity. The combination boosts the ability of the US economy to grow without
+sparking inflation.
+
+5
+
+US labour force participation has improved significantly
+Index of participation rate: Jan 2000 = 100
+25-54 year olds
+
+Total
+
+100
+
+98
+
+This improvement in labour supply and productivity has allowed labour market indicators to cool
+from highs in 2022 despite continued rises in employment.
+The best way to show this is to get a bunch of labour market indicators and compare their strength
+with average pre-pandemic levels and their normal variation. This is the “goldilocks” area in the
+chart below, in which the data sat about around two-thirds of the time between 2001 and the end
+of 2019.
+Whether you look at job openings per unemployed person, the quits rate, the Atlanta Fed’s wage
+growth measure or the Fed’s preferred Employment Cost Index for private sector wages and
+salaries, the data is moving back towards the goldilocks zone. In many cases, the chart shows it is
+already back to pre-pandemic levels.
+
+This range of data suggests that the Fed’s interest rate is restrictive and bringing the labour market
+into balance, but that it also has a bit further to go before officials can be comfortable. It does not
+suggest further rate rises are needed.
+
+The US labour market is cooling but has a way to go
+Standard deviations from 2001 to end 2019 average
+Job openings per unemployed
+
+Quits rate
+
+Atlanta Fed wages
+
+ECI: private wages and salaries
+
+4
+
+2
+
+G ld
+G
+ld
+
+The second broad set of data showing the economy is reacting to higher interest rates comes from
+the traditionally interest rate sensitive areas of housing and lending.
+The data is not as well behaved as those showing the labour market, but it still indicates that
+existing home sales, consumer lending and credit card delinquencies (inverted) are coming back
+into more normal ranges having been hot.
+
+This again suggests the Fed got it right in thinking economic activity and demand is slowing
+relative to potential supply. You would not expect to see these trends if the monetary policy
+transmission mechanism was broken.
+
+Housing and lending data has also cooled
+Standard deviations from 2001 to end 2019 average
+Existing home sales
+
+Consumer loan growth
+
+Credit card deliquencies (inverted)
+
+2
+
+Gold
+Gold
+
+0
+
+A third test is simply to look at traditional measures of inflation and note that these are still well
+down on last year when measured on an annual basis. There is much wrong with the way Europe
+measures owner-occupied housing in its harmonised index of consumer prices (it ignores it), but
+on an equivalent measure, core US inflation is already down to 2 per cent. The US is also well on its
+way to 2 per cent on the core consumer price index (CPI) measure and the personal consumption
+expenditure deflator (PCE).
+Disinflation has not stopped even if it has been disappointing of late.
+
+Declining annual US inflation rate
+Core CPI, PCE and HICP inflation rates (YoY, %)
+PCE
+
+CPI
+
+HICP
+
+8
+
+6
+
+4
+
+The fourth argument against rate rises is important although a little circular. Since the start of the
+year, the movement upwards in expected interest rates has added to the bite exerted by the official
+overnight rate of 5.25 to 5.5 per cent. Financial conditions have tightened, borrowing rates have
+risen and this makes the stance of monetary policy tighter than it was at the turn of the year.
+Of course it is wrong to take this argument too far, as Lord Mervyn King did almost 20 years ago
+when the former Bank of England governor postulated a “Maradona” theory of interest rates. He
+suggested the central bank could allow financial markets to do the work for officials, a prediction
+that was falsified a little over a year later when the BoE raised rates sharply in 2006 before slashing
+them in the global financial crisis.
+
+These four reasons still suggest the Fed’s tightening from 2022 is restricting the US economy and
+helping to bring inflation down.
+After three consecutive months of bad US inflation data, however, it is also important to point out
+what might be wrong with the reasoning above.
+The data showing a cooling US economy could start to turn and that would be something to worry
+about.
+A continuation of recent trends in inflation data should also raise concerns. Disinflation needs to
+reassert itself soon or it will be hard to dismiss the idea that there is excess demand. I’ve put
+annualised six-month inflation as the default in the graphic below, but if you want to scare
+yourself, click on the chart and look at the three-month annualised rates.
+
+The comprehensive picture of US disinflation is now more complicated
+Annualised inflation (%)
+Enter series to show
+Min
+Max
+Headline 6m
+Trimmed mean 6m
+
+Core 6m
+
+Market core 6m
+
+Core services 6m
+
+Median 6m
+
+8
+
+6
+
+4
+
+Finally, there are still many parts of the US economy that do not seem to be sensitive to interest
+rates and it will be problematic if these continue to run hot.
+In the US GDP statistics, despite the cooler 1.6 per cent annualised headline growth rate, quarterly
+growth rate for real consumer spending of 2.5 per cent was only slightly weaker than at the end of
+2023. The savings rate of 3.6 per cent in the first quarter was again low, suggesting few worries
+among households regarding activity levels.
+In the jobs market, cooling in vacancies, quits and wage growth has not been matched with a
+slowdown in government, health and hospitality jobs growth.
+
+With a Fed meeting and vacancy, wage and jobs data coming this week, I will check back next week
+to see if signs of the disinflationary process are reasserting themselves. I am ready with the humble
+pie if not. But for now, the evidence suggests the next move in the Fed’s rates is still downward.
+
+What I’ve been reading and watching
+In two columns, Martin Wolf argues the ECB should start cutting rates soon
+while the Fed should remain on hold “but cannot wait forever”. On the UK,
+he correctly argues that the BoE should be willing to ask what went wrong
+in the inflationary episode and what lessons can be learnt. It is remarkable
+that the BoE (and others) find this question so uninteresting
+The Wall Street Journal (£) reports that Donald Trump’s allies are drawing
+up plans to weaken the Fed’s independence. There is no sign, however, that
+this has support from the Republican presidential nominee. So far, it’s just
+people seeking to curry favour with Trump
+Interest rate moves in emerging markets are diverging. Indonesia’s central
+bank raised rates last week and a similar increase in Nigeria has boosted its
+currency. Central banks in Ukraine, Hungary, Argentina and Costa Rica all
+cut rates in the past week
+The question of UK interest rates will matter for the next UK government. I
+argued that people are being too negative about prospects for a Labour
+government. The optimists have a story to tell
+
+A chart that matters
+Last week the Bank of Japan held interest rates at the new range between zero and 0.1 per cent,
+expressing few concerns about the declining value of the yen. “Over to you Ministry of Finance,”
+the BoJ seemed to be saying. Sure enough, on a public holiday on Monday, the yen arrested its
+decline amid speculation of heavy intervention from the Japanese authorities. The MoF never
+confirms or denies intervention immediately.
+It also probably does not like others pointing out the decidedly patchy history of Japanese currency
+intervention. As the chart below shows, it worked in 2011 and eventually in the mid-1990s, but
+often fails to achieve its ambition.
+
+The yen is touching lows last seen in the early 1990s amid a long and
+patchy history of currency intervention
+Index: Jan 2020 = 100
+Ambition for currency interventions highlighted
+Dollar Yen
+
+Trade-weighted Yen
+
+140
+
+120
+
+100
+
+DOWN
+
+STABLE
+
+NWOD
+
+UP
+
+Dollar Yen
+
+Recommended newsletters for you
+Free lunch — Your guide to the global economic policy debate. Sign up here
+Trade Secrets — A must-read on the changing face of international trade and globalisation.
+Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+US inflation
+US interest rates
+Central banks
+Federal Reserve
+Chris Giles on Central Banks
+
+

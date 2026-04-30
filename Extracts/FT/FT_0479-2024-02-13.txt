@@ -1,0 +1,239 @@
+FT PROFESSIONAL
+
+Chris Giles on Central Banks Central banks
+
+Will wage growth keep inflation too high?
+There is little sign of a wage price spiral in the US or eurozone, but the UK is on the edge
+
+A national pay dispute called by the trade union Verdi disrupts Germany this month © Reuters
+
+Chris Giles
+Published FEB 13 2024
+
+This article is an on-site version of our Chris Giles on Central Banks newsletter. Sign up here to
+get the newsletter sent straight to your inbox every Tuesday
+
+Wages matter. Not just for living standards, but for the inflationary process. This week, I am going
+to do a deep dive into what we know about pay trends in the US, eurozone and UK. One chart
+completely destroyed my previous beliefs and made me reconsider my views. I love it when that
+happens because I know I’ve learnt something. Let me know something recently that made you
+stop and think. Email me: chris.giles@ft.com
+
+Worrying about wages
+There is little today’s central bankers like to do more than worry about excessive wage rises. This is
+not a criticism. With wages accounting for roughly 60 per cent of gross domestic product in the US,
+eurozone and the UK, rapid pay increases will ultimately drive rapid price rises.
+As ever, definitions matter too. The eagle-eyed (most of you) will notice I did not define “rapid” in
+the previous paragraph, nor did I explain “ultimately” and nor did I clarify that the labour share in
+GDP is also very difficult to measure, particularly in the treatment of self employment income. So
+what follows is an attempt to do just that.
+
+The easy bit
+One simple part of the wage and inflation story is that when there are no shocks or adjustments,
+inflation will be stable and on target if pay is growing at roughly the rate of inflation plus
+productivity growth. This is not controversial. It is the amount of wage growth necessary to
+maintain a constant share of GDP going to workers (employees and the employment element of
+self employment).
+If wage growth is lower than this level persistently, as it has long been in Japan and was in
+Germany before the pandemic, it can put downward pressure on inflation, leaving countries stuck
+in a low inflation trap. The 1970s wage price spirals show the opposite effect.
+With productivity growth having been around 1 per cent a year since the global financial crisis
+across many advanced economies, annual wage growth of roughly 3 per cent is consistent with a 2
+per cent target over time. Top central bankers often mention this, with Fed chair Jay Powell and
+deputy governor of the Bank of England, Sir Dave Ramsden, citing these sorts of figures in their
+latest press conferences.
+The problem is that wage growth is difficult to measure, leaving a lot for interpretation. The data is
+often late (in the eurozone especially), can be distorted by the changing composition of the
+workforce (an influx of low wage jobs can seemingly depress wage gains), can be of poor quality
+(household surveys) and can differ conceptually (for example in whether it looks at just those
+moving jobs).
+
+The chart below therefore takes a range of measures for the US, eurozone and UK creating a band
+of pay growth indicators. The blue line showing the “headline” rate is the most often quoted figure
+for each economy. Click on “Indeed” for the Indeed wage tracker, which measures wages in job
+advertisements (and hence only for job movers). That does not apply to everyone, but it is more up
+to date and consistent across economies.
+
+Wage growth in the US, eurozone and UK
+Annual change in wages (%)
+Grey swaths indicate range of wage growth measures for each country
+Headline
+
+Indeed
+
+US
+
+eurozone
+
+10
+
+8
+
+6
+
+From the charts, I think you can conclude the following:
+
+Wage growth is still above the long-term level consistent with stable
+inflation everywhere
+
+All US measures are declining rapidly to this target. There is evidence this is
+also true in the UK, but levels of wage growth are still very high
+The eurozone headline data for the third quarter of 2023 is horribly out of
+date
+Click on the “Indeed” button and you can see that there is more slowing of
+wage growth for new hires in all areas, which is a good leading indicator of
+wage trends. Levels of wage growth are still too high for long-term stable
+inflation
+
+The catch-up
+The big problem with the analysis above is that we are not in a long-term steady state. At the
+moment wages are also adjusting to the pandemic, the inflationary period and the energy crisis of
+recent years. It helps, therefore, to look not only at wage growth but also the level of wages
+compared with the level of prices, as I have drawn in the chart below.
+The chart was not what I was expecting. For sure, US wage levels have kept up with prices
+(roughly) and they have fallen far behind in the eurozone. This was to be expected because
+inflation was more demand driven in the US and rapidly rising imported energy prices in 2022
+required European consumers to take a real hit to their living standards. Russia’s invasion of
+Ukraine made Europe poorer both in absolute terms and relative to the US.
+
+The levels of wages and prices have differed substantially between the US,
+eurozone and the UK
+Wage and price levels: 2019 Q4 = 100
+
+US
+
+eurozone
+
+130
+
+120
+
+110
+
+But look at the UK. This really surprised me and I had to check the figures carefully. Though
+Britain faced almost exactly the same shock as the eurozone, wages kept pace with prices and grew
+faster in relative terms than the US since the end of 2019. This is a much more inflationary
+dynamic and made me worry I have become too dovish recently about UK monetary policy and the
+labour market figures this morning did not help. It is especially surprising since the domestic
+narrative in Britain is that households are suffering a cost of living crisis and need a break.
+
+The necessary productivity adjustment
+Remember that in the long term, wages can rise by inflation plus productivity growth. The chart
+below gives a crude, but internationally comparable, estimate of productivity changes since the
+pre-pandemic period. Two things to note here are that there has been next to no growth in
+European GDP per employee since late 2019, which is considerably worse than US productivity
+growth although that is also far from strong. This suggests the US can sustain higher wage growth
+than Europe without generating inflation and explains much of the difference between the US and
+eurozone in the previous chart.
+
+The US has a higher level of productivity than before the pandemic, while
+eurozone and UK performance has been pretty flat
+GDP per person employed
+Index: 2019 Q4 = 100
+
+110
+
+100
+
+Pandemic distortions
+Pandemic
+distortions
+
+It is worth noting the big pandemic distortions in these figures because US companies laid people
+off during Covid, temporarily raising measured productivity levels because the low paid were more
+likely to lose their jobs, while Europe kept people attached to their employers while output tanked,
+lowering measured productivity.
+
+The necessary terms of trade adjustment
+Less than a year ago, the BoE chief economist Huw Pill got himself into hot water by saying bluntly
+that people had to accept they were “worse off” because the stuff the UK consumes from abroad,
+mostly energy, had become more expensive. He had to apologise because his choice of words
+suggested he was blaming the public for making his job harder. There is no doubt, however, that
+his economics was right. If a country’s imports get a lot more expensive, households or companies
+have to take a hit and if everyone tries to protect their real incomes or profits, inflation will persist.
+The good news is that for Europe (eurozone and the UK), the huge terms of trade hit from imports
+becoming much more expensive compared with exports has disappeared as energy prices have
+fallen.
+
+US terms of trade have improved on pre-pandemic levels, while they have
+recovered recently in the eurozone and the UK
+Ratio of export and import price deflators
+Index: 2019 Q4 = 100
+
+110
+
+105
+
+The recovery in Europe’s terms of trade implies the need for real wage cuts to stabilise inflation has
+gone for now, and the rise in America’s terms of trade suggests it could have a little more real wage
+growth without inflation. Remember, though, that in the US where trade is a small share of GDP,
+these effects will not be large.
+
+What can we say about wages?
+I think we can say the following:
+
+The levels of wages and prices are more instructive than their current
+growth rates, so long as nothing was terribly out of kilter before the
+pandemic in late 2019
+Everything looks consistent with stable inflation in the US and a little more
+real wage growth would be possible without stimulating inflation. Powell
+was right to say that the wage outlook appeared “OK”, “healthy” and
+“moving in the right direction” in his January press conference
+Eurozone pay discipline has been awesome. That was necessary after
+Russia’s invasion of Ukraine, and now everyone should relax a little. There
+is no longer a need for pay to have grown less than prices. This is in line
+with the ECB’s forecasts and an important speech last week from Phillip
+Lane, chief economist. The ECB forecasts suggest eurozone wage growth
+can be above 4.5 per cent in 2024, above 3.5 per cent in 2025 and still
+above 3 per cent in 2026, without harming the disinflation process. Pay
+recovery is needed
+The UK is on the edge. The improvement in the terms of trade makes the
+real growth of pay since 2019 sustainable, but there is little room for more
+“catch-up” without big productivity gains. The BoE needs to see pay growth
+coming down fast
+
+What I’ve been reading and watching
+My colleagues have written an explainer on movements in the long-term
+neutral interest rate (or r*). As this new ECB research shows, no one really
+knows
+Turkey shows that wage price spirals are real, but orthodox monetary policy
+appears likely to survive the latest change of guard at the central bank
+
+David Zervos argues in the FT that the Fed will underpin the US economy
+and stock prices because it can take action to avoid a downturn. This
+matters much more for asset prices, he says, than when the first rate cut
+will come
+For something rather different and concerning, a new working paper says
+recessions might be good for mortality and human welfare. If true (I don’t
+buy it yet), it upends almost all thinking
+
+A chart that matters
+This chart matters because there is next to no action. A huge amount of ink was spilled last week on
+whether the seasonal adjustment factors of the US consumer price index would change and
+indicate more inflation in recent months. As the chart of seasonally adjusted monthly price
+changes before and after revisions showed, they did not.
+
+The monthly rise of the US CPI was similar under the old and new seasonal
+adjustment factors
+Monthly rise in the CPI (%)
+
+0.6
+
+0.4
+
+Recommended newsletters for you
+Free lunch — Your guide to the global economic policy debate. Sign up here
+Trade Secrets — A must-read on the changing face of international trade and globalisation.
+Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Macroeconomics
+
+EU economy
+Global inflation
+UK economy
+Central banks
+
+

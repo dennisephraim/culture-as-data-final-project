@@ -1,0 +1,249 @@
+FT PROFESSIONAL
+
+The Big Read US economy
+
+The Fed’s dilemma: how long to ‘keep
+at it’ on inflation
+Amid conflicting economic signals and with
+midterms looming, the US central bank weighs a
+critical decision over interest rates
+
+© FT montage: Bloomberg/Reuters
+
+Colby Smith in Washington
+Published OCT 28 2022
+
+In an eight-minute speech delivered at the foothills of Wyoming’s Rocky Mountains in late August,
+Jay Powell sought to stamp out lingering doubt about the US central bank’s commitment to
+fighting the worst inflation in decades.
+Invoking the legacy of Paul Volcker — his predecessor who vanquished inflation in the 1980s — the
+sitting chair vowed the Federal Reserve would “keep at it” until it got price pressures under control.
+But two months on, what exactly “it” will take is still far from obvious. There remain colossal
+unknowns about just how quickly inflation will moderate, the extent of the job losses as the central
+bank cools the economy, and whether the financial system can digest such a rapid surge in
+borrowing costs.
+
+For the Fed, this lack of certainty has kicked off a fulsome debate about its tactics and how it will
+know when it has done enough.
+“We definitely are moving into a new phase, and the messaging is a lot trickier,” says Julia
+Coronado, a former Fed economist who now runs MacroPolicy Perspectives. “It’s one thing to be
+starting from zero and playing catch-up . . . it’s another to be in the territory where you’re clearly
+closer to a restrictive stance and the economy and global markets are responding.”
+
+Fed chair Jay Powell, right, in Wyoming. The central bank has embarked on one of the most aggressive campaigns to tighten
+monetary policy in its 109-year history © David Paul Morris/Bloomberg
+
+So far this year, the Federal Open Market Committee has ratcheted up its policy rate from near
+zero to 3 per cent, hastily moving in 0.75 percentage point increments at its past three meetings in
+what has become one of the most aggressive campaigns to tighten monetary policy in its 109-year
+history. To augment its efforts, it has also begun shrinking its nearly $9tn balance sheet.
+The FOMC is set to implement its fourth straight jumbo rate rise next week and signal further
+increases to come, six days before elections that risk fracturing Democrats’ control of the legislative
+branch and fundamentally reshaping the scope of what Joe Biden can accomplish in the second
+half of his presidential term.
+
+His popularity pummelled by rising prices and recession fears, Biden has encouraged the Fed to
+use its tools as his administration affirms inflation is its “top economic priority”.
+But as the spectre of a severe economic contraction looms, the Fed’s detractors have sharpened
+their criticism. Democrats are warning the central bank risks jeopardising millions of Americans as
+it tips the economy into recession. A growing cohort of economists warn against an overcorrection,
+highlighting the risk of moving too quickly and breaking something.
+The Fed’s strategic direction has enormous global repercussions, not just for the range of central
+banks who take their cues from the US on fighting inflation, but also for the indebted developing
+economies staring at potential defaults as the US dollar surges.
+“[The Federal Reserve is] in an incredibly difficult spot,” says Daleep Singh, who previously led the
+markets group at the New York Fed before serving as deputy director of Biden’s National Economic
+Council. “Really every central banker all over the world is feeling nervous, anxious and fearful that
+they might lose decades of hard-earned inflation-fighting credibility.”
+
+Under the hood of the economy
+On the surface, the US economy shows some signs of strength. But with relentless inflation and
+high borrowing costs starting to bite, cracks have emerged.
+The labour market continues to make notable gains. Thus far in 2022, 420,000 positions have
+been added on average each month, down from 562,000 last year but still well above what
+economists consider sustainable. The unemployment rate, meanwhile, stands at the pre-pandemic
+low of 3.5 per cent.
+
+Some states with the tightest labour markets also have experienced high
+wage growth
+Relative labour market tightness (job openings per unemployed person) in Aug 2022 and growth of
+average weekly wages from March 2020 and March 2022 for each state. Clicking each state brings u
+details about its relative rankings across both metrics.
+Very tight market / High wage growth
+Very tight market / Low wage growth
+Open market / High wage growth
+
+Source: Bureau of Labor Statistics
+FT Graphic: Caitlin Gilbert
+
+Despite nascent signs of loosening, the jobs market is still among the tightest in history. For every
+unemployed person, there are still nearly two vacancies. In many states across the country, there
+are three. To overcome this, employers have had to rapidly boost pay, with the pace only recently
+starting to ebb.
+
+But wage bumps have largely been outpaced by inflation, which is now running at an annual rate of
+8.2 per cent. Worryingly, “core” measures, which strip out volatile items like food and energy and
+include categories like services and housing-related costs, keep accelerating, suggesting price
+pressures are becoming harder to root out.
+Any residual optimism about the economy has been overshadowed by the intensity of the price
+shocks. While gross domestic product growth rebounded in the third quarter after shrinking in the
+first half of the year, there are clear signs that consumer demand is weakening.
+US business activity has also already taken a hit, contracting in October for a fourth-straight month
+as manufacturers and services providers became increasingly downbeat. That has helped to ease
+supply logjams, pushing shipping costs lower.
+Centre stage is the housing market, which is buckling as 30-year mortgage rates this week eclipsed
+7 per cent, the highest since 2002. Prices nationwide have collapsed, but the declines have been
+largest in cities that experienced the biggest booms since the start of the pandemic.
+Economists expect fractures to become even more apparent as the effects of the Fed’s tightening
+campaign start to amplify. Policy adjustments take time to filter through the economy, and show
+up in the data long after the damage has been done.
+This lag means that the bulk of the Fed’s actions to date — which have triggered a substantial
+appreciation of the dollar and damped demand for risky assets — have yet to fully materialise.
+It also highlights the costs of the Fed’s slow reaction to inflation it initially thought was
+“transitory”.
+“The Fed greatly complicated its task by waiting to begin interest rate increases until March,” says
+Randal Quarles, the Fed’s former vice-chair for supervision who left in late 2021 and supported
+rates rising last fall. “Had we done that, given the lags of monetary policy, we’d already be able to
+see what the effects were of those interest rate increases.”
+
+The case for slowing down
+Many now believe inflation has peaked and that a recession is likely next year, igniting a discussion
+both internally at the Fed and externally about how much more it should squeeze the economy.
+Top officials have indicated greater concern about doing too little rather than too much, harkening
+back to errors made in the 1970s that sowed the seeds for rampant inflation. To ward off a redux,
+the Fed has said it will wait for substantive signs that inflation is falling back towards its 2 per cent
+target before pausing rate increases.
+
+Inflationary pressures vary across different parts of the US
+12-month % change in Consumer Price Index for all items, across each US region from December
+2018 to September 2022
+
+South
+
+West
+
+10
+8
+6
+4
+2
+
+But the pace at which it is moving makes some queasy. “Every additional 75 [basis point increase]
+makes me feel like the plane is going to crash rather than land smoothly,” says Ellen Meade, a
+senior adviser to the central bank’s board of governors until 2021. “There’s a reason for going a
+little bit more slowly, and that’s to watch and to react to the effects your policy is having. At this
+rapid clip, they aren’t doing themselves any favours.”
+Some Fed officials have already begun to lay the groundwork for smaller rate rises, as Canada’s
+central bank did this week and Australia’s did earlier this month. “The time is now to start
+planning for stepping down”, San Francisco Fed president Mary Daly said last week.
+
+December could mark a downshift to half-point increments, but that depends on jobs and inflation
+data due beforehand. There is also not yet a clear consensus among policymakers, with some
+worrying about being wrongfooted by faulty forecasts that inflation is moderating.
+If they did scale back, officials might move to lift next year’s projection for the benchmark rate
+beyond the 4.6 per cent median level previously pencilled in, to guard against investors again
+prematurely pricing in a pivot away from tight policy. Fed funds futures markets now point to it
+peaking at about 5 per cent.
+As the Fed ploughs ahead, heavy-handed political pressure is only set to intensify. Senate
+Democrats have already stepped up their rebukes, with Sherrod Brown, chair of the Senate banking
+committee, and John Hickenlooper of Colorado this week joining Senator Elizabeth Warren of
+Massachusetts and Vermont’s Bernie Sanders in urging the central bank to reconsider its plans.
+Their concern is jobs. Most Fed officials project the unemployment rate to rise to 4.4 per cent, but
+many Wall Street and academic economists believe that forecast is far too optimistic.
+
+Construction workers in New York. This year, 420,000 jobs in the US have been added on average each month, down from 562,000
+last year, while the unemployment rate stands at the pre-pandemic low of 3.5% © Jeenah Moon/Bloomberg
+
+Deutsche Bank reckons getting inflation back to target will require unemployment breaching 5.5
+per cent. Laurence Ball at Johns Hopkins University argues a more realistic estimate is upwards of
+7 per cent.
+Such substantive job losses, and the recession they would bring, would cause most pain to those
+least able to weather it, reversing most if not all of the gains accrued in the post-pandemic
+recovery.
+“One of the very unfortunate truths of the current situation is that the people who are really
+suffering right now from high inflation — low-income households — are also the people who are
+going to bear the brunt of the tightening,” says Stephanie Aaronson, a former Fed staffer now at
+the Brookings Institution. “This is a no-win situation.”
+
+House prices begin to fall across major metro areas in the US
+
+Inventory (units, k)
+
+Monthly median sale price and inventory for all residential units in each metro area from Jan 2020 to
+Sep 2022
+
+Austin, TX
+
+Boston, MA
+
+Chicago, IL
+
+Las Vegas, NV
+
+Los Angeles, CA
+
+’20 ’21 ’22
+
+’20 ’21 ’22
+
+’20 ’21 ’22
+
+’20 ’21 ’22
+
+’20 ’21 ’22
+
+40
+20
+10
+0
+
+Source: Redfin
+FT Graphic: Caitlin Gilbert
+
+Straight talk
+Yet another fear is a financial accident that threatens the stability of the broader system.
+“We are still the 800-pound gorilla in the international economy, and in the financial part of that,
+we are the 8,000-pound gorilla,” says Alan Blinder, who served as the Fed’s vice-chair in the 1990s.
+Most vulnerable are highly-indebted emerging and developing economies being hammered by the
+strength of the dollar and rapidly rising borrowing costs. With 60 per cent of low-income countries
+at or near debt distress, there “inevitably” will be defaults, the head of the IMF warned last month.
+Angst is also growing in Europe, which is staring down an acute energy crisis linked to the Ukraine
+war. Even as the economy teeters on the brink of recession, the European Central Bank again this
+week followed in the Fed’s footsteps and raised rates by 0.75 percentage points to combat soaring
+costs.
+The blowback to the US from events abroad is small, Blinder notes, but he acknowledges it is “not
+zero”.
+The turmoil in the UK financial markets last month, while stemming from political missteps,
+offered a cautionary tale about how unforeseen events can quickly spiral and demand costly
+interventions. “You don’t want to be in the Bank of England’s shoes,” says Coronado.
+Amplifying concerns is the fragility of the $24tn market for US government debt, the foundation of
+the global financial system. Trading conditions have rarely been choppier and liquidity now hovers
+at levels last seen during the March 2020 meltdown.
+Back then, the Fed stepped in to ensure dislocations there did not set off a full-blown crisis. This
+time, the Treasury is discussing buying back some of its bonds to improve liquidity, despite
+maintaining that the market on the whole is functioning.
+Such a policy would require clear communication that these interventions are purely about the
+health of the market and do not convey “any signal about the appropriate stance of [the Fed’s]
+policy”, says Singh, now at PGIM Fixed Income.
+
+Straight talk from the Fed will also be crucial in the coming months, other former officials say,
+especially as views splinter internally.
+Quarles warns that the biggest challenge for the Fed, probably arising in the first quarter of 2023,
+will be overcoming a potential “fracturing of the message” as the data become less clear-cut.
+For Andrew Levin, a two-decade Fed veteran, what is most critical at this stage is for the central
+bank to be upfront about the pain forthcoming.
+“It owes it to the public to explain like a team of physicians and say, ‘this is a very serious illness,
+we’re going to have to take you into surgery and it’s going to be a slow recovery, but we think that
+this is essential to restore your health’,,” he says.
+Additional reporting by Caitlin Gilbert in New York
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Global inflation
+US economy
+Central banks
+Federal Reserve
+The Big Read
+
+

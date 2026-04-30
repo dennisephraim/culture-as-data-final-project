@@ -1,0 +1,199 @@
+FT PROFESSIONAL
+
+Chris Giles on Central Banks Monetary policy
+
+Lessons in monetary transmission
+
+At Jackson Hole, central bankers offered different views about the tools of their trade
+
+Grand Teton National Park, where central bankers gathered this week for the annual Jackson Hole symposium © Bloomberg
+
+Elettra Ardissino
+Published AUG 27 2024
+
+This article is an on-site version of our Chris Giles on Central Banks newsletter. Premium
+subscribers can sign up here to get the newsletter delivered every Tuesday. Standard
+subscribers can upgrade to Premium here, or explore all FT newsletters
+
+With the much-anticipated Federal Reserve pivot upcoming, reports about this year’s Jackson Hole
+conference have mostly focused on indications about the trajectory of interest rates in the next few
+months.
+
+While central bankers broadly agreed that easing is on the cards in the near term, there was less
+consensus about the issue that gave the conference its theme: monetary transmission and its
+effectiveness.
+Policymakers appear to have reached different conclusions about whether the monetary tools
+available to them have worked as intended over the past few years. What’s more, they also seem to
+have different ideas about whether monetary transmission will work in predictable ways when the
+next crisis hits.
+Let’s look at the conclusions of each central banker — and what they can learn from each other:
+
+Powell: business as usual
+For all its cautiousness, Fed chair Jay Powell’s keynote address projected an overarching sense of
+confidence in a job well done.
+His diagnosis of the US economy’s issues over the past few years was clear and confident. In his
+telling, these challenges are now “fading”.
+“Most of the rise in inflation [was due to] an extraordinary collision between overheated and
+temporarily distorted demand and constrained supply,” he said. In this set of circumstances, the
+Fed’s job was to “moderate aggregate demand, and [to anchor inflation] expectations”. He believes
+it succeeded on both counts.
+His speech offered two messages.
+First, monetary transmission worked exactly as intended via financial conditions and expectations.
+As Powell put it, “our restrictive monetary policy helped restore balance between aggregate supply
+and demand, easing inflationary pressures and ensuring that inflation expectations remained well
+anchored”.
+Second, demand and supply shocks that caused inflation to rise above target did not bring
+structural change to the US economy. The implication is that monetary tools that worked this time
+can reasonably be expected to work in more or less exactly the same way when the next crisis hits.
+
+What Powell did not mention is that in 2020 the Fed upgraded its policy framework to a new
+formulation — flexible average inflation targeting — with the aim to “offset the downward bias to
+inflation expectations exerted by the lower bound under inflation targeting”, as New York Fed
+president John Williams put it. Under FAIT, future inflation is allowed to overshoot the 2 per cent
+target when present inflation undershoots.
+As Powell notes, inflation expectations have been well behaved in the US since then, falling sharply
+from elevated levels in 2022. But if Fed rates do not go back to the lower bound, it could mean that
+this time, the Fed has had more room to allow expectations to drift up than it will in the future.
+
+US inflation expectations are slighly higher than pre-pandemic
+Expected change in prices (%)
+One year ahead
+
+Five years ahead
+
+5
+
+4
+
+3
+
+Bailey: in the dark
+Bank of England governor Andrew Bailey struck a far less confident tone.
+
+First, he indicated that the BoE had not been entirely successful at managing inflation
+expectations. “Intrinsic inflation persistence where price and wage setting behaviour does change
+[ . . . ] is still with us,” he said, though he added that it had come down slightly over the past year.
+Second, Bailey did not seem to have a clear sense of exactly what level of policy restriction would be
+needed to squeeze out the remaining persistence — or, indeed, which of the various monetary
+transmission channels would best achieve this goal.
+“Is the decline of persistence now almost baked in [ . . . ] or will it also require a negative output gap
+to open up, or are we experiencing a more permanent change to price, wage and margin setting
+which would require monetary policy to remain tighter for longer?” he asked the audience.
+Bailey’s uncertainty went further still. Elsewhere in his speech, he reflected that monetary
+transmission may not have worked as policymakers expected this time — both because of the
+significant structural changes to the economy since the last tightening cycle, and because of the
+peculiarities of raising rates from near zero.
+If the transition from ultra-easy to tight policy altered transmission, the point is relevant not just
+for the BoE. In any case, he is right to point out that the global economy has changed a lot since the
+last global tightening cycle.
+
+Lane: helped by circumstances
+Like Powell, the European Central Bank’s chief economist Philip Lane sounded confident that the
+ECB’s policy stance had been transmitted as intended, though he noted that, as in the UK, “the
+return to target is not yet secure”.
+But his description of the various channels of monetary transmission reveals that it was facilitated
+by a few external factors. At least some of these should not be expected to recur next time the ECB
+needs to raise rates, meaning that in a future crisis the ECB’s playbook might also have to change.
+
+In terms of the impact of restrictive policy on aggregate demand, Lane said that weaker consumer
+confidence and skyrocketing energy prices after Russia’s invasion of Ukraine “reduced the extent of
+demand dampening that needed to be generated by monetary tightening”. This implies that if the
+next bout of high inflation is caused by a shock that works against tight policy, such as a positive
+demand shock, monetary transmission will be less forceful. Lessons from the past tightening cycle
+will not necessarily apply.
+The ECB’s tightening campaign also prevented inflation expectations from becoming unanchored,
+Lane said, but he also noted that “in the post-crisis years before the pandemic, expectations had
+become de-anchored to the downside”.
+In other words, Lane said explicitly what Powell omitted: the ECB had extra room to let mediumterm inflation expectations move up this time and could therefore adopt a gentler, more gradual
+approach to tightening. With expectations now settled at a higher level than pre-pandemic, that
+room may not be available next time.
+It is also interesting to contrast Lane and Bailey’s conclusions about the impact of negative demand
+and supply shocks, since they were similar in both the Eurozone and UK. While Lane seems to
+believe that slowing real activity dragged on inflation, Bailey thinks that higher inflation
+turbocharged expectations in a way that even very tight policy could not fully counter.
+Data shows that measures of underlying inflation, including core and services, peaked higher in the
+UK. Is the UK economy facing its own idiosyncratic issues, like low labour force participation, that
+make it harder for high rates to rein in inflation? Or is Lane at risk of receiving a nasty surprise?
+
+Measures of underlying inflation are lower in the Eurozone than in the UK
+Annual change in consumer price index (%)
+UK services inflation
+
+UK core inflation
+
+Eurozone services inflation
+
+Eurozone core inflation
+
+8
+
+6
+
+4
+
+Understanding monetary transmission matters for central bankers. Knowing exactly how the tools
+of the trade work lowers the risk of a costly policy mistake. We won’t know how Powell, Bailey and
+Lane’s thoughts on the topic evolved after their weekend discussions at Jackson Lake Lodge — but
+we know with reasonable confidence what questions they’ve come away with.
+
+What I’ve been reading and watching
+Former BoE chief economist Andy Haldane argues that, with disinflation
+spreading and economic activity clearly weakening, it is time for central
+banks to cast caution aside — or risk getting left behind.
+
+Mohamed El-Erian also thinks that Powell failed to shed enough light on
+the Fed’s rate path beyond September, but his main concern is that lack of
+clarity has allowed markets to run with a narrative of untrammelled easing.
+Only a few weeks after the early August whiplash, risks of another market
+round-trip are building.
+Writing ahead of Powell’s speech, Adam Posen thought the Fed chair
+should use his platform to highlight the economic harms that some of
+Trump’s campaign pledges would wreak on the US. He also said that, given
+the foggy fiscal outlook, Powell should not rule out the possibility of raising
+rates again next year.
+Kamala Harris’s ideas on housing were poorly received but blogger Noah
+Smith (Noahpinion) has a contrarian (and, I think, persuasive) piece on
+why they might actually work.
+
+A chart that matters
+In 2022, central banks in the west began quantitative tightening with the aim of giving themselves
+maximum firepower to respond to the next crisis whenever it hits.
+But policymakers have different ideas about the endgame. The Fed wants to continue providing all
+of the liquidity that the financial system needs while the BoE wants to reinstate liquidity on
+demand, at least in part. The ECB is somewhere in between.
+The central banks moved from scarce to ample reserves nearly in tandem after 2008. In the postCovid world, their balance-sheet management policies may diverge.
+Wherever this complicated, slow-moving debate ends up, the Bank for International Settlements’
+new database is an invaluable tool for those who follow it.
+
+Western central banks' balance sheets are shrinking. Japan is the exception
+Central bank assets (% GDP)
+Japan
+
+US
+
+UK
+
+Eurozone
+
+100
+
+50
+
+0
+
+Recommended newsletters for you
+Free lunch — Your guide to the global economic policy debate. Sign up here
+The State of Britain — Helping you navigate the twists and turns of Britain’s post-Brexit
+relationship with Europe and beyond. Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+
+Global inflation
+Central banks
+Monetary policy
+Federal Reserve
+Jerome H. Powell
+
+

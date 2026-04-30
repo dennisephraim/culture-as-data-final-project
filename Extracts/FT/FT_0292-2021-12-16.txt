@@ -1,0 +1,120 @@
+FT PROFESSIONAL
+
+Opinion Unhedged
+
+The Fed still thinks inflation is transitory
+It just doesn’t use the word
+
+ROBERT ARMSTRONG
+
+© Financial Times
+
+Robert Armstrong and Ethan Wu
+Published DEC 16 2021
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+This article is an on-site version of our Unhedged newsletter. Sign up here to get the newsletter
+sent straight to your inbox every weekday
+
+Good morning. Fed day turned out to be quite dull, going mostly as expected. But we still think
+many observers are mischaracterising Federal Reserve policy and misunderstand what the Open
+Market Committee is saying. It’s not that the Fed is being subtle; it’s that some people are ignoring
+the literal meaning of its statements, which show that the “Powell pivot” is a tactical tweak by Fed
+that remains very dovish indeed.
+Email us: robert.armstrong@ft.com and ethan.wu@ft.com.
+
+‘Transitory’ in all but name
+The most surprising thing in the Fed’s sedate December meeting was the news — delivered in the
+notorious “dot plot” — that monetary policy committee members project three interest rate
+increases next year, rather than the two consensus called for.
+Even this spooked no one. The stock market was pleased, in fact, rising by a merry per cent or two.
+The policy-sensitive yield on the two-year Treasury note did not move at all. Five and 10-year
+yields rose an indifferent couple of basis points. The US central bank’s communications strategy
+seems to be working perfectly.
+Some observers see the committee’s higher rate expectations, as well as the as-expected faster
+taper of asset purchases, as signs the Fed has been forced into a dramatic shift in approach. Here’s
+BlackRock’s Rick Rieder:
+
+“We would suggest, however, as we have for many months now, that this is
+what it looks like when the Fed is running behind the curve and needs to
+catch up to rapidly changing events on the ground.”
+One sellside strategist thought the accelerated tapering showed the Fed capitulating on its
+“transitory” narrative:
+
+“Inflation has clearly passed the point where it could be considered
+transitory, and the Fed acknowledged that by accelerating the pace of
+tapering of asset purchases.”
+Another strategist echoed the idea:
+
+“The notion that elevated inflation levels would be transitory has finally been
+thrown out the window by the Fed.”
+It is true that the dot plot, charting central bankers’ expectations for future rate rises,
+unambiguously shows the Fed eyeing higher rates sooner. Here is the plot from back in September:
+
+And here is the new plot:
+
+But this is tactics, not strategy. As telegraphed, the Fed is acknowledging short rates will need to
+rise somewhat to hedge against persistent inflation. That is evident in the 2022 and 2023 dots. But
+the median forecast for rates in 2024 nudged up only a bit, from 1.75 per cent to just over 2 per
+cent. The longer run dots have stayed the same.
+In the background is the very clear fact that the committee thinks, with a high level of unanimity,
+that a short raising cycle, topping out at 2.5 per cent, will ensure that inflation is transitory. The
+committee’s median projection is that personal consumption expenditure inflation in 2022 will be
+2.6 per cent, and it is unanimous in thinking that in 2023 it will be barely above 2 per cent.
+
+That is, above target inflation will last about a year. Everybody, say it together now: transitory! The
+Fed retired the word, but it still thinks the same way.
+As we have argued before, the bond market wholeheartedly agrees with the Fed’s attitude. Fiveyear inflation break-evens, after trending down this month, float near 2.7 per cent. And the rate
+futures market is actually more dovish than the Fed: it thinks the rate raising cycle will top out
+below 2 per cent.
+The flat yield curve does not, as some people have argued, predict a too-late, over-tightening Fed
+mistake. It predicts that the US central bank can stop inflation with a feather.
+As our friend and rival John Authers at Bloomberg pointed out on Wednesday, both consumers
+and a majority of money managers agree with the bond market that inflation will not last long. The
+only market signal that might be expressing the contrary view is long-shot technology stocks,
+which have been selling off hard (though they rose on Wednesday).
+One explanation for this is that they are very rate-sensitive and are anticipating rising long-term
+rates. Another explanation, though, is that they were trading at stupid prices, and stupidity has
+been subsiding.
+Even if the Fed does get to a 2-plus per cent policy rate, that will constitute a very mild tightening
+of policy, Morgan Stanley’s Jim Caron points out:
+
+“Fed signals a policy move to neutral by 2024 not tightening . . . 2024 fed
+funds rate median of 2.125 per cent vs core PCE inflation at 2.125 per cent.
+Thus [a] real policy rate of 0 per cent by 2024.”
+That Fed chair Jay Powell’s attitude has not changed with his rhetoric was made clear in his press
+conference after the FOMC meeting on Wednesday, where he expressed serious concerns about the
+labour market and the participation rate in particular. This is not a man who sees the US economy
+settling at a strong level after the pandemic.
+
+The Fed’s projection for real gross domestic product in 2024 and beyond is an uninspiring 2 per
+cent. Even that may be above trend, given weak productivity growth and demographic headwinds.
+After inflation subsides, the new “new normal” will probably look a lot like the old “new normal,”
+which worried everyone in the years leading up to the pandemic.
+The Fed, the bond market, consumers and money managers may all be wrong that inflation is
+unlikely to persist (we at Unhedged are not smart enough to predict inflation). But don’t be
+confused by a change in terminology by the Fed.
+Everyone, from Powell on down, is betting on transitory. If the bet is lost, it’s going to be ugly. (Wu
+and Armstrong)
+
+One good read
+This post from Bank of England staffer Thomas Belsham raises one of the hard questions facing
+bitcoin: what happens when the maximum number of coins have been mined, meaning that bitcoin
+miners — who do the work required to keep the common ledger secure and up to date — can no
+longer get paid in new coins. The question is not new, but it is very clearly explained here.
+
+Recommended newsletters for you
+FT Asset Management — The inside story on the movers and shakers behind a multitrilliondollar industry. Sign up here
+Free Lunch — Your guide to the global economic policy debate. Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Robert Armstrong
+Unhedged
+
+US Treasury bonds
+US inflation
+US interest rates
+
+

@@ -1,0 +1,98 @@
+FT PROFESSIONAL
+
+Yield curve
+
+Treasury investors bet on US falling into recession
+Yield-curve inversion suggests high chance of economic downturn but riskier assets remain buoyant
+
+An inverted yield curve has preceded every recession in the past five decades © FT montage/Bloomberg
+
+Kate Duguid in New York
+Published JUN 22 2023
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+Investors in the Treasury bond market are betting that the Federal Reserve’s interest rate increases
+will drive the US economy into recession, even as stocks rally and analysts suggest the odds of such
+an outcome are shrinking.
+Short-term US government borrowing costs exceeded their long-term equivalents by the widest
+margin in three months on Wednesday, and the gap is fast approaching the 42-year record hit
+during the regional banking crisis in March.
+
+This situation, known as an inverted yield curve — most commonly measured as the difference
+between two- and 10-year Treasury yields — has preceded every recession in the past five decades.
+On Wednesday the yields were 4.74 per cent for the two-year Treasury and 3.78 per cent for the 10year.
+“Bad things happen when the yield curve is inverted,” said Mike Cudzil, a portfolio manager at
+Pimco. “With very inverted yield curves, you tend to see a slowdown in credit creation. This is one
+reason why a shallow recession by the end of this year, or beginning of next year, is our base case
+scenario.”
+The yield curve flipped in April last year, but that inversion has deepened as the Fed has rapidly
+raised interest rates. This suggests markets are increasingly convinced the central bank will
+continue tightening, which in turn will bring down inflation and curtail economic growth.
+Wednesday’s lows came as Fed chair Jay Powell delivered testimony to Congress in which he said
+the central bank still had more to do to rein in inflation, despite pausing rate increases at its
+meeting last week.
+Higher interest rates make it more expensive for companies and individuals to borrow money,
+while an inverted curve can result in less lending by banks, all of which hurts the economy.
+Jurrien Timmer, director of global macro at Fidelity Investments, said it would be “foolish to bet
+against a recession”, adding that “when the yield curve gets inverted to this degree for this long, a
+recession has basically always happened”.
+Yet the dramatic increase in interest rates has not yet been accompanied by a significant slowdown
+in economic data. US employers have continued adding jobs, albeit at a slightly slower pace than in
+2022 and 2021, while unemployment is low and expectations for economic output have been
+rising.
+The Fed’s own estimates of where the economy will be by the end of the year have improved since
+the spring, suggesting the US may avoid a recession.
+
+The US stock market, after a panic during the most aggressive phase of the Fed’s monetary
+tightening, is back in bull market territory.
+
+“Despite 500 basis points of tightening, we’re just chugging along,” said Eric Winograd, director of
+developed market economic research at AllianceBernstein. “That resilience is what I think the Fed
+is expecting to continue . . . [but] the Treasury market appears to have a different point of view on
+the subject.”
+A yield curve inversion typically indicates a recession is likely to arrive at any time in the next six
+months to two years. But some analysts are not forecasting a recession within this period: Goldman
+Sachs earlier this month said it had reduced the chance of a recession happening in the next 12
+months to 25 per cent.
+Markets for riskier assets such as stocks and corporate credit have also reflected this optimism. The
+blue-chip S&P 500 share index is up about 14 per cent this year, though many analysts have
+attributed this rally to growth in stocks tied to the boom in artificial intelligence.
+
+Meanwhile credit spreads — the premium investors demand to hold riskier corporate debt over
+risk-free Treasuries — have fallen on both junk-rated and investment-grade bonds in recent
+months.
+“Perhaps the recession obsession is misplaced,” said Kristina Hooper, chief global market strategist
+at Invesco US.
+“We’re seeing a divergence in markets. And it’s not just equities, it’s other risk assets too . . . So this
+to me, is an environment in which risk assets are suggesting this time could be different,” she
+added.
+
+Analysts such as Hooper explained the paradox in part by arguing that corporations have
+previously enjoyed a long period of low rates in which they were able to refinance their debt and
+push out maturity dates — something that could ward off a wave of defaults in the near term.
+That trend is roughly true for homeowners too, who in the US now mostly have fixed-rate
+mortgages.
+
+The divergence may also be attributable to the muted impact, so far, of the yield curve inversion on
+big banks. Lenders typically borrow at shorter-term rates and lend at longer-term rates.
+In a normal environment, short-term yields are lower than long-term yields and the difference
+between the two is profitable for banks. When the yield curve is inverted, that relationship is also
+inverted.
+However, short-term costs have been slow to rise for big banks. Deposit rates at many large
+institutions remain near-zero even though the Fed’s overnight rate is above 5 per cent.
+“For the larger banks, deposit rates have not kept up with rising money market rates or the rising
+fed funds rate or Treasury bill rates,” Timmer said. “That’s one reason why the transmission
+mechanism of an inversion in the yield curve to a recession has not really worked yet.”
+But Timmer added that this does not tell the full story. “​​I don’t think this will prevent a recession,
+only delay it,” he said. “This is the recession everyone has predicted but refuses to show up so far.”
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Global Economy
+US Treasury bonds
+Yield curve
+US interest rates
+Monetary policy
+
+

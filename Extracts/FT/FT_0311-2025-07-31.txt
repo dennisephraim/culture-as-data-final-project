@@ -1,0 +1,134 @@
+FT PROFESSIONAL
+
+Opinion Unhedged
+
+The FOMC and the luxury of dissent
+Plus more on tariffs and price increases
+
+ROBERT ARMSTRONG
+
+© FT montage
+
+Robert Armstrong and Hakyung Kim
+Published JUL 31 2025
+
+Get ahead with daily markets updates. Join the FT's WhatsApp channel
+This article is an on-site version of our Unhedged newsletter. Premium subscribers can sign up
+here to get the newsletter delivered every weekday. Standard subscribers can upgrade to
+Premium here, or explore all FT newsletters
+
+Good morning. The Mag 7 boom continues (if you ignore Tesla). Meta and Microsoft both beat
+revenue expectations in the second quarter, and their shares rose 10 and 7 per cent, respectively, in
+late trading. Meanwhile, Donald Trump has, er, backed off on copper tariffs: the threatened 50 per
+cent tariff was only applied to semi-finished copper (pipes, wires and the like), not ores and
+concentrates. US copper futures fell 20 per cent on the news. All of this on the same day as a GDP
+announcement and a Fed meeting. More on those below. Email us: unhedged@ft.com
+
+The Fed and GDP
+The Fed governors Michelle Bowman and Christopher Waller think that the Fed should have cut
+rates yesterday, rather than standing pat. It was the first time there have been two dissenting votes
+in a Federal Open Market Committee meeting in more than 30 years.
+Reading the second-quarter GDP report that landed a few hours before the committee’s decision
+was announced, you might conclude the dissenters are right. Economic growth is slowing down.
+The wild swings in imports and inventories make the headline growth number illegible, so
+everyone is looking at final domestic sales instead. It has now decelerated for three straight
+quarters:
+
+The primary reason, as Fed chair Jay Powell pointed out yesterday, is lower consumer spending.
+Though spending accelerated a touch from the first quarter to the second, the first half of this year
+is clearly cooler than last year:
+
+The cooling is not restricted to the consumer. While overall private investment looks a little
+stronger in the past two quarters than in 2024, that is driven mostly by investment in equipment.
+Commercial and residential building (green and light blue lines, below) are both contracting hard:
+
+And the growth in equipment investment is driven mostly by information processing equipment,
+with a little help from intellectual property purchases — that is, by the data centre boom. Absent
+that, the investment cycle would be turning down.
+Growth is not a target of Fed policy, employment is. As Powell pointed out several times yesterday,
+the labour market seems to be operating at full employment, with an unemployment rate of 4.1 per
+cent. While job creation is slowing, the workforce is also shrinking, leaving the two in balance.
+But the dissenters can argue that the slowing growth is sending a signal that the stability of the job
+market is under threat. What is more, PCE inflation is at 2.5 per cent, and part of that — one can
+argue about how much — is due to tariff flow-through. Powell said he expected tariff price
+increases to be a one-time effect. Given that, is it not best to stop quibbling about the 2.5 per cent
+versus 2 per cent and start to ease policy?
+
+In fact, no. Powell and the majority of the committee made the right call, for three reasons:
+
+Services inflation (the green line, above). While the second quarter rate (2.9
+per cent) was a bit lower, the trend is clearly sideways, not down.
+Underlying inflation, even putting tariffs aside, is not beaten.
+The amount of tariff inflation that penetrates to consumers is still a matter
+of debate, and it is not certain that it will be a one-time effect, either. The
+trend in durable goods inflation (pink line, above) is downright alarming.
+It remains unclear whether the “slowdown” in the GDP data is not, in fact,
+normalisation following the post-pandemic sugar high. Final domestic sales
+are growing at 1.2 per cent. Is that so much lower than the US’s long-term
+trend growth rate?
+
+We have just recovered from a major, damaging inflationary incident, inflation is above target, and
+unemployment is very low. To say that under those conditions the central bank should look at signs
+of rising inflation and say “transitory” is a reach. Bowman and Waller have the luxury of dissent.
+Their opinion was never going to matter to policy. If the labour market cracks later this year, they
+look prescient and independent-minded. If, instead, inflation takes hold again, they will have done
+no damage and be part of a group. The majority of the committee do not enjoy such asymmetrical
+incentives.
+(Armstrong)
+
+Tariffs and prices: speak up
+Last week, when the second-quarter earnings season was young, we noted some companies had
+begun to raise the alarm on tariffs hitting their profits. We’re now at the halfway point of the
+season, and the drumbeat continues.
+Procter & Gamble forecasts a $1bn hit to pre-tax profits from tariffs in the 2026 fiscal year. It had
+previously announced price rises in the mid-single-digits range on about a quarter of its products.
+According to CFO Andre Schulten on the earnings call:
+
+At these rates, tariffs alone are a 5 [percentage] point headwind to core
+earnings per share growth in fiscal 2026. We will look for every opportunity
+to mitigate these impacts, including sourcing flexibility, productivity
+improvements, and pricing with innovation in affected categories and
+markets.
+“Pricing with innovation”? Come on. Schulten’s unwillingness to speak plainly about how much the
+company will offset tariffs with higher prices is reminiscent of GM’s CFO Paul Jacobson last week:
+
+We’re still tracking to offset at least 30 per cent of the $4bn to $5bn full-year
+2025 tariff impact through strategic actions such as manufacturing
+adjustments, targeted cost initiatives and consistent pricing.
+“Consistent” with what? Meanwhile, toolmaker Stanley Black & Decker, which forecasts about
+$800mn in tariff impacts, leading to “targeted” price increases said:
+
+The organisation is remaining focused on executing our robust plan designed
+to mitigate tariffs. We plan to leverage supply chain moves and targeted
+pricing actions to improve our gross margin in the coming quarters.
+Trump has lashed out at companies, most notably Walmart, that have been explicit about offsetting
+tariffs with prices. But companies don’t work for the president; they work for shareholders and
+have a duty of honesty to customers, too. Tariffs are a tax increase. Companies are in the best
+position to help everyone understand who is going to pay it. Executives should stop being so mealymouthed.
+(Kim)
+
+One good read
+Britain is OK.
+
+FT Unhedged podcast
+Can’t get enough of Unhedged? Listen to our
+new podcast, for a 15-minute dive into the
+latest markets news and financial headlines,
+twice a week. Catch up on past editions of
+the newsletter here.
+
+Recommended newsletters for you
+Due Diligence — Top stories from the world of corporate finance. Sign up here
+The Lex Newsletter — Lex, our investment column, breaks down the week’s key themes, with
+analysis by award-winning writers. Sign up here
+
+Copyright The Financial Times Limited 2026. All rights reserved.
+
+Follow the topics in this article
+Robert Armstrong
+Unhedged
+Global Economy
+US economy
+US inflation
+
+

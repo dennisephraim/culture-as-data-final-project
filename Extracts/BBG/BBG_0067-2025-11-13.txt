@@ -1,0 +1,283 @@
+Business | Big Take Podcast
+
+From Private Credit ‘Cockroaches’ to AI Deals
+— What We’re Watching in the US Economy
+Today on the Big Take: Opinion columnist and markets editor John Authers unpacks
+the worrying — and reassuring — signals he sees in the economy.
+
+Traders work on the floor of the NYSE in New York on Nov. 13. Photographer: Michael Nagle/Bloomberg
+
+By David Gura and David Fox
+November 13, 2025 at 5:11 PM EST
+Save
+
+Translate
+
+Never miss an episode. Follow The Big Take daily podcast today.
+Big Take
+What John Authers Is Watching in the Economy
+
+17:05
+
+In recent weeks, a number of economic warning signs have put investors on
+edge, from growing skepticism over the possibility of an AI bubble to
+bankruptcies that have rocked the private credit market.
+On today’s Big Take podcast, Bloomberg Opinion columnist and senior
+markets editor John Authers and host David Gura tackle the question: How
+worried should we be about the US economy?
+Listen and follow The Big Take on Apple Podcasts, Spotify or wherever you get
+your podcasts.
+Terminal clients: click here to subscribe.
+Here is a lightly edited transcript of the conversation:
+David Gura: I’ve noticed something recently: More professional investors
+sound worried about how much money is being spent on artificial
+intelligence, with the promise that it will pay off, eventually.
+Tom Mackenzie: After the tech giants disclosed huge AI spending plans…
+CBS News Anchor: ...Meta committing to spend $70 billion on AI this year.
+Microsoft reporting a nearly $35 billion AI spending…
+Jacob Ward: … $35 billion in a single quarter and it's not at all clear how that
+money is going to come back.
+Gura: There’s also a chorus of concern about how concentrated the stock
+market is — how this record-setting run has been thanks in large part to just
+a handful of companies. Companies that have these sky-high valuations.
+Amy Morris: Alphabet shares advanced 4.5% in regular trading. With that
+company achieving a $3 trillion market cap…
+Caroline Hyde: Nvidia, the main one $5 trillion. $5 trillion is extraordinary.
+
+Romaine Bostick: Apple briefly traded above a $4 trillion market cap. Only
+the third company in history to ever do that.
+Gura: There’s also been a string of mega deals lately. And a few
+bankruptcies that have alarmed investors.And all this is happening against
+the backdrop of an economy in which there are some signs of strain. The
+Federal Reserve is shifting its focus to the jobs market. But inflation is still
+above the Fed’s 2% target. One of the great things about working at
+Bloomberg is, at a moment like this, there are plenty of people to talk to, to
+call up, to e-mail, including John Authers. He’s a columnist for Bloomberg
+Opinion, who focuses on global markets, and John is someone who has lived
+through — and written about — a fair share of bubbles and booms and busts.
+Gura: So, let's pull back the curtain a bit and I sent you this email yesterday
+and I said I had the conceit for an episode, which was, “Gee, it seems like
+things may be bad, and maybe they are, and maybe they're getting worse.
+How worried should we be?” And I'd like to start with just what your
+reaction was to that.
+John Authers: Oh, I mean, you're on the pulse. Don't worry. This is— there
+is always reason to worry about whether you're worried enough.
+Gura: I asked John if he’d join me in the studio to tell me what Wall Street is
+worried about and what that means for everyone else.
+Authers: It's a big, big, reasonable question. And in my case, yes, I worry
+about things for a living. And I find there are plenty of things to worry about.
+Gura: I’m David Gura, and this is the Big Take from Bloomberg News. Today
+on the show: I sit down with Bloomberg Opinion columnist and resident
+reader of market tea leaves, John Authers, to discuss the trends he's
+watching in markets and the economy, and where he thinks it's all headed.
+Gura: The first thing Bloomberg Opinion’s John Authers wanted to talk
+about was valuations — how expensive U-S stocks are. The market has been
+on a tear.
+
+Authers: In the markets, the biggest reason for concern is valuations writ
+large. Ultimately, the reason any stock can be more expensive than it
+normally would be is because it's going to do much better in the future,
+which is always unknowable. At the moment, US stocks are very, very
+expensive. You can then get into arguments about whether they're quite as
+expensive as they were in the top of 2000s. But if you're even having that
+discussion, you're conceding that we have a serious problem with our
+valuation. Now, that doesn't mean that you can't use valuation as a timing
+tool at all. But for long-term investing, the single most important factor in
+how well you do is the price at which you bought. If you buy, when things
+are too expensive, you will not do as well. And if you manage to buy when
+they're too cheap, you will do excellently. And plainly, at the moment, you
+have, at least to think about, is AI really going to do so fantastically that it's
+worth paying far more for the book value of these assets, far more for the
+projected future earnings — not the current earnings — far more for the
+projected future earnings of these stocks than people have ever asked in the
+past. So, that's plainly front and center the biggest issue.
+Gura: Like a lot of us, John says, he’s been struck by how many headlines
+there have been recently about AI — about deals valued at tens and hundreds
+of billions of dollars. On Wednesday, Anthropic announced plans to spend
+$50 billion to build custom AI data centers across the US.
+Authers: The companies that are actually doing the build out of the
+infrastructure are still making more rather than less profits. So, it plainly has
+longer to run. I'm not expecting this whole house of cards to collapse
+anytime soon. The sheer scale of the investment, just the sheer amount of
+money that's needed for copper and rare earths, we are discovering, is
+intense. The amount of money that will be spent on electricity, is intense.
+We still need to be clear about exactly how much AI is really gonna help us,
+how it's going to improve our lives. Is AI really so wonderful that it justifies
+the immense spending on electricity that appears to be necessary? That is
+the question. In the medium term to the long term, I'm very dubious as to
+whether this is really going to work. The great transformative technologies
+do all have a bubble connected to them and the bubbles do burst. That's
+true of canals, railroads, cars, the internet—all of which contributed to the
+
+sum of human happiness and all of which created an investment boom,
+followed by serious economic problems because of the economy, the society
+couldn't handle it at first. I think it's reasonable to expect that something like
+that will happen with AI.
+Gura: But at this moment, it doesn't seem frothy to you or bubblicious.
+You're not prepared to say so yet?
+Authers: Frothy. I'm very happy to use the word frothy. In terms of calling
+that it's the top of a bubble, no. I was around in ‘99 and 2000 doing
+something quite similar to the job I'm doing now. There's no one moment
+people can connect to explain exactly why the bubble burst when it did in
+the spring of 2000. It just gets to a point when it's just gone too far and
+people aren't prepared to pay the price anymore and then confidence, you
+know, falls out from under it. I don't see any particular reason to assume
+that's about to happen. And there are differences in the way this bubble
+works compared to the other one. What Nvidia has done in the last two or
+three years was beyond compare to anything that happened in 2000.
+Gura: John, as I talked to investors, another area of concern I hear a lot
+about involves private credit. We saw the subprime auto lender, Tricolor
+Holdings collapse along with the car parts manufacturer's First Brands. And
+then we had Jamie Dimon, the CEO of JPMorgan Chase saying quite
+memorably now, that that there could be cockroaches in the economy there.
+These couldn't just be sort of singular events. There could be more. What
+did he mean by that comment? How did you interpret what Jamie Dimon
+said after the collapse of those two institutions?
+Authers: Well, first of all, to be clear what Jamie was saying— he wasn't
+saying Tricolor is a cockroach, that these guys are these horrible, six-footed
+insects scuttling around your kitchen. He was saying that when you see one
+or two, there tend to be a lot more out there, which is a valid point about the
+way credit markets tend to work. And his comment then got taken as being
+an attack on private credit rather than a point about the credit cycle. And I
+think both are valid. I am very struck by a point that Scott Bessent made, the
+Treasury Secretary, a few months ago, which is that, he was pointing out
+that there was so much more growth in private credit than there was in the
+
+banks. And he took that as meaning that the banks were being too heavily
+regulated and that they should be regulated as lightly as private credit. And
+by the same logic, it is exactly as plausible to say that that is because private
+credit isn't being regulated enough and should be regulated as tightly as the
+banks. The changes in regulations since the crisis mean that the manifestly,
+systemically important banks that also control the payment system— they
+are less vulnerable, I think it's fair to say, than they were before. But we
+don't know exactly how systemic the big private credit issuers are, and
+whether indirectly we will eventually get to such a point. I'm not predicting
+2008 again. People will find ways to stop it before it gets as bad as it got in
+2008. But that is the issue: that it's reasonable to think that we ought to be
+close to the top of the credit cycle, and yet we're not priced for that. And
+that creates the risks of quite a come down. That said, since Jamie Dimon
+said that, there haven't been any more cockroaches, people haven't
+slammed their feet down and squelched anymore cockroaches over the
+kitchen floor in the last few weeks. Plainly, if we do get a couple more, that's
+going to be a problem.
+Gura: So, that’s what John Authers has been watching in the markets. Up
+next, he turns his attention to the Federal Reserve — to its fight against high
+inflation, and its competing concerns about the labor market. We’ll also talk
+about vibes — how everyone is feeling about the economy. That’s after the
+break.
+Gura: Bloomberg Opinion Columnist John Authers says there are a lot of
+contradictions right now. Above-target inflation and a record-high stock
+market is one. For years now, the Federal Reserve has been trying to get
+inflation down to a target of about 2%. And while policymakers have made
+progress, it’s still not where they want it to be. But Wall Street is convinced
+the Fed is going to keep cutting interest rates.
+Authers: In the last six months, inflation has gone up and interest rates have
+gone down. Both, not by all that much, but it's the direction of travel that
+counts. That's unusual. If inflation keeps doing this for much longer, it will
+imperil the move to cut interest rates. Basically, I would argue that the stock
+market is currently priced on the assumption that the Fed is going to make a
+
+dovish mistake. In other words, it's going to cut rates when it doesn't need
+to. That was one of the things that contributed to the great bubble of 2000.
+Gura: Even as the Fed remains concerned about inflation, it’s had to shift its
+focus more to the labor market, where cracks are starting to emerge. But
+John says if you look past the headline numbers, there are some bright spots
+— some reasons for optimism.
+Authers: The thing that is very positive about inflation is that services
+inflation does appear to be coming under control, which has of late been by
+far the biggest area. That's been more than half of all of inflation is inflation
+in services. That's driven more than anything else by people's wages. So,
+services businesses rely far more on their wage bills as a proportion of their
+budget than manufacturers, retailers. Therefore, it's reasonable to hope that
+we are not going to get inflation rise significantly from where it is.
+Gura: We’re also getting a clearer picture, John says, of the effects President
+Trump’s trade policies are having on inflation.
+Authers: You do see tariffs beginning to have an effect. There is a much
+sharper inflation of the imported goods. You do see core goods inflation is
+rising. It is still a very small proportion of the whole, but it's positive. And for
+most of the last 10, 20 years, core goods inflation has actually been negative.
+The things that come from China, typically, have been getting cheaper over
+time. This is a part of the inflation mix of what we spend, that we are used to
+actually getting cheaper over time and creates the space for us to spend
+more on services, on iPhones.
+Gura: We’re at this moment when there is uncertainty — we’re waiting to
+see if the US Supreme Court will side with the White House, and agree with
+the president that many of the tariffs he’s put in place — on national security
+grounds — are legal. But it’s also a moment when there is less uncertainty
+about the level of those tariffs. A lot of negotiations have happened, John
+says, and those tariff levels have settled.
+Authers: That's probably been the first time that's been true for a while. If
+you think these tariffs are only going to be at these levels for three months
+
+and you're a company that wants to maintain a competitive advantage, you'll
+eat them. If it's plainly going to be there for a year, you just can't do that. It's
+certainly true — given that I have been, one of the many people who said, if
+you do tariffs like this, it's going to cause inflation— and it hasn't immediately
+caused a sharp rise in inflation. Inflation still strikes me in the medium term
+as a problem. And potentially a very serious one. Companies are still putting
+in their measures to alleviate the impact of tariffs. And so, it's probably not
+going to get in the way of the rosy assumptions just yet.
+Gura: Late Wednesday night, President Trump signed a bill that officially
+ended the longest government shutdown in US history. But during that
+shutdown, economists and investors and policymakers didn’t have access to
+all the economic data and reports they usually do. But we did get data from
+other sources, on employment, and inflation, and consumer sentiment, and
+I asked John how much that sentiment data can tell us about what’s
+happening in the economy.
+Authers: Much less than we used to be able to.
+Gura: And why is that?
+
+Signed
+Sign Up
+Up
+By continuing, I agree to the Privacy Policy and Terms of Service.
+
+Authers: Because we're polarized. And what appears to be new is that fairly
+simple, straightforward questions about “how are things for you” are now
+being viewed through a political lens. In the closing months of Joe Biden,
+when the economy was actually growing quite nicely by any sensible
+measure, Republicans thought their lives were worse than they had been
+during the worst of the pandemic. After the election and the return of
+Donald Trump. Democrats — it's as though all the Democrats suddenly lost
+their job. The lines cross very dramatically. It's literally as though they're
+living in two different countries. Republicans are suddenly convinced that
+
+their lives are much better, that current conditions are great, and Democrats
+suddenly think everything is terrible. Not only can not both be true at once,
+both are obviously untrue. That is a social phenomenon rather than an
+economic one. But it does mean you've got to be very much more careful
+than you ever used to be with sentiment data.
+Gura: Crucially, John says, the way people think about the economy — how
+they feel about the economy — is important because it can have real impacts
+on the economy itself.
+Authers: One of the concepts I found most useful for my— throughout my
+career since I've had it explained to me is from George Soros who has this
+idea of reflexivity: the idea that markets can create their own reality. So if
+people think rates are going down, they're more likely to go down and so on.
+The reflexivity once people start having really extreme views of the present
+and of the immediate future is very difficult to gauge. None of this really
+helps you say when the top of the market is in, if we wake up tomorrow to
+discover Meta Platforms has gone bust or something, that's probably the top
+of the market. That isn't going to happen. But I don't see anything at the
+moment that says this is the top, get out. I see plenty of reasons to think this
+is more overblown, more positive than it should be. And there are reasons
+for caution in the medium term, but maybe I'm just too old.
+This episode was produced by: David Fox; Editors: Naomi Shavin, Nicholas
+Reynolds and Molly Smith; Fact-checker: Eleanor Harrison-Dengate; Sound
+Design/Engineer: Alex Sugiura; Senior Producer: Naomi Shavin; Senior Editor:
+Elisabeth Ponsot; Deputy Executive Producer: Julia Weaver; Executive Producer:
+Nicole Beemsterboer.
+
+Save
+Contact us:
+Provide news feedback or report an error
+Site feedback:
+Take our Survey
+
+Confidential tip?
+Send a tip to our reporters
+Before it's here, it's on the Bloomberg Terminal
+
+©2026 Bloomberg L.P. All Rights Reserved.
+
+
