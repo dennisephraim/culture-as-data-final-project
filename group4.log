@@ -1,0 +1,9 @@
+Initializing Group IV Analysis...
+Traceback (most recent call last):
+  File "/Users/pranav/Documents/culture-as-data-final-project/scripts/linguistic_analysis_group4.py", line 108, in <module>
+    run_group4_analysis()
+  File "/Users/pranav/Documents/culture-as-data-final-project/scripts/linguistic_analysis_group4.py", line 43, in run_group4_analysis
+    corr, _ = pearsonr(merged['FED'], merged['CPI_MoM_Percent_Change'])
+  File "/Users/pranav/Documents/culture-as-data-final-project/venv/lib/python3.10/site-packages/scipy/stats/_stats_py.py", line 4552, in pearsonr
+    raise ValueError('`x` and `y` must have length at least 2.')
+ValueError: `x` and `y` must have length at least 2.
