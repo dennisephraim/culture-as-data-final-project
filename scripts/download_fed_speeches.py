@@ -8,6 +8,10 @@ Most speech PDFs live at /newsevents/speech/files/<stem>.pdf where <stem> matche
 the .htm basename. If that's missing, the script parses the HTML page for a PDF link.
 
 Politeness: set a descriptive User-Agent; small delay between PDF requests.
+
+Default date window is 2024-01-01 through 2025-12-31 so a normal run continues
+after an initial 2020-01-01 — 2023-12-31 backfill. Override with --start/--end
+for a full range or another slice.
 """
 
 from __future__ import annotations
@@ -152,8 +156,17 @@ def main() -> None:
         default=Path("FED"),
         help="Output root directory (default: ./FED)",
     )
-    p.add_argument("--start", default="2020-01-01", help="Start date (YYYY-MM-DD)")
-    p.add_argument("--end", default="2023-12-31", help="End date (YYYY-MM-DD)")
+    p.add_argument(
+        "--start",
+        default="2024-01-01",
+        help="Start date (YYYY-MM-DD). Default: 2024-01-01 (after a 2020–2023 backfill). "
+        "Use e.g. 2020-01-01 to cover the full period.",
+    )
+    p.add_argument(
+        "--end",
+        default="2025-12-31",
+        help="End date (YYYY-MM-DD), inclusive.",
+    )
     p.add_argument(
         "--delay",
         type=float,
