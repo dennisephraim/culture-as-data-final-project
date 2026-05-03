@@ -104,7 +104,6 @@ def run_group2_analysis():
     # Plotting each metric
     metrics = [
         ('nominalization_ratio', 'task8_nominalization_ratio', 'Nominalization Ratio'),
-        ('noun_noun_density', 'task9_noun_noun_density', 'Noun-on-Noun Density'),
         ('verb_noun_ratio', 'task10_verb_noun_ratio', 'Noun-to-Verb Ratio'),
         ('subjectivity_index', 'task11_subjectivity_index', 'Subjectivity Index'),
         ('passive_density', 'task12_passive_density', 'Passive Voice Density'),
@@ -116,6 +115,29 @@ def run_group2_analysis():
         data = monthly_stats[metric_key]
         plot_with_smoothing(data, f"Group II: {title}", "Value", 
                             f"{OUTPUT_DIR}/{file_name}_plot.png", COLORS)
+
+    # Task 9: Noun-on-Noun Density (Special Plot: 6m MA + Trendline)
+    plt.figure(figsize=(10, 6))
+    for corp in ['FED', 'MEDIA']:
+        data = monthly_stats['noun_noun_density'][corp].dropna()
+        if data.empty: continue
+        idx = pd.to_datetime(data.index.astype(str))
+        
+        # 6-month heavy smoothing ONLY
+        plt.plot(idx, data.rolling(6, min_periods=1).mean(), color=COLORS[corp], linewidth=2.5, label=f"{corp} (6m MA)")
+        
+        # Trendline
+        x = np.arange(len(data))
+        z = np.polyfit(x, data.values, 2)
+        p = np.poly1d(z)
+        plt.plot(idx, p(x), color=COLORS[corp], linestyle='--', linewidth=1.5, alpha=0.8, label=f"{corp} Trend")
+
+    plt.title("Task 9: Noun-on-Noun Density")
+    plt.ylabel("Density")
+    plt.legend()
+    plt.tight_layout()
+    plt.savefig(f"{OUTPUT_DIR}/task9_noun_noun_density_plot.png")
+    plt.close()
 
 if __name__ == "__main__":
     run_group2_analysis()

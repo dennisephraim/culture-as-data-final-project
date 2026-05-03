@@ -66,16 +66,34 @@ def run_group4_analysis():
             plt.close()
 
     # Task 19: Narrative Lag
-    vol_path = f"{OUTPUT_DIR}/task_volatility_regime_density.csv"
+    vol_path = f"{OUTPUT_DIR}/task3_volatility_regime_density.csv"
     if os.path.exists(vol_path):
         vol_df = pd.read_csv(vol_path, index_col=0)
         lags = range(-6, 7)
         corrs = [vol_df['MEDIA'].shift(lag).corr(vol_df['FED']) for lag in lags]
+        
+        # Apply paper format styling
+        plt.rcParams.update({
+            "font.family": "serif",
+            "axes.grid": True,
+            "grid.alpha": 0.3,
+            "grid.linestyle": "--",
+            "figure.dpi": 300,
+            "figure.figsize": (10, 6)
+        })
+        
         plt.figure(figsize=(10, 6))
-        plt.stem(lags, corrs)
-        plt.title("Task 19: Narrative Lag (Media leading Fed if peak is at lag > 0)")
-        plt.xlabel("Lag (Months)")
-        plt.ylabel("Correlation")
+        bars = plt.bar(lags, corrs, color=COLORS['FED'], alpha=0.8, edgecolor='black', width=0.6)
+        
+        # Highlight the peak
+        max_corr_idx = np.argmax(corrs)
+        bars[max_corr_idx].set_color(COLORS['MEDIA'])
+        bars[max_corr_idx].set_edgecolor('black')
+        
+        plt.title("Task 19: Narrative Lag (Volatility Regime)")
+        plt.xlabel("Lag in Months (Negative = Fed Leads, Positive = Media Leads)")
+        plt.ylabel("Cross-Correlation")
+        plt.xticks(lags)
         plt.tight_layout()
         plt.savefig(f"{OUTPUT_DIR}/task19_narrative_lag_plot.png")
         plt.close()
