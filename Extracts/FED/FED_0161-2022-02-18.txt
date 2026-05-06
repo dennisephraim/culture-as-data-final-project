@@ -1,0 +1,179 @@
+Comments on
+“Some Benefits and Risks of a Hot
+Economy”
+Remarks by
+Christopher J. Waller
+Member
+Board of Governors of the Federal Reserve System
+February 18, 2022
+Views are my own and do not represent any position
+of the Board of Governors or other Federal Reserve
+policymakers.
+1
+
+• The authors discuss three impacts from running a
+“hot” economy: labor market inclusiveness,
+potential financial market instability and a greater
+risk of excessive inflation.
+• Since time is short, I will focus most of my comments
+on the benefits of labor market inclusiveness.
+
+2
+
+• The Federal Reserve’s new framework states that
+“full employment is a broad-based and inclusive
+goal.”
+• A challenge for policymakers is to try and determine
+when that goal has been achieved.
+• One interpretation is that it is when all groups have
+similar labor market outcomes according to various
+metrics.
+3
+
+• For example, those metrics could include
+unemployment rates, employment-to-population
+ratios and labor force participation rates.
+• If these metrics do not show similar labor market
+outcomes, the question then becomes, “what can
+monetary policy do to improve these metrics?”
+
+4
+
+• The evidence from the authors’ research is that
+economic expansions show a strong narrowing of
+differentials for unemployment rates across groups.
+• And, only weak evidence for narrowing of labor
+force participation rates.
+• This is for prime age workers (25-54)—not very
+inclusive to people my age! The good news is I find
+it true for prime age and all workers.
+5
+
+• What should unemployment rates look like in a
+racially blind, gender-neutral labor market?
+• In the basic Diamond-Mortensen-Pissarides labor
+search model, there are only “economic agents.”
+Race and gender are not specified.
+• Given a certain matching efficiency, job finding and
+job separation rate, an equilibrium unemployment
+rate is generated.
+
+6
+
+• Let’s arbitrarily assign workers a color: blue, green and
+red.
+• If these colors are meaningless attributes, then all
+groups will have the same unemployment rate and the
+ratios will be 1.
+• This implies that race and gender ratios should be 1.
+• Education ratios, because of differences in productivity,
+will not be 1.
+
+7
+
+• By looking at the ratio, we get a measure of relative
+differences as opposed to absolute differences.
+• Looking at relative differences gives a better view of
+improving (or worsening) situations than absolute
+differences.
+• It measures gains and losses in percentage terms.
+
+8
+
+• Consider income; someone makes $100,000 and
+someone else makes $50,000.
+• Now double both incomes; the first person will still make
+twice as much. So there is no relative change in the
+income distribution.
+• But in absolute terms, the first person has an extra
+$100,000 in income and the other has an extra $50,000.
+This looks like a worsening income distribution.
+
+9
+
+• Looking at ratios raises three key questions.
+• First, how far are the ratios in the data from 1?
+• Second, is there a trend in these ratios toward 1
+(improvement) or away from 1 (worsening)?
+• Third, do these ratios display cyclical variations that
+could be affected by monetary policy?
+10
+
+Takeaways:
+1) Ratio greater than 1. Race matters.
+2) Clear downward trend.
+3) Appears to exhibit cyclical pattern after the last three recessions– rises
+after a recession then falls later in the recovery.
+11
+
+Takeaways:
+1) Ratio greater than 1. Race matters.
+2) Clear downward trend.
+3) No apparent cyclical variation.
+12
+
+Takeaways:
+1) Ratio slightly less than 1 until recently.
+2) No apparent trend.
+3) No apparent cyclical variation.
+13
+
+Takeaways:
+1) Ratio close to 1.
+2) No apparent trend after the 1970’s.
+3) Some cyclical variation. Women experienced large unemployment at the start of
+the COVID shock. Men experienced larger unemployment in previous recessions.
+14
+
+Takeaways:
+1) Ratio greater than 1 but not surprising.
+2) Clear downward trend.
+3) No apparent cyclical variation.
+15
+
+Takeaways:
+1) Ratio greater than 1 but not surprising.
+2) No apparent trend.
+3) No apparent cyclical variation.
+16
+
+Takeaways:
+1) Ratio greater than 1 but not surprising.
+2) No apparent trend.
+3) No apparent cyclical variation.
+17
+
+• So what conclusions do I draw from this data?
+• First, for Black workers and Hispanics, the ratios are bigger
+than one – work is needed to try and lower this to 1.
+• Second, there have been clear improvements for less
+advantaged groups in terms of longer-term labor market
+trends.
+• It is unlikely that this type of improvement is directly driven
+by monetary policy.
+
+18
+
+• Third, running the economy “hot” does improve the
+relative performance for some groups, but not all,
+when comparing unemployment rates.
+• In particular, longer expansions improve job finding
+rates for Black workers.
+• Doing a similar exercise using relative employment
+to population ratios also shows improvement for
+Black and Hispanic workers.
+
+19
+
+Empirical Studies
+• Aaronson, Stephanie R., Mary C. Daly, William
+Wascher, David W. Wilcox. 2019. “Okun Revisited:
+Who Benefits Most From a Strong Economy?”
+Brookings Papers on Economic Activity, Spring, 333404.
+• Hotchkiss, Julie L. and Robert E. Moore. “Some Like it
+Hot: Assessing Long-term Labor Market Benefits
+from a High-pressure Economy.” International
+Journal of Central Banking (forthcoming)
+20
+
+

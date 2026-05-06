@@ -1,0 +1,252 @@
+For release on delivery
+10:30 a.m. EDT
+April 7, 2025
+
+Inflation Dynamics and the Phillips Curve
+
+Remarks by
+Adriana D. Kugler
+Member
+Board of Governors of the Federal Reserve System
+at
+Ec10b Principles of Economics Lecture
+Department of Economics, Faculty of Arts and Sciences, Harvard University
+
+Cambridge, Massachusetts
+
+April 7, 2025
+
+Governor Adriana D. Kugler presents a lecture about inflation dynamics and the
+Phillips Curve to students in Harvard University’s Ec10b Principles of Economics class
+on Monday, April 7, 2025.
+In the lecture she discusses how pandemic-era inflation came in a series of waves:
+food, core goods, core services and housing. She then talks about the Phillips curve as a
+model to capture inflation dynamics. Finally, Governor Kugler explores additional
+augmentations to the Phillips curve model that could help better explain the most recent
+inflation episode.
+Here are the slides from her presentation.
+
+Inflation Dynamics and the Phillips
+Curve
+Governor Adriana D. Kugler
+Federal Reserve Board
+
+Harvard University
+Ec10b Principles of Economics Lecture
+April 7, 2025
+
+Governor Adriana D. Kugler | Harvard University Ec10b Principles of Economics Lecture | April 7, 2025
+
+Roadmap of Lecture
+▪ Bird’s eye view of inflation since 1960
+▪ Pandemic waves of inflation for different components: food, core good, core
+services ex. housing, housing inflation and driving shocks
+
+▪ Basics on the derivation of the expectations-augmented Phillips curve
+▪ Baseline model: a better-fitting Phillips curve with long-run inflation
+expectations
+▪ How to augment baseline model to better capture recent inflation
+▪ Empirical results: Dynamic simulations with variants of baseline model
+
+Governor Adriana D. Kugler | Harvard University Ec10b Principles of Economics Lecture | April 7, 2025
+
+A Bird’s Eye View of Inflation
+“Two mountains enclosing a plain”
+
+Governor Adriana D. Kugler | Harvard University Ec10b Principles of Economics Lecture | April 7, 2025
+
+A Look at Inflation Data in the Long-Run
+Headline PCE
+
+Core PCE
+
+Governor Adriana D. Kugler | Harvard University Ec10b Principles of Economics Lecture | April 7, 2025
+
+Inflation Waves
+How did inflation manifest itself in the recent run-up? Was it a uniform
+wave?
+
+Governor Adriana D. Kugler | Harvard University Ec10b Principles of Economics Lecture | April 7, 2025
+
+Waves in Inflation Components
+Food Infl.
+
+Housing Infl.
+
+Core Serv. ex. Hous. Infl.
+
+Core Goods Infl.
+
+Governor Adriana D. Kugler | Harvard University Ec10b Principles of Economics Lecture | April 7, 2025
+
+Food Inflation
+Food Infl.
+
+Core PCE
+Food Infl.: 2010-2019 Mean
+
+Governor Adriana D. Kugler | Harvard University Ec10b Principles of Economics Lecture | April 7, 2025
+
+Core Goods Inflation
+
+Core PCE Infl.
+Core Goods Infl.
+Core Goods Infl.: 2010-2019 Mean
+
+Governor Adriana D. Kugler | Harvard University Ec10b Principles of Economics Lecture | April 7, 2025
+
+Rotation to Goods
+Goods-to-Services Consumpt. Ratio (right axis)
+
+Core Goods Infl. (left axis)
+
+Governor Adriana D. Kugler | Harvard University Ec10b Principles of Economics Lecture | April 7, 2025
+
+Indexes of Shortages
+Core PCE (right axis)
+
+Shortage Index (left axis)
+
+Governor Adriana D. Kugler | Harvard University Ec10b Principles of Economics Lecture | April 7, 2025
+
+Core Services ex Housing Inflation
+
+Core Serv. Ex. Hous.
+
+Core Serv. Ex. Hous.: 2010-2019 Mean
+
+Core PCE
+
+Governor Adriana D. Kugler | Harvard University Ec10b Principles of Economics Lecture | April 7, 2025
+
+Core Services ex. Housing Inflation and Wages
+ECI Wages Infl.
+
+Core Serv. Ex. Hous. Infl.
+
+Governor Adriana D. Kugler | Harvard University Ec10b Principles of Economics Lecture | April 7, 2025
+
+Housing Services Inflation
+Hous. Inflation
+
+Hous. Infl. 2010-2019 Mean
+Core PCE
+
+Governor Adriana D. Kugler | Harvard University Ec10b Principles of Economics Lecture | April 7, 2025
+
+Housing Services Inflation and New Rents
+
+CoreLogic New Rent Index
+
+Hous. Inflation
+
+Governor Adriana D. Kugler | Harvard University Ec10b Principles of Economics Lecture | April 7, 2025
+
+The Phillips Curve(s)
+How to think of inflation and its relationship with the rest of the economy?
+
+Governor Adriana D. Kugler | Harvard University Ec10b Principles of Economics Lecture | April 7, 2025
+
+Wage Phillips Curve
+Wage Phillips curve: workers bargain over expected real wage growth
+• 𝑤𝑡 − 𝑝𝑡𝑒 = 𝑤𝑡−1 − 𝑝𝑡−1 + ∆𝑝𝑟𝑜𝑑𝑡 + 𝑎 − 𝑏𝑈𝑡
+The expected real wage is the past real wage with two updates.
+1) An update that factors in improvements in productivity
+• Since workers would expect to earn more if they are more productive
+
+2) An update related to current labor market conditions, summarized by the
+unemployment rate or other proxies for labor mkt tightness.
+• If the unemployment rate is high, there will be a lot of competition for a job
+and workers expect slower salary growth; conversely, if the unemployment
+rate is very low, the labor market will be ‘tight’ and workers can bargain for
+higher wages.
+
+Governor Adriana D. Kugler | Harvard University Ec10b Principles of Economics Lecture | April 7, 2025
+
+Expectations Augmented Phillips Curve
+• Firms charge a mark-up 𝜇 over wages, net of productivity
+
+• 𝑝𝑡 = 𝜇𝑡 + 𝑤𝑡 − 𝑝𝑟𝑜𝑑𝑡
+• Substituting mark-up equation in wage Phillips curve, you get the expectation
+augmented Phillips curve
+• 𝜋𝑡 = 𝜋𝑡𝑒 + 𝑏 𝑈𝑡 − 𝑈𝑡 ∗
+• Under assumption of simplest adaptive expectations, expected inflation is
+lagged inflation
+• 𝜋𝑡𝑒 = 𝜋𝑡−1
+
+• Plug in expectations augmented Phillips curve and assume that ∆𝜇𝑡 = 0 to get
+the “accelerationist” Phillips curve
+• 𝜋𝑡 = 𝜋𝑡−1 + 𝑏(𝑈𝑡 − 𝑈𝑡∗ )
+
+Governor Adriana D. Kugler | Harvard University Ec10b Principles of Economics Lecture | April 7, 2025
+
+Some Empirical Results
+Which Phillips curve better captures inflation dynamics?
+
+Governor Adriana D. Kugler | Harvard University Ec10b Principles of Economics Lecture | April 7, 2025
+
+The Accelerationist Phillips Curve: 1960-1986
+
+Governor Adriana D. Kugler | Harvard University Ec10b Principles of Economics Lecture | April 7, 2025
+
+Baseline Model
+• The accelerationist Phillips curve
+• 𝜋𝑡 = 𝜋𝑡−1 − 𝑏 𝑈𝑡 − 𝑈𝑡 ∗
+• Implies that inflation will continue falling when 𝑈𝑡 > 𝑈𝑡 ∗
+• Those dynamics do not capture well the Great Moderation, in
+which inflation has been very flat and mean reverting to its longrun trend.
+• A more general, better-fitting Phillips curve for my baseline
+model is
+• 𝜋𝑡 = 𝑎𝜋𝑡−1 + 1 − 𝑎 𝜋𝑡𝑙𝑟𝑒 − 𝑏 𝑈𝑡 − 𝑈𝑡 ∗
+• Where 𝜋𝑡𝑙𝑟𝑒 are long-run inflation expectations
+
+Governor Adriana D. Kugler | Harvard University Ec10b Principles of Economics Lecture | April 7, 2025
+
+The Accelerationist Phillips Curve: 1987-2019
+
+Governor Adriana D. Kugler | Harvard University Ec10b Principles of Economics Lecture | April 7, 2025
+
+Inflation and Long-Run Inflation Expectations
+
+Core PCE
+
+Long-Run Inflation Expectations
+
+Governor Adriana D. Kugler | Harvard University Ec10b Principles of Economics Lecture | April 7, 2025
+
+Baseline Phillips Curve: 1960-1986
+
+Governor Adriana D. Kugler | Harvard University Ec10b Principles of Economics Lecture | April 7, 2025
+
+Baseline Phillips Curve: 1987-2019
+
+Governor Adriana D. Kugler | Harvard University Ec10b Principles of Economics Lecture | April 7, 2025
+
+Update of Baseline Model
+In recent inflationary experience job openings climbed to more
+than 2 per unemployed workers, so alternative to unemployment
+rate for capturing tightness in labor markets is the V/U ratio
+• 𝜋𝑡 = 𝑎𝜋𝑡−1 + 1 − 𝑎 𝜋𝑡𝑙𝑟𝑒 − 𝑏 𝑉𝑡 /𝑈𝑡
+
+In addition, supply snarls also reportedly affected tightness in
+labor and product markets
+• 𝜋𝑡 = 𝑎𝜋𝑡−1 + 1 − 𝑎 𝜋𝑡𝑙𝑟𝑒 − 𝑏 𝑈𝑡 − 𝑈𝑡 ∗ + 𝑆ℎ𝑜𝑟𝑡𝑎𝑔𝑒𝑡
+
+Governor Adriana D. Kugler | Harvard University Ec10b Principles of Economics Lecture | April 7, 2025
+
+Additional Empirical Results
+What have we learned from the recent run-up in inflation?
+
+Governor Adriana D. Kugler | Harvard University Ec10b Principles of Economics Lecture | April 7, 2025
+
+Dynamic Sim: Baseline Model
+
+Governor Adriana D. Kugler | Harvard University Ec10b Principles of Economics Lecture | April 7, 2025
+
+Dynamic Sim: V/U Model
+
+Governor Adriana D. Kugler | Harvard University Ec10b Principles of Economics Lecture | April 7, 2025
+
+Dynamic Sim: Shortage Model
+
+
